@@ -72,18 +72,18 @@ lastmod = ["lastmod", ":git", "date"]
   identifier = "about"
   
 [[menu.main]]
-  url = "/about-us/history-and-purpose"
+  url = "/about/history-and-purpose"
   name = "History and Purpose"
   weight = 20
   parent = "about"
 
 [[menu.main]]
-  url = "/programs-and-services"
+  url = "/services"
   name = "Programs and Services"
   weight = 30
   
 [[menu.main]]
-  url = "/tools-and-resources"
+  url = "/tools"
   name = "Tools and Resources"
   weight = 40
   

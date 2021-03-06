@@ -3,14 +3,14 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 50
-background = "light" # can influence the text color
+background = "dark" # can influence the text color
 particles = true
 
 title = "Project READ Literacy Network Waterloo-Wellington"
 subtitle = "A doorway to literacy and Essential Skills services offered in Waterloo-Wellington"
 
 [header]
-  image = "header.svg"
+  image = "header.jpg"
 
 [asset]
   image = "prln-logo.svg"
