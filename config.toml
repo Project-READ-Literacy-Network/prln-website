@@ -1,0 +1,125 @@
+# Site settings
+baseurl = "/"
+languageCode = "en-us"
+title = "Okkur - Syna"
+theme = "syna"
+enableGitInfo = true
+version = "0.17.3"
+
+# Google Analytics tracking
+googleAnalytics = ""
+
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[frontmatter]
+date = ["date", "lastmod"]
+lastmod = ["lastmod", ":git", "date"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+     unsafe = true
+
+[params]
+  name = "Okkur Labs"
+  description = "Open Source Theme for your next project"
+
+  [params.style]
+    #background = "secondary"
+
+  # Theme customizations
+  # Assets relative to 'static/'
+  [params.custom]
+    favicon = "favicon.ico"
+    favicon_ico_sizes = "16x16 32x32"
+    favicon_png = "favicon.png"
+    favicon_svg = "favicon.svg"
+
+  # Piwik tracking
+  [params.analytics.piwik]
+    #url = ""
+    #id = ""
+    #domain = "" # Track subdomains via "*.example.com"
+    # Optional hash for integrity check
+    #hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
+
+  # Optional, global disable switch for fontawesome related files
+  # For custom fontawesome js files use the custom.js method
+  [params.fontawesome]
+    disabled = false
+    pro = false
+
+  [params.colors]
+    primary = "#CF202F"
+    secondary = "#AA1A27"
+    success = "#5CB85C"
+    info = "#57CBF5"
+    warning = "#FFD02A"
+    danger = "#FFA322"
+    light = "#F5F5F5"
+    dark = "#0E83CD"
+
+# main/prepend/postpend menus are displayed in nav fragment.
+# Keep an eye out for updates. These will be moved out to make navbar more
+# configurable.
+[[menu.main]]
+  url = "/about"
+  name = "About Us"
+  weight = 10
+  identifier = "about"
+  
+[[menu.main]]
+  url = "/about-us/history-and-purpose"
+  name = "History and Purpose"
+  weight = 20
+  parent = "about"
+
+[[menu.main]]
+  url = "/programs-and-services"
+  name = "Programs and Services"
+  weight = 30
+  
+[[menu.main]]
+  url = "/tools-and-resources"
+  name = "Tools and Resources"
+  weight = 40
+  
+[[menu.footer]]
+  url = "#"
+  name = "Link"
+  weight = 10
+
+[[menu.footer]]
+  url = "#"
+  name = "Long Link"
+  weight = 30
+
+[[menu.footer]]
+  url = "#"
+  name = "Tiny Link"
+  weight = 30
+
+[[menu.copyright_footer]]
+  url = "/about"
+  name = "About Us"
+  weight = 10
+
+[[menu.copyright_footer]]
+  url = "#"
+  name = "Another Link"
+  weight = 30
+
+[[menu.footer_social]]
+  weight = 20
+  name = "facebook"
+  pre = "fab fa-facebook-f"
+  url = "#"
+
+[[menu.footer_social]]
+  weight = 30
+  name = "linkedin"
+  pre = "fab fa-linkedin-in"
+  url = "#"
