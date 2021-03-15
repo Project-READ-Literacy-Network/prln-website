@@ -8,8 +8,8 @@ weight = 0
   image = "404.png"
   text = "Syna"
 
-[repo_button]
-  url = "https://github.com/okkur/syna"
-  text = "Star" # default: "Star"
-  icon = "fab fa-github" # defaults: "fab fa-github"
+[donate_button]
+  url = "https://www.canadahelps.org/en/dn/11623"
+  text = "Donate"
+  icon = "fas fa-donate"
 +++

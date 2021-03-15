@@ -7,21 +7,26 @@
   ">
   <div class="container py-5">
     <div class="row">
-      <div class="col text-center
-        {{- if eq $bg "dark" -}}
-          {{- printf " text-%s" "light" -}}
-        {{- else -}}
-          {{- printf " text-%s" "dark" -}}
-        {{- end -}}
-      ">
-        <h4>Custom fragments</h4>
+      <div class="col text-center">
+        <h1>Adult Literacy</h1>
       </div>
     </div>
     <div class="row">
-      <div class="col text-center">
-        <h5>Introducing custom fragments</h5>
-        <p>This is a custom fragments. Dynamically loaded since there was a call for it in the index content directory.</p>
+      <div class="col text-center {{- if eq $bg "success" -}}
+          {{- printf " text-%s" "light" -}}
+        {{- else -}}
+          {{- printf " text-%s" "danger" -}}
+        {{- end -}}
+      ">
+        <h3>Introducing custom fragments</h3>
       </div>
     </div>
+    <div class="row">    
+      <div class="col text-center">
+        <p>This is a custom fragments. Dynamically loaded since there was a call for it in the index content directory.</p>
+
+      </div>
+    </div>
+    
   </div>
 </section>

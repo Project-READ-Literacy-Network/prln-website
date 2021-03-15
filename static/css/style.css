@@ -1,0 +1,22 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1, h2, h3, .h1, .h2, .h3 {
+    font-weight: 900;
+    font-size: 2.5rem;
+}
+
+h4, h5, h6, .h4, .h5, .h6 {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+/* Navigation Bar */
+.navbar {
+    border-bottom:2px solid #CF202F;
+}
+
+.hero-buttons .btn-lg:hover {
+    color:black!important
+}

@@ -1,21 +1,19 @@
 +++
-fragment = "footer"
+fragment = "custom-footer"
 #disabled = true
 date = "2016-09-07"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = "Get Involved"
 
 [asset]
   title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
+  image = "prln-logo.svg"
+  text = "Project READ"
   url = "#"
 +++
 
-#### Description Title
+#### Our Mission
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+Our mission is to provide any adult or family in Waterloo Wellington with access to literacy training.

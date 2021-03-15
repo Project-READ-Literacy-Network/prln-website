@@ -99,21 +99,21 @@ content/blog/article-1 # level 2, shown
 
 Asset will be shown as a clickable logo directing to the main page.
 
-#### repo_button
+#### donate_button
 *type: object*
 
 Enable a button on the top right navbar. Usually used to link to your repository such as Github or Gitlab.  
-The icon can be customized via `repo_button.icon`.
+The icon can be customized via `donate_button.icon`.
 
-##### repo_button.url
+##### donate_button.url
 *type: string*
 
-##### repo_button.text
+##### donate_button.text
 *type: string*  
 *default: star*
 
-##### repo_button.icon
+##### donate_button.icon
 *type: string*  
-*default: fab fa-github*
+*default: fas fa-donate*
 
 [Global variables]({{< ref "global-variables" >}}) are documented as well and have been omitted from this page.

@@ -4,31 +4,32 @@ fragment = "hero"
 date = "2016-09-07"
 weight = 50
 background = "dark" # can influence the text color
-particles = true
+particles = false
 
-title = "Project READ Literacy Network Waterloo-Wellington"
-subtitle = "A doorway to literacy and Essential Skills services offered in Waterloo-Wellington"
+title = "Project READ"
+subtitle = "A Doorway to Literacy and Essential Skills Services Offered in Waterloo-Wellington"
 
 [header]
-  image = "header.jpg"
+  image = "header.svg"
+  height = "100%"
 
 [asset]
-  image = "prln-logo.svg"
-  width = "500px" # optional - will default to image width
+  image = "gov-logo.svg"
+  width = "800px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Button"
-  url = "#"
-  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  text = "Family Literacy"
+  url = "#family"
+  color = "outline-light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
-  url = "https://github.com/okkur/syna/releases"
-  color = "primary"
+  text = "Adult Literacy"
+  url = "#adult"
+  color = "outline-light"
 
 [[buttons]]
-  text = "Button"
-  url = "#"
-  color = "success"
+  text = "Workplace Literacy"
+  url = "#workplace"
+  color = "outline-light"
 +++
