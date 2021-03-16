@@ -17,6 +17,18 @@ h4, h5, h6, .h4, .h5, .h6 {
     border-bottom:2px solid #CF202F;
 }
 
-.hero-buttons .btn-lg:hover {
+
+/* Hero Styling */
+.btn-outline-light:hover {
     color:black!important
 }
+
+/* Links */
+#award a {
+    color:#0E83CD!important
+}
+
+.white-text {
+    color: white!important
+}
+

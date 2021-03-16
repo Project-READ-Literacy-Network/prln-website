@@ -1,4 +1,6 @@
 +++
-title: "{{ replace .Name "-" " " | title }}"
+fragment = 
+title = "{{ replace .Name "-" " " | title }}"
+weight =
 +++
 

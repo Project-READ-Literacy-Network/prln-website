@@ -7,5 +7,3 @@ weight = 20
   url = "http://www.region.waterloo.on.ca/"
 +++
 
-Region of Waterloo,  
-Community Services Department

@@ -7,4 +7,3 @@ weight = 30
   url = "https://www.lshallmanfdn.org/"
 +++
 
-Lyle S. Hallman Foundation (LSHF)
