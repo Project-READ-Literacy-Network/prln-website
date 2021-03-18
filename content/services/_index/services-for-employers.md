@@ -1,19 +1,24 @@
 +++
-fragment = "item"
+fragment = "strip"
 #disabled = false
 date = "2017-10-04"
 weight = 130
-background = "warning"
+background = "light"
 align = "right"
 
 title = "Services for Employers"
-subtitle= "Easily right align the item fragment even with an image"
+subtitle= "Do you need a Workplace Education Program?"
 
 # Subtitle pre and post item
-#pre = "Awesome screenshot"
-#post = "Showcasing Syna"
+#pre = " "
+#post = " "
 
 [asset]
-  image = "screenshot.png"
+  icon = "fas fa-book"
+  
+[[buttons]]
+  text = "Find out more"
+  url = "#"
+  color = "primary"
 +++
 

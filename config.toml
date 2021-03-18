@@ -72,37 +72,6 @@ lastmod = ["lastmod", ":git", "date"]
   identifier = "about"
   
 [[menu.main]]
-  url = "/about/history"
-  slug = "/about/history-and-purpose"
-  name = "History and Purpose"
-  weight = 20
-  parent = "about"
-  
-[[menu.main]]
-  url = "/about/funders"
-  name = "Funders, Sponsors and Affiliations"
-  weight = 30
-  parent = "about"
-  
-[[menu.main]]
-  url = "/about/get-involved"
-  name = "Get Involved"
-  weight = 40
-  parent = "about"
-  
-[[menu.main]]
-  url = "/about/events"
-  name = "Events"
-  weight = 50
-  parent = "about"
-  
-[[menu.main]]
-  url = "/about/contact"
-  name = "Contact"
-  weight = 60
-  parent = "about"
-
-[[menu.main]]
   url = "/services"
   name = "Programs and Services"
   weight = 30

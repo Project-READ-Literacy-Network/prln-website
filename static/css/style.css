@@ -13,10 +13,17 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 
 /* Navigation Bar */
-.navbar {
-    border-bottom:2px solid #CF202F;
-}
+#nav.navbar{
+    background-image: url("../images/nav.svg");
+    
+    /* Full height */
+    height: 100%;
 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 /* Hero Styling */
 .btn-outline-light:hover {
@@ -28,7 +35,47 @@ h4, h5, h6, .h4, .h5, .h6 {
     color:#0E83CD!important
 }
 
+#directory h4 a {
+    color:black!important
+}
+
 .white-text {
     color: white!important
 }
 
+.black-text {
+    color: black!important
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #0E83CD;
+    font-weight: 700;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #000000;
+}
+@media only screen and (min-width: 960px) {
+  .navbar .navbar-nav .nav-link {
+    padding: 1em 0.7em;
+  }
+}
+.navbar .navbar-nav .nav-link {
+  position: relative;
+}
+.navbar .navbar-nav .nav-link::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: #0E83CD;
+  color: transparent;
+  width: 0%;
+  content: '';
+  height: 3px;
+  transition: all 0.5s;
+}
+.navbar .navbar-nav .nav-link:hover::after {
+  width: 85%;
+}

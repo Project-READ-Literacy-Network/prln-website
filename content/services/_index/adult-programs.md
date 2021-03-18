@@ -3,27 +3,32 @@ fragment = "strip"
 #disabled = false
 date = "2017-10-04"
 weight = 120
-background = "primary"
-align = "right"
+background = "warning"
+align = "left"
 
 title = "Adult Literacy"
-#subtitle = ""
+subtitle = "Do you want to go back to school? Do you know someone who needs to upgrade their skills?"
 
 # Subtitle pre and post item
 #pre = ""
 #post = ""
 
 [asset]
-  image = "screenshot.png"
+  image = "adult-lit.png"
 
 [[buttons]]
-  text = "Button"
+  text = "What is Literacy?"
   url = "#"
-  color = "primary"
+  color = "dark"
+  
+[[buttons]]
+  text = "Skills Assessment"
+  url = "#"
+  color = "dark"
 
 [[buttons]]
-  text = "Long Button"
+  text = "Services"
   url = "#"
-  color = "secondary"
+  color = "dark"
 +++
 

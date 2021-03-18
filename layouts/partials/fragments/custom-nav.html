@@ -6,7 +6,7 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- "<!-- Navigation -->" | safeHTML -}}
-<nav class="overlay fragment navbar navbar-expand-lg py-3 scroll-spy
+<nav class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy
   {{- printf " bg-%s" $bg -}}
   {{- if or (eq $bg "light") (eq $bg "white") (eq $bg "secondary") -}}
     {{- printf " navbar-%s" "light" -}}
@@ -19,8 +19,8 @@
 {{- end -}}>
   <div class="container">
     {{- if .Params.asset.image }}
-      <a class="navbar-brand pt-0 pb-2" href="{{ "#" | relLangURL }}">
-        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="80px" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
+      <a class="navbar-brand py-0" href="{{ "#" | relLangURL }}">
+        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="35" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
       </a>
     {{- else }}
       <a class="navbar-brand py-0" href="{{ "#" | relLangURL }}">
@@ -55,10 +55,10 @@
         {{- if .Site.Menus.main -}}
           {{- range sort .Site.Menus.main }}
             {{- $isMenuCurrent := or ($.root.HasMenuCurrent "main" .) (eq $.root.Permalink .URL) (eq (printf "%s/" $.root.Permalink) .URL) (eq $.root.Permalink (printf "%s/" .URL)) -}}
-            <li class="nav-item px-lg-3 {{ if .HasChildren }}dropdown{{ end }}">
+            <li class="nav-item px-lg-4 {{ if .HasChildren }}dropdown{{ end }}">
               <a
                 {{- if hasPrefix .URL "#" }}
-                  class="nav-link nav-link-ltr anchor"
+                  class="nav-link anchor"
                 {{- else }}
                   class="nav-link {{- if $isMenuCurrent }} active default-active {{- end -}} {{ if .HasChildren }} dropdown-toggle{{ end }}"
                 {{- end }}
@@ -127,8 +127,8 @@
     </div>
   </div>
   {{- with .Params.donate_button }}
-    <div class="d-none d-lg-block pl-auto mr-5">
-      <a class="btn btn-success ignore-color-change" href="{{ .url }}" role="button" title="{{- i18n "navbar.donate" | default "Donate" -}}">
+    <div class="d-none d-lg-block pl-auto">
+      <a class="btn btn-light ignore-color-change" href="{{ .url }}" role="button" title="{{- i18n "navbar.donate" | default "Donate" -}}">
         <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2"></i>
         {{ .text }}
       </a>
