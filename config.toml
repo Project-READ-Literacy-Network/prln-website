@@ -53,14 +53,14 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
 [params.colors]
-    primary = "#0E83CD"
-    secondary = "#CF202F"
-    success = "#5CB85C"
-    info = "#57CBF5"
-    warning = "#FFD02A"
-    danger = "#FFA322"
-    light = "#F5F5F5"
-    dark = "#AA1A27"
+    primary = "#CF202F"
+    secondary = "#5BCBF5"
+    success = "#5AB75B"
+    info = "#CBDB2C"
+    warning = "#FFC62F"
+    danger = "#EFAD4E"
+    light = "#FDFCF9"
+    dark = "#1D82C5"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
@@ -72,9 +72,46 @@ lastmod = ["lastmod", ":git", "date"]
   identifier = "about"
   
 [[menu.main]]
-  url = "/services"
-  name = "Programs and Services"
+  url = "/about/history-and-purpose.md"
+  name = "History and Purpose"
+  weight = 10
+  parent = "about"
+  
+[[menu.main]]
+  url = "/about/funders/index.md"
+  name = "Our Funders"
+  weight = 20
+  parent = "about"
+  
+[[menu.main]]
+  url = "/about/get-involved"
+  name = "Get Involved"
   weight = 30
+  parent = "about"
+  
+[[menu.main]]
+  url = "/about/events"
+  name = "Get Involved"
+  weight = 40
+  parent = "about"
+  
+[[menu.main]]
+  url = "/about/contact"
+  name = "Contact"
+  weight = 50
+  parent = "about"
+  
+[[menu.main]]
+  url = "/programs-and-services"
+  name = "Programs and Services"
+  weight = 20
+  identifier = "programs-and-serveices"
+
+[[menu.main]]
+  url = "/programs-and-services/programs-for-families"
+  name = "Programs for Families"
+  weight = 20
+  parent = "programs-and-serveices"
   
 [[menu.main]]
   url = "/tools"

@@ -1,5 +1,5 @@
 +++
-#title = "Column 2"
+title = "Column 2"
 weight = 20
 
 [asset]
@@ -7,5 +7,4 @@ weight = 20
   url = "http://www.region.waterloo.on.ca/"
 +++
 
-Region of Waterloo,  
-Community Services Department
+Region of Waterloo, Community Services Department

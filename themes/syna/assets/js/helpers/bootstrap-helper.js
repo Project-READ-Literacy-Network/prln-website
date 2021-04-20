@@ -16,7 +16,6 @@ function closeMenus() {
     node.classList.remove('open');
   });
 }
-
 function closeMenusOnResize() {
   if (document.body.clientWidth >= 768) {
     closeMenus();
@@ -34,7 +33,6 @@ function toggleDropdown() {
     }
   }
 }
-
 window.addEventListener('resize', closeMenusOnResize, false);
 Array.from(dropdowns || []).forEach((node) =>
   node.addEventListener('click', toggleDropdown),

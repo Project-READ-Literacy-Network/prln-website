@@ -1,0 +1,313 @@
+/* Closing the detail content on clicking anywhere else */
+summary::-webkit-details-marker {
+	display: none;
+}
+
+summary {
+	cursor: default;
+	background-color: yellowgreen;
+}
+
+.dropdown {
+    position: static;
+}
+.dropdown-wrapper {
+	background-color: #27AAE1;
+    position: absolute;
+    left: 0;
+    list-style: none;
+    margin: 0;
+    top: 243px;
+    width: 100%;
+}
+.dropdown-wrapper > ul {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+.dropdown-wrapper > ul > li {
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+    width: 100%;
+    color: white;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    padding-bottom: 2rem;
+    /* this fix is needed for IE7- */}
+
+details[open] .dropdown-wrapper {
+	animation: fade-in 0.5s forwards;
+}
+
+details.summary-closing[open] .dropdown-wrapper {
+	animation: fade-out 0.5s forwards;
+}
+
+/* Navigation Bar */
+#nav.navbar{
+    background-image: url("../images/nav.svg");
+    
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.my-nav {
+  list-style: none;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  padding: 0;
+}
+
+.my-nav > li {
+  display: block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+@media (min-width: 40em) {
+  .my-nav > li {
+    display: block;
+  }
+}
+
+/**
+ * @bugfix Prevent webkit from removing list semantics
+ * 1. Add a non-breaking space
+ * 2. Make sure it doesn't mess up the DOM flow
+ */
+.my-nav > li:after {
+  content: "\200B"; /* 1 */
+  position: absolute; /* 2 */
+}
+
+/**
+ * Style the clickable text
+ * Add your own styles to match other navigation items
+ */
+.dropdown > summary {
+  cursor: pointer;
+  /* Customize from here down */
+    color: #0E83CD;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+@keyframes fade-in {
+	0% {
+		transform: translateY(-20px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes fade-out {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+		transform: translateY(-20px);
+	}
+}
+
+section#funders a h4 {
+    display: none;
+}
+section#funders .container-fluid .container  {
+    margin-bottom: none !important;
+    padding-bottom: 0 !important;
+}
+section#content .content-body .toc {
+    display: none;
+}
+section#history-and-purpose h5 {
+    padding-bottom: 1.5rem;
+}
+section#history-and-purpose h2 {
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.content-body h1, h2, h3, .h1, .h2, .h3 {
+    font-weight: 900;
+    font-size: 2.5rem;
+}
+
+.content-body h4, h5, h6, .h4, .h5, .h6 {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+/* Hero Styling */
+.btn-outline-light:hover {
+    color:black!important
+}
+
+/* Links */
+#award a {
+    color:#0E83CD!important
+}
+
+#directory h4 a {
+    color:black!important
+}
+
+.white-text {
+    color: white!important
+}
+
+.black-text {
+    color: black!important
+}
+
+.content-fragment h2 {
+    position: relative;  /* Added */
+    display: inline-block;
+}
+.content-fragment h2::after {
+  position: absolute;  /* Added */
+  content: '';
+  margin-top: 5px;
+  background: #27AAE1;
+  height: 4px;
+  display: block;
+    width: 80%;
+}
+.content-fragment h3 {
+    color: #27AAE1;
+    position: relative;  /* Added */
+    display: inline-block;
+}
+.content-fragment h3::after
+{
+  position: absolute;  /* Added */
+  content: '';
+  margin-top: 5px;
+  background: #EF6724;
+  height: 4px;
+  display: block;
+    width: 80%;
+}
+.content-fragment h4 {
+    color: #EF6724;
+}
+
+@media (min-width: 576px){
+    .dropdown > ul {
+      padding: 2rem 0 0 3rem;
+      top: 243px;
+    }
+    .dropdown > ul > li {
+        width: 33%;
+        font-size: 1.5rem;
+        line-height: 1.75rem;
+        padding: 0 4rem 2rem 0;
+    /* this fix is needed for IE7- */}
+    
+    .content-body h4, h5 {
+        font-size: 1.9rem;
+        line-height: 2.75rem;
+        margin-bottom: 0;
+    }
+    .content-body p {
+        font-size: 1.4rem;
+        line-height: 2.25rem;
+        margin-bottom: 1.75rem;
+    }
+    .content-body p:first-child { margin-top: 2rem; }
+    .content-body p:last-child { margin-bottom: 0; }
+    
+    .content-body ul li {
+        font-size: 1.4rem;
+        line-height: 2.25rem;
+         margin-bottom: 1.5rem;
+    }
+    ul#my-nav {
+        margin-bottom: 0;
+    }
+}
+
+@media (min-width: 767px){
+    #nav.navbar{
+    padding: 0 5rem;
+    }
+    .dropdown > ul {
+      padding: 2rem 0 0 5rem;
+      top: 243px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    .content-body h4, h5 {
+    font-size: 1.75rem;
+    line-height:2.25rem;
+    }
+    .content-body p {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    margin-bottom: 2rem;
+    }
+    .content-body ul li {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+     margin-bottom: 1.5rem;
+    }
+    .container-lg, .container-md, .container-sm, .container {
+    max-width: 800px;
+    }    .dropdown > summary {
+    font-size: .85rem;
+    padding: 1em 0.7em;
+    }
+    .my-nav > li {
+    display: inline-block;
+    }
+    .dropdown > ul {
+    padding: 2rem 0 0 6rem;
+    top: 120px;
+    }
+    .dropdown > ul > li:first-child {
+    padding-right: 8rem;
+    }
+    .dropdown > ul > li:nth-child(2) {
+    padding-right: 12rem;
+    }
+    .dropdown > ul > li:nth-child(5) {
+    padding-right: 12rem;
+    }
+
+ }
+@media only screen and (min-width: 1055px) {
+    .dropdown > summary {
+        font-size: .9rem;
+        padding: 1em 0.7em;
+    }
+
+ }
+@media (min-width: 1200px) {
+
+    .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 900px;
+    }
+    .dropdown > summary {
+        font-size: 1.25rem;
+        padding: 1em 0.7em;
+    }
+    .dropdown > ul {
+    padding-left: 12rem;
+    }
+
+}

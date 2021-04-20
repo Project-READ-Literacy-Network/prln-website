@@ -1,28 +1,111 @@
-body {
-    font-family: 'Nunito Sans', sans-serif;
-}
-
-h1, h2, h3, .h1, .h2, .h3 {
-    font-weight: 900;
-    font-size: 2.5rem;
-}
-
-h4, h5, h6, .h4, .h5, .h6 {
-    font-weight: 700;
-    font-size: 1.5rem;
-}
-
 /* Navigation Bar */
 #nav.navbar{
     background-image: url("../images/nav.svg");
-    
     /* Full height */
     height: 100%;
-
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.dropie > ul {
+    list-style:none;
+}
+#nav ul ul ul {
+    list-style-type: none;
+}
+ul {
+    margin: 0;
+    padding-inline-start: 0;
+}
+.my-nav .dropie .my-dropie-header a {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+    word-wrap: break-word;
+    display: inline-block;
+    padding: 1rem 0;
+    margin-bottom: 0;
+    white-space: wrap;
+}
+.my-nav {
+  list-style: none;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  padding-bottom: 2rem;
+}
+.my-nav > li {
+  display: block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+@media (min-width: 40em) {
+  .my-nav > li {
+    display: block;
+  }
+}
+.my-nav > li:before {
+  content: "\200B"; /* 1 */
+  position: absolute; /* 2 */
+}
+.dropie > summary {
+    cursor: pointer;
+    color: #0E83CD;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+summary:focus{
+    outline: none;
+}
+.dropie > ul > li {
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+    width: 100%;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    border-bottom: 1px solid #0E83CD;
+    margin-bottom: 0;
+}
+
+
+
+a {
+    color: #0E83CD;
+    text-decoration: none;
+    background-color: transparent;
+}
+section#funders a h4 {
+    display: none;
+}
+section#funders .container-fluid .container  {
+    margin-bottom: none !important;
+    padding-bottom: 0 !important;
+}
+section#content .content-body .toc {
+    display: none;
+}
+section#history-and-purpose h5 {
+    padding-bottom: 1.5rem;
+}
+section#history-and-purpose h2 {
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.content-body h1, h2, h3, .h1, .h2, .h3 {
+    font-weight: 900;
+    font-size: 2.5rem;
+}
+
+.content-body h4, h5, h6, .h4, .h5, .h6 {
+    font-weight: 700;
+    font-size: 1.5rem;
 }
 
 /* Hero Styling */
@@ -47,79 +130,202 @@ h4, h5, h6, .h4, .h5, .h6 {
     color: black!important
 }
 
-.navbar .navbar-nav .nav-link {
-  color: #0E83CD;
-    font-weight: 700;
+.content-fragment h2 {
+    position: relative;  /* Added */
+    display: inline-block;
+}
+.content-fragment h2::after {
+  position: absolute;  /* Added */
+  content: '';
+  margin-top: 5px;
+  background: #27AAE1;
+  height: 4px;
+  display: block;
+    width: 80%;
+}
+.content-fragment h3 {
+    color: #27AAE1;
+    position: relative;  /* Added */
+    display: inline-block;
+}
+.content-fragment h3::after {
+  position: absolute;  /* Added */
+  content: '';
+  margin-top: 5px;
+  background: #EF6724;
+  height: 4px;
+  display: block;
+  width: 80%;
+}
+.content-fragment h4 {
+    color: #EF6724;
 }
 
-.navbar .navbar-nav .nav-link:hover {
-  color: #000000;
-}
-
-@media (min-width: 768px){
-    h4 {
-        line-height:2.25rem;
-    }
-    p {
-        font-size: 1.25rem;
-        line-height: 1.75em;
-        margin-bottom: 2em;
-    }
-    p:last-child { margin-bottom: 0; }
+@media (min-width: 576px){
     
-     ul li {
-        font-size: 1.25rem;
-        line-height: 2.75em;
+    .my-nav .dropie .my-dropie-header a {
+    color: #F26623;
+    font-size: 1.25rem;
+    padding: 0;
     }
-
+    .dropie ul li:last-child {
+    padding-bottom: 2rem;
+    }
+    .dropie > summary {
+    font-size: 1.5rem;
+    }
+    .dropie {
+    position: static;
+    }
+    .dropie > ul {
+    box-sizing: border-box;
+    background-color: #FDFCF9;
+    display: flex;
+    flex-wrap: wrap;
+    left: 0;
+    list-style: none;
+    margin: 0;
+    width: 100%;
+    padding: 2rem;
+    position: absolute;
+    top: 243px;
+    z-index: 999;
+    box-shadow: 0 8px 6px -6px black;
+    }
+    .dropie > ul > li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding-bottom: 2rem;
+    border-bottom: none;
+    }
+    .dropie > ul > li:first-child {
+    padding-left: 2rem;
+    }
+    .dropie > ul > li:nth-child(2) {
+    padding-right: 3rem;
+    }
+    .dropie > ul > li:nth-child(4) {
+    padding-left: 2rem;
+    }
+    .my-nav {
+    padding: 0;
+    }
+    ul#my-nav {
+    margin-bottom: 0;
+    }
+    .content-body h4, h5 {
+    font-size: 1.9rem;
+    line-height: 2.75rem;
+    margin-bottom: 0;
+    }
+    .content-body p {
+    font-size: 1.4rem;
+    line-height: 2.25rem;
+    margin-bottom: 1.75rem;
+    }
+    .content-body p:first-child { margin-top: 2rem; }
+    .content-body p:last-child { margin-bottom: 0; }
+    .content-body ul li {
+    font-size: 1.4rem;
+    line-height: 2.25rem;
+    margin-bottom: 1.5rem;
+    }
 }
 
+@media (min-width: 767px){
+    #nav.navbar{
+    padding: 0 5rem;
+    }
+    .dropie > ul {
+    top: 243px;
+    }
+    .dropie > ul > li {
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+    border-left: 3px solid #EF6724;
+        }
+    .dropie > ul > li:first-child {
+    padding-left: 1rem;
+    }
+    .dropie > ul > li:nth-child(4) {
+    padding-left: 1rem;
+    }
+}
 @media only screen and (min-width: 992px) {
-    .navbar .navbar-nav .nav-link {
-                font-size: 1rem;
-        padding: 1em 0.7em;
-    }
-    .navbar .navbar-nav .nav-link {
-        position: relative;
-    }
 
-    .navbar .navbar-nav .nav-link::after {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        margin: auto;
-        background-color: #0E83CD;
-        color: transparent;
-        width: 0%;
-        content: '';
-        height: 3px;
-        transition: all 0.5s;
+    .content-body h4, h5 {
+    font-size: 1.75rem;
+    line-height:2.25rem;
     }
-    .navbar .navbar-nav .nav-link:hover::after {
-        width: 85%;
+    .content-body p {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    margin-bottom: 2rem;
     }
-    h4, h5 {
-        font-size: 1.75rem;
-        line-height:2.25rem;
-    }
-    p {
-        font-size: 1.5rem;
-        line-height: 2.25rem;
-        margin-bottom: 2rem;
-    }
-     ul li {
-        font-size: 1.5rem;
-        line-height: 2.25rem;
-         margin-bottom: 1.5rem;
+    .content-body ul li {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+     margin-bottom: 1.5rem;
     }
     .container-lg, .container-md, .container-sm, .container {
     max-width: 800px;
-}
-}
-@media (min-width: 1200px) {
+    }    .dropie > summary {
+    font-size: .85rem;
+    padding: 1em 0.7em;
+    }
+    .dropie > ul {
+    top: 120px;
+    }
+    .dropie > ul > li:nth-child(2) {
+    padding-right: 5rem;
+    }
+    .my-nav > li {
+    display: inline-block;
+    }
 
-.container-xl, .container-lg, .container-md, .container-sm, .container {
+ }
+@media only screen and (min-width: 1055px) {
+    .dropie > summary {
+        font-size: .9rem;
+        padding: 1em 0.7em;
+    }
+
+ }
+@media (min-width: 1200px) {
+    .container-xl, .container-lg, .container-md, .container-sm, .container {
     max-width: 900px;
-}
+    }
+    .dropie > summary {
+    font-size: 1.25rem;
+    padding: 1em 0.7em;
+    }
+    .dropie > ul {
+    }
+    .navbar .navbar-nav .nav-link {
+    font-size: 1rem;
+    padding: 1em 0.7em;
+    }
+    .my-nav .dropie summary {
+    position: relative;
+    }
+
+    .my-nav .dropie summary::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: #0E83CD;
+    color: transparent;
+    width: 0%;
+    content: '';
+    height: 3px;
+    transition: all 0.5s;
+    }
+    .my-nav .dropie summary:hover::after {
+    width: 85%;
+    }
+    .my-nav .dropie summary:focus::after {
+    width: 85%;
+    }
 }
