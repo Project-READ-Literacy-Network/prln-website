@@ -400,17 +400,24 @@ body .bg-primary {
 }
 .content-sidebar h5 a:hover {
     text-decoration: none;
-    color: #CF202F;
-}
-.content-sidebar h5 a:focus {
-    color: #CF202F;
-}
-.content-sidebar h5 a:active {
-    color: #CF202F;
 }
 
 .content-sidebar h5 {
     line-height: 1.5rem;
+    padding-bottom: 1rem;
+}
+.content-sidebar h5::after {
+  position: absolute;  /* Added */
+  content: '';
+  margin-top: 5px;
+  background: #27AAE1;
+  height: 4px;
+  display: block;
+    width: 0%;
+    transition: all 0.5s;
+}
+.content-sidebar h5:hover::after {
+    width: 80%;
 }
 .fa-chevron-down:before {
     display:none;
@@ -424,12 +431,6 @@ nav#TableOfContents ul li{
 }
 nav#TableOfContents ul {
     display: none;
-}
-.content-sidebar .col-12{
-    padding-right: 10px;
-}
-.content-sidebar-body {
-    padding-right: 10px;
 }
 
 body {
@@ -521,17 +522,17 @@ summary h2:last-of-type{
     padding: 0 0 2rem 0;
     }
 
-.prln-directory ul {
+.prln-directory details ul {
     font-size: 1.25rem;
     list-style: none;
     padding-left: 15px;
     padding-right: 0;
 }
-.prln-directory li {
+.prln-directory details li {
     position: relative;
 }
 
-.prln-directory li::before {
+.prln-directory details li::before {
     position: absolute;
     left: -1rem;
     top: .5rem;
@@ -546,7 +547,7 @@ summary h2:last-of-type{
     margin-right: 0.25em;
 }
 
-.prln-directory ul li {
+.prln-directory details ul li {
     margin-bottom: .5rem;
 }
 @media (min-width: 576px){    
@@ -574,17 +575,17 @@ summary h2:last-of-type{
     line-height: 2.25rem;
     margin-bottom: 1.5rem;
     }
-    .prln-directory ul {
+    .prln-directory details ul {
     font-size: 1.25rem;
     list-style: none;
     padding-left: 15px;
     padding-right: 0;
 }
-.prln-directory li {
+.prln-directory details li {
     position: relative;
 }
 
-.prln-directory li::before {
+.prln-directory details li::before {
     position: absolute;
     left: -1rem;
     top: .5rem;
@@ -599,7 +600,7 @@ summary h2:last-of-type{
     margin-right: 0.25em;
 }
 
-.prln-directory ul li {
+.prln-directory details ul li {
     margin-bottom: .5rem;
 }
 }
@@ -647,7 +648,8 @@ summary h2:last-of-type{
     height:      0;
     margin-top: 0;
     }
-    /*
+    
+/*
     [id]::before {
     content: '';
     display: block;
@@ -655,7 +657,8 @@ summary h2:last-of-type{
     margin-top: -130px;
     visibility: hidden;
     }
-    */
+*/
+    
     #nav.navbar{
     height: 130px;
     }

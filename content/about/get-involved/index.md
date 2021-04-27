@@ -3,7 +3,7 @@ fragment = "hero"
 weight = 100
 
 title = "Get Involved"
-background = "light"
+background = "success"
 particles = true
 
 [header]
