@@ -19,7 +19,7 @@
 {{- end -}}>
   <div class="container-fluid">
     {{- if .Params.asset.image }}
-      <a class="navbar-brand pt-0 pb-2" href="{{ "#" | relLangURL }}">
+      <a class="navbar-brand pt-0 pb-2 pr-lg-2" href="{{ "#" | relLangURL }}">
         <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="80px" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
       </a>
     {{- else }}
@@ -36,59 +36,65 @@
 			<details class="dropie">
 				<summary>About Us</summary>
 				<ul>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "about" | relLangURL }}">History &amp; Purpose</a></li>
+                            <li class="my-dropie-header"><a href="{{ "about/history-and-purpose" | relLangURL }}">History &amp; Purpose</a></li>
                                 <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Literacy Definitions</a></li>
+                                    <li><a href="{{ "about/history-and-purpose/#our-mission" | relLangURL }}">Our Mission</a></li>
+                                    <li><a href="{{ "about/history-and-purpose/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "about/history-and-purpose/#our-values" | relLangURL }}">Our Values</a></li>
+                                    <li><a href="{{ "about/history-and-purpose/#literacy-definitions" | relLangURL }}">Literacy Definitions</a></li>
                                 </ul>
                         </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Our Funders, Sponsors &amp; Affiliations</a></li>
+                            <li class="my-dropie-header"><a href="{{ "about/funders-sponsors-and-affiliations" | relLangURL }}">Our Funders, Sponsors &amp; Affiliations</a></li>
                             <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Funders</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Sponsors/Supporters</a></li>
-                                <li><a href="{{ "about/#our-vision" | relLangURL }}">Affiliations</a></li>
+                                    <li><a href="{{ "about/funders-sponsors-and-affiliations/#funders" | relLangURL }}">Funders</a></li>
+                                    <li><a href="{{ "about/funders-sponsors-and-affiliations/#sponsors-supporters" | relLangURL }}">Sponsors/Supporters</a></li>
+                                <li><a href="{{ "about/funders-sponsors-and-affiliations/#affiliations" | relLangURL }}">Affiliations</a></li>
                                 </ul>
                         </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Get Involved</a></li>
+                            <li class="my-dropie-header"><a href="{{ "about/get-involved" | relLangURL }}">Get Involved</a></li>
                             <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Board of Directors, fundraising, co-op and placement opportunities</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Donate</a></li>
+                                <li><a href="{{ "about/get-involved/#board-of-directors" | relLangURL }}">Our Board of Directors</a></li>
+                                <li><a href="{{ "about/get-involved/#our-staff" | relLangURL }}">Our Staff</a></li>
+                                <li><a href="{{ "about/get-involved/#other-opportunities" | relLangURL }}">Fundraising, Co-op and Placement Opportunities</a></li>
+                                <li><a href="{{ "about/get-involved/#donate" | relLangURL }}">Donate</a></li>
                                 </ul>
                         </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Events and Updates</a></li>
+                            <li class="my-dropie-header"><a href="{{ "about/events-and-awards" | relLangURL }}">Events and Awards</a></li>
                             <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Project READ Events and Updates</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Community Partnership Events and Updates</a></li>
+                                    <li><a href="{{ "about/events-and-awards/project-read-events" | relLangURL }}">Project READ Events</a></li>
+                                    <li><a href="{{ "about/events-and-awards/#community-partnership-events" | relLangURL }}">Community Partnership Events</a></li>
+                                    <li><a href="{{ "about/events-and-awards/#awards" | relLangURL }}">Awards</a></li>
                             </ul>
                         </ul>
                     </li>
-                    <li class="col-sm-8 pb-sm-0 ">
+                    <li class="col-lg-4 pb-xl-0 ">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Contact</a></li>
-                            <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Address</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Sign up for our newsletter</a></li>
-                                <li>
+                            <li class="my-dropie-header"><a href="{{ "about/contact" | relLangURL }}">Contact</a></li>
+                            <ul class="nav-contact">
+                                    <li class="pb-0">Project READ Literacy Network<br>Waterloo-Wellington <br>
+                                    124 Sydney Street South, 3rd Floor<br>
+                                    Kitchener, ON, N2G 3V2<br>
+                                <li class="small-nav-text pt-0">Appointment Only</li>
+                                <li class="pt-2">519-570-3054</li>
+                                        <li class="pt-2"><a href="mailto:someone@example.com">info@projectread.ca</a></li>
+                                    <li class="pt-1"><a class="btn btn-primary" href="{{ "about/#our-vision" | relLangURL }}">Sign up for our newsletter</a></li>
+                                <li class="pt-1">
                                       {{- if .Site.Menus.footer_social }}
                                         <div style="font-size: 1.5rem" class="row justify-content-left ml-0">
                                           {{- range sort .Site.Menus.footer_social }}
-                                            <span class="fa-stack fa-xs mt-3 mr-1" title="{{ .Name }}">
-                                              <a href="{{ .URL | relLangURL }}" class="ignore-color-change
-                                                {{- if eq $bg "primary" -}}
-                                                  {{- print " text-dark" -}}
-                                                {{- end -}}">
+                                            <span class="fa-stack fa-xs mt-1 mr-1" title="{{ .Name }}">
+                                              <a href="{{ .URL | relLangURL }}" class="prln-social-icons">
                                                 <i class="fas fa-circle fa-stack-2x"></i>
                                                 <i class="{{ .Pre }} fa-stack-1x fa-fw text-light"></i>
                                                 <span class="sr-only">{{ .Name }}</span>
@@ -106,50 +112,48 @@
 		</li>
 		<li>
 			<details class="dropie">
-				<summary>Programs and Services</summary>
+				<summary>Programs &amp; Services</summary>
 				<ul>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Programs for Families</a></li>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/programs-for-families" | relLangURL }}">Programs for Families</a></li>
                                 <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#get-set-learn-by-prln" | relLangURL }}">Get Set Learn by PRLN</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#sign-up" | relLangURL }}">Sign-Up</a></li>
                                 </ul>
                             </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Programs for Adults</a></li>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/programs-for-adults" | relLangURL }}">Programs for Adults</a></li>
                                 <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-adults/#educational-assessments-by-prln" | relLangURL }}">Educational Assessments by PRLN</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-adults/#literacy-programs-of-waterloo-and-wellington-region" | relLangURL }}">Literacy Programs of Waterloo and Wellington Region</a></li>
                                 </ul>
                             </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Services for Employers</a></li>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/services-for-employers" | relLangURL }}">Services for Employers</a></li>
                                 <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#clear-language" | relLangURL }}">Clear Language</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#workplace-literacy" | relLangURL }}">Workplace Literacy</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#bridges-out-of-poverty" | relLangURL }}">Bridges out of Poverty</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#sign-up" | relLangURL }}">Sign-Up</a></li>
                                 </ul>
                             </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Directory of Programs &amp; Services</a></li>
-                                <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
-                                </ul>
-                            </ul>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/directory-of-programs-and-services" | relLangURL }}">Directory of Programs &amp; Services</a></li>
+                        </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Literacy Service Planning</a></li>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/literacy-service-planning" | relLangURL }}">Literacy Service Planning</a></li>
                                 <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "programs-and-services/literacy-service-planning/#about" | relLangURL }}">About</a></li>
+                                    <li><a href="{{ "programs-and-services/literacy-service-planning/#reports" | relLangURL }}">Reports</a></li>
                                 </ul>
                             </ul>
                     </li>
@@ -158,32 +162,32 @@
 		</li>
         <li>
 			<details class="dropie">
-				<summary>Tools and Resources</summary>
+				<summary>Tools &amp; Resources</summary>
 				<ul>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                        <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Practitioner Resources</a></li>
+                        <li class="my-dropie-header"><a href="{{ "tools-and-resources/practitioner-resources" | relLangURL }}">Practitioner Resources</a></li>
+
+                            </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                        <li class="my-dropie-header"><a href="{{ "tools-and-resources/practitioner-training-and-development" | relLangURL }}">Practitioner Training &amp; Development</a></li>
                             <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#bridges-out-of-poverty" | relLangURL }}">Bridges out of Poverty</a></li>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#soft-skills-solutions" | relLangURL }}">Soft Skills Solutions</a></li>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#gsl-family-literacy" | relLangURL }}">GSL Family Literacy</a></li>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#sign-up" | relLangURL }}">Sign-Up</a></li>
                                 </ul>
                             </ul>
                     </li>
-                    <li class="col-sm-4 pb-sm-0">
+                    <li class="col-lg-4 pb-xl-0">
                         <ul>
-                        <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Practitioner Training &amp; Development</a></li>
+                        <li class="my-dropie-header"><a href="{{ "tools-and-resources/newsletters-and-reports" | relLangURL }}">Newsletters &amp; Reports</a></li>
                             <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
-                                </ul>
-                            </ul>
-                    </li>
-                    <li class="col-sm-4 pb-sm-0">
-                        <ul>
-                        <li class="my-dropie-header"><a href="{{ "#" | relLangURL }}">Newsletters &amp; Reports</a></li>
-                            <ul>
-                                    <li><a href="{{ "about/#our-mission" | relLangURL }}">Our Mission</a></li>
-                                    <li><a href="{{ "about/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "tools-and-resources/newsletters-and-reports/#prln-newsletters" | relLangURL }}">PRLN Newsletters</a></li>
+                                    <li><a href="{{ "tools-and-resources/newsletters-and-reports/#literacy-service-plan-reports" | relLangURL }}">Literacy Service Plan Reports</a></li>
+                                    <li><a href="{{ "tools-and-resources/newsletters-and-reports/#annual-reports" | relLangURL }}">Annual Reports</a></li>
                                 </ul>
                             
 				</ul>
@@ -192,15 +196,16 @@
 	</ul>
       
     </div>
-  </div>
+  
   {{- with .Params.donate_button }}
     <div class="d-none d-lg-block pl-auto mr-5">
       <a class="btn btn-success ignore-color-change" href="{{ .url }}" role="button" title="{{- i18n "navbar.donate" | default "Donate" -}}">
-        <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2"></i>
+        <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2"display: inline-flex; align-items: center;></i>
         {{ .text }}
       </a>
     </div>
   {{- end }}
+      </div>
 </nav>
 {{/*
   * Get the config of breadcrumbs and set defaults
@@ -332,5 +337,16 @@ nav.addEventListener('toggle', function (event) {
 
 }, true);
 </script>
-
 {{- end -}}
+
+
+
+
+
+
+
+
+
+
+
+

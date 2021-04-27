@@ -2,7 +2,6 @@
 fragment = "nav"
 date = "2018-05-17"
 weight = 0
-background = "light"
 sticky = true
 
 [donate_button]
@@ -14,4 +13,8 @@ sticky = true
 [asset]
   image = "prln-logo.svg"
   text = "Project READ"
+[breadcrumb]
+  display = false # Default value is false
+  level = 1 # Default is 1
+  background = "secondary"  
 +++

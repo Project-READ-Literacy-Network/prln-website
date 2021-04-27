@@ -1,4 +1,31 @@
+
+.my-nav > li {
+  display: block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+@media (min-width: 40em) {
+  .my-nav > li {
+    display: block;
+  }
+}
+
+.dropie details[open] summary {
+    color: white;
+    border-bottom: 3px solid #5BCBF5;
+    background: #0E83CD;
+    padding: .75rem;
+    }
+
 /* Navigation Bar */
+
+summary {
+   display: block;
+    padding: .75rem;
+    border-top: 3px solid #5BCBF5;
+ }
+
+
 #nav.navbar{
     background-image: url("../images/nav.svg");
     /* Full height */
@@ -15,17 +42,23 @@
 #nav ul ul ul {
     list-style-type: none;
 }
-ul {
+#nav ul {
     margin: 0;
     padding-inline-start: 0;
 }
+.my-nav .dropie a {
+    display: none;
+}
+ul.nav-contact {
+    display: none;
+}
 .my-nav .dropie .my-dropie-header a {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 700;
-    color: white;
+    color: #0E83CD;
     word-wrap: break-word;
-    display: inline-block;
-    padding: 1rem 0;
+    text-decoration: none;
+    display: block;
     margin-bottom: 0;
     white-space: wrap;
 }
@@ -33,41 +66,139 @@ ul {
   list-style: none;
   margin-left: -0.5em;
   margin-right: -0.5em;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
 }
-.my-nav > li {
-  display: block;
-  margin-left: 0.5em;
-  margin-right: 0.5em;
+
+.small-nav-text {
+    color: #F26624;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 500;
 }
-@media (min-width: 40em) {
-  .my-nav > li {
-    display: block;
-  }
-}
-.my-nav > li:before {
-  content: "\200B"; /* 1 */
-  position: absolute; /* 2 */
-}
+
 .dropie > summary {
     cursor: pointer;
     color: #0E83CD;
     font-weight: 700;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+}
+.dropie {
+    color: #0E83CD;
 }
 summary:focus{
     outline: none;
 }
-.dropie > ul > li {
+
+.dropie > ul > li a {
+    padding: .25rem 0;
+}
+.dropie ul > ul > li{
+    color: #0E83CD;
+}
+.dropie ul > ul > li a{
+    text-decoration: none;
+}
+.dropie ul > ul > li a:hover{
+    color: white;    
+}
+
+
+.dropie > ul > li  {
     display: inline-block;
     zoom:1;
     *display:inline;
     width: 100%;
+    background: white;
     font-size: 1.25rem;
-    line-height: 1.75rem;
+    line-height: 1.5rem;
     border-bottom: 1px solid #0E83CD;
-    margin-bottom: 0;
+    padding: .75rem;
 }
+
+.dropie > ul > li:hover {
+    background: #5BCBF5;
+}
+.my-nav .dropie .my-dropie-header a:hover {
+    color: white;
+}
+
+/*****************************/
+/*                           */
+/*                           */
+/*  List with arrow bullet   */
+/*                           */
+/*                           */
+/*****************************/
+
+.content-body ul {
+    list-style: none;
+    padding-left: 15px;
+    padding-right: 0;
+}
+.content-body li {
+    position: relative;
+}
+
+.content-body li::before {
+    position: absolute;
+    left: -1rem;
+    top: .5rem;
+    content: "";
+    display: inline-block;
+    /* By using an em scale, the arrows will size with the font */
+    width: 0.4em;
+    height: 0.4em;
+    border-right: 0.2em solid #CE202F;
+    border-top: 0.2em solid #CE202F;
+    transform: rotate(45deg);
+    margin-right: 0.25em;
+}
+
+.content-body ul li {
+    margin-bottom: 1.5rem;
+}
+
+
+/*****************************/
+/*****************************/
+
+.content-fragment h2 {
+    margin-bottom: 1.5rem;
+}
+section#funders-_index h4 {
+    display: none;
+}
+p a {
+    color: black;
+    padding: .1rem .25rem;
+    border: 1px solid;
+}
+p a:hover {
+    color: #0E83CD;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    text-decoration: none;
+}
+
+.bg-danger p a {
+    color: black;
+    background: #FFC62F;
+}
+
+.card:hover{
+  transform: scale(1.02);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+h4 a {
+    font-weight:700;
+    text-decoration: none;
+    color: #0E83CD;
+}
+h4 a:hover {
+    text-decoration: none;
+    color: black;
+}
+
 
 
 
@@ -86,26 +217,30 @@ section#funders .container-fluid .container  {
 section#content .content-body .toc {
     display: none;
 }
-section#history-and-purpose h5 {
-    padding-bottom: 1.5rem;
-}
-section#history-and-purpose h2 {
-    padding-top: 1.75rem;
-    padding-bottom: 1.75rem;
-}
 
 body {
     font-family: 'Nunito Sans', sans-serif;
 }
 
-.content-body h1, h2, h3, .h1, .h2, .h3 {
+h1, h2, .h1, .h2 {
     font-weight: 900;
     font-size: 2.5rem;
 }
 
-.content-body h4, h5, h6, .h4, .h5, .h6 {
+h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
     font-weight: 700;
-    font-size: 1.5rem;
+}
+
+.content-body h3 {
+    line-height: 2.75rem;
+    margin-top: .5rem;
+    margin-bottom: 1.5rem;
+}
+.content-body h4 {
+    color: #EF6724;
+    padding: 0;
+    margin-bottom: .25rem;
+    margin-top: .25rem;
 }
 
 /* Hero Styling */
@@ -114,14 +249,10 @@ body {
 }
 
 /* Links */
-#award a {
-    color:#0E83CD!important
-}
 
-#directory h4 a {
-    color:black!important
+h2 a:hover {
+    text-decoration: none;
 }
-
 .white-text {
     color: white!important
 }
@@ -130,6 +261,72 @@ body {
     color: black!important
 }
 
+.content-body h2 {
+    position: relative;  /* Added */
+    display: inline-block;
+}
+.content-body h2::after {
+  position: absolute;  /* Added */
+  content: '';
+  margin-top: 5px;
+  background: #27AAE1;
+  height: 4px;
+  display: block;
+    width: 80%;
+}
+.content-body h5 {
+    color: #27AAE1;
+    position: relative;  /* Added */
+    display: inline-block;
+}
+.content-body h5::after {
+  position: absolute;  /* Added */
+  content: '';
+  margin-top: 5px;
+  background: #EF6724;
+  height: 4px;
+  display: block;
+  width: 80%;
+}
+
+
+.bg-primary h6 {
+    color: white !important;
+}
+
+p a {
+    color: black;
+    padding: .1rem .25rem;
+    border: 1px solid;
+}
+p a:hover {
+    color: #0E83CD;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    text-decoration: none;
+}
+
+.bg-light p a {
+    padding: 0;
+    border: none;
+}
+.bg-light p a:hover {
+    box-shadow: none;
+    text-decoration: none;
+}
+
+
+
+.bg-danger p a {
+    color: black;
+    background: #FFC62F;
+}
+.bg-warning p a:hover {
+    color: black;
+}
+
+.content-body h2 {
+    display: block;
+}
 .content-fragment h2 {
     position: relative;  /* Added */
     display: inline-block;
@@ -143,37 +340,422 @@ body {
   display: block;
     width: 80%;
 }
-.content-fragment h3 {
-    color: #27AAE1;
-    position: relative;  /* Added */
-    display: inline-block;
+
+.content-fragment  .bg-warning h2::after {
+  background: #EF6724;
 }
-.content-fragment h3::after {
+.content-fragment  .bg-dark h2::after {
+  background: #CF202F;
+}
+.content-fragment  .bg-success h2::after {
+  background: #CBDB2C;
+}
+.content-fragment  .bg-danger h2::after {
+  background: #FFC62F;
+}
+
+.content-fragment  .bg-primary h2::after {
   position: absolute;  /* Added */
   content: '';
   margin-top: 5px;
-  background: #EF6724;
+  background: #AA1A27;
   height: 4px;
   display: block;
   width: 80%;
 }
-.content-fragment h4 {
-    color: #EF6724;
+.btn-outline-dark {
+    color: black;
+    border-color: black;
+}
+.btn-outline-dark:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+.bg-primary h2 a:hover {
+    color: white !important;
+    text-shadow: 2px 2px 4px black;
+}
+a.prln-social-icons {
+    color: #CF202F;
+}
+a.prln-social-icons:hover {
+    color: #AA1A27;
+}  
+.dropie a.prln-social-icons {
+    color: #CF202F;
+}
+.dropie a.prln-social-icons:hover {
+    color: #AA1A27;
+}
+body .bg-dark {
+    color: white;
+}
+body .bg-primary {
+    color: white;
+}
+.content-sidebar h5 a {
+    color: black;
+    font-size: 1.25rem;
+}
+.content-sidebar h5 a:hover {
+    text-decoration: none;
+    color: #CF202F;
+}
+.content-sidebar h5 a:focus {
+    color: #CF202F;
+}
+.content-sidebar h5 a:active {
+    color: #CF202F;
 }
 
-@media (min-width: 576px){
+.content-sidebar h5 {
+    line-height: 1.5rem;
+}
+.fa-chevron-down:before {
+    display:none;
+}
+
+.content-sidebar .collapse {
+    display: none
+}
+nav#TableOfContents ul li{
+    display: none;
+}
+nav#TableOfContents ul {
+    display: none;
+}
+.content-sidebar .col-12{
+    padding-right: 10px;
+}
+.content-sidebar-body {
+    padding-right: 10px;
+}
+
+body {
+    overflow: overlay;
+}
+h5 .active-page {
+  color:#0E83CD;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1); 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1); 
+  border-radius: 10px;
+}
+summary h2:nth-of-type(3){
+    display: block;
+    font-weight: 600;
+    font-size: 1.5rem;
+        margin-bottom: 0;
+}
+summary h2:nth-of-type(4){
+    display: block;
+    font-weight: 600;
+    font-size: 1.5rem;
+        margin-bottom: 0;
+}
+summary h2:nth-of-type(5){
+    display: block;
+    font-weight: 600;
+    font-size: 1.5rem;
+        margin-bottom: 0;
+}
+summary h2:nth-of-type(2){
+    display: block;
+    font-weight: 600;
+    font-size: 1.5rem;
+        margin-bottom: 0;
+}
+summary h2:first-of-type{
+    font-weight: 600;
+    display: block;
+    font-size: 2rem;
+        margin-bottom: 1rem;
+    color: #EF6724;
+}
+summary h2:last-of-type{
+        margin-bottom: 1rem;
+}
+
+.prln-directory summary h2::after {
+    position: absolute;
+    content: none;
+    margin-top: 0;
+    background: none;
+    height: 0;
+    display: none;
+    width: 0;
+}
+.prln-directory details p {
+    font-size: 1.25rem;
+    line-height: 1.75rem
+}
+.prln-directory details h4 {
+    font-size: 1.25rem;
+}
+
+.prln-directory h2 {
+    margin-bottom: 4rem;
+}
+.prln-directory summary {
+    border-top: none;
+    padding: 0;
+}
+
+.prln-directory details[open] summary {
+    border-bottom: none;
+    padding: 0 0 2rem 0;
+    }
+
+.prln-directory ul {
+    font-size: 1.25rem;
+    list-style: none;
+    padding-left: 15px;
+    padding-right: 0;
+}
+.prln-directory li {
+    position: relative;
+}
+
+.prln-directory li::before {
+    position: absolute;
+    left: -1rem;
+    top: .5rem;
+    content: "";
+    display: inline-block;
+    /* By using an em scale, the arrows will size with the font */
+    width: 0.4em;
+    height: 0.4em;
+    border-right: 0.2em solid #CE202F;
+    border-top: 0.2em solid #CE202F;
+    transform: rotate(45deg);
+    margin-right: 0.25em;
+}
+
+.prln-directory ul li {
+    margin-bottom: .5rem;
+}
+@media (min-width: 576px){    
+
+    .content-body p {
+    font-size: 1.4rem;
+    line-height: 2.25rem;
+    margin-bottom: 1.75rem;
+    }
+    .content-body p:first-child { margin-top: 2rem; }
+    .content-body p:last-child { margin-bottom: 0; }
+    
+/*  List with arrow bullet   */
+    
+    .content-body ul {
+        padding-left: 25px;
+    }
+.content-body li::before {
+    left: -1.5rem;
+    top: .75rem;
+    margin-right: 0.5em;
+}
+    .content-body ul li {
+    font-size: 1.4rem;
+    line-height: 2.25rem;
+    margin-bottom: 1.5rem;
+    }
+    .prln-directory ul {
+    font-size: 1.25rem;
+    list-style: none;
+    padding-left: 15px;
+    padding-right: 0;
+}
+.prln-directory li {
+    position: relative;
+}
+
+.prln-directory li::before {
+    position: absolute;
+    left: -1rem;
+    top: .5rem;
+    content: "";
+    display: inline-block;
+    /* By using an em scale, the arrows will size with the font */
+    width: 0.4em;
+    height: 0.4em;
+    border-right: 0.2em solid #CE202F;
+    border-top: 0.2em solid #CE202F;
+    transform: rotate(45deg);
+    margin-right: 0.25em;
+}
+
+.prln-directory ul li {
+    margin-bottom: .5rem;
+}
+}
+
+
+@media (min-width: 767px){
+    .dropie > summary {
+    font-size: 1.25rem;
+    }
+    .my-nav .dropie .my-dropie-header a {
+    font-size: 1.25rem;
+    }
+    .dropie > ul > li {
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+    }
+    .dropie > ul > li:nth-child(3) {
+    padding-right: 3rem;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .sticky-top {
+    top: 130px;
+}
+    .dropie ul > ul > li a {
+    margin-bottom: .75rem;
+    }
+    
+    .dropie ul > ul > li a:hover {
+  filter: brightness(60%);
+}
+    .dropie > summary {
+    font-size: 1rem;
+    }
+        
+    footer::before {
+    content: none;
+    display: none;
+    height:      0;
+    margin-top: 0;
+    }
+    #copyright::before {
+    content: none;
+    display: none;
+    height:      0;
+    margin-top: 0;
+    }
+    /*
+    [id]::before {
+    content: '';
+    display: block;
+    height:      130px;
+    margin-top: -130px;
+    visibility: hidden;
+    }
+    */
+    #nav.navbar{
+    height: 130px;
+    }
+    .content-body h4, h5 {
+    font-size: 1.75rem;
+    }
+    .content-sidebar h5 a {
+    font-size: 1.25rem;
+}
+    .content-body p {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    margin-bottom: 2rem;
+    }
+    
+
+    .content-body ul li {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    margin-bottom: 2rem;
+    }
+    .prln-directory ul li {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    margin-bottom: 1rem;
+    }
+
+    summary {
+    border-top: none;
+    font-size: 1rem;
+    position: relative;
+        padding: 1em 0.5em;
+    }
+    details[open] summary {
+    color: black;
+    border-bottom: 3px solid #0E83CD;
+    background: none;
+    padding: 1em 0.5em;
+    }
+    .dropie > summary {
+    position: relative;
+    }
+    .dropie > summary::after {
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: #0E83CD;
+    color: transparent;
+    width: 0%;
+    content: '';
+    height: 3px;
+    transition: all 0.5s;
+    }
+    .dropie > summary:hover::after {
+    width: 100%;
+    }
+    .dropie ul > ul > li a:hover{
+    color: #0E83CD;    
+    }
+    
     
     .my-nav .dropie .my-dropie-header a {
     color: #F26623;
-    font-size: 1.25rem;
+    font-size: 1rem;
     padding: 0;
+    margin-bottom: .75rem;
     }
-    .dropie ul li:last-child {
-    padding-bottom: 2rem;
+    .my-nav .dropie .my-dropie-header a:hover {
+    color:#BD450B;
+}
+    
+    
+    
+    
+    
+    
+    .dropie ul > ul > li a.btn:hover {
+    color: white;
+    text-shadow: none;
+    } 
+    
+    .dropie > ul > li {
+    background: none;
+}
+    .dropie > ul > li:hover {
+    color: #0E83CD;
+    background: none;
+    text-shadow: none;
+
+}
+    .my-nav .dropie a {
+    display: block;
     }
-    .dropie > summary {
-    font-size: 1.5rem;
+    ul.nav-contact {
+    display: block;
     }
+    
+
     .dropie {
     position: static;
     }
@@ -188,13 +770,20 @@ body {
     width: 100%;
     padding: 2rem;
     position: absolute;
-    top: 243px;
+    top: 130px;
     z-index: 999;
     box-shadow: 0 8px 6px -6px black;
     }
+    ul#my-nav {
+    margin-bottom: 0;
+    }
+    .my-nav > li {
+    display: inline-block;
+    padding-right: 1rem;
+    }
     .dropie > ul > li {
     font-size: 1rem;
-    line-height: 1.5rem;
+    line-height: 1.25rem;
     padding-bottom: 2rem;
     border-bottom: none;
     }
@@ -206,126 +795,51 @@ body {
     }
     .dropie > ul > li:nth-child(4) {
     padding-left: 2rem;
+    padding-right: 2rem;
     }
-    .my-nav {
-    padding: 0;
-    }
-    ul#my-nav {
-    margin-bottom: 0;
-    }
-    .content-body h4, h5 {
-    font-size: 1.9rem;
-    line-height: 2.75rem;
-    margin-bottom: 0;
-    }
-    .content-body p {
-    font-size: 1.4rem;
-    line-height: 2.25rem;
-    margin-bottom: 1.75rem;
-    }
-    .content-body p:first-child { margin-top: 2rem; }
-    .content-body p:last-child { margin-bottom: 0; }
-    .content-body ul li {
-    font-size: 1.4rem;
-    line-height: 2.25rem;
-    margin-bottom: 1.5rem;
+    .dropie > ul > li:nth-child(3) {
+    padding-right: 4rem;
     }
 }
-
-@media (min-width: 767px){
-    #nav.navbar{
-    padding: 0 5rem;
-    }
-    .dropie > ul {
-    top: 243px;
-    }
-    .dropie > ul > li {
-    font-size: 1.25rem;
-    line-height: 1.6rem;
-    border-left: 3px solid #EF6724;
-        }
-    .dropie > ul > li:first-child {
-    padding-left: 1rem;
-    }
-    .dropie > ul > li:nth-child(4) {
-    padding-left: 1rem;
-    }
-}
-@media only screen and (min-width: 992px) {
-
-    .content-body h4, h5 {
-    font-size: 1.75rem;
-    line-height:2.25rem;
-    }
-    .content-body p {
-    font-size: 1.5rem;
-    line-height: 2.25rem;
-    margin-bottom: 2rem;
-    }
-    .content-body ul li {
-    font-size: 1.5rem;
-    line-height: 2.25rem;
-     margin-bottom: 1.5rem;
-    }
-    .container-lg, .container-md, .container-sm, .container {
-    max-width: 800px;
-    }    .dropie > summary {
-    font-size: .85rem;
-    padding: 1em 0.7em;
-    }
-    .dropie > ul {
-    top: 120px;
-    }
-    .dropie > ul > li:nth-child(2) {
-    padding-right: 5rem;
-    }
-    .my-nav > li {
-    display: inline-block;
-    }
-
- }
-@media only screen and (min-width: 1055px) {
-    .dropie > summary {
-        font-size: .9rem;
-        padding: 1em 0.7em;
-    }
-
- }
 @media (min-width: 1200px) {
-    .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 900px;
-    }
     .dropie > summary {
     font-size: 1.25rem;
-    padding: 1em 0.7em;
-    }
-    .dropie > ul {
     }
     .navbar .navbar-nav .nav-link {
     font-size: 1rem;
     padding: 1em 0.7em;
     }
-    .my-nav .dropie summary {
-    position: relative;
+    .my-nav .dropie .my-dropie-header a {
+    color: #F26623;
+    font-size: 1.25rem;
+    padding: 0;
+    }
+    .dropie > ul > li:first-child {
+    padding-left: 9rem;
+    padding-right: 4rem;
+    }
+    .dropie > ul > li:nth-child(2) {
+    padding-right: 8rem;
+    padding-left: 4rem;
+    }
+    .dropie > ul > li:nth-child(3) {
+    padding-right: 9rem;
+    }
+    .dropie > ul > li:nth-child(4) {
+    padding-left: 9rem;
+    padding-right: 4rem;
+    }
+    .dropie > ul > li:nth-child(5) {
+    padding-right: 8rem;
+    padding-left: 4rem;
+    }
+    .dropie > ul > li:nth-child(6) {
+    padding-right: 5rem;
+    }
+    .dropie > ul > li {
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+    margin-bottom: 1.75rem;
     }
 
-    .my-nav .dropie summary::after {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    background-color: #0E83CD;
-    color: transparent;
-    width: 0%;
-    content: '';
-    height: 3px;
-    transition: all 0.5s;
-    }
-    .my-nav .dropie summary:hover::after {
-    width: 85%;
-    }
-    .my-nav .dropie summary:focus::after {
-    width: 85%;
-    }
 }

@@ -24,7 +24,7 @@
       {{- $slot_context := dict "page" $page "content_fragment" (index $content_page 0) -}}
       {{- partial "helpers/slot.html" (dict "root" $ "slot" "before-item" "data" $slot_context) -}}
       {{- if $self.Params.tiled -}}
-        <div class="col-lg-6 col-12 mb-2 d-flex">
+        <div class="col-lg-6 col-12 mb-4 d-flex">
       {{- end -}}
         <article
           {{- if $self.Params.collapsible -}}

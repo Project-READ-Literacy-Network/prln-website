@@ -1,3 +1,3 @@
 +++
-title = "About Us"
+title = "About Project READ"
 +++

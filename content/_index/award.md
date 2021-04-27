@@ -1,14 +1,16 @@
 +++
-fragment = "center-content"
-background = "info"
+fragment = "item"
+background = "primary"
 #title = "Yvonne Heninger Memorial Award"
 #subtitle = "for Literacy Students Overcoming Challenges"
-weight = 130
-url = "#adult"
+weight = 129
+
+[asset]
+  icon = "fas fa-award"
+  url = "#"
 +++
 
-# [Yvonne Heninger Memorial Award](#)
-#### for Literacy Students Overcoming Challenges
+## [Yvonne Heninger Memorial Award](#)
+###### for Literacy Students Overcoming Challenges
 
 
-{{< youtube id="9GQ43sGpGEk" autoplay="true" >}}

@@ -44,9 +44,9 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
             <div class="col text-center">
 
                   <button
-                  class="btn submit-btn
-                    {{- if eq $bg "primary" -}}
-                      {{- printf " btn-%s" "dark" -}}
+                  class="btn btn-lg submit-btn
+                    {{- if eq $bg "info" -}}
+                      {{- printf " btn-%s" "outline-dark" -}}
                     {{- else -}}
                       {{- printf " btn-%s" "primary" -}}
                     {{- end -}}

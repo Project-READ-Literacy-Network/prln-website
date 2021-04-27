@@ -5,7 +5,7 @@
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
   <div class="row">
     {{- with .Params.sidebar -}}
-      <div class="content-sidebar col-md-3 pb-4 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}">
+      <div class="content-sidebar col-md-3 pb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}">
         {{- if .sticky }}
           <div class="sticky-top pt-3">
         {{- end -}}
@@ -20,7 +20,7 @@
           </div>
         {{- end }}
         {{- $content_align := .content_align | default "left" -}}
-        <div class="content-sidebar-body col-12 px-0
+        <div class="content-sidebar-body col-12 pl-0 pr-1
           {{- printf " text-%s" $content_align -}}
           {{- partial "helpers/text-color.html" (dict "self" $self "light" "secondary") -}}
         ">
@@ -31,17 +31,14 @@
           </div> {{/* .sticky-top */}}
         {{- end -}}
       </div>
-      <article class="col-md-9">
+      <article class="col-md-8 pl-md-5">
     {{- else }}
       <article class="col-md-12">
     {{- end }}
       {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
-      {{- if or .Params.display_date .Params.categories -}}
+      {{- if or .Params.categories -}}
         <div class="content-info col-12 pb-4 mt-2">
-          {{- if .Params.display_date -}}
-            {{- partial "helpers/publish-date.html" (dict "root" $self "background" $bg) -}}
-          {{- end -}}
-          {{- with .Params.categories }}
+          {{- if .Params.categories }}
             {{- partial "helpers/categories.html" (dict "categories" . "background" $bg) -}}
           {{- end }}
         </div>

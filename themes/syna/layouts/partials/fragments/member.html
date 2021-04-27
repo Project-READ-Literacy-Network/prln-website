@@ -13,32 +13,26 @@
         {{/* Handle special case of index.md being considered a member */}}
         {{- if not (in .Name "/index.md") -}}
           {{- $member := .Params -}}
-          <div class="col-lg-4 col-md-6 col-sm-12 pt-3 pb-5 text-left text-sm-center">
+          <div class="col-lg-4 col-md-6 col-sm-12 pt-3 pb-5 text-center">
             {{- if .Params.asset -}}
               <div class="text-center m-2">
-                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250") }}" class="img-fluid rounded-circle w-75 border
-                  {{- if or (eq $bg "white") (eq $bg "light") (eq $bg "secondary") (eq $bg "primary") -}}
-                    {{- print " border-dark" -}}
-                  {{- else -}}
-                    {{- print " border-white" -}}
-                  {{- end -}}
-                " alt="{{ $member.title }}"></img>
+                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250") }}" class="img-fluid w-50" alt="{{ $member.title }}"></img>
               </div>
             {{- end -}}
-            <div class="mt-5 mb-0
+            <div class="mt-1 mb-0
               {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
             ">
-              <h2>
+              <h3>
                 {{- $member.title -}}
-              </h2>
+              </h3>
             </div>
             <div class="member
               {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
             ">
               {{- with $member.position -}}
-                <h5 class="mb-3">
+                <p class="mb-3">
                   {{- . | markdownify -}}
-                </h5>
+                </p>
               {{- end -}}
               {{- with $member.reports_to -}}
                 <h6 class="font-italic mb-1">

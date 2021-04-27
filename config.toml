@@ -9,7 +9,7 @@ version = "0.17.3"
 # Google Analytics tracking
 googleAnalytics = ""
 
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomies", "taxonomyTerms" ]
 
 [outputs]
   home = ["HTML", "JSON"]
@@ -28,10 +28,12 @@ lastmod = ["lastmod", ":git", "date"]
   description = "A Doorway to Literacy and Essential Skills Services in Waterloo-Wellington"
 
   [params.style]
-    #background = "secondary"
+   background = "light"
 
   # Theme customizations
   # Assets relative to 'static/'
+  
+   
   [params.custom]
     favicon = "favicon.ico"
     favicon_ico_sizes = "16x16 32x32"
@@ -58,9 +60,9 @@ lastmod = ["lastmod", ":git", "date"]
     success = "#5AB75B"
     info = "#CBDB2C"
     warning = "#FFC62F"
-    danger = "#EFAD4E"
+    danger = "#F0AD4E"
     light = "#FDFCF9"
-    dark = "#1D82C5"
+    dark = "#AA1A27"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
