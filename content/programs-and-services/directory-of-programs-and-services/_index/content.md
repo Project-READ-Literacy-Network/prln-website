@@ -1,18 +1,21 @@
 +++
-fragment = "content"
+fragment = "directory"
 weight = 100
 
 [sidebar]
   sticky = true
 +++
 
-Highly customizable open source theme for Hugo based static websites
 
-Syna is a Hugo template built to be customizable and easy to use.
-To achieve this we have built it in a way that all pages are created using building blocks called fragments.
-Each page within a Syna based website is created using fragments.
-
-
-If anything is not documented or needs more details, feel free to open an issue or contribute by opening a pull request.
-
-*See how you can contribute with our [contribution guide](https://github.com/okkur/syna/blob/master/CONTRIBUTING.md).*
+#### Who is this directory for?
+It is for any adult who wants to find a training or employment program. It’s never too late to return to school, upgrade your skills or search for a better job.
+#### What kind of programs are there?
+You will find listings of Essential Skills, employment, language and training programs for adults living in the Waterloo and Wellington Region. Most programs are free and they are part of Employment Ontario. Many programs run day and evening, all year round.
+- Literacy & Basic Skills Training
+- High School Credit Courses
+- College Upgrading and Equivalency Courses
+- Employment Services
+- Family Literacy
+- Library Programs
+- English as a Second Language ESL
+- Online Learning
