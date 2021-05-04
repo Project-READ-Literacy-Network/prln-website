@@ -150,7 +150,7 @@ dd {
 }
 
 blockquote {
-  margin: 0 0 1rem;
+  margin: 0 0;
 }
 
 b,
@@ -213,7 +213,7 @@ a:not([href]):not([class]) {
 //
 // Code
 //
-
+/*
 pre,
 code,
 kbd,
@@ -221,6 +221,7 @@ samp {
   font-family: $font-family-monospace;
   @include font-size(1em); // Correct the odd `em` font sizing in all browsers.
 }
+*/
 
 pre {
   // Remove browser default top margin

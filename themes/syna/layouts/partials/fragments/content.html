@@ -5,7 +5,7 @@
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
   <div class="row">
     {{- with .Params.sidebar -}}
-      <div class="content-sidebar col-md-3 pb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}">
+      <div class="content-sidebar col-md-4 pb-4 px-md-0 scroll-spy {{- if (eq .align "right") }} pl-md-3 order-1 {{- else }} order-0 {{- end -}}">
         {{- if .sticky }}
           <div class="sticky-top pt-3">
         {{- end -}}
@@ -31,13 +31,15 @@
           </div> {{/* .sticky-top */}}
         {{- end -}}
       </div>
-      <article class="col-md-8 pl-md-5">
+      <article class="col-md-8">
     {{- else }}
-      <article class="col-md-12">
+      <article class="col-md-12 px-2 px-md-3 px-lg-5 custom-list">
     {{- end }}
+          <div class="px-2 px-md-3 px-lg-5">
       {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
+          </div>
       {{- if or .Params.categories -}}
-        <div class="content-info col-12 pb-4 mt-2">
+        <div class="content-info col-12 pb-4 mt-2 ">
           {{- if .Params.categories }}
             {{- partial "helpers/categories.html" (dict "categories" . "background" $bg) -}}
           {{- end }}
@@ -48,7 +50,7 @@
           <img src="{{ partial "helpers/image.html" (dict "root" . "asset" .Params.asset) }}" alt="{{ .Params.subtitle | default .Params.title }}" class="img-fluid mb-4">
         </div>
       {{- end -}}
-      <div class="content-body col-12 content px-0
+      <div class="content-body col-12 content px-2 px-md-3 px-lg-5
         {{- partial "helpers/text-color.html" (dict "self" $self) -}}
       ">
         {{- partial "helpers/slot.html" (dict "root" $ "slot" "before-content" "data" (dict "page" $.page "content_fragment" .self)) -}}

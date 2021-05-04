@@ -18,17 +18,17 @@ subtitle = "Do you want to go back to school? Do you know someone who needs to u
 
 [[buttons]]
   text = "What is Literacy?"
-  url = "#"
+  url = "about/history-and-purpose/#literacy-definitions"
   color = "success"
   
 [[buttons]]
   text = "Skills Assessment"
-  url = "#"
+  url = "programs-and-services/programs-for-adults/#educational-assessments-by-prln"
   color = "success"
 
 [[buttons]]
   text = "Services"
-  url = "#"
+  url = "programs-and-services/programs-for-adults"
   color = "success"
 +++
 

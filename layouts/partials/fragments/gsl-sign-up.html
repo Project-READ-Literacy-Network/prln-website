@@ -1,0 +1,69 @@
+{{- $self := .self -}}
+
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{ "<!-- Contact -->" | safeHTML }}
+
+{{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
+    {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
+onload="if(submitted) {window.location='/thankyou';}"></iframe>
+
+<div class="row">
+    
+    <div class="col-12">
+
+        <form
+              action="https://docs.google.com/forms/d/e/1FAIpQLSeNo6qbckwe2QVmXC8OSwbDAXkZh8QPTXR5lL4KFMSHI7Mn5Q/formResponse"
+              method="post"
+              target="hidden_iframe"
+              onsubmit="submitted=true"
+              class="contact position-relative">
+
+            <div class="row py-3 should-fade">
+
+            <div class="col-md-6">
+                <div class="form-group">
+                <input type="text" placeholder="Name*" name="entry.268276721" required class="form-control">
+                </div>
+                <div class="form-group">
+                <input type="email" placeholder="Email*" name="entry.454646350" required class="form-control">
+                </div>
+                <div class="form-group">
+                <input type="text" placeholder="Phone*" name="entry.1084181864" class="form-control">
+                </div>
+            </div>
+
+            <div class="col-md-6">  
+
+                <div class="form-group">
+                <textarea rows="5" placeholder="Message*" name="entry.1389400107" required class="form-control"></textarea>
+                </div>
+            </div>
+            <div class="col text-center">
+
+                  <button
+                  class="btn btn-lg submit-btn
+                    {{- if eq $bg "secondary" -}}
+                      {{- printf " btn-%s" "outline-light" -}}
+                    {{- else -}}
+                      {{- printf " btn-%s" "primary" -}}
+                    {{- end -}}
+                  "
+                  type="submit">
+                  {{- .Params.button_text | default (i18n "contact.defaultButton") }}
+                </button>
+                </div>
+
+            </div>
+
+        </form>
+
+    </div>
+    
+    
+</div>
+{{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}
+
+

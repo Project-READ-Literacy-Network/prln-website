@@ -11,7 +11,7 @@ particles = true
 
 [[buttons]]
   text = "Project READ Events"
-  url = "about/events-and-awards/#project-read-events"
+  url = "about/events-and-awards/#prln-events"
   color = "outline-light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]

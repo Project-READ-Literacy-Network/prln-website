@@ -10,12 +10,12 @@
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
 onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
-<div class="row">
+<div class="row pt-3">
     
     <div class="col-12">
 
         <form
-              action="https://docs.google.com/forms/d/e/1FAIpQLSeNo6qbckwe2QVmXC8OSwbDAXkZh8QPTXR5lL4KFMSHI7Mn5Q/formResponse"
+              action="https://docs.google.com/forms/d/e/1FAIpQLSfC36ncj2rLdkn6w_gPQ-x0CTrG3zHwFRgpa5jqnCSGoZKU7Q/formResponse"
               method="post"
               target="hidden_iframe"
               onsubmit="submitted=true"
@@ -23,38 +23,38 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
             <div class="row py-3 should-fade">
 
-            <div class="col-md-6">
-                <div class="form-group">
-                <input type="text" placeholder="Name*" name="entry.268276721" required class="form-control">
-                </div>
-                <div class="form-group">
-                <input type="email" placeholder="Email*" name="entry.454646350" required class="form-control">
-                </div>
-                <div class="form-group">
-                <input type="text" placeholder="Phone*" name="entry.1084181864" class="form-control">
-                </div>
-            </div>
-
             <div class="col-md-6">  
 
                 <div class="form-group">
-                <textarea rows="5" placeholder="Message*" name="entry.1389400107" required class="form-control"></textarea>
+                <textarea rows="6" placeholder="Message" name="entry.1389400107" required class="form-control"></textarea>
                 </div>
             </div>
-            <div class="col text-center">
+                
+                <div class="col-md-6 d-flex flex-column justify-content-between">
+                <div class="form-group">
+                <input type="text" placeholder="Name" name="entry.268276721" required class="form-control">
+                </div>
+                <div class="form-group">
+                <input type="email" placeholder="E-mail" name="entry.454646350" required class="form-control">
+                </div>
+                    <div class="form-group">
 
                   <button
-                  class="btn btn-lg submit-btn
-                    {{- if eq $bg "info" -}}
-                      {{- printf " btn-%s" "outline-dark" -}}
+                  class="btn btn-block col-12 col-md-6 submit-btn mt-3
+                    {{- if eq $bg "primary" -}}
+                      {{- printf " btn-%s" "outline-light" -}}
                     {{- else -}}
-                      {{- printf " btn-%s" "primary" -}}
+                      {{- printf " btn-%s" "dark" -}}
                     {{- end -}}
                   "
                   type="submit">
                   {{- .Params.button_text | default (i18n "contact.defaultButton") }}
                 </button>
                 </div>
+            </div>
+
+            
+            
 
             </div>
 

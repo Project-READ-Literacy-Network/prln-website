@@ -1,0 +1,317 @@
+{{- $self := . -}}
+{{- $page_scratch := .page_scratch -}}
+{{- if .Params.search -}}
+  {{- .page_scratch.Add "js" (dict "file" "syna-search.js") -}}
+{{- end -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{- "<!-- Navigation -->" | safeHTML -}}
+<nav class="overlay fragment navbar navbar-expand-lg py-3 scroll-spy
+  {{- printf " bg-%s" $bg -}}
+  {{- if or (eq $bg "light") (eq $bg "white") (eq $bg "secondary") -}}
+    {{- printf " navbar-%s" "light" -}}
+  {{- else -}}
+    {{- printf " navbar-%s" "dark" -}}
+  {{- end -}}
+" id="{{ .Name }}" role="navigation"
+{{- if .Params.sticky -}}
+  {{- safeHTMLAttr (print " style='position: sticky; top: 0; z-index: 10000 !important;'") -}}
+{{- end -}}>
+  <div class="container-fluid">
+    {{- if .Params.asset.image }}
+      <a class="navbar-brand pt-0 pb-2 pr-lg-2" href="{{ "#" | relLangURL }}">
+        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="80px" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
+      </a>
+    {{- else }}
+      <a class="navbar-brand py-auto" href="{{ "#" | relLangURL }}">
+        {{- .Params.asset.text -}}
+      </a>
+    {{- end }}
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse justify-content-between collapse show" id="navbarCollapse">
+        <ul class="my-nav">
+		<li>
+			<details class="dropie">
+				<summary>About Us</summary>
+				<ul>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "about/history-and-purpose" | relLangURL }}">History &amp; Purpose</a></li>
+                                <ul>
+                                    <li><a href="{{ "about/history-and-purpose/#our-mission" | relLangURL }}">Our Mission</a></li>
+                                    <li><a href="{{ "about/history-and-purpose/#our-vision" | relLangURL }}">Our Vision</a></li>
+                                    <li><a href="{{ "about/history-and-purpose/#our-values" | relLangURL }}">Our Values</a></li>
+                                    <li><a href="{{ "about/history-and-purpose/#literacy-definitions" | relLangURL }}">Literacy Definitions</a></li>
+                                </ul>
+                        </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "about/funders-sponsors-and-affiliations" | relLangURL }}">Our Funders, Sponsors &amp; Affiliations</a></li>
+                            <ul>
+                                    <li><a href="{{ "about/funders-sponsors-and-affiliations/#funders" | relLangURL }}">Funders</a></li>
+                                    <li><a href="{{ "about/funders-sponsors-and-affiliations/#sponsors-supporters" | relLangURL }}">Sponsors/Supporters</a></li>
+                                <li><a href="{{ "about/funders-sponsors-and-affiliations/#affiliations" | relLangURL }}">Affiliations</a></li>
+                                </ul>
+                        </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "about/get-involved" | relLangURL }}">Get Involved</a></li>
+                            <ul>
+                                <li><a href="{{ "about/get-involved/#board-of-directors" | relLangURL }}">Our Board of Directors</a></li>
+                                <li><a href="{{ "about/get-involved/#staff" | relLangURL }}">Our Staff</a></li>
+                                <li><a href="{{ "about/get-involved/#opportunities" | relLangURL }}">Fundraising, Co-op and Placement Opportunities</a></li>
+                                <li><a href="http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d42371">Donate</a></li>
+                                </ul>
+                        </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "about/events-and-awards" | relLangURL }}">Events and Awards</a></li>
+                            <ul>
+                                    <li><a href="{{ "about/events-and-awards/#prln-events" | relLangURL }}">Project READ Events</a></li>
+                                    <li><a href="{{ "about/events-and-awards/#community-partnership-events" | relLangURL }}">Community Partnership Events</a></li>
+                                    <li><a href="{{ "about/events-and-awards/#awards" | relLangURL }}">Awards</a></li>
+                            </ul>
+                        </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0 ">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "about/contact" | relLangURL }}">Contact</a></li>
+                            
+                        </ul>
+                    </li>
+				</ul>
+			</details>
+		</li>
+		<li>
+			<details class="dropie">
+				<summary>Programs &amp; Services</summary>
+				<ul>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/programs-for-families" | relLangURL }}">Programs for Families</a></li>
+                                <ul>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#get-set-learn-by-prln" | relLangURL }}">Get Set Learn by PRLN</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#sign-up" | relLangURL }}">Sign-Up</a></li>
+                                </ul>
+                            </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/programs-for-adults" | relLangURL }}">Programs for Adults</a></li>
+                                <ul>
+                                    <li><a href="{{ "programs-and-services/programs-for-adults/#educational-assessments-by-prln" | relLangURL }}">Educational Assessments by PRLN</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-adults/#literacy-programs-of-waterloo-and-wellington-region" | relLangURL }}">Literacy Programs of Waterloo and Wellington Region</a></li>
+                                </ul>
+                            </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/services-for-employers" | relLangURL }}">Services for Employers</a></li>
+                                <ul>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#clear-language" | relLangURL }}">Clear Language</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#workplace-literacy" | relLangURL }}">Workplace Literacy</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#bridges-out-of-poverty" | relLangURL }}">Bridges out of Poverty</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/#sign-up" | relLangURL }}">Sign-Up</a></li>
+                                </ul>
+                            </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/directory-of-programs" | relLangURL }}">Directory of Programs &amp; Services</a></li>
+                        </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                            <li class="my-dropie-header"><a href="{{ "programs-and-services/literacy-service-planning" | relLangURL }}">Literacy Service Planning</a></li>
+                                <ul>
+                                    <li><a href="{{ "programs-and-services/literacy-service-planning/#about" | relLangURL }}">About</a></li>
+                                    <li><a href="{{ "programs-and-services/literacy-service-planning/#reports" | relLangURL }}">Reports</a></li>
+                                </ul>
+                            </ul>
+                    </li>
+                </ul>
+			</details>
+		</li>
+        <li>
+			<details class="dropie">
+				<summary>Tools &amp; Resources</summary>
+				<ul>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                        <li class="my-dropie-header"><a href="{{ "tools-and-resources/practitioner-resources" | relLangURL }}">Practitioner Resources</a></li>
+
+                            </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                        <li class="my-dropie-header"><a href="{{ "tools-and-resources/practitioner-training-and-development" | relLangURL }}">Practitioner Training &amp; Development</a></li>
+                            <ul>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#bridges-out-of-poverty" | relLangURL }}">Bridges out of Poverty</a></li>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#soft-skills-solutions" | relLangURL }}">Soft Skills Solutions</a></li>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#gsl-family-literacy" | relLangURL }}">GSL Family Literacy</a></li>
+                                    <li><a href="{{ "tools-and-resources/practitioner-training-and-development/#sign-up" | relLangURL }}">Sign-Up</a></li>
+                                </ul>
+                            </ul>
+                    </li>
+                    <li class="col-lg-4 pb-xl-0">
+                        <ul>
+                        <li class="my-dropie-header"><a href="{{ "tools-and-resources/newsletters-and-reports" | relLangURL }}">Newsletters &amp; Reports</a></li>
+                            <ul>
+                                    <li><a href="{{ "tools-and-resources/newsletters-and-reports/#prln-newsletters" | relLangURL }}">PRLN Newsletters</a></li>
+                                    <li><a href="{{ "tools-and-resources/newsletters-and-reports/#literacy-service-plan-reports" | relLangURL }}">Literacy Service Plan Reports</a></li>
+                                    <li><a href="{{ "tools-and-resources/newsletters-and-reports/#annual-reports" | relLangURL }}">Annual Reports</a></li>
+                                </ul>
+                            
+				</ul>
+			</details>
+		</li>
+	</ul>
+    
+    {{- if .Params.postpend -}}
+          {{- range sort .Params.postpend }}
+            {{- $isMenuCurrent := or (eq $.root.Permalink .url) (eq (printf "%s/" $.root.Permalink) .url) (eq $.root.Permalink (printf "%s/" .url)) -}}
+            <li class="nav-item">
+              <a href="{{ .url | relLangURL }}"
+                {{- if hasPrefix .URL "#" }}
+                  class="nav-link anchor"
+                {{- else }}
+                  class="nav-link {{- if $isMenuCurrent }} active default-active {{- end -}}"
+                {{- end }}>
+                {{ .name }}
+              </a>
+            </li>
+          {{- end -}}
+        {{- end }}
+      </ul>
+      {{- if .Params.search }}
+        <div class="search-container position-relative">
+          <form action="{{ "search" | absURL }}" class="my-0">
+            <div class="input-group my-0">
+              <input type="text" class="form-control py-1" id="search-query-{{ .Name }}" name="s" placeholder="{{- i18n "navbar.search" | default "Search..." -}}">
+              <div class="input-group-append">
+                <button class="btn btn-primary" title="{{- i18n "search.search" | default "Search" -}}"><i class="fa fa-search"></i></button>
+              </div>
+            </div>
+          </form>
+          <div class="search-results-container">
+            <div class="col p-0">
+              <div id="search-results-{{ .Name }}" class="col px-0 results"></div>
+            </div>
+          </div>
+        </div>
+      {{- end }}    
+        
+    </div>
+  
+  {{- with .Params.donate_button }}
+    <div class="d-none d-lg-block pl-auto mx-5">
+      <a class="btn btn-success ignore-color-change" href="{{ .url }}" role="button" title="{{- i18n "navbar.donate" | default "Donate" -}}">
+        <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2"display: inline-flex; align-items: center;></i>
+        {{ .text }}
+      </a>
+    </div>
+  {{- end }}
+      </div>
+</nav>
+{{/*
+  * Get the config of breadcrumbs and set defaults
+  */}}
+{{- $breadcrumb := .Params.breadcrumb | default (dict "display" false) -}}
+{{- $sections := $page_scratch.Get "sections" -}}
+{{- $level := cond (isset $breadcrumb "level") $breadcrumb.level 1 -}}
+{{- $display_breadcrumb := $breadcrumb.display -}}
+{{- $nav_bg := $breadcrumb.background | default "light" -}}
+{{/*
+  * Generate the crumbs, the loop behaves like the fragment_directories loop in
+  * fragments helper
+  */}}
+{{- $page_scratch.Set "crumbs" slice -}}
+{{- range $index, $section := $sections -}}
+  {{- $directory := $section -}}
+  {{- $page_scratch.Set "crumb_tmp" false -}}
+  {{- $isCurrentPage := eq (add $index 1) (len $sections) -}}
+  {{- if and $isCurrentPage (eq $.root.Kind "page") -}}
+    {{- $page_scratch.Set "crumb_tmp" $.page -}}
+  {{- else if ge $index 1 -}}
+    {{- $directory := (delimit (first (add $index 1) $sections) "/") -}}
+    {{- $page_scratch.Set "crumb_tmp" ($.root.Site.GetPage "page" (print (strings.TrimPrefix "/" $directory))) -}}
+  {{- else -}}
+    {{- $page_scratch.Set "crumb_tmp" ($.root.Site.GetPage "section" (print (strings.TrimPrefix "/" $directory))) -}}
+  {{- end -}}
+  {{- if ($page_scratch.Get "crumb_tmp") -}}
+    {{- $page_scratch.Add "crumbs" ($page_scratch.Get "crumb_tmp") -}}
+  {{- end -}}
+{{- end -}}
+{{/*
+  * Render the breadcrumb
+  */}}
+{{- if and $display_breadcrumb (lt $level (len ($page_scratch.Get "crumbs"))) }}
+  <nav aria-label="breadcrumb" class="overlay navbar breadcrumb-container navbar-expand-lg pt-2
+    {{- printf " bg-%s" $nav_bg -}}
+    {{- if or (eq $bg "light") (eq $bg "white") (eq $bg "secondary") -}}
+      {{- printf " navbar-%s" "light" -}}
+    {{- else -}}
+      {{- printf " navbar-%s" "dark" -}}
+    {{- end -}}
+  " id="{{ .Name }}-breadcrumb">
+    <div class="container">
+      <ol class="breadcrumb mb-0 py-1">
+        {{- $item_count := sub (len ($page_scratch.Get "crumbs")) $level -}}
+        {{- if gt $item_count 0 -}}
+          {{- range last $item_count ($page_scratch.Get "crumbs") -}}
+            <li class="breadcrumb-item active"
+              {{- if ne $.root . -}}
+                {{- print " aria-current=\"page\"" -}}
+              {{- end -}}>
+              {{- if ne $.root . }}
+                <a href="{{ .Permalink -}}">
+                  {{- .Title -}}
+                </a>
+              {{- else }}
+                {{- .Title -}}
+              {{- end }}
+            </li>
+          {{- end -}}
+        {{- end -}}
+      </ol>
+    </div>
+  </nav>
+{{- end }}
+<div class="scroll-to-top bg-primary
+  {{- if not .Site.Params.fontawesome.disabled -}}
+    {{ print " has-font-icon" }}
+  {{- end -}}"
+  title="{{- i18n "navbar.back_to_top" | default "Back to top" -}}"
+  >
+  {{- if not .Site.Params.fontawesome.disabled -}}
+    <i class="fas fa-angle-up"></i>
+  {{- else -}}
+    Top
+  {{- end -}}
+  <span class="sr-only">{{ i18n "navbar.back_to_top" | default "Back to top" }}</span>
+</div>
+{{- if .Params.sticky }}
+<style>
+  :root {
+    --header-height: 110px;
+  }
+</style>
+
+{{- end -}}
+
+
+
+
+
+
+
+
+
+
+
+

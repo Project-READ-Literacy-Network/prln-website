@@ -112,11 +112,16 @@ article .content {
 .items {
   &-column {
     display: grid;
+    grid-auto-rows: 2fr auto 1fr;
+      
+   @include media-breakpoint-down('md') {  
     grid-auto-rows: 1fr auto 1fr;
+      }
 
     @include media-breakpoint-down('sm') {
       grid-auto-rows: auto;
     }
+       
   
     a {
       display: contents;
@@ -128,6 +133,7 @@ pre {
   padding: 0.75rem;
 }
 
+/*
 section .bg {
   @each $bg in dark, secondary {
     &-#{$bg} {
@@ -143,6 +149,7 @@ section .bg {
     }
   }
 
+
   @each $bg in white, primary, success, info, warning, danger, light {
     &-#{$bg} {
       code,
@@ -157,6 +164,7 @@ section .bg {
     }
   }
 }
+*/
 
 .faq,
 .list {
@@ -221,7 +229,7 @@ section .bg {
 
 #TableOfContents a.active,
 .active-page {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .btn-group-toggle .btn input {

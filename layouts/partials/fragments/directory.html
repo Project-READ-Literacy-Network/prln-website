@@ -4,6 +4,20 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
   <div class="row">
+      
+      <div class="col-12 px-md-0 pb-4">
+          <a href="{{ "/programs-and-services/directory-of-programs" | relLangURL }}">
+      {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
+      {{- if or .Params.categories -}}
+        <div class="content-info col-12 pb-4 mt-2">
+          {{- if .Params.categories }}
+            {{- partial "helpers/categories.html" (dict "categories" . "background" $bg) -}}
+          {{- end }}
+        </div>
+      {{- end }}
+          </a>
+              </div>
+          
     {{- with .Params.sidebar -}}
       <div class="content-sidebar col-md-3 pb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}">
         {{- if .sticky }}
@@ -14,9 +28,11 @@
             {{- partial "helpers/text-color.html" (dict "self" $self) -}}
           ">
             {{- $title_align := .title_align | default "left" -}}
+            
             <h3 class="sidebar-title {{- printf " text-%s" $title_align -}}">
               {{- .title | markdownify -}}
             </h3>
+            
           </div>
         {{- end }}
         {{- $content_align := .content_align | default "left" -}}
@@ -31,18 +47,11 @@
           </div> {{/* .sticky-top */}}
         {{- end -}}
       </div>
-      <article class="col-md-8 pl-md-5 prln-directory">
+      <article class="col-md-8 pl-md-5 pt-md-2 prln-directory">
     {{- else }}
       <article class="col-md-12 prln-directory">
     {{- end }}
-      {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
-      {{- if or .Params.categories -}}
-        <div class="content-info col-12 pb-4 mt-2">
-          {{- if .Params.categories }}
-            {{- partial "helpers/categories.html" (dict "categories" . "background" $bg) -}}
-          {{- end }}
-        </div>
-      {{- end }}
+      
       {{- if .Params.asset -}}
         <div class="content-image col-12">
           <img src="{{ partial "helpers/image.html" (dict "root" . "asset" .Params.asset) }}" alt="{{ .Params.subtitle | default .Params.title }}" class="img-fluid mb-4">

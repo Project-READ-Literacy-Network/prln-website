@@ -21,12 +21,12 @@ particles = true
 
 [[buttons]]
   text = "Other Opportunities"
-  url = "about/get-involved/#other-opportunuties"
+  url = "about/get-involved/#opportunuties"
   color = "outline-light"
 
 [[buttons]]
   text = "Donate"
-  url = "about/get-involved/#donate"
+  url = "http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d42371"
   color = "outline-light"
 
 

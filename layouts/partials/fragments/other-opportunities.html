@@ -1,0 +1,79 @@
+{{- $self := .self -}}
+
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{ "<!-- Contact -->" | safeHTML }}
+
+{{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
+    {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
+onload="if(submitted) {window.location='/thankyou';}"></iframe>
+
+<div class="row">
+    
+    <div class="col-12">
+
+        <form
+              action="https://docs.google.com/forms/d/e/1FAIpQLSeyFQi3ycLvBOFaqGKaSRt_0HF12CNzPy3V3cr3LMLD-l2HJQ/formResponse"
+              method="post"
+              target="hidden_iframe"
+              onsubmit="submitted=true"
+              class="contact position-relative">
+
+            <div class="row py-3 should-fade">
+                
+     <div class="col-md-6 d-flex flex-column justify-content-between">  
+         
+                <div class="form-check checkbox align-items-stretch">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="big-checkbox form-check-input-inline" value="Fundraising" name="entry.681341351">
+                <label class="form-check-label" for="Fundraising">Fundraising</label>
+                </div>
+                <div class="form-check checkbox">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="big-checkbox form-check-input-inline" value="Co-op Placement" name="entry.681341351">
+                <label class="form-check-label" for="Co-op Placement">Co-op Placement</label>
+                </div>
+                <div class="form-check checkbox">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="big-checkbox form-check-input-inline" value="Volunteering" name="entry.681341351">
+                <label class="form-check-label" for="Volunteering">Volunteering</label>
+                </div>
+                </div>
+
+            <div class="col-md-6 d-flex pt-4 pt-md-0 flex-column justify-content-between">
+                <div class="form-group">
+                <input type="text" placeholder="Name" name="entry.701609315" required class="form-control">
+                </div>
+                <div class="form-group">
+                <input type="email" placeholder="E-mail" name="entry.2146064931" required class="form-control">
+                </div>
+                
+            <div class="form-group mb-0">
+
+                  <button
+                  class="btn btn-block col-12 col-md-6 submit-btn mt-3
+                    {{- if eq $bg "secondary" -}}
+                      {{- printf " btn-%s" "primary" -}}
+                    {{- else -}}
+                      {{- printf " btn-%s" "dark" -}}
+                    {{- end -}}
+                  "
+                  type="submit">
+                  {{- .Params.button_text | default (i18n "contact.defaultButton") }}
+                </button>
+                </div>
+            </div>
+
+            </div>
+
+        </form>
+
+    </div>
+    
+    
+</div>
+{{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}
+
+

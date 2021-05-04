@@ -11,6 +11,8 @@ googleAnalytics = ""
 
 disableKinds = ["RSS", "taxonomies", "taxonomyTerms" ]
 
+assetDir = "static"
+
 [outputs]
   home = ["HTML", "JSON"]
 

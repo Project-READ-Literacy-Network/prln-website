@@ -1,0 +1,52 @@
+{{- $self := .self -}}
+{{- .page_scratch.Add "js" (dict "file" "syna-content.js") -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
+  <div class="row">
+      
+      <div class="col-12 px-md-0 pb-4" id="affiliations-title">
+         
+      {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
+      {{- if or .Params.categories -}}
+        <div class="content-info col-12 pb-4 mt-2">
+          {{- if .Params.categories }}
+            {{- partial "helpers/categories.html" (dict "categories" . "background" $bg) -}}
+          {{- end }}
+        </div>
+      {{- end }}
+       
+      </div>
+          
+       
+      <div class="col-12 px-0 text-center pb-3
+        {{- partial "helpers/text-color.html" (dict "self" $self) -}}
+      ">
+        {{- partial "helpers/slot.html" (dict "root" $ "slot" "before-content" "data" (dict "page" $.page "content_fragment" .self)) -}}
+        {{- $content := $self.Content -}}
+        {{- $content := replace $content "<blockquote>" "<blockquote class=\"blockquote\">" -}}
+        {{- $content | safeHTML -}}
+        {{- partial "helpers/slot.html" (dict "root" $ "slot" "after-content" "data" (dict "page" $.page "content_fragment" .self)) -}}
+      </div>
+      
+       <div class="row no-gutters justify-content-center align-items-center text-center">
+        
+          
+        {{- range .Params.logos }}
+          <a href="{{ .url | relLangURL }}" class="col-6 col-md-4" target="_blank">
+            <img class="px-2 py-3 px-lg-2 py-lg-2 w-75 
+            {{- if hasPrefix .url " # " }} anchor{{ end -}}" 
+            src="{{ .src }}"
+            alt="{{ .text }}">
+          </img>
+          </a>
+        {{- end }}
+        
+             
+               
+      </div>     
+          
+          
+
+  </div>
+{{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}

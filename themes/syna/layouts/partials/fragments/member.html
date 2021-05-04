@@ -13,20 +13,20 @@
         {{/* Handle special case of index.md being considered a member */}}
         {{- if not (in .Name "/index.md") -}}
           {{- $member := .Params -}}
-          <div class="col-lg-4 col-md-6 col-sm-12 pt-3 pb-5 text-center">
+          <div class="col-lg-4 col-md-6 col-12 px-0 py-0 text-center">
             {{- if .Params.asset -}}
               <div class="text-center m-2">
-                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250") }}" class="img-fluid w-50" alt="{{ $member.title }}"></img>
+                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250") }}" class="img-fluid w-50 px-5 px-md-2" alt="{{ $member.title }}"></img>
               </div>
             {{- end -}}
-            <div class="mt-1 mb-0
+            <div class="mt-1 mb-0 mx-3 my-2
               {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
             ">
               <h3>
                 {{- $member.title -}}
               </h3>
             </div>
-            <div class="member
+            <div class="member mx-3 my-2
               {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
             ">
               {{- with $member.position -}}
