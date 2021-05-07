@@ -1,10 +1,10 @@
 +++
-title = "Column 2"
+
 weight = 20
 
 [asset]
   image = "row-logo.svg"
   url = "http://www.region.waterloo.on.ca/"
+  name = "Region of Waterloo, Community Services Department"
 +++
 
-Region of Waterloo, Community Services Department

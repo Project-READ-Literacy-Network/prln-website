@@ -11,7 +11,6 @@ subtitle = "Helpful links to resources that we recommend"
 
 [asset]
   icon = "fas fa-lightbulb"
-  color = "danger"
   
 [[buttons]]
   text = "Activities & Games"

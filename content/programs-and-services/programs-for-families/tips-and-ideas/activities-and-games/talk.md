@@ -21,9 +21,4 @@ title = "Talk"
   
 #### [Sesame Street Guide to talking with your child](http://www.talkingisteaching.org/)  
   
-#### [Talk about emotions](http://www.cbc.ca/parents/shows/view/the_adventures_of_napkin_man)   
-  
-#### Talk to your child about sex
-
-#### [ashasexualhealth.org](http://www.ashasexualhealth.org/parents)
-#### [The Talk](https://www.regionofwaterloo.ca/en/health-and-wellness/resources/Documents/The-Talk.pdf)   
+#### [Talk about emotions](http://www.cbc.ca/parents/shows/view/the_adventures_of_napkin_man)    

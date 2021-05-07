@@ -70,13 +70,7 @@
                 <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .) }}" class="img-fluid px-5 py-2 px-lg-2" alt="{{ .text | default $.Params.title }}">
               {{- else if isset . "icon" }}
                 <span class="fa-stack fa-4x" title="{{ .text | default $.Params.title }}">
-                  <i class="fas fa-circle fa-stack-2x
-                      {{- if eq $bg "primary" -}}
-                        {{- print " text-dark" -}}
-                      {{- else -}}
-                        {{- print " text-primary" -}}
-                      {{- end -}}
-                    "></i>
+                  <i class="fas fa-circle fa-stack-2x text-{{.color | default "primary"}}"></i>
                   <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
                   <span class="sr-only">{{ .text | default $.Params.title }}</span>
                 </span>
@@ -108,7 +102,7 @@
       </div>
       {{- if .self.Content -}}
       <div class="row">
-        <div class="col-12 text-center text-lg-left">
+        <div class="col-12 text-left">
           <div class="mb-0
             {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "white") -}}
           ">
@@ -174,13 +168,7 @@
           {{- else if isset . "icon" }}
             <div class="col-12 text-center d-none d-lg-inline">
               <span class="fa-stack fa-4x" title="{{ .text | default $.Params.title }}">
-                <i class="fas fa-circle fa-stack-2x
-                  {{- if eq $bg "primary" -}}
-                    {{- print " text-dark" -}}
-                  {{- else -}}
-                    {{- print " text-primary" -}}
-                  {{- end -}}
-                "></i>
+                <i class="fas fa-circle fa-stack-2x text-{{.color | default "primary"}}"></i>
                 <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
                 <span class="sr-only">{{ .text | default $.Params.title }}</span>
               </span>

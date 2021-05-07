@@ -33,7 +33,7 @@
         
           
         {{- range .Params.logos }}
-          <a href="{{ .url | relLangURL }}" class="col-6 col-md-4" target="_blank">
+          <a href="{{ .url | relLangURL }}" class="col-4 col-md-2" target="_blank">
             <img class="px-2 py-3 px-lg-2 py-lg-2 w-75 
             {{- if hasPrefix .url " # " }} anchor{{ end -}}" 
             src="{{ .src }}"

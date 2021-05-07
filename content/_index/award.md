@@ -1,6 +1,6 @@
 +++
 fragment = "item"
-background = "primary"
+background = "danger"
 title = "Yvonne Heninger Memorial Award"
 subtitle = "for Literacy Students Overcoming Challenges"
 weight = 129

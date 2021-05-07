@@ -3,10 +3,10 @@ fragment = "details-item"
 #disabled = false
 date = "2017-10-04"
 weight = 180
-background = "danger"
+background = "light"
 align = "left"
 
-#title ="Take an online course"
+#title =""
 
 [asset]
   icon = "fas fa-desktop"

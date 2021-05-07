@@ -8,9 +8,9 @@ weight = 1200
 menu_title = "Get Involved"
 
 [asset]
-  title = "Logo Title"
+  title = "Project READ Literacy Network Waterloo-Wellington"
   image = "prln-logo.svg"
-  text = "Project READ"
+  text = "Project READ Literacy Network Waterloo-Wellington"
   url = "#"
 +++
 

@@ -2,8 +2,8 @@
 fragment = "content"
 #disabled = true
 date = "2017-10-05"
-weight = 180
-background = "warning"
+weight = 220
+background = "light"
 title_align = "left"
 #title = "Literacy Definitions"
 #subtitle = ""

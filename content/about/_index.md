@@ -1,3 +1,3 @@
 +++
-title = "About Project READ"
+title = "About Project READ Literacy Network"
 +++

@@ -19,7 +19,7 @@
 {{- end -}}>
   <div class="container-fluid">
     {{- if .Params.asset.image }}
-      <a class="navbar-brand pt-0 pb-2 pr-lg-2" href="{{ "#" | relLangURL }}">
+      <a class="navbar-brand pt-0 pb-2 pl-lg-3 pr-lg-2" href="{{ "#" | relLangURL }}">
         <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="80px" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
       </a>
     {{- else }}
@@ -95,8 +95,11 @@
                         <ul>
                             <li class="my-dropie-header"><a href="{{ "programs-and-services/programs-for-families" | relLangURL }}">Programs for Families</a></li>
                                 <ul>
-                                    <li><a href="{{ "programs-and-services/programs-for-families/#get-set-learn-by-prln" | relLangURL }}">Get Set Learn by PRLN</a></li>
-                                    <li><a href="{{ "programs-and-services/programs-for-families/#sign-up" | relLangURL }}">Sign-Up</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#get-set-learn" | relLangURL }}">Get Set Learn</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#programs" | relLangURL }}">Programs</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#workshops" | relLangURL }}">Workshops</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#tips-and-ideas" | relLangURL }}">Tips & Ideas</a></li>
+                                    <li><a href="{{ "programs-and-services/programs-for-families/#gsl-sign-up" | relLangURL }}">Sign-Up</a></li>
                                 </ul>
                             </ul>
                     </li>
@@ -251,14 +254,7 @@
   * Render the breadcrumb
   */}}
 {{- if and $display_breadcrumb (lt $level (len ($page_scratch.Get "crumbs"))) }}
-  <nav aria-label="breadcrumb" class="overlay navbar breadcrumb-container navbar-expand-lg pt-2
-    {{- printf " bg-%s" $nav_bg -}}
-    {{- if or (eq $bg "light") (eq $bg "white") (eq $bg "secondary") -}}
-      {{- printf " navbar-%s" "light" -}}
-    {{- else -}}
-      {{- printf " navbar-%s" "dark" -}}
-    {{- end -}}
-  " id="{{ .Name }}-breadcrumb">
+  <nav aria-label="breadcrumb" class="overlay-top navbar breadcrumb-container navbar-expand-lg pt-2" id="{{ .Name }}-breadcrumb">
     <div class="container">
       <ol class="breadcrumb mb-0 py-1">
         {{- $item_count := sub (len ($page_scratch.Get "crumbs")) $level -}}

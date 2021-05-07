@@ -3,10 +3,10 @@ fragment = "details-item"
 #disabled = false
 date = "2017-10-04"
 weight = 170
-background = "light"
-align = "left"
+background = "secondary"
+align = "right"
 
-#title ="Go to night school"
+#title =""
 
 [asset]
   icon = "fas fa-moon"

@@ -9,13 +9,16 @@ align = "left"
 #title =""
 
 [asset]
-  icon = "fas fa-thumbs-up"  
+  icon = "fas fa-user-graduate"  
 +++
 
 <details>
 <summary>
     
 # Upgrade my skills
+### Finish High School
+### Get my GED
+### Go to College
 
 </summary>
 

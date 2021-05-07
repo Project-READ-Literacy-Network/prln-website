@@ -12,51 +12,143 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
 <div class="row">
     
-    <div class="col-12">
+    <div class="col-12" id="gform">
 
         <form
-              action="https://docs.google.com/forms/d/e/1FAIpQLSeNo6qbckwe2QVmXC8OSwbDAXkZh8QPTXR5lL4KFMSHI7Mn5Q/formResponse"
+              action="https://docs.google.com/forms/d/e/1FAIpQLSddrLqTuOxn74zjPe5CSB70egtR9wd4C3Ijrzk3PkThKKdUxw/formResponse"
               method="post"
               target="hidden_iframe"
               onsubmit="submitted=true"
               class="contact position-relative">
 
-            <div class="row py-3 should-fade">
+    <div class="row pt-5">
 
-            <div class="col-md-6">
+        <div class="col-md-6 ">
                 <div class="form-group">
-                <input type="text" placeholder="Name*" name="entry.268276721" required class="form-control">
+                <input type="text" placeholder="Name" name="entry.1166360450" required class="form-control">
                 </div>
                 <div class="form-group">
-                <input type="email" placeholder="Email*" name="entry.454646350" required class="form-control">
+                <input type="email" placeholder="Email" name="entry.1230585530" required class="form-control">
                 </div>
                 <div class="form-group">
-                <input type="text" placeholder="Phone*" name="entry.1084181864" class="form-control">
+                <input type="text" placeholder="Phone" name="entry.2116428376" class="form-control">
                 </div>
-            </div>
-
-            <div class="col-md-6">  
-
                 <div class="form-group">
-                <textarea rows="5" placeholder="Message*" name="entry.1389400107" required class="form-control"></textarea>
+                <input type="text" placeholder="Your children - names and ages" name="entry.2105716078" class="form-control">
                 </div>
-            </div>
-            <div class="col text-center">
+                
+                
+                <p class="label pt-3 col-10 pl-0">Which online class of our Get Set Learn program works for you?</p>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="Class 1- Tuesday \u0026 Thursday" name="entry.529051757">
+                <label class="form-check-label" for="Class 1- Tuesday \u0026 Thursday">Class 1- Tuesday & Thursday</label>
+                </div>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="Class 2- Wednesday \u0026 Friday" name="entry.529051757">
+                <label class="form-check-label" for="Class 2- Wednesday \u0026 Friday">Class 2- Wednesday & Friday</label>
+                </div>
+                
+                <div class="form-group w-50 pl-0">
+                <input type="text" placeholder="other" name="entry." class="form-control">
+                </div>
+                    
+                
+        </div>
 
-                  <button
-                  class="btn btn-lg submit-btn
-                    {{- if eq $bg "secondary" -}}
-                      {{- printf " btn-%s" "outline-light" -}}
-                    {{- else -}}
-                      {{- printf " btn-%s" "primary" -}}
+                
+        <div class="col-md-6 d-flex flex-column justify-content-between">
+                
+                
+                    <p class="label pt-3 pt-md-0">How did you find out about Get Set Learn?</p>
+                
+                
+                 
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="doctor" name="entry.1243974042">
+                    <label class="form-check-label" for="doctor">doctor</label>
+                    </div>
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="nurse" name="entry.1243974042">
+                    <label class="form-check-label" for="nurse">nurse</label>
+                    </div>
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="community worker" name="entry.1243974042">
+                    <label class="form-check-label" for="community worker">community worker</label>
+                    </div>
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="caseworker" name="entry.1243974042">
+                    <label class="form-check-label" for="caseworker">caseworker</label>
+                    </div>
+         
+                    
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="cheque insert" name="entry.1243974042">
+                    <label class="form-check-label" for="cheque insert">cheque insert</label>
+                    </div>
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="friend" name="entry.1243974042">
+                    <label class="form-check-label" for="friend">friend</label>
+                    </div>
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="Peers" name="entry.1243974042">
+                    <label class="form-check-label" for="Peers">peer</label>
+                    </div>
+                    <div class="form-group pl-0 w-50">
+                    <input type="text" placeholder="other" name="entry." class="form-control">
+                    </div>
+                </div>
+                    
+ 
+
+            </div> 
+
+        
+
+    
+            <div class="row">
+                <div class="col-md-12 text-center">
+                
+                    {{- if .self.Content -}}
+                    <div class="col-12 pl-0 gsl-form-info">
+                    {{- .self.Content -}}
+                    </div>
                     {{- end -}}
-                  "
-                  type="submit">
-                  {{- .Params.button_text | default (i18n "contact.defaultButton") }}
-                </button>
+                    
                 </div>
+   
+                
+                <div class="col text-center">
+                
+                    <div class="form-group">
 
-            </div>
+                    <button
+                      class="btn btn-lg submit-btn mt-3
+                        {{- if eq $bg "light" "warning" -}}
+                          {{- printf " btn-%s" "primary" -}}
+                        {{- else -}}
+                          {{- printf " btn-%s" "primary" -}}
+                        {{- end -}}
+                      "
+                      type="submit">
+                      {{- .Params.button_text | default (i18n "contact.defaultButton") }}
+                    </button>  
+
+                    </div>
+                    
+                </div>
+                
+           </div>
 
         </form>
 
