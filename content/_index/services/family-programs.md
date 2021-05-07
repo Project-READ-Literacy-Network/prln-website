@@ -18,7 +18,7 @@ subtitle= "Get your family ready for school!"
   
 [[buttons]]
   text = "What is Family Literacy?"
-  url = "about/history-and-purpose/#what-is-family-literacy"
+  url = "about/about-us/#what-is-family-literacy"
   color = "outline-dark"
   
 [[buttons]]

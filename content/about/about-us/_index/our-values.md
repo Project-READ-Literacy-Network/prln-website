@@ -12,9 +12,9 @@ align = "right"
 [asset]
   icon = "fas fa-hand-holding-heart"
   color = "dark"
-  url = "about/history-and-purpose/our-values"
+  url = "about/about-us/our-values"
 
 +++
 
-# [Our Values]({{< ref "about/history-and-purpose/our-values" >}})
+# [Our Values]({{< ref "about/about-us/our-values" >}})
 

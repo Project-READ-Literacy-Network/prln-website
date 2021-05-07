@@ -76,7 +76,7 @@ lastmod = ["lastmod", ":git", "date"]
   identifier = "about"
   
 [[menu.main]]
-  url = "/about/history-and-purpose.md"
+  url = "/about/about-us.md"
   name = "History and Purpose"
   weight = 10
   parent = "about"

@@ -15,11 +15,10 @@ particles = true
   color = "outline-light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Literacy Programs of Waterloo and Wellington Region"
+  text = "Adult Literacy Programs"
   url = "programs-and-services/programs-for-adults/#literacy-programs-of-waterloo-and-wellington-region"
   color = "outline-light"
 +++
 
-<!--more-->
 
 

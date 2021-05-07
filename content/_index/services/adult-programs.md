@@ -18,7 +18,7 @@ subtitle = "Do you want to go back to school? Do you know someone who needs to u
 
 [[buttons]]
   text = "What is Literacy?"
-  url = "about/history-and-purpose/#literacy-definitions"
+  url = "about/about-us/#literacy-definitions"
   color = "success"
   
 [[buttons]]

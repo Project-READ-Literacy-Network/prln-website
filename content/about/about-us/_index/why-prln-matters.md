@@ -10,11 +10,11 @@ align = "left"
 
 [asset]
   image = "prln-logo.svg"
-  url = "about/history-and-purpose/why-prln-matters"
+  url = "about/about-us/why-prln-matters"
 
 +++
 
-# [Why Project READ Matters]({{< ref "about/history-and-purpose/why-prln-matters" >}})
+# [Why Project READ Matters]({{< ref "about/about-us/why-prln-matters" >}})
 
 
   
