@@ -1,6 +1,6 @@
 +++
 fragment = "details-item"
-align = "right"
+align = "left"
 #title = "Life-long learner"
 weight = 210
 background = "secondary"

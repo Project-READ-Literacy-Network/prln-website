@@ -12,7 +12,7 @@
         </h4>
         {{- if .image }}
         <a href="{{ .url }}">
-          <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "220x100") }}" class="img-fluid w-50" alt="{{ .text }}">
+          <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "220x100") }}" class="img-fluid footer-logo" alt="{{ .text }}">
         </a>
         {{- else }}
         <div>
@@ -23,10 +23,10 @@
         {{- end -}}
       {{- end -}}
 
-      {{- if .Site.Menus.footer_social }}
-        <div class="row justify-content-left ml-0">
-          {{- range sort .Site.Menus.footer_social }}
-            <span class="fa-stack fa-lg mt-3 mr-1" title="{{ .Name }}">
+      {{- if .Site.Menus.social }}
+        <div class="row ml-0 d-xl-none social-icon-align">
+          {{- range sort .Site.Menus.social }}
+            <span class="fa-stack prln-social-icon-size mt-3" title="{{ .Name }}">
               <a href="{{ .URL | relLangURL }}" class="prln-social-icons">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="{{ .Pre }} fa-stack-1x fa-fw text-light"></i>
@@ -41,12 +41,12 @@
       {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
     ">
       {{- with .Params.menu_title }}
-        <h4>
+        <h4 class="pl-md-4">
           {{- . -}}
         </h4>
       {{- end -}}
       {{- if .Site.Menus.footer }}
-        <ul class="nav flex-column">
+        <ul class="nav flex-column pl-md-4">
             {{- range sort .Site.Menus.footer }}
               <li class="nav-item">
                 <a class="nav-link p-0 display-5" href="{{ .URL | relLangURL }}"

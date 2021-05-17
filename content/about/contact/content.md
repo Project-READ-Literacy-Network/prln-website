@@ -19,7 +19,7 @@ Kitchener, ON, N2G 3V2
 
 ### Phone
 
-519-570-3054  
+(519) 570-3054  
 
 ### E-mail
 

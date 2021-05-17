@@ -9,7 +9,8 @@ align = "left"
 #title =""
 
 [asset]
-  icon = "fas fa-book-reader"  
+  icon = "fas fa-book-reader"
+  color = "success"
 +++
 
 <details>

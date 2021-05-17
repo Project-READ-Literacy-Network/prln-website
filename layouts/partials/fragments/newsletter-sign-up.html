@@ -6,33 +6,85 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
     {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
-<script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
-onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
 <div class="row">
     
-    <div class="col-12">
+    <div class="col-12" id="gform">
         
         <form
-              action="https://docs.google.com/forms/d/e1FAIpQLSdYQ-5RVd44MTiPUVq2leMFXSdqmQ4I5wwUzqQxEW0241-lBQ/formResponse"
+              action="https://projectread.us3.list-manage.com/subscribe/post?u=76fedbe58bfd8289358efada2&id=036ea00e25"
               method="post"
-              target="hidden_iframe"
               onsubmit="submitted=true"
               class="contact position-relative">
 
             <div class="row py-3 should-fade">
 
-            <div class="col-sm-9">
+            <div class="col-sm-6 d-flex flex-column justify-content-between">
+                
                 <div class="form-group">
-                <input type="email" placeholder="Email" name="entry.231354060" required class="form-control">
+                <p class="label pl-0">E-mail</p>
+                <input type="email" name="EMAIL" required class="form-control">
                 </div>
-            </div>
+                
+                <div class="form-group">
+                <p class="label pl-0">First Name</p>
+                <input type="text" name="FNAME" class="form-control">
+                </div>
+                
+                <div class="form-group">
+                <p class="label pl-0">Last Name</p>
+                <input type="text" name="LNAME" class="form-control">
+                </div>                
+               
+              </div>  
+        
 
-            
-            <div class="col-sm-3 text-center">
+            <div class="col-sm-6 text-left ">
+                
+                <p class="label pl-0">What are you interested in?</p>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="1" name="23477">
+                <label class="form-check-label" for="1">Family Literacy and Get Set Learn training and certification</label>
+                </div>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="2" name="23477">
+                <label class="form-check-label" for="2">Get Set Learn Peer Worker program</label>
+                </div>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="4" name="23477">
+                <label class="form-check-label" for="4">Local Family Literacy facts, news, or updates (Waterloo &amp; Guelph Wellington Regions)</label>
+                </div>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="8" name="23477">
+                <label class="form-check-label" for="8">Project READ events and fundraisers</label>
+                </div>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="16" name="23477">
+                <label class="form-check-label" for="16">Adult Literacy training and professional development</label>
+                </div>
+                
+                <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                <!-- The "value" is important -->
+                <input type="checkbox" class="form-check-input" value="32" name="23477">
+                <label class="form-check-label" for="32">Local Adult Literacy facts, news, or updates (Waterloo Region)</label>
+                </div>
 
-                  <button
+                 
+                </div>
+                
+                <div class="col-sm-4 mx-auto pt-4 text-center">
+                    
+                      <button
                   class="btn submit-btn btn-block
                     {{- if eq $bg "warning" -}}
                       {{- printf " btn-%s" "outline-dark" -}}
@@ -40,7 +92,7 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
                       {{- printf " btn-%s" "primary" -}}
                     {{- end -}}
                   "
-                  type="submit">
+                  type="submit" >
                   {{- .Params.button_text | default (i18n "contact.defaultButton") }}
                 </button>
                 </div>

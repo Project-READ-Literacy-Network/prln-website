@@ -1,6 +1,6 @@
 +++
 fragment = "details-item"
-align = "right"
+align = "left"
 #title = "Resourceful"
 weight = 190
 background = "warning"

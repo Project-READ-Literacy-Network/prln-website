@@ -1,8 +1,8 @@
 +++
-fragment = "content"
+fragment = "content-custom"
 background = "light"
-#title = "Yvonne Heninger Memorial Award"
-#subtitle = "for Literacy Students Overcoming Challenges"
+#title = ""
+#subtitle = ""
 weight = 140
 title_align = "center"
 

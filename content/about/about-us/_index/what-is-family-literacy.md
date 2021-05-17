@@ -2,15 +2,15 @@
 fragment = "details-item"
 #disabled = false
 date = "2017-10-04"
-weight = 150
-background = "warning"
+weight = 160
+background = "secondary"
 align = "right"
 
 #title = ""
 #subtitle = ""
 
 [asset]
-  icon = "fas fa-hand-holding-heart"
+  image = "what-is-family-literacy.png"
 
 +++
 

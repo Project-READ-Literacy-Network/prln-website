@@ -7,7 +7,7 @@
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
   {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
   <div class="row text-center justify-content-center">
-    <div class="faq">
+    <div class="faq justify-content-center">
       {{- if eq (len $items) 0 -}}
         {{- partial "helpers/empty-subpath.html" (dict "context" "faq" "root" $) -}}
       {{- else -}}
@@ -17,7 +17,7 @@
             {{- $item := .Params }}
             {{- $card_header_id := printf "%s" (strings.TrimSuffix ".md" (replace .Name (printf "%s/" $.id) "")) }}
             {{- $collapse_id := printf "%s%s" $.id (printf "%s-collapse" (strings.TrimSuffix ".md" (replace .Name (printf "%s/" $.id) ""))) }}
-              <div class="card">
+              <div class="card mx-auto">
                 <div id="{{ $card_header_id }}" class="card-header" data-toggle="collapse" data-target="#{{ $collapse_id }}"
                             aria-expanded="false" aria-controls="{{ $collapse_id }}">
                   <h5 class="mb-0">
@@ -26,7 +26,7 @@
                 </div>
 
                 <div id="{{ $collapse_id }}" class="collapse" aria-labelledby="{{ $card_header_id }}" data-parent="faq">
-                  <div class="card-body">
+                  <div class="card-body mh-100">
                     {{ .Content }}
                   </div>
                 </div>

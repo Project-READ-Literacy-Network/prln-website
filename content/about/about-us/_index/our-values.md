@@ -1,20 +1,17 @@
 +++
-fragment = "item"
+fragment = "item-url-basic"
 #disabled = false
 date = "2017-10-04"
 weight = 140
-background = "primary"
+background = "warning"
 align = "right"
 
-#title = ""
-#subtitle = ""
+title = "Our Values"
+subtitle = "What we strive to embody when communicating and interacting with our community, partners and stakeholders"
 
 [asset]
-  icon = "fas fa-hand-holding-heart"
-  color = "dark"
+  image = "our-values.png"
   url = "about/about-us/our-values"
 
 +++
-
-# [Our Values]({{< ref "about/about-us/our-values" >}})
 

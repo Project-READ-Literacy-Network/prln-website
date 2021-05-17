@@ -4,7 +4,7 @@ fragment = "details-item"
 date = "2017-10-04"
 weight = 150
 background = "danger"
-align = "right"
+align = "left"
 
 #title =""
 

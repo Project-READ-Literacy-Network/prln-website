@@ -10,6 +10,7 @@ align = "left"
 
 [asset]
   icon = "fas fa-desktop"
+  color = "danger"
   
 +++
 

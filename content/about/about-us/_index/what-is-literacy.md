@@ -2,7 +2,7 @@
 fragment = "details-item"
 #disabled = false
 date = "2017-10-04"
-weight = 140
+weight = 150
 background = "light"
 align = "left"
 
@@ -10,7 +10,7 @@ align = "left"
 #subtitle = ""
 
 [asset]
-  icon = "fas fa-hand-holding-heart"
+  image = "what-is-literacy.png"
 +++
 
 <details>

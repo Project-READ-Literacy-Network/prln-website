@@ -1,6 +1,7 @@
 +++
 fragment = "hero"
 #disabled = true
+title_page = true
 date = "2016-09-07"
 weight = 50
 background = "light" # can influence the text color
@@ -11,7 +12,6 @@ subtitle = "A Doorway to Literacy and Essential Skills Services Offered in Water
 
 [header]
   image = "class-group.jpg"
-  height = "100%"
 
 [asset]
   image = "gov-logo.svg"

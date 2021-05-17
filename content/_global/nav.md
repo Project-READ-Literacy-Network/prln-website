@@ -8,7 +8,8 @@ search = false
 [donate_button]
   url = "https://www.canadahelps.org/en/dn/11623"
   text = "Donate" 
-  icon = "fas fa-donate" 
+  icon = "fas fa-heart"
+ 
 
 # Branding options
 [asset]
@@ -17,5 +18,5 @@ search = false
 [breadcrumb]
   display = false # Default value is false
   level = 1 # Default is 1
-  background = "secondary"  
+  background = "light"  
 +++
