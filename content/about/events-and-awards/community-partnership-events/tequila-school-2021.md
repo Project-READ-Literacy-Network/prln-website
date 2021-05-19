@@ -1,7 +1,7 @@
 +++
-weight = 10
+weight = 61
 title = "Tequila School"
-subtitle = "in support of KW Habilitation"
+subtitle = "In support of KW Habilitation"
 
 [asset]
   image = "tequila-school-2021.png"

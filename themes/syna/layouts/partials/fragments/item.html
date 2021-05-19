@@ -3,7 +3,10 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) }}
-  <div class="row align-items-center text-center
+  <div style="{{- with .Params.minHeight -}}
+          {{- (printf "min-height: %s;" .) | safeCSS -}}
+        {{- end -}}"
+       class="row align-items-center text-center 
     {{- if eq $align "left" -}}
       {{- printf " justify-content-start text-lg-left" -}}
     {{- else if eq $align "right" -}}

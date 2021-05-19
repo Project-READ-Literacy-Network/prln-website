@@ -1,5 +1,5 @@
 :root {
-  --header-height: 0px;
+  --header-height: 130px;
 }
 
 .nav-link {
@@ -131,6 +131,29 @@ article .content {
     }
   }
 }
+.long-items {
+  &-column {
+    display: grid;
+    grid-auto-rows: minmax(5rem, auto) minmax(4rem, auto) minmax(16rem, auto);
+
+    @include media-breakpoint-down('lg') {
+      grid-auto-rows: minmax(5rem, auto) minmax(3rem, auto) minmax(18rem, auto);
+    }   
+      
+    @include media-breakpoint-down('md') {
+      grid-auto-rows: minmax(3rem, auto) minmax(3rem, auto) minmax(25rem, auto);
+    }  
+      
+    @include media-breakpoint-down('sm') {
+      grid-auto-rows: auto;
+    }
+  
+    a {
+      display: contents;
+    }
+  }
+}
+
 
 pre {
   padding: 0.75rem;

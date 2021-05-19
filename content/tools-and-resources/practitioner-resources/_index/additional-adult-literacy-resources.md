@@ -10,7 +10,7 @@ title ="Additional Adult Literacy Resources"
 
 [asset]
   image = "additional-adult-literacy-resources.jpg"
-  url = "tools-and-resources/practitioner-resources/additional-adult-literacy-resources"
+  url = "../../tools-and-resources/practitioner-resources/additional-adult-literacy-resources"
 
 +++ 
   

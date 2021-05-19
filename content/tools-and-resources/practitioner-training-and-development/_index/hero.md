@@ -3,33 +3,30 @@ fragment = "hero"
 weight = 1
 
 title = "Practitioner Training & Development"
-background = "primary"
+background = "light"
 particles = true
+minHeight = "50vh"
 
 [header]
-  image = "header.svg"
-
-[[buttons]]
-  text = "Bridges out of Poverty"
-  url = "tools-and-resources/practitioner-training-and-development/#bridges-out-of-poverty"
-  color = "outline-light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
-
-[[buttons]]
-  text = "Soft Skills Solutions"
-  url = "tools-and-resources/practitioner-training-and-development/#soft-skills-solutions"
-  color = "outline-light"
+  image = "practitioner-training-and-development.jpg"
 
 [[buttons]]
   text = "GSL Family Literacy"
   url = "tools-and-resources/practitioner-training-and-development/#gsl-family-literacy"
-  color = "outline-light"
+  color = "light"
 
 [[buttons]]
-  text = "Sign-Up"
-  url = "tools-and-resources/practitioner-training-and-development/#sign-up"
-  color = "outline-light"
+  text = "Bridges out of Poverty"
+  url = "tools-and-resources/practitioner-training-and-development/#bridges-out-of-poverty"
+  color = "light"
+  
+[[buttons]]
+  text = "Soft Skills Solutions"
+  url = "tools-and-resources/practitioner-training-and-development/#soft-skills-solutions"
+  color = "light"
+
+
 +++
 
-<!--more-->
 
 

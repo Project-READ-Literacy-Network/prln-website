@@ -3,16 +3,11 @@ fragment = "hero"
 weight = 100
 
 title = "Contact"
-background = "primary"
+background = "light"
 particles = true
+minHeight = "50vh"
 
 [header]
-  image = "header.svg"
+  image = "contact.jpg"
 
 +++
-
-
-
-<!--more-->
-
-

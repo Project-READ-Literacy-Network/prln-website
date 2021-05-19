@@ -19,7 +19,7 @@
       </div>
           
     {{- with .Params.sidebar -}}
-      <div class="content-sidebar col-md-3 pb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}">
+      <div class="content-sidebar col-md-3 pb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}" id="directory-sbn">
         {{- if .sticky }}
           <div class="sticky-top pt-3">
         {{- end -}}

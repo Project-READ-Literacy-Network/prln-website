@@ -5,6 +5,7 @@ weight = 100
 title = "Programs for Adults"
 background = "light"
 particles = true
+minHeight = "50vh"
 
 [header]
   image = "adult-programs.jpg"

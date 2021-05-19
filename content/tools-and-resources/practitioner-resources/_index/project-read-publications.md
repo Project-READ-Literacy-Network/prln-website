@@ -10,7 +10,7 @@ title ="Project READ Publications"
 
 [asset]
   image = "prln-logo.png"
-  url = "tools-and-resources/practitioner-resources/publications"
+  url = "../../tools-and-resources/practitioner-resources/publications"
 
 +++
 

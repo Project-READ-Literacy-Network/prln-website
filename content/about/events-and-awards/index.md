@@ -3,26 +3,27 @@ fragment = "hero"
 weight = 100
 
 title = "Events and Awards"
-background = "primary"
+background = "light"
 particles = true
+minHeight = "50vh"
 
 [header]
-  image = "header.svg"
+  image = "events-and-awards.jpg"
 
 [[buttons]]
   text = "Project READ Events"
   url = "about/events-and-awards/#prln-events"
-  color = "outline-light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
-
+  color = "light" 
+  
 [[buttons]]
   text = "Community Partnership Events"
   url = "about/events-and-awards/#community-partnership-events"
-  color = "outline-light"
+  color = "light"
 
 [[buttons]]
   text = "Awards"
   url = "about/events-and-awards/#awards"
-  color = "outline-light"
+  color = "light"
 +++
 
 

@@ -1,0 +1,55 @@
+{{- $items := partial "helpers/subitems.html" . -}}
+
+{{- $self := . -}}
+{{- .page_scratch.Add "js" (dict "file" "syna-portfolio.js") -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
+  {{- partial "helpers/section-header.html" (dict "self" $self.self "bg" $bg "params" .Params) }}
+  <div class="row justify-content-center align-items-start pt-4">
+    {{- if eq (len $items) 0 }}
+      {{- partial "helpers/empty-subpath.html" (dict "context" "portfolio" "root" $) -}}
+    {{- else -}}
+      {{- range (sort $items ".Params.weight" "desc") }}
+        <div class="col-sm-6 col-md-4 col-lg-3 pt-3 pb-2 col-xl-2 px-5 px-sm-2">
+          <div
+            class="portfolio-item overflow-hidden 
+              {{- if not .Params.item_url }} has-modal {{- end -}}
+              {{- with .Params.background -}}
+                {{- if .image -}}
+                  {{- print " has-background" -}}
+                {{- end -}}
+              {{- end -}}
+            " 
+               >
+            {{- if .Params.item_url }}
+              <a href="{{ .Params.item_url | relLangURL }}">
+            {{- end }}
+                  {{- $this := . -}}
+             {{- with .Params.asset -}}
+          {{- if .image -}}
+                  <div class="rounded publication-image fill-item mx-auto">
+            <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image" alt="{{ .text }}">  
+          </div>
+             {{- end }}   
+               {{- end }}                      
+                
+                {{- if or .Params.title .Params.subtitle }}
+                      {{ if .Params.title }}<h6 class="title publication-title w-100 pt-2 px-4 px-xl-2">{{ .Params.title }}</h6>{{ end }}
+                      {{ if .Params.subtitle }}<h6 class="subtitle publication-subtitle w-100 px-4 px-xl-2">{{ .Params.subtitle }}</h6>{{ end }}
+                  
+                {{- end }}
+                <div class="content hidden">{{ .Content }}
+                    {{- if .Params.free_download }}
+                    <a href="{{ .Params.free_download | relLangURL }}"> Free Download </a> 
+                    {{ end }}
+                </div>
+            {{- if .Params.item_url }}
+              </a>
+            {{- end }}
+          </div>
+        </div>
+      {{- end -}}
+    {{- end }}
+  </div>
+{{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}

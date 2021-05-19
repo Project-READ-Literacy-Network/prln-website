@@ -9,7 +9,14 @@ align = "left"
 #title =""
 
 [asset]
-  icon = "fas fa-user-graduate"  
+  icon = "fas fa-user-graduate"
+  
+[[buttons]]
+  text = "Check out the Directory of Programs"
+  url = "programs-and-services/directory-of-programs"
+  color = "primary"
+  
+  
 +++
 
 <details>
@@ -25,7 +32,6 @@ align = "left"
 If you live in Kitchener, Waterloo, Cambridge or Guelph, please call Project READ Literacy Network to book a literacy assessment. This assessment is an interview with a specialist who will help you find out where to start your path to education.  
 **(519) 570-3054**  
   
-Point to Directory
 
 
 </details>

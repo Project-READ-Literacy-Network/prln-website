@@ -18,7 +18,7 @@ title = "The Directory of Programs"
 
 [[buttons]]
   text = "Browse Directory"
-  url = "#"
+  url = "/programs-and-services/directory-of-programs/"
   color = "secondary"
 +++
 

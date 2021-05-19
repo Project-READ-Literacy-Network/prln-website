@@ -6,9 +6,9 @@ date = "2016-09-07"
 weight = 50
 background = "light" # can influence the text color
 particles = true
+minHeight = "50vh"
 
-title = "Project READ"
-subtitle = "A Doorway to Literacy and Essential Skills Services Offered in Waterloo-Wellington"
+title = "A Doorway to Literacy and Essential Skills Services Offered in Waterloo-Wellington"
 
 [header]
   image = "class-group.jpg"

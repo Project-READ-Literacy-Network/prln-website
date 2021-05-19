@@ -10,10 +10,10 @@
     {{- if eq (len $items) 0 }}
       {{- partial "helpers/empty-subpath.html" (dict "context" "portfolio" "root" $) -}}
     {{- else -}}
-      {{- range (sort $items ".Params.weight") }}
+      {{- range (sort $items ".Params.weight" "desc") }}
         <div class="col-lg-4 col-md-9 col-12 py-2">
           <div
-            class="border fill-item rounded position-relative portfolio-item overflow-hidden 
+            class="border fill-item rounded position-relative portfolio-item portfolio-item-white-bg overflow-hidden 
               {{- if not .Params.item_url }} has-modal {{- end -}}
               {{- with .Params.background -}}
                 {{- if .image -}}

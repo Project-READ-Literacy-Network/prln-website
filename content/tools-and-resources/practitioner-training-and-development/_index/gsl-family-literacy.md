@@ -1,34 +1,26 @@
 +++
-fragment = "details-item"
+fragment = "item"
 #disabled = false
 date = "2017-10-04"
-weight = 120
+weight = 10
 background = "light"
-align = "left"
+align = "right"
+minHeight = "60vh"
 
-title = ""
-subtitle = ""
+title = "Get Set Learn Family Literacy Certification Program"
+subtitle = "We can help you remove barriers and empower families through literacy"
 
 
 [asset]
   image = "gsl-logo.svg"  
   
 [[buttons]]
-  text = "Get Started"
-  url = "https://getsetlearn.ca/training/"
+  text = "Learn More"
+  url = "tools-and-resources/practitioner-training-and-development/gsl-family-literacy"
   color = "warning"
 
 +++
 
-<details>
-<summary>
-
-# Get Set Learn Family Literacy Certification Program
-### We can help you remove barriers and empower families through literacy
-
-</summary>
-
-Literacy plays a crucial role in a family’s health and ability to thrive. Our certification program is designedto help practitioners learn and apply the key components of family literacy in order to increase the literacyskills and wellbeing of the families they support.
 
   
 

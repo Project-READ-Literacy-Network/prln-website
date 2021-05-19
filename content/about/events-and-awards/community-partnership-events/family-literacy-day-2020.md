@@ -1,7 +1,7 @@
 +++
-weight = 30
+weight = 50
 title = "Family Literacy Day"
-subtitle = "at Conestoga Mall"
+subtitle = "At Conestoga Mall"
 
 [asset]
   image = "family-literacy-day-2020.jpg"

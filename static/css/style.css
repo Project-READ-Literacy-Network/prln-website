@@ -1,13 +1,26 @@
+.long-items-body ul {
+    padding-left: 1.25rem;
+}
+.long-items-body ul li{
+    padding-bottom: .75rem;
+}
+.long-items-body ul ul{
+    padding-left: 1.25rem;
+}
 #url-image {
     height: 15rem;
     width: 15rem;
     border-radius: 50%;
-    border: 2px solid black;
     background-color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition : all 0.3s cubic-bezier(.25,.8,.25,1)
+
 }
-.bg-info #url-image {
-    border: 2px solid white;
+#url-image:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
+
+
 .bg-light a h1 {
     color: black;
 }
@@ -65,8 +78,7 @@
 }
 .fill-photo img {
     object-fit: cover;
-    max-height: 16rem;
-    width: auto;
+    min-height: 16rem;
 }
 
 .publication-image {
@@ -99,9 +111,7 @@ section#publications .portfolio-item {
     background-color: transparent;
     overflow: visible !important;
 }
-section#publications .portfolio-image {
-    width: 100%;
-}
+
 .modal-content {
     max-height: 100vh;
 }
@@ -239,6 +249,9 @@ p {
 }
 .sidebar-height-special {
     max-height: 100% !important;
+}
+.sticky-sidebar-height-special {
+    max-height: 50% !important;
 }
 #gform .checkbox * {
 cursor: pointer;
@@ -443,7 +456,7 @@ details p a {
 .bg-secondary .special-details summary {
     color: black;
 }
-.bg-secondary .special-details summary:hover, .bg-warning .special-details summary:hover {
+.bg-secondary .special-details summary:hover, .bg-danger .special-details summary:hover, .bg-info .special-details summary:hover, .bg-warning .special-details summary:hover {
     color: black;
     padding: 1rem;
     margin: -1rem;
@@ -452,12 +465,20 @@ details p a {
     -ms-transition: background-color 1000ms linear;
     transition: background-color 1000ms linear;
 }
-.bg-secondary .special-details details[open] summary:hover, .bg-warning .special-details details[open] summary:hover {
+.bg-secondary .special-details details[open] summary:hover, .bg-info .special-details details[open] summary:hover, .bg-warning .special-details details[open] summary:hover {
 margin-bottom: 0;
     padding-bottom: 0
 }
 .special-details details summary {
     border-top: none;
+}
+
+.special-details h3:first-of-type {
+    padding-top: 1.5rem;
+}
+
+.special-details p:first-of-type {
+    padding-top: 1.5rem;
 }
 
 .item-custom h1 {
@@ -566,7 +587,7 @@ h4#talk-to-your-child-about-sex  {
     text-align: center;
 }
 .special-details details summary h1{
-    margin-bottom: 1.50rem;
+    margin-bottom: 0;
 }
 
 .bg-light .special-details details summary:hover {
@@ -628,7 +649,7 @@ section#contact .py-5 {
 .portfolio-image {
     background-size: cover;
 }
-.portfolio-item  {
+.portfolio-item-white-bg  {
     background-color: white;
     background-size: cover;
     height: 350px;
@@ -878,6 +899,17 @@ h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
 .btn-outline-light:hover {
     color:black!important
 }
+.btn-dark {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+.btn-dark:hover {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+    box-shadow: 0 7px 15px rgba(0,0,0,0.25);
+}
 
 /* Links */
 
@@ -974,6 +1006,10 @@ h2 a:hover {
 }
 .btn-light:hover {
     background-color: #FFC62F !important;
+    border-color: black;
+}
+.btn-light {
+    border-color: black !important;
 }
 .bg-primary h2 a:hover {
     color: white !important;
@@ -1057,18 +1093,27 @@ h5.active-page a {
     width: 80%;
 }
 */
-.fa-chevron-down:before {
+#directory-sbn .fa-chevron-down:before {
     display:none;
 }
 
-.content-sidebar .collapse {
+#directory-sbn .content-sidebar .collapse {
     display: none
 }
-nav#TableOfContents ul li{
+#directory-sbn nav#TableOfContents ul li{
     display: none;
 }
-nav#TableOfContents ul {
+#directory-sbn nav#TableOfContents ul {
     display: none;
+}
+#reg-sbn .toc ul {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+#reg-sbn .toc ul li{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
 }
 
 body {
@@ -1482,6 +1527,16 @@ body {
 /**************************************************************/
 
 @media (min-width: 576px){
+    #reg-sbn .toc ul {
+    padding-left: 0;
+    margin-bottom: 0;
+    }
+    #reg-sbn .toc ul li{
+    font-size: 1.4rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    }
+    
     .publication-title {
     text-align: left;
     }

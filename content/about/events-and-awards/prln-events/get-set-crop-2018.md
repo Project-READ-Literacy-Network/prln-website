@@ -1,5 +1,5 @@
 +++
-weight = 30
+weight = 50
 title = "Get Set Crop"
 subtitle = "Calling all scrapbookers"
 

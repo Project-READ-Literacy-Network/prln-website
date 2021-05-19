@@ -1,7 +1,7 @@
 +++
-weight = 10
+weight = 60
 title = "Portrait Marathon"
-subtitle = "With your help we raised $ 485.00!"
+subtitle = "With your help we raised $485.00!"
 
 [asset]
   image = "portrait-marathon-2020.jpg"
