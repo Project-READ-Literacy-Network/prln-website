@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 119
 background = "warning"
 align = "right"
+minHeight = "40vh"
 
 title = "Family Literacy"
 subtitle= "Get your family ready for school!"

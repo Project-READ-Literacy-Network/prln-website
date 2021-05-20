@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 120
 background = "light"
 align = "left"
+minHeight = "40vh"
 
 title = "Adult Literacy"
 subtitle = "Do you want to go back to school? Do you know someone who needs to upgrade their skills?"

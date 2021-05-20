@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 110
 background = "light"
 align = "left"
+minHeight = "30vh"
 
 #title =""
 

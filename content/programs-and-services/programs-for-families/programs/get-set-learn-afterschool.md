@@ -20,7 +20,7 @@ subtitle = "A dynamic afterschool program for families to learn and grow togethe
 - 2 hour program  
 - 10 weeks  
   
-Please click [**Sign Up**](programs-and-services/programs-for-families/sign-up) to see the programs available for you.  
+Please click [**Sign Up**](../../../programs-and-services/programs-for-families/sign-up) to see the programs available for you.  
   
 #### Our program includes:  
 - family play time  

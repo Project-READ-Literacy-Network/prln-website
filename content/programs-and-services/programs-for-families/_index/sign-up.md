@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 150
 background = "light"
 align = "left"
+minHeight = "40vh"
 
 title = "Sign Up"
 subtitle = "Get Set Learn is a popular program and fills up fast, click the  button below to register today!"

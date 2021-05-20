@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 121
 background = "secondary"
 align = "right"
+minHeight = "40vh"
 
 title = "Services for Employers"
 subtitle= "Do you need a Workplace Education Program?"

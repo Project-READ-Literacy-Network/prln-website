@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 140
 background = "danger"
 align = "right"
+minHeight = "40vh"
 
 title = "Tips & Ideas"
 subtitle = "Helpful links to resources that we recommend"

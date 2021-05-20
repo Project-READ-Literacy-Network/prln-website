@@ -17,7 +17,7 @@ minHeight = "50vh"
 
 [[buttons]]
   text = "PRLN Annual Reports"
-  url = "tools-and-resources/newsletters-and-reports/#prln-agm-reports"
+  url = "tools-and-resources/newsletters-and-reports/#agm-reports"
   color = "light"
   
 [[buttons]]

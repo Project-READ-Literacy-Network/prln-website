@@ -8,7 +8,7 @@ particles = true
 minHeight = "50vh"
 
 [header]
-  image = "employer-header.svg"
+  image = "about-us.jpg"
 
 [[buttons]]
   text = "Why Project Read Matters"

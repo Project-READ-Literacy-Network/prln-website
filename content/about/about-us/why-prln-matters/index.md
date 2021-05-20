@@ -1,10 +1,15 @@
 +++
-fragment = "content"
+fragment = "item"
 background = "light"
 title = "Why Project READ Literacy Network Matters"
 #subtitle = ""
 weight = 20
-title_align = "left"
+align = "left"
+minHeight = "60vh"
+
+[asset]
+  image = "prln-logo.svg"
+  url = "about/about-us/why-prln-matters"
 
 +++
 

@@ -19,7 +19,7 @@ subtitle = "A program that focuses on literacy learning for grandparents and the
 - 2 hour program  
 - 10 weeks  
   
-Please click Sign Up to see the programs available for you.
+Please click [**Sign Up**](../../../programs-and-services/programs-for-families/sign-up) to see the programs available for you.
 
 #### Our program includes:  
 - family play time  

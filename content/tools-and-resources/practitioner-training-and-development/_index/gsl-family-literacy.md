@@ -5,7 +5,7 @@ date = "2017-10-04"
 weight = 10
 background = "light"
 align = "right"
-minHeight = "60vh"
+minHeight = "50vh"
 
 title = "Get Set Learn Family Literacy Certification Program"
 subtitle = "We can help you remove barriers and empower families through literacy"

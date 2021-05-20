@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 120
 background = "success"
 align = "right"
+minHeight = "40vh"
 
 title ="Programs"
 

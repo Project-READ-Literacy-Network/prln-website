@@ -21,7 +21,7 @@ It guides parents in actively helping themselves and their children to learn and
 - Do you receive social assistance? The program is free for you.
 - Bus tickets are provided.
 
-Please click [**Sign Up**](programs-and-services/programs-for-families/sign-up) to see the programs available for you.
+Please click [**Sign Up**](../../../programs-and-services/programs-for-families/sign-up) to see the programs available for you.
 
 #### Our program includes:
 

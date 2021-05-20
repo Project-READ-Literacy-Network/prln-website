@@ -1004,12 +1004,24 @@ h2 a:hover {
     color: white;
     border-color: black;
 }
-.btn-light:hover {
-    background-color: #FFC62F !important;
-    border-color: black;
+#hero {
+    overflow-x: hidden;
 }
+.hero {
+    overflow-x: hidden;
+}
+.hero  {
+   border-bottom: 2px solid whitesmoke;
+}
+
 .btn-light {
-    border-color: black !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition : all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.btn-light:hover, .btn-light:focus, .btn-light:active {
+    border-color: whitesmoke !important;
+    background-color: #FDFCF9 !important;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.25), 0 2px 4px rgba(0,0,0,0.22);
 }
 .bg-primary h2 a:hover {
     color: white !important;
@@ -1022,21 +1034,18 @@ h2 a:hover {
 i.text-dark {
     color: #AA1A27 !important;
 }
-a i.nav-social {
-    color: black;
-}
 
-a i.nav-social.fa-facebook-f:hover {
-    color: #3b5998;
+a i.nav-social.fa-facebook-f {
+    color: #3b5998 !important;
 }
-a i.nav-social.fa-twitter:hover {
-    color: #00aced;
+a i.nav-social.fa-twitter {
+    color: #00aced !important;
 }
-a i.nav-social.fa-youtube:hover {
-    color: #bb0000;
+a i.nav-social.fa-youtube {
+    color: #bb0000 !important;
 }
-a i.nav-social.fa-instagram:hover {
-    color: #517fa4;
+a i.nav-social.fa-instagram {
+    color: #517fa4 !important;
 }
 
 
@@ -1518,6 +1527,8 @@ body {
 }
 #footer {
     text-align: center !important;
+   border-top: 2px solid whitesmoke;
+}
 }
 
 /**************************************************************/

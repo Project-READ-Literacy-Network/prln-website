@@ -5,6 +5,7 @@ date = "2017-10-04"
 weight = 122
 background = "light"
 align = "left"
+minHeight = "40vh"
 
 title = "The Directory of Programs"
 #subtitle = ""
