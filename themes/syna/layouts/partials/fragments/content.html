@@ -5,7 +5,7 @@
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
   <div class="row">
       
-      <div class="col-12 px-md-0 pt-4 px-2 px-md-3 {{- if .Params.sidebar -}} px-0 px-md-0 px-lg-0 {{- end }}">
+      <div class="col-12 pt-4 px-3  {{- if .Params.sidebar -}} px-0 px-md-0 px-lg-0 {{- end }}">
       {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
           </div>
       {{- if or .Params.categories -}}

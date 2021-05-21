@@ -13,12 +13,12 @@ title = "Educational Assessments for Adults"
   
 [[buttons]]
   text = "Free for citizens on OW"
-  url = "programs-and-services/programs-for-adults/free-assessment"
+  url = "about/contact/"
   color = "warning"
   
 [[buttons]]
   text = "$125 for an Assessment"
-  url = "programs-and-services/programs-for-adults/assessment"
+  url = "about/contact/"
   color = "secondary"
 
 +++

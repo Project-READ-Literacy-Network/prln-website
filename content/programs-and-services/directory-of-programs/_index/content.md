@@ -33,124 +33,124 @@ title_align = "left"
   text = "KW Habilitation"
   
 [[logos]]
-  url = ""
+  url = "http://www.cambridgecareerconnections.com/"
   src = "/images/logos/ccc-logo.png"
   text = "logo"
   
 [[logos]]
-  url = ""
+  url = "http://www.npaamb.com/"
   src = "/images/logos/npaamb-logo.png"
-  text = "logo"
+  text = "npaamb"
   
 [[logos]]
-  url = ""
+  url = "https://stlouis.wcdsb.ca/"
   src = "/images/logos/sl-logo.jpg"
-  text = "logo"
+  text = "stlouis"
   
 [[logos]]
-  url = ""
+  url = "http://www.theliteracygroup.com/"
   src = "/images/logos/tlg_logo.png"
-  text = "logo"
+  text = "theliteracygroup"
   
 [[logos]]
-  url = ""
+  url = "http://www.ccrw.org/"
   src = "/images/logos/ccrw-Logo.png"
-  text = "logo"
+  text = "ccrw"
   
 [[logos]]
-  url = ""
+  url = "http://www.lutherwood.ca/employment"
   src = "/images/logos/lutherwood-logo.png"
-  text = "logo"
+  text = "lutherwood"
   
 [[logos]]
-  url = ""
+  url = "http://www.2ndchance.ca/"
   src = "/images/logos/sc-logo.png"
-  text = "logo"  
+  text = "2ndchance"  
   
 [[logos]]
-  url = ""
+  url = "http://www.cmhaww.ca/"
   src = "/images/logos/cmha-logo.png"
-  text = "logo" 
+  text = "cmhaww" 
 
 [[logos]]
-  url = ""
+  url = "http://www.ymcaemploymentservices.ca/"
   src = "/images/logos/ymca-tr-logo.png"
-  text = "logo" 
+  text = "ymcaemploymentservices" 
 
 [[logos]]
-  url = ""
+  url = "http://www.wpl.ca/"
   src = "/images/logos/wpl-logo.png"
-  text = "logo" 
+  text = "wpl" 
   
 [[logos]]
-  url = ""
+  url = "http://www.theworkingcentre.org/"
   src = "/images/logos/wc-loco.png"
-  text = "logo"   
+  text = "theworkingcentre"   
   
 [[logos]]
-  url = ""
+  url = "http://www.rwlibrary.ca/"
   src = "/images/logos/rowl-logo.png"
   text = "logo"   
   
 [[logos]]
-  url = ""
+  url = "https://www.marchofdimes.ca/"
   src = "/images/logos/modc_logo.svg"
-  text = "logo"   
+  text = "marchofdimes"   
 
 [[logos]]
-  url = ""
+  url = "http://www.sefad.ca/"
   src = "/images/logos/sefad-logo.png"
-  text = "logo"  
+  text = "sefad"  
 
 [[logos]]
-  url = ""
+  url = "http://www.acedistancedelivery.ca/"
   src = "/images/logos/ace-logo.png"
-  text = "logo"  
+  text = "acedistancedelivery"  
 
 [[logos]]
-  url = ""
+  url = "https://schools.wrdsb.ca/continuing-education/"
   src = "/images/logos/con-ed-wrdsb-logo.png"
-  text = "logo"  
+  text = "con-ed-wrdsb"  
 
 [[logos]]
-  url = ""
+  url = "http://www.deaflearnnow.ca/"
   src = "/images/logos/dln-logo.png"
-  text = "logo"  
+  text = "deaflearnnow"  
 
 [[logos]]
-  url = ""
+  url = "http://www.guelphpl.ca/"
   src = "/images/logos/gpl-logo.svg"
-  text = "logo"  
+  text = "guelphpl"  
 
 [[logos]]
-  url = ""
+  url = "http://www.ideaexchange.org/"
   src = "/images/logos/ie-logo.png"
-  text = "logo" 
+  text = "ideaexchange" 
 
 [[logos]]
-  url = ""
+  url = "http://www.agilec.ca/"
   src = "/images/logos/agilec-logo.png"
-  text = "logo"  
+  text = "agilec"  
 
 [[logos]]
-  url = ""
+  url = "http://www.goodlearninganywhere.com/"
   src = "/images/logos/gla-logo.png"
-  text = "logo"  
+  text = "goodlearninganywhere"  
 
 [[logos]]
-  url = ""
+  url = "http://www.kpl.org/"
   src = "/images/logos/kpl-logo.png"
-  text = "logo" 
+  text = "kpl" 
 
 [[logos]]
-  url = ""
+  url = "http://www.learninghub.ca/"
   src = "/images/logos/lh-logo.png"
-  text = "logo"  
+  text = "learninghub"  
 
 [[logos]]
-  url = ""
+  url = "http://www.thewclc.ca/"
   src = "/images/logos/wclc-logo.jpg"
-  text = "logo"  
+  text = "thewclc"  
 
 
 +++

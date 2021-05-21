@@ -13,7 +13,7 @@ title = "Adult Literacy and Essential Skills"
 
 [[buttons]]
   text = "I want a referral"
-  url = "about/about-us/#literacy-definitions"
+  url = "about/contact/"
   color = "success"
   
 +++

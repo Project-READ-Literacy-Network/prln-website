@@ -1,3 +1,4 @@
+
 .long-items-body ul {
     padding-left: 1.25rem;
 }
@@ -116,13 +117,18 @@ section#publications .portfolio-item {
     max-height: 100vh;
 }
 .modal-dialog.md {
+    min-height: 80vh !important;
     width: 80vw;
 }
+
 .modal .modal-background img {
-    height: 35vh;
-    width: auto !important;
-    max-width: 2000px;
+  display: block;
+  max-width:75vw;
+  max-height:39vh;
+  width: auto;
+  height: auto;
 }
+
 
 .modal .modal-background {
     display: flex;
@@ -135,13 +141,6 @@ section#publications .portfolio-item {
     min-height: 40vh;
 }
 
-#publications .modal .modal-background img {
-    display: none;
-}
-
-#publications .modal-background {
-    display: none;
-}
 .modal-body {
    overflow-y: scroll; 
    }
@@ -1559,11 +1558,14 @@ body {
     width: 23vh;
     }
     .modal-dialog.md {
-    max-width: 70vw;
+    max-width: 50vw;
     max-height: 80vh;
     }
     .modal-content {
     max-height: 80vh;
+    }
+    .modal .modal-background img {
+    max-width:49vw;
     }
 
     .content-body ul li::before, .faq ul li::before {

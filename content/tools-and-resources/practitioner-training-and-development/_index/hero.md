@@ -12,17 +12,17 @@ minHeight = "50vh"
 
 [[buttons]]
   text = "GSL Family Literacy"
-  url = "tools-and-resources/practitioner-training-and-development/#gsl-family-literacy"
+  url = "tools-and-resources/practitioner-training-and-development/gsl-family-literacy"
   color = "light"
 
 [[buttons]]
   text = "Bridges out of Poverty"
-  url = "tools-and-resources/practitioner-training-and-development/#bridges-out-of-poverty"
+  url = "tools-and-resources/practitioner-training-and-development/bridges-out-of-poverty"
   color = "light"
   
 [[buttons]]
   text = "Soft Skills Solutions"
-  url = "tools-and-resources/practitioner-training-and-development/#soft-skills-solutions"
+  url = "tools-and-resources/practitioner-training-and-development/sss"
   color = "light"
 
 

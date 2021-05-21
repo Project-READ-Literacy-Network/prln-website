@@ -9,14 +9,14 @@ Object.keys(heros).forEach((key) => {
     config.config || {
       particles: {
         number: {
-          value: 80,
+          value: 40,
           density: {
             enable: true,
             value_area: 800,
           },
         },
         color: {
-          value: '#ffffff',
+          value: 'random',
         },
         shape: {
           type: 'circle',
@@ -54,11 +54,7 @@ Object.keys(heros).forEach((key) => {
           },
         },
         line_linked: {
-          enable: true,
-          distance: 150,
-          color: '#ffffff',
-          opacity: 0.4,
-          width: 1,
+          enable: false,
         },
         move: {
           enable: true,

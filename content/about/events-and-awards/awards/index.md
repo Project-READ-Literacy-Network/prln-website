@@ -5,7 +5,6 @@ weight = 140
 background = "dark"
 
 title = "Awards and Recognition"
-subtitle = "For Literacy Students Overcoming Challenges"
 
 
 +++
