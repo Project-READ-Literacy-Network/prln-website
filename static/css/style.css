@@ -563,11 +563,11 @@ details p a {
     display: block;
     position: absolute;
 }
-.bg-warning a {
+.bg-warning p a {
     color: black;
     position: relative;
 }
-.bg-warning a:after {
+.bg-warning p a:after {
     content: '';
     background-color: black;
     height: 2px;
@@ -579,7 +579,7 @@ details p a {
     position: absolute;
     transition: all .5s;
 }
-.bg-warning a:hover:after {
+.bg-warning p a:hover:after {
     height: 3px;
 }
 
@@ -1585,9 +1585,10 @@ section#calendar h2 {
     text-align: center !important;
 }
 
-#assessments-and-referrals-educational-assessments div.container-fluid.bg-light {
+#project-read-publications div.container-fluid.bg-light, #assessments-and-referrals-educational-assessments div.container-fluid.bg-light {
     border-bottom: 2px solid whitesmoke !important;
 }
+
 #footer li:last-of-type{
         margin-bottom: 2rem;
     }
