@@ -2,7 +2,7 @@
 fragment = "other-opportunities"
 #disabled = true
 date = "2017-10-05"
-weight = 140
+weight = 150
 background = "secondary"
 title_align = "left"
 form_name = "Volunteering, co-op and placement opportunities"

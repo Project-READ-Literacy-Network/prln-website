@@ -27,7 +27,7 @@ minHeight = "50vh"
 
 [[buttons]]
   text = "Sign-Up"
-  url = "#"
+  url = "about/contact"
   color = "light"
 +++
 

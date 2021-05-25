@@ -533,7 +533,9 @@ details p a {
     padding-bottom: 2rem;
 }
 
-
+.special-details details summary h3 {
+    text-align: center;
+}
 
 .special-details details summary {
     padding: 0;
@@ -561,6 +563,25 @@ details p a {
     display: block;
     position: absolute;
 }
+.bg-warning a {
+    color: black;
+    position: relative;
+}
+.bg-warning a:after {
+    content: '';
+    background-color: black;
+    height: 2px;
+    width: 100%;
+    left: 0;
+    top: 2rem;
+    margin: auto;
+    display: block;
+    position: absolute;
+    transition: all .5s;
+}
+.bg-warning a:hover:after {
+    height: 3px;
+}
 
 .special-details h5 {
     padding-top: 0;
@@ -568,7 +589,12 @@ details p a {
 }
 
 .breadcrumb {
-    background-color: none !important;
+    background-color:rgba(233,236,239,0.5);
+}
+
+.special-content-details details[open] details summary p {
+    padding-bottom: 1rem;
+    color: #0E83CD !important;
 }
 
 .special-details details[open] {
@@ -604,9 +630,6 @@ margin-bottom: 0;
     padding-top: 1.5rem;
 }
 
-.special-details p:first-of-type {
-    padding-top: 1.5rem;
-}
 
 .item-custom h1 {
     margin-bottom: 1.50rem;
@@ -1017,6 +1040,9 @@ h2 a:hover {
   height: 4px;
   display: block;
     width: 80%;
+}
+.content-fragment .news-content .text-left h2::after {
+    width: 0;
 }
 
 .content-fragment .text-left  .bg-warning h2::after {
@@ -1554,6 +1580,14 @@ body {
     font-weight: 500;
     font-size: 90%;
 }
+
+section#calendar h2 {
+    text-align: center !important;
+}
+
+#assessments-and-referrals-educational-assessments div.container-fluid.bg-light {
+    border-bottom: 2px solid whitesmoke !important;
+}
 #footer li:last-of-type{
         margin-bottom: 2rem;
     }
@@ -1710,6 +1744,7 @@ body {
 
 
 @media (min-width: 767px){
+    
     .publication-image {
     height: 25vh;
     width: 19vh;
@@ -1719,6 +1754,7 @@ body {
     }
     .my-nav .dropie .my-dropie-header a {
     font-size: 1.25rem;
+    line-height: 1.6rem;
     }
     .dropie > ul > li {
     font-size: 1.25rem;
@@ -1760,6 +1796,9 @@ body {
     
 }
 @media only screen and (min-width: 992px) {
+    section#calendar h2 {
+    text-align: left !important;
+    }
     .publication-image {
     height: 26vh;
     width: 20vh;
@@ -1779,7 +1818,12 @@ body {
     .special-details h3 {
     line-height: 2.25rem;
     }
-    
+    .special-details details summary h3 {
+    text-align: left;
+    }
+    .special-details details[open] summary h3#go-to-college, .special-details details[open] summary h1#learn-to-read, .special-details details[open] summary h1#take-an-online-course {
+    padding-bottom: 1.5rem;
+    }
     .special-details h4::after {
     content: '';
     border-bottom: 3px solid #0E83CD;

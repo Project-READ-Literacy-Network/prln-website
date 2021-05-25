@@ -1,5 +1,5 @@
 +++
-weight = 40
+weight = 30
 
 [asset]
   image = "kwcf-logo.svg"

@@ -1,13 +1,12 @@
 +++
 fragment = "press-header-item"
-background = "light"
+background = "warning"
 title = "Press"
 #subtitle = ""
 title_align = "left"
 weight = 1
 
-[asset]
-  image = "prln-logo.svg"
+
 
 [[buttons]]
   text = "In the News"

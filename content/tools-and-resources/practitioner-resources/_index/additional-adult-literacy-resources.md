@@ -3,7 +3,7 @@ fragment = "item-url-photo"
 #disabled = false
 date = "2017-10-04"
 weight = 120
-background = "info"
+background = "light"
 align = "left"
 
 title ="Additional Adult Literacy Resources"
