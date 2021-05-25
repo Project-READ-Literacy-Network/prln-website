@@ -19,7 +19,7 @@
 {{- end -}}>
   <div class="container-fluid">
     {{- if .Params.asset.image }}
-      <a class="navbar-brand pt-0 pb-2 pl-lg-3 pr-lg-2" href="{{ "#" | relLangURL }}">
+      <a class="navbar-brand pt-0 pb-2 pl-3 pr-lg-2" href="{{ "#" | relLangURL }}">
         <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="80px" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
       </a>
     {{- else }}
@@ -27,9 +27,11 @@
         {{- .Params.asset.text -}}
       </a>
     {{- end }}
+      <div class="pr-3">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+          </div>
     <div class="navbar-collapse justify-content-between collapse show" id="navbarCollapse">
         <ul class="my-nav">
 		<li>
@@ -118,7 +120,7 @@
                                 <ul>
                                     <li><a href="{{ "programs-and-services/services-for-employers/clear-language" | relLangURL }}">Clear Language</a></li>
                                     <li><a href="{{ "programs-and-services/services-for-employers/workplace-literacy" | relLangURL }}">Workplace Literacy</a></li>
-                                    <li><a href="{{ "programs-and-services/services-for-employers/bridges-out-of-poverty" | relLangURL }}">Bridges out of Poverty</a></li>
+                                    <li><a href="{{ "programs-and-services/services-for-employers/bridges-out-of-poverty" | relLangURL }}">Bridges Out of Poverty</a></li>
                                     <li><a href="{{ "programs-and-services/services-for-employers/sign-up" | relLangURL }}">Sign-Up</a></li>
                                 </ul>
                             </ul>
@@ -173,6 +175,7 @@
                                     <li><a href="{{ "tools-and-resources/newsletters-and-reports/#prln-newsletters" | relLangURL }}">PRLN Newsletters</a></li>
                                     <li><a href="{{ "tools-and-resources/newsletters-and-reports/#literacy-service-plan-reports" | relLangURL }}">Literacy Service Plan Reports</a></li>
                                     <li><a href="{{ "tools-and-resources/newsletters-and-reports/#annual-reports" | relLangURL }}">Annual Reports</a></li>
+                                    <li><a href="{{ "tools-and-resources/newsletters-and-reports/news" | relLangURL }}">Press Releases</a></li>
                                 </ul>
                             
 				</ul>
@@ -213,8 +216,8 @@
   
   {{- with .Params.donate_button }}
     <div class="d-none d-lg-block pl-auto mx-3 mx-xl-5">
-      <a class="btn btn-outline-dark ignore-color-change" href="{{ .url }}" role="button" title="{{- i18n "navbar.donate" | default "Donate" -}}">
-        <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2"display: inline-flex; align-items: center;></i>
+      <a class="btn btn-light ignore-color-change" href="{{ .url }}" role="button" title="{{- i18n "navbar.donate" | default "Donate on our CanadaHelps.org page" -}}">
+        <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2 text-dark"display: inline-flex; align-items: center;></i>
         {{ .text }}
       </a>
     </div>

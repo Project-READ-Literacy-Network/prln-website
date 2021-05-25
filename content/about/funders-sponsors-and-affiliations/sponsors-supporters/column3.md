@@ -1,7 +1,7 @@
 +++
-weight = 30
+weight = 40
 
 [asset]
-  image = "guelph-mercury-logo.svg"
-  url = "https://www.guelphmercury.com/"
+  image = "kwcf-logo.svg"
+  url = "https://www.kwcf.ca/"
 +++

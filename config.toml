@@ -24,10 +24,12 @@ lastmod = ["lastmod", ":git", "date"]
   [markup.goldmark]
     [markup.goldmark.renderer]
      unsafe = true
+     
 
 [params]
   name = "Project READ Literacy Network"
   description = "A Doorway to Literacy and Essential Skills Services in Waterloo-Wellington"
+  
 
   [params.style]
    background = "light"

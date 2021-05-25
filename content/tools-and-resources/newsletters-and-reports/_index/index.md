@@ -29,6 +29,11 @@ minHeight = "50vh"
   text = "GSL Summary Reports"
   url = "tools-and-resources/newsletters-and-reports/#gsl-summary-reports"
   color = "light"
+  
+[[buttons]]
+  text = "Press Releases"
+  url = "tools-and-resources/newsletters-and-reports/news"
+  color = "light"
 +++
 
 <!--more-->

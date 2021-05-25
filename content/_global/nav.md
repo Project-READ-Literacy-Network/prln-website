@@ -15,6 +15,7 @@ search = false
 [asset]
   image = "prln-logo.svg"
   text = "Project READ"
+  
 [breadcrumb]
   display = false # Default value is false
   level = 1 # Default is 1

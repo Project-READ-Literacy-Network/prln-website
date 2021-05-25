@@ -1,7 +1,7 @@
 +++
 weight = 70
 title = "Reading Rumble"
-subtitle = "With your help we raised $6,905.00"
+subtitle = "With your help we raised $7,205.00"
 
 [asset]
   image = "reading-rumble-logo.png"

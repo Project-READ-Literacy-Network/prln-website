@@ -1,7 +1,7 @@
 +++
 weight = 50
 title = "Get Set Crop"
-subtitle = "Calling all scrapbookers"
+subtitle = "With your help we raised $3600.00!"
 
 [asset]
   image = "gsc-2018-logo.png"

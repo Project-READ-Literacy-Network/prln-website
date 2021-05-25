@@ -8,7 +8,7 @@ background = "light" # can influence the text color
 particles = true
 minHeight = "50vh"
 
-title = "A Doorway to Literacy and Essential Skills Services Offered in Waterloo-Wellington"
+title = "A Doorway to Literacy & Essential Skills Services in Waterloo-Wellington"
 
 [header]
   image = "class-group.jpg"

@@ -1,4 +1,133 @@
 
+
+.my-nav > li {
+  display: block;
+}
+@media (min-width: 40em) {
+  .my-nav > li {
+    display: block;
+    margin-left: 1rem;
+      margin-left: 1rem;
+  }
+}
+
+
+
+/* Navigation Bar */
+
+summary {
+    display: block;
+    padding: .75rem;
+    border-top: 3px solid #5BCBF5;
+ }
+
+
+
+
+#nav.navbar{
+    background-image: url("../images/nav.svg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#nav ul ul ul {
+    list-style-type: none;
+}
+#nav ul {
+    margin: 0;
+    padding-inline-start: 0;
+}
+.my-nav .dropie a {
+    display: none;
+}
+ul.nav-contact {
+    display: none;
+}
+.my-nav .dropie .my-dropie-header a {
+    font-size: 1.25rem;
+    font-weight: 700;
+    word-wrap: break-word;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0;
+    white-space: wrap;
+}
+.my-nav {
+  list-style: none;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.my-nav summary:hover {
+    color: black;
+}
+.my-nav details[open] summary {
+    color: black;
+}
+.dropie > summary {
+    cursor: pointer;
+    color: #0E83CD;
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+summary:focus{
+    outline: none;
+}
+
+.dropie > ul > li a {
+    padding: .25rem 0;
+}
+.dropie ul > ul > li{
+    color: #0E83CD;
+}
+a {
+    text-decoration: none;
+}
+
+
+.dropie > ul > li  {
+    color: #0E83CD;
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+    width: 100%;
+    background: white;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    border-top: 1px solid #0E83CD;
+    padding: .75rem;
+}
+.dropie > ul > li:first-child  {
+    border-top: none;
+
+}
+
+.my-nav details[open] ul li:hover a {
+    color: black;
+}
+.my-nav details[open] ul li:hover {
+    background: #b2e7fa;
+}
+.navbar {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+/*****************************************************************************/
+
+
+.card-body {
+    min-height: 100% !important;
+}
 .long-items-body ul {
     padding-left: 1.25rem;
 }
@@ -15,7 +144,6 @@
     background-color: white;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     transition : all 0.3s cubic-bezier(.25,.8,.25,1)
-
 }
 #url-image:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
@@ -679,132 +807,6 @@ div.modal-background {
 
     background-color:rgba(0,0,0,0.6)
 }
-.my-nav > li {
-  display: block;
-  margin-left: 0.5em;
-  margin-right: 0.5em;
-}
-@media (min-width: 40em) {
-  .my-nav > li {
-    display: block;
-  }
-}
-
-.dropie details[open] summary {
-    color: white;
-    border-bottom: 3px solid #5BCBF5;
-    background: #0E83CD;
-    padding: .75rem;
-    }
-
-/* Navigation Bar */
-
-summary {
-   display: block;
-    padding: .75rem;
-    border-top: 3px solid #5BCBF5;
- }
-
-
-#nav.navbar{
-    background-image: url("../images/nav.svg");
-    /* Full height */
-    height: 100%;
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.dropie > ul {
-    list-style:none;
-}
-#nav ul ul ul {
-    list-style-type: none;
-}
-#nav ul {
-    margin: 0;
-    padding-inline-start: 0;
-}
-.my-nav .dropie a {
-    display: none;
-}
-ul.nav-contact {
-    display: none;
-}
-.my-nav .dropie .my-dropie-header a {
-    font-size: 1.25rem;
-    font-weight: 700;
-    color: #0E83CD;
-    word-wrap: break-word;
-    text-decoration: none;
-    display: block;
-    margin-bottom: 0;
-    white-space: wrap;
-}
-.my-nav {
-  list-style: none;
-  margin-left: -0.5em;
-  margin-right: -0.5em;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-}
-
-.small-nav-text {
-    color: #F26624;
-    font-size: 1rem;
-    font-style: italic;
-    font-weight: 500;
-}
-
-.dropie > summary {
-    cursor: pointer;
-    color: #0E83CD;
-    font-weight: 700;
-    font-size: 1.25rem;
-}
-.dropie {
-    color: #0E83CD;
-}
-summary:focus{
-    outline: none;
-}
-
-.dropie > ul > li a {
-    padding: .25rem 0;
-}
-.dropie ul > ul > li{
-    color: #0E83CD;
-}
-.dropie ul > ul > li a{
-    text-decoration: none;
-}
-.dropie ul > ul > li a:hover{
-    color: white;    
-}
-
-
-.dropie > ul > li  {
-    display: inline-block;
-    zoom:1;
-    *display:inline;
-    width: 100%;
-    background: white;
-    font-size: 1.25rem;
-    line-height: 1.5rem;
-    border-bottom: 1px solid #0E83CD;
-    padding: .75rem;
-}
-
-.dropie > ul > li:hover {
-    background: #5BCBF5;
-}
-.my-nav .dropie .my-dropie-header a:hover {
-    color: white;
-}
-.card-body {
-    min-height: 100% !important;
-}
 /*****************************/
 /*                           */
 /*                           */
@@ -923,17 +925,62 @@ h2 a:hover {
     color: black!important
 }
 
+.news-content {
+  position: relative;
+}
+.news-content::after {
+    content: '';
+    position: absolute;
+    top: -50px;
+    height: 2px;
+    background: whitesmoke; 
+    width: 100%
+}
+.news-content-image {
+    max-width: 195px;
+    height: auto;
+}
+#press-header-nav {
+   border-top: 2px solid whitesmoke;
+   border-bottom: 2px solid whitesmoke;
+}
+#press-header-nav a {
+    position: relative;  /* Added */
+    display: inline-block;
+    color: black;
+    font-weight: 700;
+}
+#press-header-nav a.active::after {
+    position: absolute;  /* Added */
+    content: '';
+    margin-top: 5px;
+    background: #5BCBF5;
+    height: 4px;
+    display: block;
+    width: 80%;
+}
+
 .content-body h2 {
     position: relative;  /* Added */
     display: inline-block;
 }
+
 .content-body h2::after {
-  position: absolute;  /* Added */
-  content: '';
-  margin-top: 5px;
-  background: #5BCBF5;
-  height: 4px;
-  display: block;
+    position: absolute;  /* Added */
+    content: '';
+    margin-top: 5px;
+    background: #5BCBF5;
+    height: 4px;
+    display: block;
+    width: 80%;
+}
+.content-body h2::after {
+    position: absolute;  /* Added */
+    content: '';
+    margin-top: 5px;
+    background: #5BCBF5;
+    height: 4px;
+    display: block;
     width: 80%;
 }
 /*
@@ -1537,6 +1584,10 @@ body {
 /**************************************************************/
 
 @media (min-width: 576px){
+    
+    #press-header-nav a {
+    font-size: 1.4rem;
+    }
     #reg-sbn .toc ul {
     padding-left: 0;
     margin-bottom: 0;
@@ -1673,17 +1724,21 @@ body {
     font-size: 1.25rem;
     line-height: 1.6rem;
     }
+    .my-nav details[open] ul li:hover {
+    background: none;
+    }
     .dropie > ul > li:nth-child(3) {
     padding-right: 3rem;
     }
     #faq .card {
-        width: 90%;
+    width: 90%;
     }
    
-    #faq hr {
+    hr {
     margin-top: 2rem;
     margin-bottom: 2rem;
-}
+    border-top: 2px solid whitesmoke;
+    }
     .content-body ul, .faq ul {
     padding-left: 5rem;
     }
@@ -1752,39 +1807,17 @@ body {
     .sticky-top {
     top: 130px;
     }
-    .dropie ul > ul > li a {
-    color: black;
-    margin-bottom: .75rem;
-    }
-    
-    .dropie ul > ul > li a:hover {
-     color: #0E83CD;
-    }
-    .dropie > summary {
-    font-size: 1.25rem;
-    }
-    .dropie > ul > li {
-    font-size: 1.25rem;
-    line-height: 1.6rem;
-    margin-bottom: 1.75rem;
-    }
 
+    
     :target:before {
     content: "";
     display: block;
     height: 130px;
     margin: -130px 0 0;
     }
-    
-    #nav.navbar{
-    height: 130px;
-    }
-
     .content-sidebar h5 a {
     font-size: 1.25rem;
     }
-
-    
     .content-body ul li {
     font-size: 1.4rem;
     line-height: 2.25rem;
@@ -1830,17 +1863,16 @@ body {
     width: 100%;
     }
     .dropie ul > ul > li a:hover{
-    color: #0E83CD;    
+    color: #0E83CD !important;    
     }
     
-    .my-nav .dropie .my-dropie-header a {
+    .my-dropie-header a {
+    color: #0E83CD !important; 
     font-size: 1.25rem;
-    padding: 0;
-    margin-bottom: .75rem;
     }
     
-    .my-nav .dropie .my-dropie-header a:hover {
-    color:black;
+    .my-dropie-header a:hover {
+    color:black !important;
     }
     
     .dropie ul > ul > li a.btn:hover {
@@ -1863,7 +1895,9 @@ body {
     ul.nav-contact {
     display: block;
     }
-    
+    li .my-dropie-header {
+    margin-bottom: .75rem;
+    }
 
     .dropie {
     position: static;
@@ -1888,6 +1922,27 @@ body {
     }
     .my-nav > li {
     display: inline-block;
+    }
+    #nav.navbar{
+    height: 130px;
+    }
+    .dropie ul > ul > li a {
+    color: black;
+    margin-bottom: .75rem;
+        line-height:1.5rem;
+    }
+    
+    .dropie ul > ul > li a:hover {
+     color: #0E83CD;
+    }
+    .dropie > summary {
+    font-size: 1.25rem;
+    }
+    .dropie > ul > li {
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+    margin-bottom: 1.75rem;
+    border-top: none;
     }
     .dropie > ul > li {
     font-size: 1.25rem;
