@@ -24,12 +24,12 @@ subtitle = "Do you want to go back to school? Do you know someone who needs to u
   
 [[buttons]]
   text = "Skills Assessment"
-  url = "programs-and-services/programs-for-adults/#educational-assessments-by-prln"
+  url = "/programs-and-services/programs-for-adults/#assessments-and-referrals-educational-assessments"
   color = "success"
 
 [[buttons]]
-  text = "Services"
-  url = "programs-and-services/programs-for-adults"
+  text = "Programs"
+  url = "/programs-and-services/programs-for-adults/#assessments-and-referrals-adult-literacy"
   color = "success"
 +++
 

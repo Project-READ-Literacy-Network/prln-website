@@ -573,7 +573,7 @@ details p a {
     height: 2px;
     width: 100%;
     left: 0;
-    top: 2rem;
+    top: 1.5rem;
     margin: auto;
     display: block;
     position: absolute;
@@ -589,7 +589,7 @@ details p a {
 }
 
 .breadcrumb {
-    background-color:rgba(233,236,239,0.5);
+    background-color:rgba(255,255,255,0.5);
 }
 
 .special-content-details details[open] details summary p {
@@ -982,6 +982,10 @@ h2 a:hover {
     display: block;
     width: 80%;
 }
+.press-materials {
+    background: #FDFCF9;
+    border: 5px solid whitesmoke;
+}
 
 .content-body h2 {
     position: relative;  /* Added */
@@ -1082,8 +1086,12 @@ h2 a:hover {
 .hero {
     overflow-x: hidden;
 }
-.hero  {
+.hero .bg-light  {
    border-bottom: 2px solid whitesmoke;
+}
+
+.hero .header-image .bg-light  {
+   border-bottom: none;
 }
 
 .btn-light {
@@ -1619,7 +1627,9 @@ section#calendar h2 {
 /**************************************************************/
 
 @media (min-width: 576px){
-    
+    .bg-warning p a:after {
+    top: 2rem;
+    }
     #press-header-nav a {
     font-size: 1.4rem;
     }

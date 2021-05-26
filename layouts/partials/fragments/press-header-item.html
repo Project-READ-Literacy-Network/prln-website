@@ -4,7 +4,7 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
   <div class="row align-items-center news-content">
-    <article class="col-sm-7 col-md-9">
+    <article class="col-sm-7 col-md-9 pb-5 pb-sm-0">
        {{- if or .Params.display_date .Params.categories -}}
         <div class="content-info col-12 pl-0 pb-4 mt-2">
           {{- if .Params.display_date -}}
@@ -36,18 +36,14 @@
  
     </article>
           
-    <div class="col-sm-5 col-md-3">
-        {{- if .Params.item_url }}
-        <a href="{{ .Params.item_url | relLangURL }}">
-        {{- end }}
-        {{- if .Params.asset -}}
-        <div class="news-content-image px-0 d-none d-sm-block">
-        <img src="{{ partial "helpers/image.html" (dict "root" . "asset" .Params.asset) }}" alt="{{ .Params.subtitle | default .Params.title }}" class="w-100 img-fluid mb-4">
-        </div>
-        {{- end -}}
-        {{- if .Params.item_url }}
-        </a>
-        {{- end }}  
+    <div class="col-sm-5 col-md-3 px-4 px-sm-0">
+        <div class="press-materials row justify-content-space-around text-center px-2 py-3">
+        <h4 class="col-12 pb-2">Press Materials</h3>
+            
+                <div class="col col-md-12 col-lg-6 px-0"><a href="#" class="text-dark"><i class = "fas fa-download pr-1 pl-lg-1"></i>Fact Sheet</a></div>
+                <div class="col col-md-12 col-lg-6 px-0"><a href="#" class="text-dark"><i class = "fas fa-download pr-1 "></i>Logos</a></div>
+            
+        </div>  
     </div>
           
      
@@ -64,7 +60,7 @@
               {{ .state }}
               {{ if hasPrefix .url "#" }} anchor{{ end }}
             " href="{{ .url | relLangURL }}">
-              {{- .text -}}
+              <h4>{{- .text -}}</h4>
             </a>
           {{- end }}
         </div>
