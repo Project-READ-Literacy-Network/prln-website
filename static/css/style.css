@@ -3,13 +3,7 @@
 .my-nav > li {
   display: block;
 }
-@media (min-width: 40em) {
-  .my-nav > li {
-    display: block;
-    margin-left: 1rem;
-      margin-left: 1rem;
-  }
-}
+
 
 
 
@@ -1771,9 +1765,7 @@ section#calendar h2 {
     font-size: 1.25rem;
     line-height: 1.6rem;
     }
-    .my-nav details[open] ul li:hover {
-    background: none;
-    }
+    
     .dropie > ul > li:nth-child(3) {
     padding-right: 3rem;
     }
@@ -1892,6 +1884,9 @@ section#calendar h2 {
     font-size: 1rem;
     position: relative;
     }
+    .my-nav details[open] ul li:hover {
+    background: none;
+    }
     details[open] summary {
     color: black;
     border-bottom: 3px solid #0E83CD;
@@ -1977,6 +1972,8 @@ section#calendar h2 {
     }
     .my-nav > li {
     display: inline-block;
+    margin-left: .5rem;
+    margin-right: .5rem;
     }
     #nav.navbar{
     height: 130px;

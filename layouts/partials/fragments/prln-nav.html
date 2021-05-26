@@ -19,7 +19,7 @@
 {{- end -}}>
   <div class="container-fluid">
     {{- if .Params.asset.image }}
-      <a class="navbar-brand pt-0 pb-2 pl-3 pr-lg-2" href="{{ "#" | relLangURL }}">
+      <a class="navbar-brand pt-0 pb-2 pl-3" href="{{ "#" | relLangURL }}">
         <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="80px" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
       </a>
     {{- else }}
