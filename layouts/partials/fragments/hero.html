@@ -80,6 +80,19 @@
       {{- end -}}
     {{- end -}}
 {{- end -}}
+{{- with .Params.download_button }}
+    <div class="pt-3">
+      <a class="overlay btn btn-lg m-2
+        {{- if hasPrefix .url " # " }} anchor{{ end -}}
+        {{- $color := .color | default "primary" -}}
+        {{- printf " btn-%s " $color -}}
+      " href="{{ .url | relLangURL }}"
+        download="{{ .download_file }}">
+        <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
+        {{ .text }}
+      </a>
+    </div>
+  {{- end }}       
   <div class="hero-buttons">
     {{- range .Params.buttons }}
       <a class="overlay btn btn-lg m-2
