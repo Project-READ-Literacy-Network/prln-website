@@ -1,7 +1,5 @@
 +++
-fragment = "agm-portfolio"
-#disabled = false
-date = "2017-10-04"
+fragment = "report-portfolio"
 weight = 250
 background = "light"
 title = "Get Set Learn Summary Reports"

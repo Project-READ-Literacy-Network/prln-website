@@ -1,7 +1,7 @@
 +++
 fragment = "details-item"
 #disabled = false
-date = "2017-10-04"
+
 weight = 190
 background = "info"
 align = "left"

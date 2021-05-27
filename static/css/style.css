@@ -150,19 +150,10 @@ a {
 .bg-light a h1:hover {
     color: #0E83CD;
 }
-.bg-warning a div.white-bg-hover, .bg-info a div.white-bg-hover, .bg-secondary a div.white-bg-hover, .bg-danger a div.white-bg-hover {
-    color: black;
-    padding: 0;
-    margin: 0;
-    
-}
-.bg-warning a h1, .bg-info a h1, .bg-secondary a h1, .bg-danger a h1 {
-    color: black;
-    padding: 0;
-    margin: 0;
-    
-}
-.bg-warning a h1:hover, .bg-info a h1:hover, .bg-secondary a h1:hover, .bg-danger a h1:hover {
+
+
+
+.bg-warning a.white-bg-hover:hover, .bg-info a.white-bg-hover:hover, .bg-secondary a.white-bg-hover:hover, .bg-danger a.white-bg-hover:hover {
     display: block;
     position: static;
     color: #0E83CD !important;
@@ -173,24 +164,21 @@ a {
     -ms-transition: background-color 1000ms linear;
     transition: background-color 1000ms linear;
 }
-.bg-warning a div.white-bg-hover:hover, .bg-info a div.white-bg-hover:hover, .bg-secondary a div.white-bg-hover:hover, .bg-danger a div.white-bg-hover:hover {
-    display: block;
-    position: static;
-    color: #0E83CD !important;
-    padding: 1rem;
-    margin: -1rem;
-    background-color: #FDFCF9;
-    -webkit-transition: background-color 1000ms linear;
-    -ms-transition: background-color 1000ms linear;
-    transition: background-color 1000ms linear;
+a.white-bg-hover h3 {
+    color: black !important;
 }
-.bg-warning a div.white-bg-hover:hover h1, .bg-info a div.white-bg-hover:hover h1, .bg-secondary a div.white-bg-hover:hover h1, .bg-danger a div.white-bg-hover:hover h1 {
+
+a.white-bg-hover:hover h3 {
     color: #0E83CD !important;
 }
-.bg-warning a div.white-bg-hover:hover h3, .bg-info a div.white-bg-hover:hover h3, .bg-secondary a div.white-bg-hover:hover h3, .bg-danger a div.white-bg-hover:hover h3 {
+a.white-bg-hover h1 {
+    color: black !important;
+}
+
+a.white-bg-hover:hover h1 {
     color: #0E83CD !important;
 }
-    
+
 
 .fill-photo {
     position:relative;
@@ -557,11 +545,11 @@ details p a {
     display: block;
     position: absolute;
 }
-.bg-warning p a {
+#press-header .bg-warning p a {
     color: black;
     position: relative;
 }
-.bg-warning p a:after {
+#press-header .bg-warning p a:after {
     content: '';
     background-color: black;
     height: 2px;
@@ -573,7 +561,7 @@ details p a {
     position: absolute;
     transition: all .5s;
 }
-.bg-warning p a:hover:after {
+#press-header .bg-warning p a:hover:after {
     height: 3px;
 }
 
@@ -1621,7 +1609,7 @@ section#calendar h2 {
 /**************************************************************/
 
 @media (min-width: 576px){
-    .bg-warning p a:after {
+    #press-header .bg-warning p a:after {
     top: 2rem;
     }
     #press-header-nav a {

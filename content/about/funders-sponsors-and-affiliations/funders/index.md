@@ -1,7 +1,7 @@
 +++
 fragment = "items-v-align"
 #disabled = false
-date = "2017-10-04"
+
 weight = 220
 background = "light"
 title = "Our Funders"

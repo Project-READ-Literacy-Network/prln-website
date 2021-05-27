@@ -16,7 +16,7 @@ minHeight = "50vh"
   color = "light"
 
 [[buttons]]
-  text = "Bridges out of Poverty"
+  text = "Bridges Out of Poverty"
   url = "tools-and-resources/practitioner-training-and-development/bridges-out-of-poverty"
   color = "light"
   

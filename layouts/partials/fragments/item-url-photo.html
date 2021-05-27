@@ -136,14 +136,14 @@
           {{- if isset . "url" -}}
           <div class="fill-photo" id="url-image">
             <a
-              href="{{ print .url }}"
+              href="{{ print .url | relLangURL }}"
               {{ if isset . "icon" }}
                 {{- safeHTMLAttr (print "class='display-contents'") -}}
               {{ end }}>
           {{- end -}}
           {{- if isset . "image" }}
             
-                <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "250x250") }}" class="text-center d-block d-lg-inline" alt="{{ .text | default $.Params.title }}"></img>
+                <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "250x250") }}" class="text-center d-block d-lg-inline" alt="{{ .text | default $.Params.title }}">
       
             
             

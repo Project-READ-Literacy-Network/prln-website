@@ -136,7 +136,7 @@
           {{- if isset . "url" -}}
           <div class="fill-item" id="url-image">
             <a
-              href="{{ print .url }}"
+              href="{{ print .url | relLangURL }}"
               {{ if isset . "icon" }}
                 {{- safeHTMLAttr (print "class='display-contents'") -}}
               {{ end }}>

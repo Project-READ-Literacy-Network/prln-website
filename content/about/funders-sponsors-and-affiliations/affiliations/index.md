@@ -1,7 +1,7 @@
 +++
 fragment = "affiliations"
 #disabled = false
-date = "2017-10-04"
+
 weight = 240
 background = "light"
 title = "Our Affiliations"

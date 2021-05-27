@@ -3,7 +3,10 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) }}
-  <div class="row align-items-center text-center
+  <div style="{{- with .Params.minHeight -}}
+          {{- (printf "min-height: %s;" .) | safeCSS -}}
+        {{- end -}}"
+       class="row align-items-center text-center
     {{- if eq $align "left" -}}
       {{- printf " justify-content-start text-lg-left" -}}
     {{- else if eq $align "right" -}}
@@ -21,34 +24,30 @@
         {{- printf " order-lg-1 text-center" -}}
       {{- end -}}
     ">
-        <a href="{{ .Params.asset.url | relLangURL }}">
-            <div class="white-bg-hover">
-      {{- if .Params.title }}
-        <div class="row pb-3">
-          <div class="col-12
-            {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
-          ">
-              
-            <h1>
-              {{- .Params.title | markdownify -}}
-            </h1>
-                  
-          </div>
-        </div>
-      {{- end -}}
-      {{- if .Params.subtitle }}
-        <div class="row pb-2">
-          <div class="col-12
-            {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "white") -}}
-          ">
-            <h3>
-              {{- .Params.subtitle | markdownify -}}
-            </h3>
-              
-          </div>
-        </div>
+        <a href="{{ .Params.asset.url | relLangURL }}" class="white-bg-hover">
+              {{- if .Params.title }}
+                <div class="row pb-3">
+                  <div class="col-12
+                    {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
+                  ">
+                    <h1>
+                      {{- .Params.title | markdownify -}}
+                    </h1>
+                  </div>
                 </div>
-            </a>
+              {{- end -}}
+              {{- if .Params.subtitle }}
+                <div class="row">
+                  <div class="col-12
+                    {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "white") -}}
+                  ">
+                    <h3 class="pb-0 mb-0">
+                      {{- .Params.subtitle | markdownify -}}
+                    </h3>
+
+                  </div>
+                </div>
+        </a>
       {{- end }}
       <div class="col-12 text-center d-lg-none pb-4
         {{- if eq $align "left" -}}
@@ -141,14 +140,14 @@
           {{- if isset . "url" -}}
           
             <a
-              href="{{ print .url }}"
+              href="{{ print .url | relLangURL }}"
               {{ if isset . "icon" }}
                 {{- safeHTMLAttr (print "class='display-contents'") -}}
               {{ end }}>
           {{- end -}}
           {{- if isset . "image" }}
             
-                <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "250x250") }}" class="img-fluid text-center d-block d-lg-inline" alt="{{ .text | default $.Params.title }}"></img>
+                <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .) }}" class="img-fluid p-2 col-12 text-center d-block d-lg-inline" alt="{{ .text | default $.Params.title }}">
       
             
             
