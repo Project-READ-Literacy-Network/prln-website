@@ -14,7 +14,7 @@ background = "light"
 <summary>
 
 # Holistic
-##### We believe in the whole individual and all that comes with them.
+### We believe in the whole individual and all that comes with them.
 
 </summary>
 

@@ -14,7 +14,7 @@ background = "light"
 <summary>
 
 # Welcoming
-##### Project READ is dedicated to serving our diverse community.
+### Project READ is dedicated to serving our diverse community.
 
 </summary>
 

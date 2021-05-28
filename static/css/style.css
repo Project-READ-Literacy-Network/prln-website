@@ -1,3 +1,24 @@
+.special-details details summary h1 {
+    position: relative;
+}
+.special-details details summary h1::after {
+    opacity: 0.1;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f107";
+    position: absolute;
+    margin-left: 1rem;
+    height: 1rem;
+}
+
+.special-details details[open] summary h1::after {
+        content: "\f106";
+}
 tr.facts td strong {
     font-size: 3rem !important;
     line-height: 3rem;
@@ -1829,7 +1850,7 @@ section#calendar h2 {
     hr {
     margin-top: 2rem;
     margin-bottom: 2rem;
-    border-top: 2px solid whitesmoke;
+    border-top: 2px solid (245,245,245,0.1);
     }
     .content-body ul, .faq ul {
     padding-left: 5rem;

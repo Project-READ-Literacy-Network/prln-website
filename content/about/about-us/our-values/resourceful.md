@@ -13,7 +13,7 @@ background = "warning"
 <summary>
 
 # Resourceful
-##### We are a dynamic community collaboration that works hard to find the best resources to help adults and families with their literacy and essential skills needs.
+### We are a dynamic community collaboration that works hard to find the best resources to help adults and families with their literacy and essential skills needs.
 
 </summary>
 

@@ -13,7 +13,7 @@ background = "secondary"
 <summary>
 
 # Life-long learner
-##### We are advocates of life-long learning and believe in the positive impact it has on individual and community wellbeing.
+### We are advocates of life-long learning and believe in the positive impact it has on individual and community wellbeing.
 
 </summary>
 
