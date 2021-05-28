@@ -9,7 +9,7 @@ align = "left"
 title ="How children learn"
 
 [asset]
-  icon = "fas fa-comments"
+  icon = "fas fa-brain"
 
 +++
 

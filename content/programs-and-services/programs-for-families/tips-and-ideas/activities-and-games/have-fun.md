@@ -4,7 +4,7 @@ fragment = "item"
 
 weight = 160
 background = "danger"
-align = "right"
+align = "left"
 
 title ="Have Fun"
 

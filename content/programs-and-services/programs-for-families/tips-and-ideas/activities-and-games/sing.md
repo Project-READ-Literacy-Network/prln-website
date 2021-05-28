@@ -4,7 +4,7 @@ fragment = "item"
 
 weight = 140
 background = "secondary"
-align = "right"
+align = "left"
 
 title ="Sing"
 

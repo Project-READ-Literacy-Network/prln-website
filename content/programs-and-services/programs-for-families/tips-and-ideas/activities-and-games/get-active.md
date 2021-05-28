@@ -4,7 +4,7 @@ fragment = "item"
 
 weight = 180
 background = "info"
-align = "right"
+align = "left"
 
 title = "Get Active"
 

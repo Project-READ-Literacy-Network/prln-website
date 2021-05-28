@@ -2,12 +2,12 @@
 fragment = "details-item"
 weight = 120
 background = "warning"
-align = "right"
+align = "left"
 
 #title ="Parenting Courses"
 
 [asset]
-  icon = "fas fa-comments"
+  icon = "fas fa-apple-alt"
 
 +++
 

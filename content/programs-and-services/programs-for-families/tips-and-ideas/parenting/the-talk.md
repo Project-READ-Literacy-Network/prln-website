@@ -10,6 +10,7 @@ title ="The Talk"
 
 [asset]
   icon = "fas fa-comments"
+  color = "success"
 
 +++
 

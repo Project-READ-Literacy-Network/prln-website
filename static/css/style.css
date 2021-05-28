@@ -16,6 +16,13 @@
     height: 1rem;
 }
 
+.special-details h3 a{
+    color: black !important;
+}
+
+.special-details h3 a:hover{
+    text-decoration: solid underline 3px;
+}
 .special-details details[open] summary h1::after {
         content: "\f106";
 }
