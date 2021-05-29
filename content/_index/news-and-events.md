@@ -1,15 +1,13 @@
 +++
-fragment = "content"
+fragment = "content-short-sidebar"
 weight = 115
 background = "light"
 
 title = "News and Events"
-title_align = "left" # Default is center, can be left, right or center
+title_align = "left" 
 
 [sidebar]
-  #title = "Sidebar"
   align = "right"
-  #sticky = "true" # Default is false
   content = """
 <a class="twitter-timeline"
 href="https://twitter.com/ProjectREADWW?ref_src=twsrc%5Etfw"
