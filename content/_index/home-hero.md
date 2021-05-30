@@ -11,7 +11,7 @@ minHeight = "60vh"
 title = "A Doorway to Literacy & Essential Skills Services in Waterloo-Wellington"
 
 [header]
-  image = "class-group.jpg"
+  image = "home-hero.jpg"
   
 [asset]
   image = "prln-logo.svg"

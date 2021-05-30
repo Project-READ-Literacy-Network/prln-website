@@ -1179,7 +1179,7 @@ h2 a:hover {
 .hero {
     overflow-x: hidden;
 }
-.hero .bg-light  {
+.hero .bg-light, #get-set-learn .bg-light, #get-set-learn-afterschool .bg-light {
    border-bottom: 2px solid whitesmoke;
 }
 
@@ -1221,7 +1221,18 @@ a i.nav-social.fa-youtube {
 a i.nav-social.fa-instagram {
     color: #517fa4 !important;
 }
-
+a i.nav-social.fa-facebook-f:hover {
+    filter: brightness(0.6);
+}
+a i.nav-social.fa-twitter:hover {
+    filter: brightness(0.6);
+}
+a i.nav-social.fa-youtube:hover {
+    filter: brightness(0.6);
+}
+a i.nav-social.fa-instagram:hover {
+    filter: brightness(0.6);
+}
 
 a.prln-social-icons {
     color: #CF202F;
