@@ -1,9 +1,9 @@
 .gov-outer-container {
-    height: 20vw;    
+    height: 20vw;
+    position: relative;
 }
 .gov-container {
     position: relative;
-    background-color: white;
 }
 .gov-logo {
     display: block;
@@ -37,9 +37,7 @@
     overflow: hidden;
 }
 
-.gov-outer-container {
-    height: 20vw;    
-}
+
 .gov-text p {
     font-size: 3vw;
     line-height: 3.4vw;
@@ -1734,7 +1732,8 @@ section#calendar h2 {
 @media (min-width: 576px){
 
     .gov-outer-container {
-    height: 15vw;    
+    height: 15vw; 
+    position: absolute;    
     }
     .gov-text p {
     font-size: 2vw;

@@ -216,7 +216,7 @@
   
   {{- with .Params.donate_button }}
     <div class="d-none d-lg-block pl-auto mx-3 mx-xl-5">
-      <a class="btn btn-light ignore-color-change" href="{{ .url }}" role="button" title="{{- i18n "navbar.donate" | default "Donate on our CanadaHelps.org page" -}}">
+      <a class="btn btn-light ignore-color-change" href="{{ .url }}" role="button">
         <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2 text-dark"display: inline-flex; align-items: center;></i>
         {{ .text }}
       </a>
