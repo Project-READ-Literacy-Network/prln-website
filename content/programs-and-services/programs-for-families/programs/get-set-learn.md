@@ -6,7 +6,7 @@ weight = 110
 background = "light"
 align = "left"
 title = "Get Set Learn"
-subtitle = "Get Set Learn is a program geared towards families with children (birth to six) who live on social assistance."
+subtitle = "Get Set Learn is a program geared towards families with children (birth to six)"
 
 [asset]
   image = "program-gsl.png"
@@ -18,8 +18,6 @@ It guides parents in actively helping themselves and their children to learn and
 - 2 mornings a week
 - 1-hour program
 - 8 weeks
-- Do you receive social assistance? The program is free for you.
-- Bus tickets are provided.
 
 Please click [**Sign Up**](../../../programs-and-services/programs-for-families/sign-up) to see the programs available for you.
 

@@ -5,6 +5,13 @@
   background-size: cover;
   border-radius: 0rem;
 }
+.home-header-image {
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: left;
+  background-size: cover;
+  border-radius: 0rem;
+}
 
 nav[role="navigation"] {
   z-index: 1000 !important;
