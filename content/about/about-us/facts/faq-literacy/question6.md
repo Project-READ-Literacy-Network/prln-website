@@ -3,4 +3,4 @@ title = "Are Literacy and Basic Skills (LBS) programs full-time or part-time? Ca
 weight = 60
 +++
 
-LBS programs are offered on a full-time and/or part-time basis. You can study at home using the Online Learning programs found in the Directory of Programs.
+LBS programs are offered on a full-time and/or part-time basis. Find out more in our [Directory of Programs](programs-and-services/directory-of-programs).

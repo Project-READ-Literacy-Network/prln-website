@@ -75,18 +75,18 @@
         
 </div>
   <div class="container-fluid gov-container">
-    <div class="container gov-container-inner">
+    <div class="container">
             
  {{- if .Params.gov -}}
     {{- with .Params.gov }}
-      <div class="row pt-3 pb-4 pt-md-5 pb-md-5 my-auto">
+      <div class="row pt-3 pb-4 pt-md-5 pb-md-5 my-auto gov-container-inner">
           <div class="col-md-6 col-lg-5 col-xl-4 my-auto h-100 pl-0">
         <img
           class="gov-logo img-fluid my-auto h-100 pl-0"
           src="{{ partial "helpers/image.html" (dict "root" $self "asset" .) }}"
           alt="Employment Ontario, Ontario, Canada - Logos">
               </div>
-              <div class="col-md-6 col-lg-7 col-xl-8 pt-3 pt-md-0 gov-text h-100">
+              <div class="col-md-6 col-lg-7 col-xl-8 pt-3 pt-md-0 gov-text my-auto h-100">
                   <p class="my-auto">{{- .text | markdownify -}}</p>
           </div>    
           
