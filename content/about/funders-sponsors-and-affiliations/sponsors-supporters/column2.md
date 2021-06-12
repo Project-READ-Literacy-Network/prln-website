@@ -2,6 +2,6 @@
 weight = 20
 
 [asset]
-  image = "the-record-logo.svg"
-  url = "https://www.therecord.com"
+  image = "kwcf-logo.svg"
+  url = "https://www.kwcf.ca/"
 +++
