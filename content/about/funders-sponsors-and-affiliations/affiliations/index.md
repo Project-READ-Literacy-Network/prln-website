@@ -8,160 +8,36 @@ title = "Our Affiliations"
 #subtitle= ""
 title_align = "center"
 
-
-[sidebar]
-  sticky = true
   
 [[logos]]
-  url = "http://www.actionread.com/"
-  src = "/images/logos/ar-logo.png"
-  text = "Action Read Community Literacy Centre"
+  url = "https://childrenandyouthplanningtable.ca/"
+  logoName = "LNO"
+  logoDesc = "Learning Networks of Ontario"
 
-[[logos]]
-  url = "http://www.conestogac.on.ca/caa/upgrading"
-  src = "/images/logos/cc-logo.svg"
-  text = "Conestoga College Academic Upgrading"
-
-[[logos]]
-  url = "https://www.ugdsb.ca/continuing-education/"
-  src = "/images/logos/ugdsb-logo.png"
-  text = "Upper Grand District School Board (UGDSB)"
   
 [[logos]]
-  url = "http://www.wrdsb.ca/esu"
-  src = "/images/logos/esu-wrdsb-logo.png"
-  text = "ESU: Essential Skills Upgrading"
+  url = "https://learningnetworks.ca/"
+  logoName = "CYPT"
+  logoDesc = "The Children and Youth Planning Table of Waterloo Region"
+
+[[logos]]
+  logoName = "CMT"
   
 [[logos]]
-  url = "http://www.kwhab.ca/"
-  src = "/images/logos/kwhab-logo.png"
-  text = "KW Habilitation"
+  logoName = "KMT"
   
 [[logos]]
-  url = "http://www.cambridgecareerconnections.com/"
-  src = "/images/logos/ccc-logo.png"
-  text = "logo"
+  logoName = "PPAWR"
   
 [[logos]]
-  url = "http://www.npaamb.com/"
-  src = "/images/logos/npaamb-logo.png"
-  text = "npaamb"
+  logoName = "CELC"
+  logoDesc = "Community Employment Linkages Committee"
   
 [[logos]]
-  url = "https://stlouis.wcdsb.ca/"
-  src = "/images/logos/sl-logo.jpg"
-  text = "stlouis"
+  logoName = "GWETC"
+  logoDesc = "Guelph-Wellington Education and Training Committee"
   
-[[logos]]
-  url = "http://www.theliteracygroup.com/"
-  src = "/images/logos/tlg_logo.png"
-  text = "theliteracygroup"
-  
-[[logos]]
-  url = "http://www.ccrw.org/"
-  src = "/images/logos/ccrw-Logo.png"
-  text = "ccrw"
-  
-[[logos]]
-  url = "http://www.lutherwood.ca/employment"
-  src = "/images/logos/lutherwood-logo.png"
-  text = "lutherwood"
-  
-[[logos]]
-  url = "http://www.2ndchance.ca/"
-  src = "/images/logos/sc-logo.png"
-  text = "2ndchance"  
-  
-[[logos]]
-  url = "http://www.cmhaww.ca/"
-  src = "/images/logos/cmha-logo.png"
-  text = "cmhaww" 
-
-[[logos]]
-  url = "http://www.ymcaemploymentservices.ca/"
-  src = "/images/logos/ymca-tr-logo.png"
-  text = "ymcaemploymentservices" 
-
-[[logos]]
-  url = "http://www.wpl.ca/"
-  src = "/images/logos/wpl-logo.png"
-  text = "wpl" 
-  
-[[logos]]
-  url = "http://www.theworkingcentre.org/"
-  src = "/images/logos/wc-loco.png"
-  text = "theworkingcentre"   
-  
-[[logos]]
-  url = "http://www.rwlibrary.ca/"
-  src = "/images/logos/rowl-logo.png"
-  text = "logo"   
-  
-[[logos]]
-  url = "https://www.marchofdimes.ca/"
-  src = "/images/logos/modc_logo.svg"
-  text = "marchofdimes"   
-
-[[logos]]
-  url = "http://www.sefad.ca/"
-  src = "/images/logos/sefad-logo.png"
-  text = "sefad"  
-
-[[logos]]
-  url = "http://www.acedistancedelivery.ca/"
-  src = "/images/logos/ace-logo.png"
-  text = "acedistancedelivery"  
-
-[[logos]]
-  url = "https://schools.wrdsb.ca/continuing-education/"
-  src = "/images/logos/con-ed-wrdsb-logo.png"
-  text = "con-ed-wrdsb"  
-
-[[logos]]
-  url = "http://www.deaflearnnow.ca/"
-  src = "/images/logos/dln-logo.png"
-  text = "deaflearnnow"  
-
-[[logos]]
-  url = "http://www.guelphpl.ca/"
-  src = "/images/logos/gpl-logo.svg"
-  text = "guelphpl"  
-
-[[logos]]
-  url = "http://www.ideaexchange.org/"
-  src = "/images/logos/ie-logo.png"
-  text = "ideaexchange" 
-
-[[logos]]
-  url = "http://www.agilec.ca/"
-  src = "/images/logos/agilec-logo.png"
-  text = "agilec"  
-
-[[logos]]
-  url = "http://www.goodlearninganywhere.com/"
-  src = "/images/logos/gla-logo.png"
-  text = "goodlearninganywhere"  
-
-[[logos]]
-  url = "http://www.kpl.org/"
-  src = "/images/logos/kpl-logo.png"
-  text = "kpl" 
-
-[[logos]]
-  url = "http://www.learninghub.ca/"
-  src = "/images/logos/lh-logo.png"
-  text = "learninghub"  
-
-[[logos]]
-  url = "http://www.thewclc.ca/"
-  src = "/images/logos/wclc-logo.jpg"
-  text = "thewclc"  
-
-
-
 
 
 +++
-
-#### For specific contact information and program listings head over to [The Directory of Programs](/programs-and-services/directory-of-programs)
 
