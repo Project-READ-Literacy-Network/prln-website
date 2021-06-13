@@ -15,12 +15,12 @@ title = "Learning Together Workshops"
 [[buttons]]
   text = "Parents"
   url = "programs-and-services/programs-for-families/workshops/#learning-together-workshops"
-  color = "primary"
+  color = "secondary"
   
 [[buttons]]
   text = "Grandparents"
   url = "programs-and-services/programs-for-families/workshops/#grandparents"
-  color = "secondary"
+  color = "danger"
   
 +++
 

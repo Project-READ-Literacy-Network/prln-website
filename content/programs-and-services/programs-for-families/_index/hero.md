@@ -26,7 +26,7 @@ minHeight = "50vh"
   color = "light"
   
 [[buttons]]
-  text = "Sign-Up"
+  text = "Sign Up"
   url = "programs-and-services/programs-for-families/sign-up"
   color = "light"
 +++
