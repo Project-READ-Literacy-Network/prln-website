@@ -1,5 +1,5 @@
 .home-header-image {
-    min-height: calc((100vh - 130px) - 20vh);
+    min-height: calc((100vh - 130px) - 40vh);
 }
 h1.hero-title {
     font-size: 3rem;
