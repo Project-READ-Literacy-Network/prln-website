@@ -14,7 +14,7 @@ search = false
 # Branding options
 [asset]
   image = "prln-logo.svg"
-  text = "Project READ"
+  text = "Project READ Literacy Network - Home"
   
 [breadcrumb]
   display = false # Default value is false
