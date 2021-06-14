@@ -10,28 +10,33 @@ title_align = "center"
 
   
 [[logos]]
-  url = "https://childrenandyouthplanningtable.ca/"
+  url = "https://learningnetworks.ca/"
   logoName = "LNO"
   logoDesc = "Learning Networks of Ontario"
 
   
 [[logos]]
-  url = "https://learningnetworks.ca/"
+  url = "https://childrenandyouthplanningtable.ca/"
   logoName = "CYPT"
   logoDesc = "The Children and Youth Planning Table of Waterloo Region"
 
 [[logos]]
   logoName = "CMT"
+  logoDesc = "Cambridge Mobilization Team"
   
 [[logos]]
   logoName = "KMT"
+  logoDesc = "Kitchener Mobilization Team"
   
 [[logos]]
-  logoName = "PPAWR"
+  logoName = "PAWR"
+  logoDesc = "Parenting Alliance Waterloo Region"
+  url = "https://parentingalliance.ca/"
   
 [[logos]]
   logoName = "CELC"
-  logoDesc = "Community Employment Linkages Committee"
+  logoDesc = "Community Employment Literacy Committee"
+  url = "https://www.facebook.com/CELCEmployerRec/"
   
 [[logos]]
   logoName = "GWETC"
