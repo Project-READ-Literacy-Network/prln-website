@@ -3,7 +3,6 @@ fragment = "prln-nav"
 date = "2018-05-17"
 weight = 0
 sticky = true
-search = false
 
 [donate_button]
   url = "https://www.canadahelps.org/en/dn/11623"

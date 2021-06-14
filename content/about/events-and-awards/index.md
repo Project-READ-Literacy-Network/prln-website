@@ -24,6 +24,11 @@ minHeight = "50vh"
   text = "Awards"
   url = "about/events-and-awards/#awards"
   color = "light"
+  
+[[buttons]]
+  text = "Apply for an Award"
+  url = "about/events-and-awards/#apply-for-an-award"
+  color = "light"
 +++
 
 

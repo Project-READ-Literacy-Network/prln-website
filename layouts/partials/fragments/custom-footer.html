@@ -3,15 +3,12 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) }}
   <div class="row">
-    <div class="col-md m-2
+    <div class="col-md m-2 align-self-center
       {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
     ">
       {{- with .Params.asset }}
-        <h4>
-          {{- $self.Params.title -}}
-        </h4>
         {{- if .image }}
-        <a href="{{ .url }}">
+        <a href="{{ .url }}" class="prln-logo-footer">
           <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "220x100") }}" class="img-fluid footer-logo" alt="{{ .text }}">
         </a>
         {{- else }}
@@ -64,7 +61,7 @@
       {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
     ">
       {{- with .self.Content }}
-        <div>
+        <div class="mission-text">
           {{- . -}}
         </div>
       {{- end }}

@@ -1678,9 +1678,7 @@ section#calendar h2 {
     border-bottom: 2px solid whitesmoke !important;
 }
 
-#footer li:last-of-type{
-        margin-bottom: 2rem;
-    }
+
 .prln-social-icon-size {
     font-size: 6vw;
     margin-bottom: 2rem;
@@ -1691,15 +1689,56 @@ section#calendar h2 {
 #footer p{
     font-size: 1rem;
     line-height: 1.5rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
     }
 .footer-logo {
     width: 75%;
 }
+#footer .bg-light {
+    background-color: transparent !important;
+}
 #footer {
     text-align: center !important;
-   border-top: 2px solid whitesmoke;
+    border-top: 5px solid #CF202F;
+    background-image: url("../images/sm-footer.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+
+#footer .container-fluid {
+    background-image: url("../images/sm-footer.svg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
+#footer .nav-link {
+    display: inline-block;
+    color: black;
+    position: relative;
+}
+
+#footer .nav-link::after {
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    margin: auto;
+    background-color: #5BCBF5;
+    width: 0%;
+    content: '';
+    height: 2px;
+    transition: all 0.5s;
+}
+#footer .nav-link:hover::after {
+    width: 100%;
+}
+
+
 
 /**************************************************************/
 
@@ -1708,7 +1747,7 @@ section#calendar h2 {
 /**************************************************************/
 
 @media (min-width: 576px){
-
+    
     
     tr.facts td {
     display:table-cell;
@@ -1869,7 +1908,16 @@ section#calendar h2 {
 
 
 @media (min-width: 767px){
-    
+    #footer {
+    background-image: url("../images/md-footer.jpg");
+    text-align: left !important;
+}
+    #footer .container-fluid {
+    background-image: url("../images/md-footer.svg");
+    }
+    #footer .nav-link::after {
+    left: 0;
+}
     
     .gov-text {
     text-align: left;
@@ -1918,13 +1966,17 @@ section#calendar h2 {
     .social-icon-align {
     justify-content: start;
     }
-    #footer {
-    text-align: left !important;
-}
+
+
     
 }
 @media only screen and (min-width: 992px) {
-    
+    #footer {
+    background-image: url("../images/lg-footer.jpg");
+    }
+    #footer .container-fluid {
+    background-image: url("../images/lg-footer.svg");
+    }
     section#calendar h2 {
     text-align: left !important;
     }
@@ -2155,7 +2207,7 @@ section#calendar h2 {
     }
 }
 @media (min-width: 1200px) {
-    
+ 
     .publication-image {
     height: 23vh;
     width: 18vh;
@@ -2219,4 +2271,12 @@ section#calendar h2 {
 
     
 
+}
+@media (min-width: 1400px) {
+    #footer {
+    background-image: url("../images/footer.jpg");
+    }
+    #footer .container-fluid {
+    background-image: url("../images/footer.svg");
+    }
 }

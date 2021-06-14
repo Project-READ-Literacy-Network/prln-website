@@ -2,7 +2,7 @@
 date = "2018-07-09"
 fragment = "portfolio"
 weight = 110
-background = "warning"
+background = "light"
 
 title = "Project READ Events"
 #subtitle = "Here are some recent events that Project READ has brought to the community"

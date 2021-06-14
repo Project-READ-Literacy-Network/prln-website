@@ -3,7 +3,6 @@ fragment = "custom-footer"
 #disabled = true
 date = "2016-09-07"
 weight = 1200
-#background = ""
 
 menu_title = "Get Involved"
 
@@ -11,7 +10,7 @@ menu_title = "Get Involved"
   title = "Project READ Literacy Network Waterloo-Wellington"
   image = "prln-logo.svg"
   text = "Project READ Literacy Network Waterloo-Wellington"
-  url = "#"
+  url = "/#"
 +++
 
 #### Our Mission
