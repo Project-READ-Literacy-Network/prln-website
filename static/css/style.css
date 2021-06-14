@@ -2145,6 +2145,48 @@ section#calendar h2 {
     z-index: 999;
     box-shadow: 0 8px 6px -6px black;
     }
+    
+    
+/* Closing the detail content on clicking anywhere else */
+details.dropie[open] summary::before {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: "";
+  cursor: default;
+}
+.dropie[open] ul {
+	animation: fade-in 0.5s forwards;
+}
+
+dropie.summary-closing[open] ul {
+	animation: fade-out 0.5s forwards;
+}
+
+@keyframes fade-in {
+	0% {
+		transform: translateY(-20px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes fade-out {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+		transform: translateY(-20px);
+	}
+}
+
+    
     ul#my-nav {
     margin-bottom: 0;
     }

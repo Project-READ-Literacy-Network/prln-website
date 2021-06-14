@@ -26,7 +26,37 @@ nav.addEventListener('toggle', function (event) {
 
 }, true);
 </script>
-  """   
+  """
+  
+[[config]]
+  type = "js"
+  html = """
+<script>
+function closeAboutDetails() {
+  document.getElementById("aboutDetails").open = false;
+}
+</script>
+  """
+  
+[[config]]
+  type = "js"
+  html = """
+<script>
+function closepSDetails() {
+  document.getElementById("pSDetails").open = false;
+}
+</script>
+  """
+  
+[[config]]
+  type = "js"
+  html = """
+<script>
+function closetRDetails() {
+  document.getElementById("tRDetails").open = false;
+}
+</script>
+  """
   
 [[config]]
   type = "js"

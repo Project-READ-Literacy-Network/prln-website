@@ -26,6 +26,52 @@ nav.addEventListener('toggle', function (event) {
 
 }, true);
 </script>
+  """
+  
+[[config]]
+  type = "js"
+  html = """
+<script>
+function closeAboutDetails() {
+  document.getElementById("aboutDetails").open = false;
+}
+</script>
+  """
+  
+[[config]]
+  type = "js"
+  html = """
+<script>
+function closepSDetails() {
+  document.getElementById("pSDetails").open = false;
+}
+</script>
+  """
+  
+[[config]]
+  type = "js"
+  html = """
+<script>
+function closetRDetails() {
+  document.getElementById("tRDetails").open = false;
+}
+</script>
+  """
+  
+[[config]]
+  type = "js"
+  # block = true # Default is false
+  html = """
+  <script>
+var all_links = document.querySelectorAll('a');
+for (var i = 0; i < all_links.length; i++){
+       var a = all_links[i];
+       if(a.hostname != location.hostname) {
+               a.rel = 'noopener';
+               a.target = '_blank';
+       }
+}
+</script>
   """    
     
 +++
