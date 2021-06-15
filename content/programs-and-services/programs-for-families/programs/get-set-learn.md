@@ -1,16 +1,26 @@
 +++
-fragment = "item"
+fragment = "details-item"
 #disabled = true
 date = "2017-10-05"
 weight = 110
 background = "light"
 align = "left"
-title = "Get Set Learn"
-subtitle = "Get Set Learn is a program geared towards families with children (birth to six)"
 
 [asset]
   image = "program-gsl.png"
+  
 +++
+
+<details>
+    
+<summary>
+
+# Get Set Learn
+### Get Set Learn is a program geared towards families with children (birth to six).
+    
+</summary>
+
+***
 
 It guides parents in actively helping themselves and their children to learn and to expand their Literacy and Essential Skills, and in helping children get ready for school. 
 
@@ -21,7 +31,7 @@ It guides parents in actively helping themselves and their children to learn and
 
 Please click [**Sign Up**](../../../programs-and-services/programs-for-families/sign-up) to see the programs available for you.
 
-#### Our program includes:
+##### Our program includes:
 
 - family playtime
 - circle time
@@ -29,3 +39,5 @@ Please click [**Sign Up**](../../../programs-and-services/programs-for-families/
 - parent sharing time  
   
 Get Set Learn is a popular program so it fills up fast.
+
+</details>

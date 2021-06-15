@@ -1,97 +1,4 @@
-section#board-of-directors div.container-fluid.bg-light {
-   border-top: 2px solid whitesmoke;
-    border-bottom: 2px solid whitesmoke;
-}
-section#staff div.container-fluid.bg-light {
-    border-bottom: 2px solid whitesmoke;
-}
-.home-header-image {
-    min-height: calc((100vh - 130px) - 40vh);
-}
-h1.hero-title {
-    font-size: 3rem;
-}
-.gov-container {
-   border-bottom: 2px solid whitesmoke;
-}
-.gov-container-inner {
-    min-height: 20vh;
-}
-.gov-text {
-    text-align: center;
-}
-.gov-text p{
-    font-size: 1rem;
-    line-height: 1.5rem;
-}
 
-
-.special-details details summary h1 {
-    position: relative;
-}
-.special-details details summary h1::after {
-    opacity: 0.3;
-    display: inline-block;
-    font-style: normal;
-    font-variant: normal;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    content: "\f107";
-    position: absolute;
-    margin-left: 1rem;
-    height: 1rem;
-}
-
-.special-details h3 a{
-    color: black !important;
-}
-
-.special-details h3 a:hover{
-    text-decoration: solid underline 3px;
-}
-.special-details details[open] summary h1::after {
-        content: "\f106";
-}
-tr.facts td strong {
-    font-size: 3rem !important;
-    line-height: 3rem;
-    font-weight: 900;
-    color: #CF202F !important;
-    display: block !important;
-}
-
-tr.facts td p {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-}
-tr.facts td p {
-    position: relative
-}
-tr.facts td p::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0rem;
-    background-color: #CF202F;
-    height: 3px;
-    width: 100%;
-}
-
-.facts-icon {
-    font-size: 4rem !important;
-    color: #CF202F !important;
-    display: block !important;
-}
-tr.facts td {
-    display:table-row;
-}
-.table tr.facts td {
-    padding: 3rem 2rem;
-    vertical-align: top;
-    border-top: none;
-}
 
 .my-nav > li {
   display: block;
@@ -129,12 +36,7 @@ summary {
     margin: 0;
     padding-inline-start: 0;
 }
-.my-nav .dropie a {
-    display: none;
-}
-ul.nav-contact {
-    display: none;
-}
+
 .my-nav .dropie .my-dropie-header a {
     font-size: 1.25rem;
     font-weight: 700;
@@ -195,23 +97,142 @@ a {
     border-top: none;
 
 }
-
+/*
 .my-nav details[open] ul li:hover a {
     color: black;
 }
 .my-nav details[open] ul li:hover {
     background: #b2e7fa;
 }
+*/
 .navbar {
     padding-left: 0;
     padding-right: 0;
+}
+details.dropie  summary {
+    position: relative;
+}
+details.dropie  summary::after {
+    opacity: 0.3;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f107";
+    position: absolute;
+    right: 1rem;
+}
+
+details.dropie[open] summary::after {
+        content: "\f106";
 }
 
 
 
 
-
 /*****************************************************************************/
+
+
+section#board-of-directors div.container-fluid.bg-light {
+   border-top: 2px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+}
+section#staff div.container-fluid.bg-light {
+    border-bottom: 2px solid whitesmoke;
+}
+.home-header-image {
+    min-height: calc((100vh - 130px) - 40vh);
+}
+h1.hero-title {
+    font-size: 3rem;
+}
+.gov-container {
+   border-bottom: 2px solid whitesmoke;
+}
+.gov-container-inner {
+    min-height: 20vh;
+}
+.gov-text {
+    text-align: center;
+}
+.gov-text p{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+
+.special-details details summary h1 {
+    position: relative;
+}
+.special-details details summary h1::after {
+    opacity: 0.3;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f107";
+    position: absolute;
+    margin-left: 1rem;
+    height: 1rem;
+}
+
+.special-details details[open] summary h1::after {
+        content: "\f106";
+}
+.special-details h3 a{
+    color: black !important;
+}
+
+.special-details h3 a:hover{
+    text-decoration: solid underline 3px;
+}
+.special-details .text-body details[open] h5 {
+    padding-bottom: 1rem;
+}
+tr.facts td strong {
+    font-size: 3rem !important;
+    line-height: 3rem;
+    font-weight: 900;
+    color: #CF202F !important;
+    display: block !important;
+}
+
+tr.facts td p {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+tr.facts td p {
+    position: relative
+}
+tr.facts td p::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0rem;
+    background-color: #CF202F;
+    height: 3px;
+    width: 100%;
+}
+
+.facts-icon {
+    font-size: 4rem !important;
+    color: #CF202F !important;
+    display: block !important;
+}
+tr.facts td {
+    display:table-row;
+}
+.table tr.facts td {
+    padding: 3rem 2rem;
+    vertical-align: top;
+    border-top: none;
+}
 
 
 .card-body {
@@ -2027,15 +2048,7 @@ section#calendar h2 {
     .item-custom h1 {
     text-align: left !important;
     }
-    #get-set-learn-grandparents img {
-        display: block;
-    }
-    #get-set-learn img {
-        display: block;
-    }
-    #get-set-learn-afterschool img {
-        display: block;
-    }
+
     .sticky-top {
     top: 130px;
     }
@@ -2095,6 +2108,7 @@ section#calendar h2 {
     transition: all 0.5s;
     }
     .dropie > summary:hover::after {
+    opacity: 1;
     width: 100%;
     }
     .dropie ul > ul > li a:hover{

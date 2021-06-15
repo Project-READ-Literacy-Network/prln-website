@@ -29,6 +29,6 @@ subtitle= "Get your family ready for school!"
 
 [[buttons]]
   text = "Find out more"
-  url = "programs-and-services/programs-for-families/#get-set-learn"
+  url = "programs-and-services/programs-for-families"
   color = "outline-dark"  
 +++
