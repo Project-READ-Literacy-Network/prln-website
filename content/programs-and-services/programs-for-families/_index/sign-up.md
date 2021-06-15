@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 title = "Sign Up"
-subtitle = "Get Set Learn is a popular program and fills up fast, click the  button below to register today!"
+subtitle = "Get Set Learn is a popular program and fills up fast. Click the  button below to register today!"
 
 minHeight = "40vh"
 
