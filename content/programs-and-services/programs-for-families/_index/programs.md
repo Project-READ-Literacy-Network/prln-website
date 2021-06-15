@@ -7,7 +7,7 @@ background = "success"
 align = "right"
 minHeight = "40vh"
 
-title ="Programs"
+title ="Get Set Learn Programs"
 
 [asset]
   image = "gsl-program.png"

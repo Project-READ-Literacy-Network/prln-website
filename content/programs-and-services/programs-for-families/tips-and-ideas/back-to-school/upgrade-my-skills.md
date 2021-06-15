@@ -29,8 +29,8 @@ align = "left"
 
 </summary>
 
-If you live in Kitchener, Waterloo, Cambridge or Guelph, please call Project READ Literacy Network to book a literacy assessment. This assessment is an interview with a specialist who will help you find out where to start your path to education.  
-**(519) 570-3054**  
+If you live in Kitchener, Waterloo, Cambridge, or Guelph-Wellington Regions, please contact Project READ Literacy Network to book an appointment with our literacy specialist or to get a referral to a program that is right for you.  
+**(519) 570-3054 or info@projectread.ca** 
   
 
 

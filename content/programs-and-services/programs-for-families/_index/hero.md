@@ -11,13 +11,13 @@ minHeight = "50vh"
   image = "family-programs.jpg"
 
 [[buttons]]
-  text = "Programs"
-  url = "programs-and-services/programs-for-families/programs"
+  text = "Get Set Learn Programs"
+  url = "programs-and-services/programs-for-families/#programs"
   color = "light" 
   
 [[buttons]]
   text = "Workshops"
-  url = "programs-and-services/programs-for-families/workshops"
+  url = "programs-and-services/programs-for-families/#workshops"
   color = "light"
 
 [[buttons]]

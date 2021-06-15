@@ -20,15 +20,8 @@ align = "left"
 
 </summary>
 
-If you live in Kitchener/Waterloo or Cambridge, please call Project READ Literacy Network to book an appointment with our literacy specialist who will help you find a program that is right for you.  
-**(519) 570-3054**  
-  
-If you live in Guelph or Wellington County, please contact the Wellington Centre for Continuing Education to help you find a program that is right for you.  
-www.ugdsb.on.ca/continuing_education  
-**(519) 836-7280**  
-  
-You can also contact Action Read to find a tutor or a program for you.  
-www.actionread.com
+If you live in Kitchener, Waterloo, Cambridge, or Guelph-Wellington Regions, please contact Project READ Literacy Network to book an appointment with our literacy specialist or to get a referral to a program that is right for you.  
+**(519) 570-3054 or info@projectread.ca**
 
 
 </details>

@@ -22,18 +22,12 @@ align = "left"
 
 ### Your local school board will offer some high school credit courses at night school.
 
-In Kitchener/Waterloo, please call Project READ Literacy Network to book an appointment to speak to our literacy assessor. This specialist can help you figure out which course is right for you.  
-**(519) 570-3054**
+If you live in Kitchener, Waterloo, Cambridge, or Guelph-Wellington Regions, please contact Project READ Literacy Network to book an appointment with our literacy specialist or to get a referral to a program that is right for you.  
+**(519) 570-3054 or info@projectread.ca**
   
   
 You can also get information directly from [the school board’s website](http://www.wrdsb.ca/learning/programs/continuing-education-2/night-school) to take to the appointment with you.
 
-*****  
-  
-In Guelph or Wellington County, contact Wellington Centre for Continuing Education to find the program that is right for you.  
-**(519) 836-7280**  
-  
-You can also get information directly from [the school board’s website](http://www.ugdsb.on.ca/continuing_education/article.aspx?id=49159) to help you.
 
 </summary>
 
