@@ -1,0 +1,22 @@
+{{- $self := . -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{ "<!-- Get Set Learn Registration Confirmation Message-->" | safeHTML }}
+<section id="gsl-reg-msg" class="fragment">
+  <div class="jumbotron text-center mb-0
+    {{- printf " bg-%s" $bg -}}
+  ">
+
+    <h1 class="jumbotron-heading my-5">
+      {{ .Params.title }}
+    </h1>
+    <h3 class="my-4">
+      {{ .Params.subtitle }}
+    </h3>
+    <div>{{- .self.Content -}}</div>
+
+    <a class="btn btn-outline-dark btn-lg my-4" href="{{ .Params.redirect_url | default "/" }}">
+      {{ .Params.button_text }}
+    </a>
+  </div>
+</section>

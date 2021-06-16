@@ -155,6 +155,6 @@ title_align = "left"
 
 +++
 
-#### Project READ Literacy Network
-presents this booklet in partnership with its associate organizations. 
+Project READ Literacy Network presents this directory in partnership with its associate organizations. To browse the directory by category, use the links on the left. To jump to an associate organization’s website, click its logo below. 
 
+***

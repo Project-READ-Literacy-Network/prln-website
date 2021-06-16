@@ -8,7 +8,7 @@
     {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
-onload="if(submitted) {window.location='/thankyou';}"></iframe>
+onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
 
 <div class="row">
     
@@ -25,16 +25,23 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
         <div class="col-md-6 ">
                 <div class="form-group">
-                <input type="text" placeholder="Name" name="entry.1166360450" required class="form-control">
+                    <p class="label pl-0 mb-0">Your name</p>
+                    <input type="text" name="entry.1166360450" required class="form-control">
                 </div>
+            
                 <div class="form-group">
-                <input type="email" placeholder="Email" name="entry.1230585530" required class="form-control">
+                    <p class="label pl-0 mb-0">Your telephone number</p>
+                    <input type="text" name="entry.2116428376" class="form-control">
                 </div>
+            
                 <div class="form-group">
-                <input type="text" placeholder="Phone" name="entry.2116428376" class="form-control">
+                    <p class="label pl-0 mb-0">Your email address</p>
+                    <input type="email" name="entry.1230585530" required class="form-control">
                 </div>
+            
                 <div class="form-group">
-                <input type="text" placeholder="Your children - names and ages" name="entry.2105716078" class="form-control">
+                    <p class="label pl-0 mb-0">Your children - names and ages</p>
+                    <input type="text" name="entry.2105716078" class="form-control">
                 </div>
                 
                 
@@ -42,21 +49,15 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
                 
                 <div class="form-check checkbox checkbox-circle mb-3 text-left">
                 <!-- The "value" is important -->
-                <input type="checkbox" class="form-check-input" value="Class 1 - Tuesday and Thursday" name="entry.529051757">
+                <input type="checkbox" class="form-check-input" value="Class 1 - Tuesday and Thursday" id="Class 1 - Tuesday and Thursday" name="entry.529051757">
                 <label class="form-check-label" for="Class 1 - Tuesday and Thursday">Class 1 - Tuesday and Thursday</label>
                 </div>
                 
                 <div class="form-check checkbox checkbox-circle mb-3 text-left">
                 <!-- The "value" is important -->
-                <input type="checkbox" class="form-check-input" value="Class 2 - Wednesday and Friday" name="entry.529051757">
+                <input type="checkbox" class="form-check-input" value="Class 2 - Wednesday and Friday" id="Class 2 - Wednesday and Friday" name="entry.529051757">
                 <label class="form-check-label" for="Class 2 - Wednesday and Friday">Class 2 - Wednesday and Friday</label>
                 </div>
-                
-                <div class="form-group w-50 pl-0">
-                <input type="text" placeholder="other" name="entry." class="form-control">
-                </div>
-                    
-                
         </div>
 
                 
@@ -69,40 +70,40 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
                  
                     <div class="form-check checkbox checkbox-circle mb-3 text-left">
                     <!-- The "value" is important -->
-                    <input type="checkbox" class="form-check-input" value="doctor" name="entry.1243974042">
+                    <input type="checkbox" class="form-check-input" value="doctor" id="doctor" name="entry.1243974042">
                     <label class="form-check-label" for="doctor">doctor</label>
                     </div>
                     <div class="form-check checkbox checkbox-circle mb-3 text-left">
                     <!-- The "value" is important -->
-                    <input type="checkbox" class="form-check-input" value="nurse" name="entry.1243974042">
+                    <input type="checkbox" class="form-check-input" value="nurse" id="nurse" name="entry.1243974042">
                     <label class="form-check-label" for="nurse">nurse</label>
                     </div>
                     <div class="form-check checkbox checkbox-circle mb-3 text-left">
                     <!-- The "value" is important -->
-                    <input type="checkbox" class="form-check-input" value="community worker" name="entry.1243974042">
+                    <input type="checkbox" class="form-check-input" value="community worker" id="community worker" name="entry.1243974042">
                     <label class="form-check-label" for="community worker">community worker</label>
                     </div>
                     <div class="form-check checkbox checkbox-circle mb-3 text-left">
                     <!-- The "value" is important -->
-                    <input type="checkbox" class="form-check-input" value="caseworker" name="entry.1243974042">
+                    <input type="checkbox" class="form-check-input" value="caseworker" id="caseworker" name="entry.1243974042">
                     <label class="form-check-label" for="caseworker">caseworker</label>
                     </div>
                     <div class="form-check checkbox checkbox-circle mb-3 text-left">
                     <!-- The "value" is important -->
-                    <input type="checkbox" class="form-check-input" value="cheque insert" name="entry.1243974042">
-                    <label class="form-check-label" for="cheque insert">cheque insert</label>
-                    </div>
-                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
-                    <!-- The "value" is important -->
-                    <input type="checkbox" class="form-check-input" value="friend" name="entry.1243974042">
+                    <input type="checkbox" class="form-check-input" value="friend" id="friend" name="entry.1243974042">
                     <label class="form-check-label" for="friend">friend</label>
                     </div>
                     <div class="form-check checkbox checkbox-circle mb-3 text-left">
                     <!-- The "value" is important -->
-                    <input type="checkbox" class="form-check-input" value="Peers" name="entry.1243974042">
+                    <input type="checkbox" class="form-check-input" value="Peers" id="Peers" name="entry.1243974042">
                     <label class="form-check-label" for="Peers">peer</label>
                     </div>
-                    <div class="form-group pl-0 w-50">
+                    <div class="form-check checkbox checkbox-circle mb-3 text-left">
+                    <!-- The "value" is important -->
+                    <input type="checkbox" class="form-check-input" value="cheque insert" id="cheque insert" name="entry.1243974042">
+                    <label class="form-check-label" for="cheque insert">cheque insert</label>
+                    </div>
+                    <div class="form-group pl-0 w-100">
                     <input type="text" placeholder="other" name="entry.1759722061" class="form-control">
                     </div>
                 </div>

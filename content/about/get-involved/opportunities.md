@@ -7,7 +7,7 @@ background = "secondary"
 title_align = "left"
 form_name = "Volunteering, co-op and placement opportunities"
 button_text = "Send"
-title = "Volunteering, co-op and placement opportunities"
+title = "Opportunities for Volunteering and Co-op Placements"
 subtitle = "Contact us for more info"
 +++
 

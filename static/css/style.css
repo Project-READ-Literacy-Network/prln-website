@@ -1,5 +1,4 @@
 
-
 .my-nav > li {
   display: block;
 }
@@ -1733,13 +1732,11 @@ section#calendar h2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
 }
 
 
 #footer .container-fluid {
     background-image: url("../images/sm-footer.svg");
-    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1776,7 +1773,9 @@ section#calendar h2 {
 
 @media (min-width: 576px){
     
-    
+    #gsl-reg-msg {
+    min-height: calc((100vh - 120px) - (270px + 72px));
+    }
     tr.facts td {
     display:table-cell;
     }
@@ -1936,6 +1935,9 @@ section#calendar h2 {
 
 
 @media (min-width: 767px){
+    #gsl-reg-msg {
+    min-height: calc((100vh - 130px) - (341px));
+    }
     #footer {
     background-image: url("../images/md-footer.jpg");
     text-align: left !important;
@@ -1999,6 +2001,9 @@ section#calendar h2 {
     
 }
 @media only screen and (min-width: 992px) {
+    #gsl-reg-msg {
+    min-height: calc((100vh - 130px) - (381px));
+    }
     #footer {
     background-image: url("../images/lg-footer.jpg");
     }
@@ -2270,7 +2275,9 @@ dropie.summary-closing[open] ul {
     }
 }
 @media (min-width: 1200px) {
- 
+    #gsl-reg-msg {
+    min-height: calc((100vh - 130px) - (357px));
+    }
     .publication-image {
     height: 23vh;
     width: 18vh;
