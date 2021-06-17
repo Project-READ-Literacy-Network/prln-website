@@ -3,8 +3,9 @@ fragment = "details-item"
 #disabled = false
 
 weight = 130
-background = "light"
+background = "info"
 align = "left"
+minHeight = "45vh"
 
 #title = ""
 

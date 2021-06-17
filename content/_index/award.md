@@ -5,6 +5,7 @@ title = "Yvonne Heninger Memorial Award"
 subtitle = "for Literacy Students Overcoming Challenges"
 weight = 129
 title_align = "center"
+minHeight = "45vh"
 
 [asset]
   icon = "fas fa-award"

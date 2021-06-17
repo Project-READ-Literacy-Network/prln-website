@@ -3,11 +3,10 @@ fragment = "details-item"
 #disabled = false
 
 weight = 160
-background = "secondary"
+background = "light"
 align = "right"
+minHeight = "45vh"
 
-#title = ""
-#subtitle = ""
 
 [asset]
   image = "what-is-family-literacy.png"

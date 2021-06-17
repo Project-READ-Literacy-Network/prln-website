@@ -1704,8 +1704,12 @@ section#calendar h2 {
 #project-read-publications div.container-fluid.bg-light, #assessments-and-referrals-educational-assessments div.container-fluid.bg-light {
     border-bottom: 2px solid whitesmoke !important;
 }
-
-
+.special-details p:last-child {
+    margin-bottom: 0;
+    }
+section#funder-logos .container-fluid {
+    min-height: 45vh;
+}
 .prln-social-icon-size {
     font-size: 6vw;
     margin-bottom: 2rem;

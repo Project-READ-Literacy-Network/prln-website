@@ -11,12 +11,6 @@ minHeight = "50vh"
   image = "about-us.jpg"
 
 [[buttons]]
-  text = "Why Project Read Matters"
-  url = "about/about-us/why-prln-matters/"
-  color = "light"
-  
-  
-[[buttons]]
   text = "Our Mission"
   url = "about/about-us/#our-mission"
   color = "light"
@@ -34,6 +28,11 @@ minHeight = "50vh"
 [[buttons]]
   text = "Literacy Definitions"
   url = "about/about-us/#what-is-literacy"
+  color = "light"
+  
+[[buttons]]
+  text = "Literacy Facts"
+  url = "about/about-us/#literacy-facts-and-statistics"
   color = "light"
 
 +++

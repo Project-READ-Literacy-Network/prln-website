@@ -1,16 +1,26 @@
 +++
-fragment = "item-url-basic"
-#disabled = false
+fragment = "details-item"
 weight = 140
-background = "warning"
+background = "light"
 align = "right"
-
-title = "Our Values"
-subtitle = "What we strive to embody when communicating and interacting with our community, partners and stakeholders"
+minHeight = "45vh"
 
 [asset]
   image = "our-values.png"
-  url = "about/about-us/our-values"
 
 +++
 
+<details>
+<summary>
+
+# Our Values
+### We strive to embody these values when communicating and interacting with our community, partners and stakeholders.
+
+</summary>
+
+***
+
+Through [dedication, collaboration, innovation and integrity](/about/about-us/our-values/) , we are helping to  ensure that every individual has access to literacy and essential skills training needed to learn, grow, and flourish.
+
+</details>
+  

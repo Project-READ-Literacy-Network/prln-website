@@ -3,7 +3,7 @@ fragment = "details-item"
 #disabled = true
 date = "2017-10-05"
 weight = 120
-background = "light"
+background = "warning"
 align = "right"
 
 [asset]

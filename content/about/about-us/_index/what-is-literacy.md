@@ -1,13 +1,8 @@
 +++
 fragment = "details-item"
-#disabled = false
-
 weight = 150
-background = "light"
+background = "warning"
 align = "left"
-
-#title = ""
-#subtitle = ""
 
 [asset]
   image = "what-is-literacy.png"
