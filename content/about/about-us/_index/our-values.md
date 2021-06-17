@@ -20,7 +20,7 @@ minHeight = "45vh"
 
 ***
 
-Through [dedication, collaboration, innovation and integrity](/about/about-us/our-values/) , we are helping to  ensure that every individual has access to literacy and essential skills training needed to learn, grow, and flourish.
+Through [dedication, collaboration, innovation and integrity](/about/about-us/our-values/), we are helping to  ensure that every individual has access to literacy and essential skills training needed to learn, grow, and flourish.
 
 </details>
   

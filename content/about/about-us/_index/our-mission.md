@@ -1,5 +1,5 @@
 +++
-fragment = "item"
+fragment = "details-item"
 #disabled = false
 
 weight = 120
