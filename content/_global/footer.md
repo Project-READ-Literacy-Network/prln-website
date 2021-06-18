@@ -15,4 +15,4 @@ menu_title = "Get Involved"
 
 #### Our Mission
 
-We are committed to providing any adult or family in Waterloo-Wellington with access to literacy training.
+Our mission is to provide any adult or family in Waterloo-Wellington with access to literacy training.

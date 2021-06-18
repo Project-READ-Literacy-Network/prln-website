@@ -7,20 +7,21 @@ background = "light"
 align = "right"
 minHeight = "45vh"
 
-title ="Our Mission"
-
 [asset]
   image = "prln-logo.svg" 
   
-[[buttons]]
-  text = "Why Project READ Matters"
-  url = "/about/about-us/why-prln-matters/"
-  color = "outline-dark"
-
 +++
 
-### We are committed to providing any adult or family in Waterloo-Wellington with access to literacy training. 
+<details>
+<summary>
 
+# Our Mission
+### Our mission is to provide any adult or family in Waterloo-Wellington with access to literacy training.
 
-  
+</summary>
 
+***
+
+[Click here](/about/about-us/why-prln-matters) to find out more about why Project READ Literacy Network matters and why literacy matters.
+
+</details>

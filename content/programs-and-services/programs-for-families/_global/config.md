@@ -72,6 +72,28 @@ for (var i = 0; i < all_links.length; i++){
        }
 }
 </script>
+  """   
+  
+[[config]]
+  type = "js"
+  # block = true # Default is false
+  html = """
+  <script>
+  document.getElementById("findOutOtherText").addEventListener("click", function(){ document.getElementById("findOutOther").click();
+  });
+</script>
+  """
+  
+ 
+[[config]]
+  type = "js"
+  # block = true # Default is false
+  html = """
+  <script>
+    document.getElementById("findOutOtherText").addEventListener('change', function(){
+    document.getElementById("findOutOther").required = this.checked ;
+})
+</script>
   """    
     
 +++

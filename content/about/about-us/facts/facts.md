@@ -8,7 +8,7 @@ weight = 20
 
 [[rows]]
   [[rows.values]]
-    text = "**Almost ½** our population do not have the literacy skills to get and keep a living wage job"
+    text = "**Almost ½** our population does not have the literacy skills to get and keep a living wage job"
   [[rows.values]]
     text = "**1 in 4** adults in Waterloo–Wellington 16 years and over fall into the lowest level of literacy"
 

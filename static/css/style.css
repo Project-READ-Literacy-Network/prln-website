@@ -65,9 +65,7 @@ summary {
     font-weight: 700;
     font-size: 1.25rem;
 }
-summary:focus{
-    outline: none;
-}
+
 
 .dropie > ul > li a {
     padding: .25rem 0;
@@ -96,14 +94,6 @@ a {
     border-top: none;
 
 }
-/*
-.my-nav details[open] ul li:hover a {
-    color: black;
-}
-.my-nav details[open] ul li:hover {
-    background: #b2e7fa;
-}
-*/
 .navbar {
     padding-left: 0;
     padding-right: 0;
@@ -167,7 +157,7 @@ h1.hero-title {
     position: relative;
 }
 .special-details details summary h1::after {
-    opacity: 0.3;
+    opacity: 0.5;
     display: inline-block;
     font-style: normal;
     font-variant: normal;
@@ -1710,6 +1700,11 @@ section#calendar h2 {
 section#funder-logos .container-fluid {
     min-height: 45vh;
 }
+.prln-form-inline {
+    display: inline-block !important;
+    width: auto !important;
+}
+
 .prln-social-icon-size {
     font-size: 6vw;
     margin-bottom: 2rem;
@@ -2005,6 +2000,11 @@ section#funder-logos .container-fluid {
     
 }
 @media only screen and (min-width: 992px) {
+    details > summary:first-of-type {
+    display: inline-block;
+    counter-increment:none !important;
+    list-style:none;
+}
     #gsl-reg-msg {
     min-height: calc((100vh - 130px) - (381px));
     }
@@ -2029,6 +2029,7 @@ section#funder-logos .container-fluid {
     }
     .special-details h1{
     text-align: left !important;
+    padding-right: 2rem;    
     }
     .special-details h4 {
     line-height: 1.75rem;
