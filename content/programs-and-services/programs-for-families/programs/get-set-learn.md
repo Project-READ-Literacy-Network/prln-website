@@ -16,7 +16,7 @@ align = "left"
 <summary>
 
 # Get Set Learn
-### Get Set Learn is a program geared towards families with children (birth to six).
+### Get Set Learn is a program for families with children (birth to six).
     
 </summary>
 

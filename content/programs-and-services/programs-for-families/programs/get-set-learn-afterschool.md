@@ -16,7 +16,7 @@ align = "right"
 <summary>
 
 # Get Set Learn Afterschool
-### An afterschool program for families with children (birth to 12) to learn and grow together in an elementary school setting.
+### Get Set Learn Afterschool is a program for families with children (birth to 12) to learn and grow together in an elementary school setting.
     
 </summary>
 

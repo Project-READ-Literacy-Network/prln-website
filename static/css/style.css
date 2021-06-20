@@ -184,6 +184,13 @@ h1.hero-title {
 .special-details .text-body details[open] h5 {
     padding-bottom: 1rem;
 }
+.faq-content a{
+    color: #0E83CD !important;
+    font-weight: 600;
+}
+.faq-content a:hover{
+    filter: brightness(0.6);
+}
 tr.facts td strong {
     font-size: 3rem !important;
     line-height: 3rem;
@@ -572,13 +579,12 @@ details p a {
   hyphens: auto;
 
 }
-
-.fragment .bg-primary .card-body .text-dark p a {
-  color: #0E83CD !important;  
-}
 .bg-light .special-details details a {
     font-weight: 600;
     color: #0E83CD;
+}
+.bg-light .special-details details a:hover {
+    filter: brightness(0.6);
 }
 .special-content-details details summary {
     padding: 0;
@@ -1775,37 +1781,6 @@ section#funder-logos .container-fluid {
     #gsl-reg-msg {
     min-height: calc((100vh - 120px) - (270px + 72px));
     }
-    tr.facts td {
-    display:table-cell;
-    }
-    tr.facts td p {
-    margin-top: 0rem;
-        margin-bottom: 0rem;
-        width: 80%;
-        padding-bottom: 0;
-        padding-top: 0;
-    }
-    
-    tr.facts td p::after {
-    background-color: none;
-    height: 0;
-    width: 0;
-}
-    tr.facts td p::before {
-    position: absolute; 
-    content: '';
-    left: -1rem;
-        top: -.25rem;
-    background-color: #CF202F;
-    height: 100%;
-    width: 3px;
-
-    }
-    .table tr.facts td {
-    padding: 3rem 2rem;
-    vertical-align: top;
-    border-top: none;
-    }
     #press-header .bg-warning p a:after {
     top: 2rem;
     }
@@ -1934,6 +1909,37 @@ section#funder-logos .container-fluid {
 
 
 @media (min-width: 767px){
+    tr.facts td {
+    display:table-cell;
+    }
+    tr.facts td p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    width: 80%;
+    padding-bottom: 0;
+    padding-top: 0;
+    }
+
+    tr.facts td p::after {
+    background-color: none;
+    height: 0;
+    width: 0;
+    }
+    tr.facts td p::before {
+    position: absolute; 
+    content: '';
+    left: -1rem;
+    top: -.25rem;
+    background-color: #CF202F;
+    height: 100%;
+    width: 3px;
+
+    }
+    .table tr.facts td {
+    padding: 3rem 2rem;
+    vertical-align: top;
+    border-top: none;
+    }
     #gsl-reg-msg {
     min-height: calc((100vh - 130px) - (341px));
     }

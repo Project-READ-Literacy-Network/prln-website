@@ -14,7 +14,7 @@ minHeight = "45vh"
 <summary>
 
 # Our Values
-### We strive to embody these values when communicating and interacting with our community, partners and stakeholders.
+### Our values guide us when communicating and interacting with our community, partners and stakeholders.
 
 </summary>
 

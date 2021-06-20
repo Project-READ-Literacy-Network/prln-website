@@ -17,7 +17,7 @@ minHeight = "60vh"
 <summary>
 
 # Get Set Learn for Grandparents
-### A program that focuses on literacy learning for grandparents and their grandchildren (birth to 12).
+### Get Set Learn for Grandparents is a program for grandparents and grandchildren (birth to 12).
 
     
 </summary>

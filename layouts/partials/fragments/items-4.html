@@ -23,7 +23,7 @@
                   ">
                 {{- end }}
                 {{- if .image }}
-                  <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="p-2 w-75 mb-2 align-items-center" alt="{{ .text | default $item.title }}">
+                  <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="p-2 w-50 mb-2 align-items-center" alt="{{ .text | default $item.title }}">
                 {{- else if .icon }}
                   <span class="fa-stack fa-3x m-2" title="{{ .text | default $item.title }}">
                     <i class="fas fa-circle fa-stack-2x
