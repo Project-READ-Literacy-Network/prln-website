@@ -9,4 +9,6 @@ weight = 20
 - Easily accessible online modules that you can complete at your own pace
 - Ongoing support from instructors
 - Adaptable content for anyone
-- Become certified to run the GetSet Learn program or focus on individual modules that address your families needs
+- Opportunities to implement and practice strategies
+
+Become certified to run the GetSet Learn program or focus on individual modules that address your families needs

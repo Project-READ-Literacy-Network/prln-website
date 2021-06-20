@@ -19,6 +19,8 @@ title = "Talk"
   
 #### [Ideas for talking with your child every day](http://www.q4kidz.org/)  
   
-#### [Sesame Street Guide to talking with your child](http://www.talkingisteaching.org/)  
+#### [Sesame Street Guide to talking with your child](https://www.sesamestreet.org/toolkits/talking)  
+
+#### [Talking is teaching](http://www.talkingisteaching.org/)  
   
 #### [Talk about emotions](http://www.cbc.ca/parents/shows/view/the_adventures_of_napkin_man)    

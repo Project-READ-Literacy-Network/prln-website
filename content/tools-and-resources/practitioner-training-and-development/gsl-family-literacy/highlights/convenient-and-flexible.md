@@ -6,7 +6,7 @@ weight = 10
   image = "marketing-icons-01.svg"
 +++
 
-- Four diverse modules that cover:
+- Four diverse modules that cover
     - Family literacy essentials
     - Principles of adult learning
     - Holistic and strengths-based approaches

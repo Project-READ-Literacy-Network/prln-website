@@ -22,7 +22,7 @@ align = "left"
 
 ***
 
-It guides parents in actively helping themselves and their children to learn and to expand their Literacy and Essential Skills, and in helping children get ready for school. 
+This program guides parents in actively helping themselves and their children to learn and to expand their Literacy and Essential Skills, and in helping children get ready for school. 
 
 - for families with children birth to 4 years
 - 2 mornings a week
