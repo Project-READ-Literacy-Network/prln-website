@@ -967,9 +967,7 @@ div.modal-background {
 .content-fragment .text-left h2 {
     margin-bottom: 1.5rem;
 }
-section#funders-_index h4 {
-    display: none;
-}
+
 
 
 
@@ -979,8 +977,18 @@ section#funders-_index h4 {
   box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
 }
 */
+p a {
+    color: #0E83CD;
+    font-weight: 600;
+}
+
+p a:hover {
+    filter: brightness(0.6);
+    text-decoration: none;
+}
 a {
     color: #0E83CD;
+    font-weight: 600;
 }
 
 a:hover {
@@ -990,6 +998,7 @@ a:hover {
 section#funders a h4 {
     display: none;
 }
+
 
 section#content .content-body .toc {
     display: none;
@@ -1703,8 +1712,8 @@ section#calendar h2 {
 .special-details p:last-child {
     margin-bottom: 0;
     }
-section#funder-logos .container-fluid {
-    min-height: 45vh;
+section#award .row {
+    align-content: center !important;
 }
 .prln-form-inline {
     display: inline-block !important;
@@ -1748,6 +1757,7 @@ section#funder-logos .container-fluid {
 
 }
 #footer .nav-link {
+    font-weight: 400;
     display: inline-block;
     color: black;
     position: relative;
@@ -1777,7 +1787,7 @@ section#funder-logos .container-fluid {
 /**************************************************************/
 
 @media (min-width: 576px){
-    
+
     #gsl-reg-msg {
     min-height: calc((100vh - 120px) - (270px + 72px));
     }

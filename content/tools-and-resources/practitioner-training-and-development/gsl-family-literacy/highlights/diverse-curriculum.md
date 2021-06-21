@@ -10,5 +10,3 @@ weight = 20
 - Ongoing support from instructors
 - Adaptable content for anyone
 - Opportunities to implement and practice strategies
-
-Become certified to run the GetSet Learn program or focus on individual modules that address your families needs

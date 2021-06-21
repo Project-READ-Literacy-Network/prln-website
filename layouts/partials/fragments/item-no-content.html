@@ -1,0 +1,94 @@
+{{- $self := . -}}
+{{- $align := .Params.align | default "center" -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) }}
+  <div style="{{- with .Params.minHeight -}}
+          {{- (printf "min-height: %s;" .) | safeCSS -}}
+        {{- end -}}"
+       class="row align-items-center text-center 
+    {{- if eq $align "left" -}}
+      {{- printf " justify-content-start text-lg-left" -}}
+    {{- else if eq $align "right" -}}
+      {{- printf " justify-content-start text-lg-left" -}}
+    {{- else -}}
+      {{- printf " justify-content-center" -}}
+    {{- end -}}
+  ">
+    <div class="col-12
+      {{- if eq $align "left" -}}
+        {{- printf " order-lg-1 px-lg-5 col-lg-8" -}}
+      {{- else if eq $align "right" -}}
+        {{- printf " order-lg-12 pl-lg-5 col-lg-8" -}}
+      {{- else -}}
+        {{- printf " order-lg-1 text-center" -}}
+      {{- end -}}
+    ">
+      {{- if .Params.title }}
+        <div class="row pb-3">
+          <div class="col-12
+            {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
+          ">
+            <h1>
+              {{- .Params.title | markdownify -}}
+            </h1>
+          </div>
+        </div>
+      {{- end -}}
+      {{- if .Params.subtitle }}
+        <div class="row pb-3">
+          <div class="col-12
+            {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "white") -}}
+          ">
+            <h5>
+              {{- .Params.subtitle | markdownify -}}
+            </h5>
+          </div>
+        </div>
+      {{- end }}
+      
+    </div>
+    <div class="col-12
+      {{- if eq $align "left" -}}
+        {{- printf " order-lg-12 ml-lg-auto col-lg-4" -}}
+      {{- else if eq $align "right" -}}
+        {{- printf " order-lg-1 mr-lg-auto col-lg-4" -}}
+      {{- else -}}
+        {{- printf " order-lg-12" -}}
+      {{- end -}}
+    ">
+      <div class="row justify-content-center">
+
+        {{- with .Params.asset -}}
+          {{- if isset . "url" -}}
+            <a
+              href="{{ print .url }}"
+              {{ if isset . "icon" }}
+                {{- safeHTMLAttr (print "class='display-contents'") -}}
+              {{ end }}>
+          {{- end -}}
+          {{- if isset . "image" }}
+            
+              <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .) }}" class="img-fluid p-2 col-12 text-center" alt="{{ .text | default $.Params.title }}">
+            
+            
+          {{- else if isset . "icon" }}
+            <div class="col-12 text-center">
+              <span class="fa-stack fa-4x" title="{{ .text | default $.Params.title }}">
+                <i class="fas fa-circle fa-stack-2x text-{{.color | default "primary"}}
+                "></i>
+                <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
+                <span class="sr-only">{{ .text | default $.Params.title }}</span>
+              </span>
+            </div>
+          {{- end -}}
+          {{- if isset . "url" -}}
+            </a>
+          {{- end -}}
+          {{- end -}}
+
+
+      </div>
+    </div>
+  </div>
+{{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}

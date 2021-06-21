@@ -5,7 +5,10 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
   {{- partial "helpers/section-header.html" (dict "self" $self.self "bg" $bg "params" .Params) }}
-  <div class="row justify-content-center align-items-center items">
+  <div style="{{- with .Params.minHeight -}}
+          {{- (printf "min-height: %s;" .) | safeCSS -}}
+        {{- end -}}"
+       class="row justify-content-center items">
     {{- if eq (len $items) 0 -}}
       {{- partial "helpers/empty-subpath.html" (dict "context" "items" "root" $) -}}
     {{- else -}}
@@ -14,16 +17,16 @@
         {{- if not (in .Name "/index.md") -}}
           {{- $item := .Params -}}
           {{- $this := . }}
-          <div class="col-md-4 pt-3">
+          <div class="col-md-4 px-5 align-self-center">
             <div class="row image justify-content-center">
               {{- with $item.asset -}}
                 {{- if and $item.asset $item.asset.url }}
-                  <a href="{{ $item.asset.url | relLangURL }}" class="col align-items-center d-flex flex-column header
+                  <a href="{{ $item.asset.url | relLangURL }}" class="col px-5 px-md-0 align-items-center d-flex flex-column header
                     {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
                   ">
                 {{- end }}
                 {{- if .image }}
-                  <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="p-2 w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">
+                  <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="py-4 w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">
                 {{- else if .icon }}
                   <span class="fa-stack fa-4x m-2" title="{{ .text | default $item.title }}">
                     <i class="fas fa-circle fa-stack-2x
@@ -42,32 +45,6 @@
                 {{- end }}
               {{- end }}
             </div>
-            {{- if $item.title }}
-              <div class="row justify-content-center align-items-center align-self-stretch text-center">
-                {{- if and $item.asset $item.asset.url }}
-                  <a href="{{ $item.asset.url | relLangURL }}" class="col align-items-stretch d-flex flex-column header
-                    {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
-                  ">
-                {{- end }}
-                  <h4 class="items-header-title px-2 px-md-4 px-lg-2
-                    {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
-                  ">
-                    {{- $item.title | markdownify -}}
-                  </h4>
-                {{- if and $item.asset $item.asset.url }}
-                  </a>
-                {{- end }}
-              </div>
-            {{- end -}}
-            {{- with .Content }}
-              <div class="row justify-content-center text-center px-5 px-md-4 px-xl-5 mb-4 mb-md-0">
-                <div class="px-3 px-lg-4 
-                  {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
-                ">
-                  {{ . }}
-                </div>
-              </div>
-            {{- end }}
           </div>
         {{- end -}}
       {{- end -}}

@@ -5,7 +5,7 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
   {{- partial "helpers/section-header.html" (dict "self" $self.self "bg" $bg "params" .Params) }}
-  <div class="row justify-content-center long-items pt-4">
+  <div class="row justify-content-center pt-4">
     {{- if eq (len $items) 0 -}}
       {{- partial "helpers/empty-subpath.html" (dict "context" "items" "root" $) -}}
     {{- else -}}
@@ -14,16 +14,16 @@
         {{- if not (in .Name "/index.md") -}}
           {{- $item := .Params -}}
           {{- $this := . }}
-          <div class="col-md-4 long-items-column">
-            <div class="row image justify-content-center align-items-center">
+          <div class="col-md-4 ">
+            <div class="row image justify-content-center align-items-start">
               {{- with $item.asset -}}
                 {{- if and $item.asset $item.asset.url }}
-                  <a href="{{ $item.asset.url | relLangURL }}" class="col d-flex flex-column
+                  <a href="{{ $item.asset.url | relLangURL }}" class="col 
                     {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
                   ">
                 {{- end }}
                 {{- if .image }}
-                  <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="p-2 w-50 mb-2 align-items-center" alt="{{ .text | default $item.title }}">
+                  <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="p-2 w-50 mb-2 align-items-start" alt="{{ .text | default $item.title }}">
                 {{- else if .icon }}
                   <span class="fa-stack fa-3x m-2" title="{{ .text | default $item.title }}">
                     <i class="fas fa-circle fa-stack-2x
@@ -43,9 +43,9 @@
               {{- end }}
             </div>
             {{- if $item.title }}
-              <div class="pl-5 pl-md-4 pr-md-2 pr-lg-0 row justify-content-start align-items-center align-self-stretch text-left">
+              <div class="pl-5 pl-md-4 pr-md-2 pr-lg-0 row justify-content-start align-items-start text-left">
                 {{- if and $item.asset $item.asset.url }}
-                  <a href="{{ $item.asset.url | relLangURL }}" class="col align-items-stretch d-flex flex-column
+                  <a href="{{ $item.asset.url | relLangURL }}" class="col align-items-start 
                     {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
                   ">
                 {{- end }}
@@ -58,7 +58,7 @@
               </div>
             {{- end -}}
             {{- with .Content }}
-              <div class="px-5 px-md-4 row justify-content-start long-items-body text-left">
+              <div class="px-5 px-md-4 row align-self-start long-items-body text-left">
                 <div class=" 
                   {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
                 ">
