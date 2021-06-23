@@ -8,22 +8,18 @@ fragment = "config"
     
 [[config]]
   type = "js"
-  # block = true # Default is false
   html = """
   <script>
 var nav = document.querySelector('.my-nav');
 nav.addEventListener('toggle', function (event) {
-
 	// Only run if the dropie is open
 	if (!event.target.open) return;
-
 	// Get all other open dropies and close them
 	var dropies = nav.querySelectorAll('.dropie[open]');
 	Array.prototype.forEach.call(dropies, function (dropie) {
 		if (dropie === event.target) return;
 		dropie.removeAttribute('open');
 	});
-
 }, true);
 </script>
   """
@@ -58,9 +54,27 @@ function closetRDetails() {
 </script>
   """
   
+  
 [[config]]
   type = "js"
-  # block = true # Default is false
+  html = """
+  <script>
+var nav = document.querySelector('.my-nav');
+    window.addEventListener("wheel", () => {
+    if (window.innerWidth>999){
+	var dropies = nav.querySelectorAll('.dropie[open]');
+	Array.prototype.forEach.call(dropies, function (dropie) {
+		dropie.removeAttribute('open');
+	});
+    }
+}, true);
+</script>
+  """
+
+
+
+[[config]]
+  type = "js"
   html = """
   <script>
 var all_links = document.querySelectorAll('a');
@@ -71,28 +85,6 @@ for (var i = 0; i < all_links.length; i++){
                a.target = '_blank';
        }
 }
-</script>
-  """   
-  
-[[config]]
-  type = "js"
-  # block = true # Default is false
-  html = """
-  <script>
-  document.getElementById("findOutOtherText").addEventListener("click", function(){ document.getElementById("findOutOther").click();
-  });
-</script>
-  """
-  
- 
-[[config]]
-  type = "js"
-  # block = true # Default is false
-  html = """
-  <script>
-    document.getElementById("findOutOtherText").addEventListener('change', function(){
-    document.getElementById("findOutOther").required = this.checked ;
-})
 </script>
   """    
     

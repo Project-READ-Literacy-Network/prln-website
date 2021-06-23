@@ -4,7 +4,13 @@
 }
 
 
-
+.my-nav  { 
+  min-height: 171px;
+  max-height: calc(100vh - 120px);
+  width: 100%;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling:touch; // mobile safari
+}
 
 /* Navigation Bar */
 
@@ -15,7 +21,12 @@ summary {
  }
 
 
-
+#navbarCollapse .navbar-toggler {
+    padding: 0;
+    background-color: none;
+    border: none;
+    border-radius: 0;
+}
 
 #nav.navbar{
     background-image: url("../images/nav.svg");
@@ -69,6 +80,7 @@ summary {
 
 .dropie > ul > li a {
     padding: .25rem 0;
+    font-weight: 400;
 }
 .dropie ul > ul > li{
     color: #0E83CD;
@@ -687,6 +699,7 @@ details p a {
 }
 .breadcrumb a {
     color: black;
+    font-weight: 400;
 }
 .special-content-details details[open] details summary p {
     padding-bottom: 1rem;
@@ -2016,6 +2029,15 @@ section#award .row {
     
 }
 @media only screen and (min-width: 992px) {
+    #navbarCollapse .navbar-toggler {
+    display: inline !important;
+    }
+    .my-nav  { 
+    min-height: auto;
+    max-height: auto;
+    width: auto;
+    overflow-y: visible;
+    }
     details > summary:first-of-type {
     display: inline-block;
     counter-increment:none !important;
