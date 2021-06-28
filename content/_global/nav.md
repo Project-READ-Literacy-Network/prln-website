@@ -1,6 +1,5 @@
 +++
 fragment = "prln-nav"
-date = "2018-05-17"
 weight = 0
 sticky = true
 

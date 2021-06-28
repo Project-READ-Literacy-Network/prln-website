@@ -1,26 +1,13 @@
 +++
-fragment = "details-item"
-#disabled = true
-date = "2017-10-05"
-weight = 120
-background = "warning"
-align = "right"
+weight = 20
+title = "Get Set Learn Afterschool"
+subtitle = "Get Set Learn Afterschool is a program for families with children (birth to 12)."
+id = "get-set-learn-afterschool"
 
 [asset]
   image = "program-as.png"
-  
 +++
 
-<details>
-    
-<summary>
-
-# Get Set Learn Afterschool
-### Get Set Learn Afterschool is a program for families with children (birth to 12) to learn and grow together in an elementary school setting.
-    
-</summary>
-
-***
 
 - for families with children birth to 12 years  
 - 1 afternoon a week  
@@ -37,5 +24,3 @@ Please click [**Sign Up**](../../../programs-and-services/programs-for-families/
   
 Get Set Learn Afterschool is a popular program so it fills up fast.
 
-
-</details>
