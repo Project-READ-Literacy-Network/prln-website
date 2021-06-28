@@ -1,0 +1,104 @@
+{{- $items := partial "helpers/subitems.html" . -}}
+{{- $self := . -}}
+{{- .page_scratch.Add "js" (dict "file" "syna-content.js") -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
+  <div class="row justify-content-end align-items-stretch">
+      <div class="col-12 pt-4 px-3 {{- if .Params.sidebar -}} px-0 px-md-0 px-lg-0 {{- end }}">
+      {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
+      </div>
+      {{- if or .Params.categories -}}
+        <div class="content-info col-12 pb-4 mt-2 ">
+          {{- if .Params.categories }}
+            {{- partial "helpers/categories.html" (dict "categories" . "background" $bg) -}}
+          {{- end }}
+        </div>
+      {{- end }}  
+      
+
+
+      
+      
+      
+    {{- if eq (len $items) 0 -}}
+      {{- partial "helpers/empty-subpath.html" (dict "context" "items" "root" $) -}}
+    {{- else -}}
+      {{- range $items -}}
+        {{/* Handle special case of index.md being considered an item */}}
+        {{- if not (in .Name "/index.md") -}}
+          {{- $item := .Params -}}
+          {{- $this := . }}
+          <div class="col-12 justify-content-center items pb-5">
+
+            {{- if $item.title }}
+              <div class="col justify-content-center align-items-center special-details text-left">
+                {{- if and $item.asset $item.asset.url }}
+                  <a href="{{ $item.asset.url | relLangURL }}" class="col align-items-stretch d-flex flex-column header
+                    {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
+                  ">
+                {{- end }}
+                  <details id="{{ $item.id }}">
+                  <summary>
+                      <div class="row align-items-center">
+                          <div class="col-md-3 px-5 px-md-1 order-md-12 text-center">
+                  {{- with $item.asset -}}
+                    {{- if and $item.asset $item.asset.url }}
+                      <a href="{{ $item.asset.url | relLangURL }}" class="col d-flex flex-column header
+                        {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
+                      ">
+                    {{- end }}
+                    {{- if .image }}
+                      <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="img-fluid px-5 px-md-1 align-items-center" alt="{{ .text | default $item.title }}">
+                    {{- else if .icon }}
+                      <span class="fa-stack fa-3x m-2" title="{{ .text | default $item.title }}">
+                        <i class="fas fa-circle fa-stack-2x
+                          {{- if eq $bg "primary" -}}
+                            {{- print " text-dark" -}}
+                          {{- else -}}
+                            {{- print " text-primary" -}}
+                          {{- end -}}
+                        "></i>
+                        <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
+                        <span class="sr-only">{{ .text | default $item.title }}</span>
+                      </span>
+                    {{- end -}}
+                    {{- if and $item.asset $item.asset.url }}
+                      </a>
+                    {{- end }}
+                  {{- end }}
+                          </div>
+                          <div class="col-md-9 order-md-1">
+                              <h1 class="program-details">
+                                {{- $item.title | markdownify -}}
+                              </h1>
+                              <h3 class="program-details">
+                                {{- $item.subtitle | markdownify -}}
+                              </h3>
+                          </div>
+                      
+                    </div>
+                  </summary>
+                {{- if and $item.asset $item.asset.url }}
+                  </a>
+                {{- end }}
+        
+            {{- with .Content }}
+
+
+                  {{ . }}
+                  
+                
+                  </details>
+                </div>
+              {{- end -}}
+            {{- end }}
+          </div>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+      
+  </div>
+ 
+{{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}

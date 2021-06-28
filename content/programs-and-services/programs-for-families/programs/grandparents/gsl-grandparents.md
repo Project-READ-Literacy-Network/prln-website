@@ -1,28 +1,12 @@
 +++
-fragment = "details-item"
-#disabled = true
-date = "2017-10-05"
-weight = 130
-background = "light"
-align = "left"
-minHeight = "60vh"
+weight = 30
+title = "Get Set Learn Grandparents"
+subtitle = "Get Set Learn for Grandparents is a program for grandparents and grandchildren (birth to 12)."
+id = "get-set-learn-grandparents"
 
 [asset]
   image = "program-gp.png"
-  
 +++
-
-<details>
-    
-<summary>
-
-# Get Set Learn for Grandparents
-### Get Set Learn for Grandparents is a program for grandparents and grandchildren (birth to 12).
-
-    
-</summary>
-
-***
 
 - for families with children birth to 12 years  
 - 1 afternoon a week after school or in the evening  
@@ -40,4 +24,3 @@ Please click [**Sign Up**](../../../programs-and-services/programs-for-families/
 Get Set Learn for Grandparents is a popular program so it fills up fast.
 
 
-</details>

@@ -169,7 +169,7 @@ h1.hero-title {
     position: relative;
 }
 .special-details details summary h1::after {
-    opacity: 0.5;
+    opacity: 0.6;
     display: inline-block;
     font-style: normal;
     font-variant: normal;
@@ -178,14 +178,23 @@ h1.hero-title {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     content: "\f107";
+    transform: rotate(0);
+    transition: .5s transform ease;
     position: absolute;
     margin-left: 1rem;
     height: 1rem;
+    text-shadow: 1px 1px 4px black;
+
+}
+.special-details details summary:hover h1::after {
+    text-shadow: 1px 1px 4px #0E83CD;
 }
 
 .special-details details[open] summary h1::after {
-        content: "\f106";
+    content: "\f106";
+    transform: rotateY(180deg);
 }
+
 .special-details h3 a{
     color: black !important;
 }
@@ -645,6 +654,7 @@ details p a {
 .special-details details summary h3 {
     text-align: center;
 }
+
 .special-details details summary {
     padding: 0;
     margin: 0;
@@ -692,6 +702,27 @@ details p a {
     padding-top: 0;
     margin-bottom: 0;
 }
+
+.program-nav ul{
+    list-style: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+}
+.program-nav ul li {
+    list-style: none;
+    color: black;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    margin-bottom: .5rem;
+    padding-bottom: 1rem;
+    padding-left: 0;
+}
+.program-nav ul li a{
+    color: black;
+}
+.program-nav ul li a:hover, .program-nav ul li a:active{
+    color: #0E83CD;
+}
 .breadcrumb {
     background-color:rgba(255,255,255,0.7);
     margin-left: .5rem;
@@ -700,6 +731,10 @@ details p a {
 .breadcrumb a {
     color: black;
     font-weight: 400;
+}
+.breadcrumb a:hover {
+    color: black;
+    text-shadow: 0px 0px 0.5px black, 0px 0px 0.5px black, 0px 0px 0.5px black;
 }
 .special-content-details details[open] details summary p {
     padding-bottom: 1rem;
@@ -732,6 +767,17 @@ details p a {
 }
 .special-details details summary {
     border-top: none;
+}
+
+@keyframes details-show {
+  from {
+    opacity:0;
+    transform: var(--details-translate, translateY(-0.5em));
+  }
+}
+
+details[open] > *:not(summary) {
+  animation: details-show 1050ms ease-in-out;
 }
 .special-details h3:first-of-type {
     padding-top: 1.5rem;
@@ -1019,6 +1065,7 @@ section#content .content-body .toc {
 
 body {
     font-family: 'Nunito Sans', sans-serif;
+    position: relative; 
 }
 
 h1, h2, .h1, .h2 {
@@ -1334,6 +1381,7 @@ h5.active-page a {
 body {
     overflow: overlay;
 }
+
 
 /*********************/
 /*     Scrollbar    */
@@ -1733,6 +1781,9 @@ section#award .row {
     width: auto !important;
 }
 
+
+
+
 .prln-social-icon-size {
     font-size: 6vw;
     margin-bottom: 2rem;
@@ -1800,7 +1851,6 @@ section#award .row {
 /**************************************************************/
 
 @media (min-width: 576px){
-
     #gsl-reg-msg {
     min-height: calc((100vh - 120px) - (270px + 72px));
     }
@@ -1932,6 +1982,14 @@ section#award .row {
 
 
 @media (min-width: 767px){
+    
+    .special-details details summary h3.program-details, .special-details details summary h3.program-details, .special-details details summary h3.program-details {
+    text-align: left !important;
+    width: 85%;
+    }
+    .special-details details summary h1.program-details, .special-details details summary h1.program-details, .special-details details summary h1.program-details {
+    text-align: left !important;
+    }
     tr.facts td {
     display:table-cell;
     }
@@ -2029,6 +2087,26 @@ section#award .row {
     
 }
 @media only screen and (min-width: 992px) {
+    .special-details details summary h3.program-details, .special-details details summary h3.program-details, .special-details details summary h3.program-details {
+    position: relative;
+}
+.special-details details summary h3.program-details::after, .special-details details summary h3.program-details::after, .special-details details summary h3.program-details::after {
+    position: absolute;
+    bottom: -2rem;
+    left: 0;
+    margin: auto;
+    background-color: #0E83CD;
+    width: 0%;
+    content: '';
+    height: 3px;
+    transition: all 0.5s;
+}
+.special-details details[open] summary h3.program-details::after, .special-details details[open] summary h3.program-details::after, .special-details details[open] summary h3.program-details::after {
+    width: 80%;
+}
+    .special-details details#get-set-learn-grandparents ul li:first-of-type{
+    margin-top: 1rem;
+    }
     #navbarCollapse .navbar-toggler {
     display: inline !important;
     }
@@ -2038,11 +2116,7 @@ section#award .row {
     width: auto;
     overflow-y: visible;
     }
-    details > summary:first-of-type {
-    display: inline-block;
-    counter-increment:none !important;
-    list-style:none;
-}
+
     #gsl-reg-msg {
     min-height: calc((100vh - 130px) - (381px));
     }
@@ -2097,11 +2171,6 @@ section#award .row {
     text-align: left !important;
     }
 
-    .sticky-top {
-    top: 130px;
-    }
-
-    
     :target:before {
     content: "";
     display: block;
@@ -2318,6 +2387,12 @@ dropie.summary-closing[open] ul {
     }
 }
 @media (min-width: 1200px) {
+    .special-details details summary h3.program-details::after, .special-details details summary h3.program-details::after, .special-details details summary h3.program-details::after {
+    bottom: -3rem;
+}
+    .special-details details#get-set-learn-grandparents ul li:first-of-type{
+    margin-top: 0;
+    }
     #gsl-reg-msg {
     min-height: calc((100vh - 130px) - (357px));
     }
