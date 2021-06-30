@@ -33,28 +33,29 @@
     </button>
           </div>
     <div class="navbar-collapse justify-content-between collapse show" id="navbarCollapse">
-        <ul class="my-nav">
+        <ul class="prln-nav">
 		<li>
-			<details class="dropie" id="aboutDetails">
+			<details class="prlnDD" id="aboutDetails">
 				<summary>About Us</summary>
 				<ul>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closeAboutDetails()" href="{{ "about/about-us" | relLangURL }}">About Us</a></li>
+                            <li class="prlnDD-header"><a onclick="closeAboutDetails()" href="{{ "about/about-us" | relLangURL }}">About Us</a></li>
                                 <ul>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/about-us/#our-mission" | relLangURL }}">Our Mission</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/about-us/#our-vision" | relLangURL }}">Our Vision</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/about-us/#our-values" | relLangURL }}">Our Values</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/about-us/#what-is-literacy" | relLangURL }}">Literacy Definitions</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/about-us/#literacy-facts-and-statistics" | relLangURL }}">Literacy Facts &amp; Statistics</a></li>
-                                    <li><a onclick="closeAboutDetails()" href="{{ "about/events-and-awards" | relLangURL }}">Events &amp; Awards</a></li>
-                                    <li><a onclick="closeAboutDetails()" href="{{ "about/contact" | relLangURL }}">Contact</a></li>
+                                    <li class="divider"></li>
+                                    <li class="prlnDD-header"><a onclick="closeAboutDetails()" href="{{ "about/events-and-awards" | relLangURL }}">Events &amp; Awards</a></li>
+                                    <li class="prlnDD-header"><a onclick="closeAboutDetails()" href="{{ "about/contact" | relLangURL }}">Contact</a></li>
                                 </ul>
                         </ul>
                     </li>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closeAboutDetails()" href="{{ "about/funders-sponsors-and-affiliations" | relLangURL }}">Our Funders, Sponsors &amp; Affiliations</a></li>
+                            <li class="prlnDD-header"><a onclick="closeAboutDetails()" href="{{ "about/funders-sponsors-and-affiliations" | relLangURL }}">Our Funders, Sponsors &amp; Affiliations</a></li>
                             <ul>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/funders-sponsors-and-affiliations/#funders" | relLangURL }}">Funders</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/funders-sponsors-and-affiliations/#sponsors-supporters" | relLangURL }}">Sponsors/Supporters</a></li>
@@ -64,7 +65,7 @@
                     </li>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closeAboutDetails()" href="{{ "about/get-involved" | relLangURL }}">Get Involved</a></li>
+                            <li class="prlnDD-header"><a onclick="closeAboutDetails()" href="{{ "about/get-involved" | relLangURL }}">Get Involved</a></li>
                             <ul>
                                 <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/get-involved/#board-of-directors" | relLangURL }}">Our Board of Directors</a></li>
                                 <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closeAboutDetails()" href="{{ "about/get-involved/#staff" | relLangURL }}">Our Staff</a></li>
@@ -77,12 +78,12 @@
 			</details>
 		</li>
 		<li>
-			<details class="dropie" id="pSDetails">
+			<details class="prlnDD" id="pSDetails">
 				<summary>Programs &amp; Services</summary>
 				<ul>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-families" | relLangURL }}">Programs for Families</a></li>
+                            <li class="prlnDD-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-families" | relLangURL }}">Programs for Families</a></li>
                                 <ul>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-families/#programs" | relLangURL }}">Get Set Learn Programs</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-families/#workshops" | relLangURL }}">Workshops</a></li>
@@ -93,17 +94,19 @@
                     </li>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-adults" | relLangURL }}">Programs for Adults</a></li>
+                            <li class="prlnDD-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-adults" | relLangURL }}">Programs for Adults</a></li>
                                 <ul>
-                                    <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-adults/#assessments-and-referrals-educational-assessments" | relLangURL }}">Educational Assessments by PRLN</a></li>
-                                    <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-adults/#assessments-and-referrals-adult-literacy" | relLangURL }}">Literacy Programs of Waterloo and Wellington Region</a></li>
-                                    <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/directory-of-programs" | relLangURL }}">Directory of Programs &amp; Services</a></li>
+                                    <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-adults/#assessments-and-referrals-educational-assessments" | relLangURL }}">Educational Assessments by PRLN</a></li>
+                                    <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/programs-for-adults/#assessments-and-referrals-adult-literacy" | relLangURL }}">Literacy Programs of Waterloo and Wellington Region</a></li>
+                                    
+                                    <li class="divider"></li>
+                                    <li class="prlnDD-header navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/directory-of-programs" | relLangURL }}">Directory of Programs</a></li>
                                 </ul>
                             </ul>
                     </li>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/services-for-employers" | relLangURL }}">Services for Employers</a></li>
+                            <li class="prlnDD-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/services-for-employers" | relLangURL }}">Services for Employers</a></li>
                                 <ul>
                                     <li><a onclick="closepSDetails()" href="{{ "programs-and-services/services-for-employers/clear-language" | relLangURL }}">Clear Language</a></li>
                                     <li><a onclick="closepSDetails()" href="{{ "programs-and-services/services-for-employers/workplace-literacy" | relLangURL }}">Workplace Literacy</a></li>
@@ -113,7 +116,7 @@
                     </li>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/literacy-service-planning" | relLangURL }}">Literacy Service Planning</a></li>
+                            <li class="prlnDD-header"><a onclick="closepSDetails()" href="{{ "programs-and-services/literacy-service-planning" | relLangURL }}">Literacy Service Planning</a></li>
                                 <ul>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "programs-and-services/literacy-service-planning/#about" | relLangURL }}">About</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closepSDetails()" href="{{ "/tools-and-resources/newsletters-and-reports/#literacy-service-plan-reports" | relLangURL }}">Reports</a></li>
@@ -124,12 +127,12 @@
 			</details>
 		</li>
         <li>
-			<details class="dropie" id="tRDetails">
+			<details class="prlnDD" id="tRDetails">
 				<summary>Tools &amp; Resources</summary>
 				<ul>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                        <li class="my-dropie-header"><a onclick="closetRDetails()" href="{{ "tools-and-resources/practitioner-resources" | relLangURL }}">Practitioner Resources</a></li>
+                        <li class="prlnDD-header"><a onclick="closetRDetails()" href="{{ "tools-and-resources/practitioner-resources" | relLangURL }}">Practitioner Resources</a></li>
                             <ul>
                                 <li><a onclick="closetRDetails()" href="{{ "tools-and-resources/practitioner-resources/publications" | relLangURL }}">Publications</a></li>
                                 
@@ -140,7 +143,7 @@
                     </li>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                            <li class="my-dropie-header"><a onclick="closetRDetails()" href="{{ "tools-and-resources/practitioner-training-and-development" | relLangURL }}">Practitioner Training &amp; Development</a></li>
+                            <li class="prlnDD-header"><a onclick="closetRDetails()" href="{{ "tools-and-resources/practitioner-training-and-development" | relLangURL }}">Practitioner Training &amp; Development</a></li>
                                 <ul>
                                     <li><a onclick="closetRDetails()" href="{{ "tools-and-resources/practitioner-training-and-development/gsl-family-literacy" | relLangURL }}">GSL Family Literacy</a></li>
                                     <li><a onclick="closetRDetails()" href="{{ "tools-and-resources/practitioner-training-and-development/bridges-out-of-poverty" | relLangURL }}">Bridges Out of Poverty</a></li>
@@ -151,7 +154,7 @@
                     </li>
                     <li class="col-lg-4 pb-xl-0">
                         <ul>
-                        <li class="my-dropie-header"><a onclick="closetRDetails()" href="{{ "tools-and-resources/newsletters-and-reports" | relLangURL }}">Newsletters &amp; Reports</a></li>
+                        <li class="prlnDD-header"><a onclick="closetRDetails()" href="{{ "tools-and-resources/newsletters-and-reports" | relLangURL }}">Newsletters &amp; Reports</a></li>
                             <ul>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closetRDetails()" href="{{ "tools-and-resources/newsletters-and-reports/#prln-newsletters" | relLangURL }}">PRLN Newsletters</a></li>
                                     <li class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"><a onclick="closetRDetails()" href="{{ "tools-and-resources/newsletters-and-reports/#literacy-service-plan-reports" | relLangURL }}">Literacy Service Plan Reports</a></li>

@@ -1,10 +1,10 @@
 
-.my-nav > li {
+.prln-nav > li {
   display: block;
 }
 
 
-.my-nav  { 
+.prln-nav  { 
   min-height: 171px;
   max-height: calc(100vh - 120px);
   width: 100%;
@@ -23,6 +23,7 @@ summary {
 
 #navbarCollapse .navbar-toggler {
     padding: 0;
+    line-height: 1.5rem;
     background-color: none;
     border: none;
     border-radius: 0;
@@ -47,7 +48,7 @@ summary {
     padding-inline-start: 0;
 }
 
-.my-nav .dropie .my-dropie-header a {
+.prln-nav .prlnDD .prlnDD-header a {
     font-size: 1.25rem;
     font-weight: 700;
     word-wrap: break-word;
@@ -56,7 +57,7 @@ summary {
     margin-bottom: 0;
     white-space: wrap;
 }
-.my-nav {
+.prln-nav {
   list-style: none;
   margin-left: -0.5em;
   margin-right: -0.5em;
@@ -64,13 +65,13 @@ summary {
   padding-top: 1rem;
 }
 
-.my-nav summary:hover {
+.prln-nav summary:hover {
     color: black;
 }
-.my-nav details[open] summary {
+.prln-nav details[open] summary {
     color: black;
 }
-.dropie > summary {
+.prlnDD > summary {
     cursor: pointer;
     color: #0E83CD;
     font-weight: 700;
@@ -78,11 +79,11 @@ summary {
 }
 
 
-.dropie > ul > li a {
+.prlnDD > ul > li a {
     padding: .25rem 0;
     font-weight: 400;
 }
-.dropie ul > ul > li{
+.prlnDD ul > ul > li{
     color: #0E83CD;
 }
 a {
@@ -90,7 +91,7 @@ a {
 }
 
 
-.dropie > ul > li  {
+.prlnDD > ul > li  {
     color: #0E83CD;
     display: inline-block;
     zoom:1;
@@ -102,7 +103,7 @@ a {
     border-top: 1px solid #0E83CD;
     padding: .75rem;
 }
-.dropie > ul > li:first-child  {
+.prlnDD > ul > li:first-child  {
     border-top: none;
 
 }
@@ -110,10 +111,10 @@ a {
     padding-left: 0;
     padding-right: 0;
 }
-details.dropie  summary {
+details.prlnDD  summary {
     position: relative;
 }
-details.dropie  summary::after {
+details.prlnDD  summary::after {
     opacity: 0.3;
     display: inline-block;
     font-style: normal;
@@ -126,12 +127,16 @@ details.dropie  summary::after {
     position: absolute;
     right: 1rem;
 }
-
-details.dropie[open] summary::after {
+ 
+details.prlnDD[open] summary::after {
         content: "\f106";
 }
-
-
+.divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #e5e5e5;
+}
 
 
 /*****************************************************************************/
@@ -745,9 +750,6 @@ details p a {
     padding: 1rem;
     margin: -1rem;
     background-color: #FDFCF9;
-    -webkit-transition: background-color 1000ms linear;
-    -ms-transition: background-color 1000ms linear;
-    transition: background-color 1000ms linear;
 }
 .bg-secondary .special-details summary {
     color: black;
@@ -1310,10 +1312,10 @@ a.prln-social-icons:hover {
 }  
 
 
-.dropie a.prln-social-icons {
+.prlnDD a.prln-social-icons {
     color: #CF202F;
 }
-.dropie a.prln-social-icons:hover {
+.prlnDD a.prln-social-icons:hover {
     color: #AA1A27;
 }
 body .bg-dark {
@@ -2043,19 +2045,19 @@ section#award .row {
     height: 25vh;
     width: 19vh;
     }
-    .dropie > summary {
+    .prlnDD > summary {
     font-size: 1.25rem;
     }
-    .my-nav .dropie .my-dropie-header a {
+    .prln-nav .prlnDD .prlnDD-header a {
     font-size: 1.25rem;
     line-height: 1.6rem;
     }
-    .dropie > ul > li {
+    .prlnDD > ul > li {
     font-size: 1.25rem;
     line-height: 1.6rem;
     }
     
-    .dropie > ul > li:nth-child(3) {
+    .prlnDD > ul > li:nth-child(3) {
     padding-right: 3rem;
     }
     #faq .card {
@@ -2110,7 +2112,7 @@ section#award .row {
     #navbarCollapse .navbar-toggler {
     display: inline !important;
     }
-    .my-nav  { 
+    .prln-nav  { 
     min-height: auto;
     max-height: auto;
     width: auto;
@@ -2199,7 +2201,7 @@ section#award .row {
     font-size: 1rem;
     position: relative;
     }
-    .my-nav details[open] ul li:hover {
+    .prln-nav details[open] ul li:hover {
     background: none;
     }
     details[open] summary {
@@ -2208,10 +2210,10 @@ section#award .row {
     background: none;
     margin-top: 3px;
     }
-    .dropie > summary {
+    .prlnDD > summary {
     position: relative;
     }
-    .dropie > summary::after {
+    .prlnDD > summary::after {
     position: absolute;
     bottom: -3px;
     left: 0;
@@ -2224,51 +2226,51 @@ section#award .row {
     height: 3px;
     transition: all 0.5s;
     }
-    .dropie > summary:hover::after {
+    .prlnDD > summary:hover::after {
     opacity: 1;
     width: 100%;
     }
-    .dropie ul > ul > li a:hover{
+    .prlnDD ul > ul > li a:hover{
     color: #0E83CD !important;    
     }
     
-    .my-dropie-header a {
+    .prlnDD-header a {
     color: #0E83CD !important; 
     font-size: 1.25rem;
     }
     
-    .my-dropie-header a:hover {
+    .prlnDD-header a:hover {
     color:black !important;
     }
     
-    .dropie ul > ul > li a.btn:hover {
+    .prlnDD ul > ul > li a.btn:hover {
     color: white;
     text-shadow: none;
     } 
     
-    .dropie > ul > li {
+    .prlnDD > ul > li {
     background: none;
     }
-    .dropie > ul > li:hover {
+    .prlnDD > ul > li:hover {
     color: #0E83CD;
     background: none;
     text-shadow: none;
 
     }
-    .my-nav .dropie a {
+    .prln-nav .prlnDD a {
     display: block;
     }
     ul.nav-contact {
     display: block;
     }
-    li .my-dropie-header {
+    li .prlnDD-header {
     margin-bottom: .75rem;
     }
 
-    .dropie {
+    .prlnDD {
     position: static;
     }
-    .dropie > ul {
+    .prlnDD > ul {
     box-sizing: border-box;
     background-color: #FDFCF9;
     display: flex;
@@ -2286,7 +2288,7 @@ section#award .row {
     
     
 /* Closing the detail content on clicking anywhere else */
-details.dropie[open] summary::before {
+details.prlnDD[open] summary::before {
   position: fixed;
   top: 0;
   right: 0;
@@ -2295,11 +2297,11 @@ details.dropie[open] summary::before {
   content: "";
   cursor: default;
 }
-.dropie[open] ul {
+.prlnDD[open] ul {
 	animation: fade-in 0.5s forwards;
 }
 
-dropie.summary-closing[open] ul {
+prlnDD.summary-closing[open] ul {
 	animation: fade-out 0.5s forwards;
 }
 
@@ -2325,10 +2327,10 @@ dropie.summary-closing[open] ul {
 }
 
     
-    ul#my-nav {
+    ul#prln-nav {
     margin-bottom: 0;
     }
-    .my-nav > li {
+    .prln-nav > li {
     display: inline-block;
     margin-left: .5rem;
     margin-right: .5rem;
@@ -2336,45 +2338,45 @@ dropie.summary-closing[open] ul {
     #nav.navbar{
     height: 130px;
     }
-    .dropie ul > ul > li a {
+    .prlnDD ul > ul > li a {
     color: black;
     margin-bottom: .75rem;
-        line-height:1.5rem;
+    line-height:1.5rem;
     }
     
-    .dropie ul > ul > li a:hover {
+    .prlnDD ul > ul > li a:hover {
      color: #0E83CD;
     }
-    .dropie > summary {
+    .prlnDD > summary {
     font-size: 1.25rem;
     }
-    .dropie > ul > li {
+    .prlnDD > ul > li {
     font-size: 1.25rem;
     line-height: 1.6rem;
     margin-bottom: 1.75rem;
     border-top: none;
     }
-    .dropie > ul > li {
+    .prlnDD > ul > li {
     font-size: 1.25rem;
     line-height: 1.25rem;
     padding-bottom: 1.75rem;
     border-bottom: none;
     }
-    .dropie > ul > li:first-child {
+    .prlnDD > ul > li:first-child {
     padding-left: 6rem;
     }
-    .dropie > ul > li:nth-child(2) {
+    .prlnDD > ul > li:nth-child(2) {
     padding-left: 2rem;
     padding-right: 3rem;
     }
-    .dropie > ul > li:nth-child(4) {
+    .prlnDD > ul > li:nth-child(4) {
     padding-left: 6rem;
     padding-right: 2rem;
     }
-    .dropie > ul > li:nth-child(3) {
+    .prlnDD > ul > li:nth-child(3) {
     padding-right: 2rem;
     }
-    .dropie > ul > li:nth-child(5) {
+    .prlnDD > ul > li:nth-child(5) {
     padding-left: 2rem;
     padding-right: 3rem;
     }
@@ -2434,26 +2436,26 @@ dropie.summary-closing[open] ul {
     padding: 1em 0.7em;
     }
     
-    .dropie > ul > li:first-child {
+    .prlnDD > ul > li:first-child {
     padding-left: 9rem;
     padding-right: 4rem;
     }
-    .dropie > ul > li:nth-child(2) {
+    .prlnDD > ul > li:nth-child(2) {
     padding-right: 8rem;
     padding-left: 4rem;
     }
-    .dropie > ul > li:nth-child(3) {
+    .prlnDD > ul > li:nth-child(3) {
     padding-right: 9rem;
     }
-    .dropie > ul > li:nth-child(4) {
+    .prlnDD > ul > li:nth-child(4) {
     padding-left: 9rem;
     padding-right: 4rem;
     }
-    .dropie > ul > li:nth-child(5) {
+    .prlnDD > ul > li:nth-child(5) {
     padding-right: 8rem;
     padding-left: 4rem;
     }
-    .dropie > ul > li:nth-child(6) {
+    .prlnDD > ul > li:nth-child(6) {
     padding-right: 5rem;
     }
 

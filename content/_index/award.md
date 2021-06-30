@@ -1,5 +1,5 @@
 +++
-fragment = "item-no-content"
+fragment = "item"
 background = "danger"
 title = "Yvonne Heninger Memorial Award"
 subtitle = "for Literacy Students Overcoming Challenges"
