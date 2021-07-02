@@ -5,7 +5,6 @@ date = "2017-09-10"
 weight = 1100
 background = "light"
 title_align = "center"
-form_name = "Get Set Learn - sign up here"
 button_text = "Sign up"
 
 title = "Register for Get Set Learn this fall"

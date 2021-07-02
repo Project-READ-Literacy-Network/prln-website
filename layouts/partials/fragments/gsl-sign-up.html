@@ -19,7 +19,8 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
           method="post"
           target="hidden_iframe"
           onsubmit="submitted=true"
-          class="contact position-relative">
+          class="contact position-relative"
+          name="gsl-sign-up">
 
 <div class="row pt-5">
 
@@ -107,7 +108,7 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
 <div class="mb-3 text-left">
 <!-- The "value" is important -->
 <input type="radio" value="other" id="findOutOther" name="entry.1243974042">
-<input type="text" placeholder="other" name="entry.1759722061" class="form-control prln-form-inline" id="findOutOtherText">
+<input type="text" placeholder="other" name="entry.1759722061" class="form-control prln-form-inline" id="findOutOtherText" onClick='gslFOO()'>
     
 </div>
 

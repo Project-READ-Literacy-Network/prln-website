@@ -138,17 +138,6 @@ details.prlnDD[open] summary::after {
     background-color: #e5e5e5;
 }
 
-
-/*****************************************************************************/
-
-
-section#board-of-directors div.container-fluid.bg-light {
-   border-top: 2px solid whitesmoke;
-    border-bottom: 2px solid whitesmoke;
-}
-section#staff div.container-fluid.bg-light {
-    border-bottom: 2px solid whitesmoke;
-}
 .home-header-image {
     min-height: calc((100vh - 130px) - 40vh);
 }
@@ -169,6 +158,123 @@ h1.hero-title {
     line-height: 1.5rem;
 }
 
+/********************************   END OF NAV / HERO STYLING  *********************************************/
+
+
+section#board-of-directors div.container-fluid.bg-light {
+   border-top: 2px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+}
+section#staff div.container-fluid.bg-light {
+    border-bottom: 2px solid whitesmoke;
+}
+
+
+
+/********************************   SPECIAL CONTENT DETAILS   *********************************************/
+.special-content-details details summary {
+    padding: 0;
+    margin: 0;
+}
+
+.special-content-details details[open] summary {
+    border-bottom: none;
+    padding: 0;
+    margin: 0;
+}
+.special-content-details details summary {
+    border-top: none;
+}
+.special-content-details .content-body h3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.special-content-details details summary h3 {
+    color: #0E83CD;
+}
+.special-content-details details[open] summary h3 {
+    color: black;
+}
+.special-content-details details summary h3:hover {
+    color: black; 
+}
+.special-content-details details summary p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: #0E83CD !important;
+}
+.special-content-details details summary p:first-child {
+    padding-top: 0;
+}
+.special-content-details details[open] summary p {
+    color: black;
+    padding-bottom: 0 !important;
+}
+.special-content-details details summary p:hover {
+    color: black !important; 
+}
+.special-content-details details[open] p:last-child {
+    padding-bottom: 2rem;
+}
+
+.special-content-details details summary h3 {
+    position: relative;
+}
+.special-content-details details summary h3::after {
+    opacity: 0.6;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f107";
+    transform: rotate(0);
+    transition: .5s transform ease;
+    position: absolute;
+    margin-left: 1rem;
+    height: 1rem;
+    text-shadow: 1px 1px 4px #0E83CD;
+
+}
+
+.special-content-details details summary:hover h3::after {
+    text-shadow: 1px 1px 4px black;
+     animation: shimmy .5s infinite;
+  animation-direction: alternate;
+}
+
+@keyframes shimmy {
+  0% {
+    transform: translate(0, 1px);    
+  }
+
+
+  100% {
+    transform: translate(0px, -3px);
+  }
+}
+.special-content-details details[open] summary h3::after {
+    content: "\f106";
+    transform: rotateY(180deg);
+}
+.special-content-details details[open] summary h3::after {
+    text-shadow: 1px 1px 4px black;
+    content: "\f106";
+    transform: rotateY(180deg);
+}
+
+
+
+/********************************   END OF SPECIAL CONTENT DETAILS   *********************************************/
+
+
+
+
+
+
+/***************************************   SPECIAL DETAILS   *****************************************************/
 
 .special-details details summary h1 {
     position: relative;
@@ -193,6 +299,19 @@ h1.hero-title {
 }
 .special-details details summary:hover h1::after {
     text-shadow: 1px 1px 4px #0E83CD;
+    animation: shimmy .5s infinite;
+  animation-direction: alternate;
+}
+
+@keyframes shimmy {
+  0% {
+    transform: translate(0, 1px);    
+  }
+
+
+  100% {
+    transform: translate(0px, -3px);
+  }
 }
 
 .special-details details[open] summary h1::after {
@@ -210,13 +329,11 @@ h1.hero-title {
 .special-details .text-body details[open] h5 {
     padding-bottom: 1rem;
 }
-.faq-content a{
-    color: #0E83CD !important;
-    font-weight: 600;
-}
-.faq-content a:hover{
-    filter: brightness(0.6);
-}
+
+
+/***************************************   SPECIAL DETAILS   *****************************************************/
+
+
 tr.facts td strong {
     font-size: 3rem !important;
     line-height: 3rem;
@@ -612,50 +729,7 @@ details p a {
 .bg-light .special-details details a:hover {
     filter: brightness(0.6);
 }
-.special-content-details details summary {
-    padding: 0;
-    margin: 0;
-}
 
-.special-content-details details[open] summary {
-    border-bottom: none;
-    padding: 0;
-    margin: 0;
-}
-.special-content-details details summary {
-    border-top: none;
-}
-.special-content-details .content-body h3 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-.special-content-details details summary h3 {
-    color: #0E83CD;
-}
-.special-content-details details[open] summary h3 {
-    color: black;
-}
-.special-content-details details summary h3:hover {
-    color: black; 
-}
-.special-content-details details summary p {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    color: #0E83CD !important;
-}
-.special-content-details details summary p:first-child {
-    padding-top: 0;
-}
-.special-content-details details[open] summary p {
-    color: black;
-    padding-bottom: 0 !important;
-}
-.special-content-details details summary p:hover {
-    color: black !important; 
-}
-.special-content-details details[open] p:last-child {
-    padding-bottom: 2rem;
-}
 .special-details details summary h3 {
     text-align: center;
 }
@@ -1021,6 +1095,14 @@ div.modal-background {
     padding-left: .5rem;
 }
 
+.faq-content a{
+    color: #0E83CD !important;
+    font-weight: 600;
+}
+.faq-content a:hover{
+    filter: brightness(0.6);
+}
+
 
 /*****************************/
 /*****************************/
@@ -1152,7 +1234,7 @@ h2 a:hover {
 
 .content-body h2 {
     position: relative;  /* Added */
-    display: inline-block;
+    display: block;
 }
 
 .content-body h2::after {
@@ -1164,37 +1246,8 @@ h2 a:hover {
     display: block;
     width: 80%;
 }
-.content-body h2::after {
-    position: absolute;  /* Added */
-    content: '';
-    margin-top: 5px;
-    background: #5BCBF5;
-    height: 4px;
-    display: block;
-    width: 80%;
-}
-/*
-.content-body h5 {
-    color: #5BCBF5;
-    position: relative;  
-    display: inline-block;
-}
-.content-body h5::after {
-  position: absolute;  
-  content: '';
-  margin-top: 5px;
-  background: #EF6724;
-  height: 4px;
-  display: block;
-  width: 80%;
-}
-*/
-.bg-primary h6 {
-    color: white !important;
-}
-.content-body h2 {
-    display: block;
-}
+
+
 .content-fragment .text-left h2 {
     position: relative;  /* Added */
     display: inline-block;
@@ -1243,16 +1296,6 @@ h2 a:hover {
     color: white;
     border-color: black;
 }
-#hero {
-    overflow-x: hidden;
-}
-.hero {
-    overflow-x: hidden;
-}
-.hero .bg-light, #get-set-learn .bg-light, #get-set-learn-afterschool .bg-light {
-   border-bottom: 2px solid whitesmoke;
-}
-
 .hero .header-image .bg-light  {
    border-bottom: none;
 }
@@ -1343,20 +1386,7 @@ h5.active-page a {
     color: #0E83CD;
 }
 
-/*.content-sidebar h5::after {
-  position: absolute;  /* Added */
-  /*content: '';
-  margin-top: 5px;
-  background: #5BCBF5;
-  height: 4px;
-  display: block;
-    width: 0%;
-    transition: all 0.5s;
-}
-.content-sidebar h5:hover::after {
-    width: 80%;
-}
-*/
+
 #directory-sbn .fa-chevron-down:before {
     display:none;
 }
@@ -1725,10 +1755,6 @@ body {
     margin-bottom: 1.5rem;
 }
 
-/******************/
-/*  Image Button  */
-/******************/
-
 .directory-logos {
     height: 100%;
     padding: 3rem;
@@ -1783,7 +1809,9 @@ section#award .row {
     width: auto !important;
 }
 
-
+/**********************/
+/*       Footer       */
+/**********************/
 
 
 .prln-social-icon-size {
@@ -1846,11 +1874,11 @@ section#award .row {
 
 
 
-/**************************************************************/
-
-/*Media Queries*/
-
-/**************************************************************/
+/******************************************************************************************************************************************************************************/
+/*
+/*   Media Queries*/
+/*
+/******************************************************************************************************************************************************************************/
 
 @media (min-width: 576px){
     #gsl-reg-msg {
@@ -1982,6 +2010,7 @@ section#award .row {
     
 }
 
+/******************************************************************************************************************************************************************************/
 
 @media (min-width: 767px){
     
@@ -2083,11 +2112,11 @@ section#award .row {
     }
     .social-icon-align {
     justify-content: start;
-    }
-
-
-    
+    }    
 }
+
+/******************************************************************************************************************************************************************************/
+
 @media only screen and (min-width: 992px) {
     .special-details details summary h3.program-details, .special-details details summary h3.program-details, .special-details details summary h3.program-details {
     position: relative;
@@ -2285,18 +2314,9 @@ section#award .row {
     z-index: 999;
     box-shadow: 0 8px 6px -6px black;
     }
+
     
-    
-/* Closing the detail content on clicking anywhere else */
-details.prlnDD[open] summary::before {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  content: "";
-  cursor: default;
-}
+
 .prlnDD[open] ul {
 	animation: fade-in 0.5s forwards;
 }

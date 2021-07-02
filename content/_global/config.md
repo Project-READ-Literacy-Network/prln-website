@@ -55,12 +55,37 @@ function closetRDetails() {
   """
   
   
+
+
+  
+
+  
 [[config]]
   type = "js"
   html = """
   <script>
 var nav = document.querySelector('.prln-nav');
     window.addEventListener("wheel", () => {
+    if (window.innerWidth>999){
+	var prlnDDs = nav.querySelectorAll('.prlnDD[open]');
+	Array.prototype.forEach.call(prlnDDs, function (prlnDD) {
+		prlnDD.removeAttribute('open');
+	});
+    }
+}, true);
+</script>
+  """
+
+
+  
+
+  
+[[config]]
+  type = "js"
+  html = """
+  <script>
+var nav = document.querySelector('.prln-nav');
+    window.addEventListener("click", () => {
     if (window.innerWidth>999){
 	var prlnDDs = nav.querySelectorAll('.prlnDD[open]');
 	Array.prototype.forEach.call(prlnDDs, function (prlnDD) {
