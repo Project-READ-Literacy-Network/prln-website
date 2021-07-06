@@ -120,18 +120,12 @@ Consultations for charitable agencies. We can review documents (maximum of 2 pag
   
 </details>
 
-<details>
+ 
+***
 
-<summary>
-  
-**. . .**
-
-</summary>
 
 Project READ is a member of Plain Language Association International, a growing volunteer nonprofit organization of plain-language advocates, professionals, and organizations committed to plain language.  
   
-Please contact us for prices on the service that interests you.
+[Please contact us](/about/contact/) for prices on the service that interests you.
 
-</details>
 
-</details>

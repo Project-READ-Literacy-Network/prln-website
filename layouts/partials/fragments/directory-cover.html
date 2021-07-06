@@ -5,7 +5,7 @@
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
   <div class="row">
       
-      <div class="col-12 px-md-0 pb-4">
+      <div class="col-12 px-md-0 pb-5">
           <a href="{{ "/programs-and-services/directory-of-programs" | relLangURL }}">
       {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
       {{- if or .Params.categories -}}
@@ -19,9 +19,9 @@
       </div>
           
     {{- with .Params.sidebar -}}
-      <div class="content-sidebar col-md-3 pb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}" id="directory-sbn">
+      <div class="content-sidebar col-md-4 col-lg-3 mb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}" id="directory-sbn">
         {{- if .sticky }}
-          <div class="sticky-top pt-3">
+          <div class="sticky-top pt-2">
         {{- end -}}
         {{- if .title }}
           <div class="content-sidebar-title col-12 px-0
@@ -36,7 +36,7 @@
           </div>
         {{- end }}
         {{- $content_align := .content_align | default "left" -}}
-        <div class="content-sidebar-body col-12 pl-0 pr-1
+        <div class="content-sidebar-body col-12 px-3 pt-3 pb-0
           {{- printf " text-%s" $content_align -}}
           {{- partial "helpers/text-color.html" (dict "self" $self "light" "secondary") -}}
         ">
@@ -48,10 +48,10 @@
         {{- end -}}
       </div>
       
-      <article class="col-md-9 pl-md-5 pt-md-2 prln-directory">
+      <article class="col-md-8 col-lg-9 pl-md-3 pl-lg-5 pt-5 pt-md-0 prln-directory justify-content-center">
           
     {{- else }}
-      <article class="col-md-12 prln-directory">
+      <article class="col-md-12 justify-content-center prln-directory">
     {{- end }}
 
       
@@ -65,7 +65,7 @@
         {{- partial "helpers/slot.html" (dict "root" $ "slot" "after-content" "data" (dict "page" $.page "content_fragment" .self)) -}}
       </div>
       
-       <div class="row no-gutters justify-content-center align-items-center">
+       <div class="row no-gutters justify-content-center text-center align-items-center">
         
           
         {{- range .Params.logos }}
