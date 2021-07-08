@@ -657,65 +657,103 @@ p {
     max-height: 50% !important;
 }
 
-#gform .checkbox * {
-cursor: pointer;
+label.radio  {
+    cursor: pointer;
+    margin: 0;
+    padding-left: 5px;
+    vertical-align: middle;
+
 }
-#gform .checkbox {
-padding-left: 20px;
+input[type='radio'] {
+    vertical-align: middle;
+    -webkit-appearance:none;
+    width:20px;
+    height:20px;
+    background: white;
+    border: 1px solid #ced4da;
+    border-radius:50%;
+    outline:none;
+}
+input[type='radio']:hover {
+    box-shadow:0 0 5px 0px #CF202F inset;
+}
+input[type='text']:hover {
+    box-shadow:0 0 5px 0px #CF202F inset;
+}
+input[type='email']:hover {
+    box-shadow:0 0 5px 0px #CF202F inset;
+}
+input[type='radio']:before {
+    content:'';
+    display:block;
+    width:12px;
+    height:12px;
+    margin:3px 5px 5px 3px;
+    border-radius:50%; 
+}
+input[type='radio']:checked:before {
+    background:#AA1A27;
+}
+
+#gform .checkbox * {
+    cursor: pointer;
 }
 #gform .checkbox label {
-display: inline-block;
-vertical-align: middle;
-position: relative;
-padding-left: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    padding-left: 25px;
 }
 #gform .checkbox label::before {
-content: '';
-display: inline-block;
-position: absolute;
-width: 20px;
-height: 20px;
-left: 0;
-margin-left: -20px;
-border: 1px solid #ced4da;
-border-radius: 3px;
-background-color: #fff;
--webkit-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
--o-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    content: '';
+    display: inline-block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 0;
+    border: 1px solid #ced4da;
+    border-radius: 3px;
+    background-color: #fff;
+    -webkit-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    -o-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
 }
 #gform .checkbox label::after {
-display: inline-block;
-position: absolute;
-width: 20px;
-height: 20px;
-left: 0;
-top: 2px;
-margin-left: -21px;
-padding-left: 3px;
-padding-top: 1px;
-font-size: 11px;
-color: #29ABE2;
+    display: inline-block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    color: #AA1A27;
 }
 #gform .checkbox input[type="checkbox"]{
-opacity: 0;
-z-index: 1;
+    opacity: 0;
+    z-index: 1;
 }
 #gform .checkbox input[type="checkbox"]:checked + label::after{
-text-align: center;
-content: '\2713';
-font-weight: 900;
+    text-align: center;
+    content: "\f00c";
+    font-family: "Font Awesome 5 Free";
+    font-size: .85rem;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 900;
 }
 #gform .checkbox.checkbox-circle label::before {
-border-radius: 10%;
+    border-radius: 10%;
+}
+#gform .checkbox.checkbox-circle label:hover::before {
+    box-shadow:0 0 5px 0px #CF202F inset;
 }
 #gform .checkbox.checkbox-inline {
-margin-top: 0;
+    margin-top: 0;
 }
 #gform p.label {
     font-weight: 600;
     margin-bottom: 1rem;
-    line-height: 1.75rem;
 }
 
 .gsl-form-info p{
@@ -1207,6 +1245,9 @@ h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
 .btn {
     line-height: 1.3rem;
 }
+.btn-lg, .btn-group-lg>.btn {
+    padding: .75rem 1rem;
+}
 h2 a:hover {
     text-decoration: none;
 }
@@ -1247,7 +1288,7 @@ h2 a:hover {
     position: absolute;  /* Added */
     content: '';
     margin-top: 5px;
-    background: #5BCBF5;
+    background: #0E83CD;
     height: 4px;
     display: block;
     width: 80%;
@@ -1265,7 +1306,7 @@ h2 a:hover {
   position: absolute;  /* Added */
   content: '';
   margin-top: 5px;
-  background: #5BCBF5;
+  background: #0E83CD;
   height: 4px;
   display: block;
     width: 80%;
@@ -1671,7 +1712,10 @@ body {
   }
 }
 
-
+.prln-directory p a{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
 .prln-directory details summary p:last-child{
     margin-top: .75rem;
 }
@@ -1690,6 +1734,11 @@ body {
     color: #AA1A27;
 }
 .prln-directory h2#deaf-learn-now{
+    display: block;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}.prln-directory #deaf-learn-now{
     display: block;
     font-weight: 600;
     font-size: 1.5rem;
@@ -1790,13 +1839,13 @@ body {
     padding-left: 15px;
     padding-right: 0;
 }
-.prln-directory details li {
+.prln-directory details ul li {
     position: relative;
 }
-.prln-directory details li::before {
+.prln-directory details ul li::before {
     position: absolute;
     left: -1rem;
-    top: .7rem;
+    top: .55rem;
     content: "";
     display: inline-block;
     /* By using an em scale, the arrows will size with the font */
@@ -1869,6 +1918,7 @@ section#award .row {
 .prln-form-inline {
     display: inline-block !important;
     width: auto !important;
+    margin-left: 5px;
 }
 
 /**********************/
@@ -1924,7 +1974,7 @@ section#award .row {
     bottom: -1px;
     left: 0;
     margin: auto;
-    background-color: #5BCBF5;
+    background-color: #0E83CD;
     width: 0%;
     content: '';
     height: 2px;
