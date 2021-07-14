@@ -2432,8 +2432,10 @@ section#award .row {
     width: 100%;
     padding: 2rem;
     position: absolute;
+        max-height: calc(100vh - 130px);
     top: 130px;
     z-index: 999;
+    overflow-y: scroll;
     box-shadow: 0 8px 6px -6px black;
     }
 
@@ -2442,6 +2444,8 @@ section#award .row {
 .prlnDD[open] ul {
 	animation: fade-in 0.5s forwards;
 }
+
+
 
 prlnDD.summary-closing[open] ul {
 	animation: fade-out 0.5s forwards;

@@ -66,14 +66,13 @@ function gslFOO() {
 
 
 
-
 [[config]]
   type = "js"
   html = """
   <script>
 var nav = document.querySelector('.prln-nav');
-    window.addEventListener("click", () => {
-    if (window.innerWidth>999){
+    window.addEventListener("wheel", () => {
+    if (window.innerWidth>999 && (window.innerHeight>704)) {
 	var prlnDDs = nav.querySelectorAll('.prlnDD[open]');
 	Array.prototype.forEach.call(prlnDDs, function (prlnDD) {
 		prlnDD.removeAttribute('open');
