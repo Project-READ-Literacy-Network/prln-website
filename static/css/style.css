@@ -314,7 +314,6 @@ section#staff div.container-fluid.bg-light {
 
 
 
-
 /***************************************   SPECIAL DETAILS   *****************************************************/
 
 .special-details details summary h1 {
@@ -1325,8 +1324,14 @@ h2 a:hover {
     color: white;
     border-color: black;
 }
-.hero .header-image .bg-light  {
-   border-bottom: none;
+.btn-outline-dark:focus, .btn-outline-dark:active {
+    color: white;
+    border-color: black !important;
+    background-color: black !important;
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.5) !important;
+}
+.hero .jumbotron   {
+    border-bottom: 2px solid whitesmoke !important;
 }
 
 .btn-light {
@@ -1339,6 +1344,7 @@ h2 a:hover {
     background-color: #FDFCF9 !important;
     box-shadow: 0 2px 5px rgba(0,0,0,0.25), 0 2px 4px rgba(0,0,0,0.22);
 }
+
 .bg-primary h2 a:hover {
     color: white !important;
     text-shadow: 2px 2px 4px black;
@@ -1920,6 +1926,7 @@ section#award .row {
     width: auto !important;
     margin-left: 5px;
 }
+
 
 /**********************/
 /*       Footer       */
@@ -2614,5 +2621,16 @@ prlnDD.summary-closing[open] ul {
     }
     #footer .container-fluid {
     background-image: url("../images/footer.svg");
+    }
+}
+/******************************************************************************************************************************************************************************/
+
+@media (min-width: 1500px) {
+    #gsl-cert-hero div#gsl-cert-hero-img{
+    background-image:url(/images/gsl-cert.png);
+            background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
     }
 }

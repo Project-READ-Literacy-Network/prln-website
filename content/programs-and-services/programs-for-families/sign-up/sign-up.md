@@ -7,8 +7,8 @@ background = "light"
 title_align = "center"
 button_text = "Sign up"
 
-title = "Register for Get Set Learn this fall"
-subtitle  = "September 5 - November 5 2021"
+title = "Register for Get Set Learn"
+#subtitle  = ""
 
 +++
 

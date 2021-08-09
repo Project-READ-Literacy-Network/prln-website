@@ -65,12 +65,11 @@ Clear Language means your reader never has to say – “Huh?!”
 
 </details>
 
+ 
 ***
 
 
-### Our Services 
-
-
+Project READ is a member of LNO Clear Language Committee.  We follow the Clear Writing Guidelines as recommended by the Learning Networks. Our Clear Language services include:
 
 <details>
 
@@ -123,8 +122,6 @@ Consultations for charitable agencies. We can review documents (maximum of 2 pag
  
 ***
 
-
-Project READ is a member of Plain Language Association International, a growing volunteer nonprofit organization of plain-language advocates, professionals, and organizations committed to plain language.  
   
 [Please contact us](/about/contact/) for prices on the service that interests you.
 

@@ -3,19 +3,16 @@ fragment = "item"
 weight = 114
 background = "light"
 align = "left"
-#title = "News and Events"
-#title_align = "left" # Default is center, can be left, right or center
+subtitle = "Please contact us by phone or email to sign up or learn more about our programs and services."
 
 [asset]
   image = "prln-logo.svg"
 
 +++
 
-### Address
 
-124 Sydney Street South, 3rd Floor  
-Kitchener, ON, N2G 3V2  
-*Appointment Only*
+
+***
 
 ### Phone
 
@@ -24,3 +21,9 @@ Kitchener, ON, N2G 3V2
 ### E-mail
 
 info@projectread.ca  
+
+### Address
+
+124 Sydney Street South, 3rd Floor  
+Kitchener, ON, N2G 3V2  
+*Appointment Only*

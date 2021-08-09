@@ -20,68 +20,26 @@
       id="mc-embedded-subscribe-form"
       name="mc-embedded-subscribe-form">
     
-    <div class="row py-3 should-fade">
+    <div class="row py-3 should-fade justify-content-center">
     
         
             
-        <div class="col-md-6 d-flex flex-column justify-content-between">
+        <div class="col-9">
             
-        <div class="indicates-required">
-        <span class="asterisk">*</span> indicates required
-        </div>
             
         <div class="form-group">
         <p class="label pl-0 pt-2 mb-0">Email Address  <span class="asterisk">*</span></p>
         <input type="email" value="" name="EMAIL" class="w-100 required email form-control">
         </div>
             
-        <div class="form-group">
-        <p class="label pl-0 mb-0">First Name </p>
-        <input type="text" value="" name="FNAME" class="w-100 form-control">
-        </div>
-            
-        <div class="form-group mb-md-0">
-        <p class="label pl-0 mb-0">Last Name </p>
-        <input type="text" value="" name="LNAME" class="w-100 form-control">
-        </div>
+
             
         
             
         </div>  
 
 
-        <div class="col-md-6 pb-md-0 text-left d-flex flex-column justify-content-between">
-            
-        <strong>What are you interested in? </strong><br>
-            
 
-            <div class="form-check checkbox checkbox-circle mb-3 text-left">
-            <input type="checkbox" class="form-check-input" value="1" name="group[23477][1]" id="mce-group[23477]-23477-0"><label for="mce-group[23477]-23477-0">Get Set Learn Family Literacy Training and Certification</label>
-            </div>
-
-            <div class="form-check checkbox checkbox-circle mb-3 text-left">
-            <input type="checkbox" class="form-check-input" value="2" name="group[23477][2]" id="mce-group[23477]-23477-1"><label for="mce-group[23477]-23477-1">Get Set Learn Peer program</label>
-            </div>
-
-            <div class="form-check checkbox checkbox-circle mb-3 text-left">
-            <input type="checkbox" class="form-check-input" value="4" name="group[23477][4]" id="mce-group[23477]-23477-2"><label for="mce-group[23477]-23477-2">Local Family Literacy facts, news, or updates (Waterloo &amp; Guelph Wellington Regions)</label>
-            </div>
-        
-            <div class="form-check checkbox checkbox-circle mb-3 text-left">
-            <input type="checkbox" class="form-check-input" value="8" name="group[23477][8]" id="mce-group[23477]-23477-3"><label for="mce-group[23477]-23477-3">Project READ events and fundraisers</label>
-            </div>
-
-            <div class="form-check checkbox checkbox-circle mb-3 text-left">
-            <input type="checkbox" class="form-check-input" value="16" name="group[23477][16]" id="mce-group[23477]-23477-4"><label for="mce-group[23477]-23477-4">Adult Literacy training and professional development</label>
-            </div>
-
-            <div class="form-check checkbox checkbox-circle mb-0 text-left">
-            <input type="checkbox" class="form-check-input" value="32" name="group[23477][32]" id="mce-group[23477]-23477-5"><label class="mb-0" for="mce-group[23477]-23477-5">Local Adult Literacy facts, news, or updates (Waterloo Region)</label>
-            </div>
-            
-            
-        
-        </div>
    
             
             
@@ -95,9 +53,9 @@
     
         <div class="row justify-content-center">
         <div class="col text-center">
-        <button class="btn submit-btn col-12 col-md-3 mt-5
+        <button class="btn submit-btn col-12 col-md-3 my-0
                    {{- if eq $bg "warning" -}}
-                      {{- printf " btn-%s" "outline-dark" -}}
+                      {{- printf " btn-%s" "dark" -}}
                     {{- else -}}
                       {{- printf " btn-%s" "primary" -}}
                     {{- end -}}
