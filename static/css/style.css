@@ -1238,6 +1238,12 @@ h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
     border-color: black;
     box-shadow: 0 7px 15px rgba(0,0,0,0.25);
 }
+.btn-dark:focus, .btn-dark:active {
+    color: white;
+    border-color: black !important;
+    background-color: black !important;
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.5) !important;
+}
 
 /* Links */
 
@@ -1926,7 +1932,22 @@ section#award .row {
     width: auto !important;
     margin-left: 5px;
 }
-
+section#prln-newsletters.fragment div.container-fluid.bg-light, section#youtube.fragment.content-fragment div.container-fluid.bg-light, section#gsl-summary-reports.fragment div.container-fluid.bg-light, section#literacy-service-plan-reports.fragment div.container-fluid.bg-light {
+    border-bottom: 2px solid whitesmoke !important;    
+}
+section#parents.fragment.content-fragment div.container-fluid.bg-light {
+    border-bottom: 2px solid whitesmoke !important;    
+}
+section#grandparents.fragment.content-fragment div.container-fluid.bg-light {
+    border-bottom: 2px solid whitesmoke !important;    
+}
+header#gsl-cert-hero div#gsl-cert-hero-img{
+    background-image: none;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
 
 /**********************/
 /*       Footer       */
@@ -2000,6 +2021,11 @@ section#award .row {
 /******************************************************************************************************************************************************************************/
 
 @media (min-width: 576px){
+    header#gsl-cert-hero div#gsl-cert-hero-img{
+    background-image:url("../images/gsl-cert-sm.png");
+    padding-left: 150px;
+    padding-right: 150px;
+    }
     #gsl-reg-msg {
     min-height: calc((100vh - 120px) - (270px + 72px));
     }
@@ -2131,7 +2157,10 @@ section#award .row {
 /******************************************************************************************************************************************************************************/
 
 @media (min-width: 767px){
-    
+    header#gsl-cert-hero div#gsl-cert-hero-img{
+    padding-left: 250px;
+    padding-right: 250px;
+    }
 
 #directory-sbn .content-sidebar-body  {
         overflow-y: auto;
@@ -2545,6 +2574,11 @@ prlnDD.summary-closing[open] ul {
 /******************************************************************************************************************************************************************************/
 
 @media (min-width: 1200px) {
+    header#gsl-cert-hero div#gsl-cert-hero-img{
+    background-image:url("../images/gsl-cert-lg.png");
+    padding-left: 250px;
+    padding-right: 250px;
+    }
     .special-details details summary h3.program-details::after, .special-details details summary h3.program-details::after, .special-details details summary h3.program-details::after {
     bottom: -3rem;
     }
@@ -2626,11 +2660,7 @@ prlnDD.summary-closing[open] ul {
 /******************************************************************************************************************************************************************************/
 
 @media (min-width: 1500px) {
-    #gsl-cert-hero div#gsl-cert-hero-img{
-    background-image:url(/images/gsl-cert.png);
-            background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center;
-    background-size: cover;
+    header#gsl-cert-hero div#gsl-cert-hero-img{
+    background-image:url("../images/gsl-cert.png");
     }
 }

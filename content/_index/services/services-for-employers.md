@@ -3,7 +3,7 @@ fragment = "item"
 #disabled = false
 
 weight = 121
-background = "secondary"
+background = "info"
 align = "right"
 minHeight = "40vh"
 
@@ -20,6 +20,6 @@ subtitle= "Do you need a Workplace Education Program?"
 [[buttons]]
   text = "Find out more"
   url = "/programs-and-services/services-for-employers/"
-  color = "primary"
+  color = "outline-dark"
 +++
 

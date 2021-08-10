@@ -28,7 +28,7 @@
             
             
         <div class="form-group">
-        <p class="label pl-0 pt-2 mb-0">Email Address  <span class="asterisk">*</span></p>
+        <p class="label pl-0 pt-2 mb-0">Email Address</p>
         <input type="email" value="" name="EMAIL" class="w-100 required email form-control">
         </div>
             
@@ -53,8 +53,8 @@
     
         <div class="row justify-content-center">
         <div class="col text-center">
-        <button class="btn submit-btn col-12 col-md-3 my-0
-                   {{- if eq $bg "warning" -}}
+        <button class="btn btn-lg submit-btn col-12 col-md-3 my-0
+                   {{- if eq $bg "info" -}}
                       {{- printf " btn-%s" "dark" -}}
                     {{- else -}}
                       {{- printf " btn-%s" "primary" -}}

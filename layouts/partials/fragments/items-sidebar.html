@@ -72,9 +72,11 @@
                               <h1 class="program-details">
                                 {{- $item.title | markdownify -}}
                               </h1>
+                              {{- if $item.subtitle }}
                               <h3 class="program-details">
                                 {{- $item.subtitle | markdownify -}}
                               </h3>
+                              {{- end }}
                           </div>
                       
                     </div>

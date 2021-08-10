@@ -23,19 +23,20 @@ onload="if(submitted) {window.location='/thank-you/opportunities-msg';}"></ifram
 
             <div class="row py-3 should-fade">
                 
-     <div class="col-md-6 d-flex flex-column justify-content-between">  
+     <div class="col-md-6 d-flex flex-column justify-content-between pl-0 pb-md-3">  
+         <p class="label pl-3 mb-0">What kind of opportunity are you looking for?</p>
          
-                <div class="form-check checkbox checkbox-circle">
+                <div class="form-check checkbox checkbox-circle pb-2 pb-md-0">
                 <!-- The "value" is important -->
                 <input type="checkbox" class="form-check-input" id="fundraising" value="Fundraising" name="entry.681341351">
                 <label class="form-check-label" for="fundraising">Fundraising</label>
                 </div>
-                <div class="form-check checkbox checkbox-circle">
+                <div class="form-check checkbox checkbox-circle pb-2 pb-md-0">
                 <!-- The "value" is important -->
                 <input type="checkbox" class="form-check-input" id="co-op" value="Co-op Placement" name="entry.681341351">
                 <label class="form-check-label" for="co-op">Co-op Placement</label>
                 </div>
-                <div class="form-check checkbox checkbox-circle">
+                <div class="form-check checkbox checkbox-circle pb-2 pb-md-0">
                 <!-- The "value" is important -->
                 <input type="checkbox" class="form-check-input" id="volunteering" value="Volunteering" name="entry.681341351">
                 <label class="form-check-label" for="volunteering">Volunteering</label>
@@ -44,16 +45,18 @@ onload="if(submitted) {window.location='/thank-you/opportunities-msg';}"></ifram
 
             <div class="col-md-6 d-flex pt-4 pt-md-0 flex-column justify-content-between">
                 <div class="form-group">
-                <input type="text" placeholder="Name" name="entry.701609315" required class="form-control">
+                    <p class="label pl-0 mb-0">Name</p>
+                <input type="text" name="entry.701609315" required class="form-control">
                 </div>
                 <div class="form-group">
-                <input type="email" placeholder="E-mail" name="entry.2146064931" required class="form-control">
+                    <p class="label pl-0 mb-0">Email Address</p>
+                <input type="email" name="entry.2146064931" required class="form-control">
                 </div>
                 
-            <div class="form-group mb-0">
+                <div class="form-group mb-0 col-md-6 pl-0">
 
                   <button
-                  class="btn btn-block col-12 col-md-6 submit-btn mt-3
+                  class="btn btn-block btn-lg  submit-btn mt-3
                     {{- if eq $bg "secondary" -}}
                       {{- printf " btn-%s" "primary" -}}
                     {{- else -}}
@@ -64,7 +67,10 @@ onload="if(submitted) {window.location='/thank-you/opportunities-msg';}"></ifram
                   {{- .Params.button_text | default (i18n "contact.defaultButton") }}
                 </button>
                 </div>
+                
+            
             </div>
+                
 
             </div>
 

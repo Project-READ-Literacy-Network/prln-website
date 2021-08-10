@@ -73,16 +73,11 @@
                 <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .) }}" class="img-fluid col-8 col-md-6 col-lg-12 p-2" alt="{{ .text | default $.Params.title }}">
               {{- else if isset . "icon" }}
                 <span class="fa-stack fa-4x" title="{{ .text | default $.Params.title }}">
-                  <i class="fas fa-circle fa-stack-2x
-                    {{- if eq $bg "primary" -}}
-                      {{- print " text-dark" -}}
-                    {{- else -}}
-                      {{- print " text-primary" -}}
-                    {{- end -}}
-                  "></i>
-                  <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
-                  <span class="sr-only">{{ .text | default $.Params.title }}</span>
-                </span>
+                <i class="fas fa-circle fa-stack-2x text-{{.color | default "primary"}}
+                "></i>
+                <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
+                <span class="sr-only">{{ .text | default $.Params.title }}</span>
+              </span>
               {{- end -}}
             {{- else -}}
               {{- range .Params.buttons }}
