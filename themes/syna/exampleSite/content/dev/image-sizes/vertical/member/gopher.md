@@ -1,7 +1,7 @@
 +++
 title = "Tiny Gopher"
 weight = 10
-date = "2017-10-17"
+date = "2021-09-01"
 
 [asset]
   image = "vertical.jpeg"

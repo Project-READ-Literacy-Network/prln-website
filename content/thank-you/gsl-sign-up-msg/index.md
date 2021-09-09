@@ -1,5 +1,5 @@
 +++
-fragment = "gsl-reg-msg"
+fragment = "reg-msg"
 weight = 100
 title = "Thank You"
 button_text = "Back to Programs for Families"

@@ -411,7 +411,6 @@ tr.facts td {
     border-top: none;
 }
 
-
 .card-body {
     min-height: 100% !important;
 }
@@ -1511,10 +1510,13 @@ body {
 /*********************/
 
  table {
-    display: block;
     border-collapse: collapse;
     width: 100%;
     overflow-x: auto;
+    display: block;
+}
+table:first-of-type {
+    margin-top: 1.5rem;
 }
 
  td {
@@ -1523,10 +1525,20 @@ body {
 }
  th {
     font-style:normal;
-     font-weight: 400;
+    font-weight: 400;
     border-top: 1px solid #ccc;
     padding: .5rem;
 }
+
+tr:last-child {
+    border-bottom: 1px solid #ccc;
+}
+
+th:only-of-type {
+    border-top: none;
+    border-bottom: 1px solid #ccc;
+}
+
 
 /*********************/
 /*     Blockquote    */
@@ -1949,10 +1961,14 @@ header#gsl-cert-hero div#gsl-cert-hero-img{
     background-size: cover;
 }
 
+div.container-fluid.bg-light {
+       border-bottom: 2px solid whitesmoke !important;
+ 
+}
+
 /**********************/
 /*       Footer       */
 /**********************/
-
 
 .prln-social-icon-size {
     font-size: 6vw;
@@ -1972,6 +1988,7 @@ header#gsl-cert-hero div#gsl-cert-hero-img{
 }
 #footer .bg-light {
     background-color: transparent !important;
+    border-bottom: none !important;
 }
 #footer {
     text-align: center !important;
@@ -2026,7 +2043,7 @@ header#gsl-cert-hero div#gsl-cert-hero-img{
     padding-left: 150px;
     padding-right: 150px;
     }
-    #gsl-reg-msg {
+    #reg-msg {
     min-height: calc((100vh - 120px) - (270px + 72px));
     }
     #press-header .bg-warning p a:after {
@@ -2064,7 +2081,10 @@ header#gsl-cert-hero div#gsl-cert-hero-img{
     .modal .modal-background img {
     max-width:49vw;
     }
-
+    table {
+    width: 100%;
+    display:table !important;
+    }
     .content-body ul li::before, .faq ul li::before {
     top: .75rem;
     border-right: 0.3rem solid #0E83CD;
@@ -2210,7 +2230,7 @@ header#gsl-cert-hero div#gsl-cert-hero-img{
     vertical-align: top;
     border-top: none;
     }
-    #gsl-reg-msg {
+    #reg-msg {
     min-height: calc((100vh - 130px) - (341px));
     }
     #footer {
@@ -2306,7 +2326,7 @@ header#gsl-cert-hero div#gsl-cert-hero-img{
     overflow-y: visible;
     }
 
-    #gsl-reg-msg {
+    #reg-msg {
     min-height: calc((100vh - 130px) - (381px));
     }
     #footer {
@@ -2585,7 +2605,7 @@ prlnDD.summary-closing[open] ul {
     .special-details details#get-set-learn-grandparents ul li:first-of-type{
     margin-top: 0;
     }
-    #gsl-reg-msg {
+    #reg-msg {
     min-height: calc((100vh - 130px) - (357px));
     }
     .publication-image {

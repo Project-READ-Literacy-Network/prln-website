@@ -1,7 +1,7 @@
 +++
 fragment = "gsl-cert-hero"
 background = "light"
-title = "Get Set Learn Family Literacy Certification Program"
+title = "Get Set Learn Family Literacy Training & Certification"
 subtitle = "Helping you remove barriers and empower families through literacy"
 weight = 10
 

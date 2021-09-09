@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-weight = 140
+weight = 110
 background = "light"
 
 subtitle = "If you are interested in applying to our Board of Directors, please send your resume to info@projectread.ca."

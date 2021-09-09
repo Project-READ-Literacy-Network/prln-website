@@ -1,8 +1,8 @@
 +++
 fragment = "member"
 #disabled = false
-date = "2017-10-17"
-weight = 130
+date = "2021-09-01"
+weight = 100
 background = "light"
 
 title = "Board of Directors"

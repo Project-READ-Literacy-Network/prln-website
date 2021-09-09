@@ -1,7 +1,7 @@
 +++
 title = "David Critch"
 weight = 60
-date = "2017-10-17"
+date = "2021-09-01"
 
 position = "Director at Large"
 

@@ -7,8 +7,7 @@ background = "light"
 align = "right"
 minHeight = "50vh"
 
-title = "Enrol Today"
-subtitle = "This training program is offered on our online learning platform. Click the button below and create your account, then login and get started!"
+title = "Register Today"
 
 
 [asset]
@@ -17,12 +16,12 @@ subtitle = "This training program is offered on our online learning platform. Cl
   
 [[buttons]]
   text = "Get Started"
-  url = "https://getsetlearn.ca/training"
+  url = "/about/contact/"
   color = "outline-dark"
 
 +++
 
-
+If you are interested in this training for yourself or your organization, please contact us.  Registration is open and ongoing.
   
 
 

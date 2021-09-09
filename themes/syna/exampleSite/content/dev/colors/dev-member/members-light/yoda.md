@@ -1,7 +1,7 @@
 +++
 title = "Tiny Gopher 3"
 weight = 30
-date = "2017-10-17"
+date = "2021-09-01"
 
 position = "Gopherineer"
 reports_to = "Lead Gophineer"

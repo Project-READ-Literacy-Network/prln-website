@@ -1,13 +1,14 @@
 +++
 title = "Diverse Curriculum"
-weight = 20
-
+weight = 10
+ 
 [asset]
-  image = "marketing-icons-02.svg"
+  image = "marketing-icons-01.svg"
 +++
 
+- Four diverse modules that cover
+    - Family literacy essentials
+    - Principles of adult learning
+    - Holistic and strengths-based approaches
+    - Working with diverse and marginalized populations
 
-Opportunities to implement and practice strategies
-- Easily accessible online modules that you can complete at your own pace
-- Ongoing support from instructors
-- Adaptable content for anyone

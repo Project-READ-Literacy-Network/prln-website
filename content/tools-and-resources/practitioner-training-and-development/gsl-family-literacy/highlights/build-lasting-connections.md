@@ -6,5 +6,7 @@ weight = 30
   image = "marketing-icons-03.svg"
 +++
 
-- Connect with other peers and literacy experts
+- Opportunities to implement and practice strategies (included with Certification)
+- Connect with other peers and literacy experts (included with Certification)
 - Receive up-to-date information on family literacy and upcoming opportunities
+

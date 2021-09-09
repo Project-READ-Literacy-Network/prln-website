@@ -6,6 +6,7 @@ weight = 30
   image = "lshf-logo.svg"
   url = "https://www.lshallmanfdn.org/"
   name = "Lyle S. Hallman Foundation (LSHF)"
+  text = "Lyle S. Hallman Foundation (LSHF)"
 +++
 
 
