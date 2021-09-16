@@ -10,6 +10,9 @@ button_text = "Sign up"
 title = "Register for Get Set Learn"
 #subtitle  = ""
 
+[asset]
+  image = "gsl-flyer.jpg"
+
 +++
 
 ***

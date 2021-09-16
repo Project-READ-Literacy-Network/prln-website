@@ -16,7 +16,7 @@ title = "Register Today"
   
 [[buttons]]
   text = "Get Started"
-  url = "https://getsetlearn.ca/training"
+  url = "https://training.projectread.ca"
   color = "outline-dark"
 
 +++

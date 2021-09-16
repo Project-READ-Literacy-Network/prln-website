@@ -6,6 +6,7 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
     {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
+
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
 onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
@@ -24,7 +25,12 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
 
 <div class="row pt-5">
 
-    <div class="col-md-6 ">
+
+
+        
+    
+    <div class="col-lg-6 ">
+        
             <div class="form-group">
                 <p class="label pl-0 mb-0">Your Name</p>
                 <input type="text" name="entry.1166360450" required class="form-control">
@@ -59,52 +65,49 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
             <input type="checkbox" class="form-check-input" value="Class 2 - Wednesday and Friday" id="Class 2 - Wednesday and Friday" name="entry.529051757">
             <label class="form-check-label" for="Class 2 - Wednesday and Friday">Class 2 - Wednesday and Friday</label>
             </div>
-    </div>
+   
 
 
-    <div class="col-md-6 d-flex flex-column justify-content-between">
-
-
-                <p class="label pt-3 pt-md-0 mb-3 mb-md-0 ">How did you find out about Get Set Learn?</p>
+                <p class="label pt-3 pt-md-0 mb-3 ">How did you find out about Get Set Learn?</p>
 
 
 
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="doctor" id="doctor" name="entry.1243974042">
                 <label class="radio" for="doctor">doctor</label>
                 </div>
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="nurse" id="nurse" name="entry.1243974042">
                 <label class="radio" for="nurse">nurse</label>
                 </div>
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="community worker" id="community worker" name="entry.1243974042">
                 <label class="radio" for="community worker">community worker</label>
                 </div>
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="caseworker" id="caseworker" name="entry.1243974042">
                 <label class="radio" for="caseworker">caseworker</label>
                 </div>
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="friend" id="friend" name="entry.1243974042">
                 <label class="radio" for="friend">friend</label>
                 </div>
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="Peers" id="Peers" name="entry.1243974042">
                 <label class="radio" for="Peers">peer</label>
                 </div>
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="cheque insert" id="cheque insert" name="entry.1243974042">
                 <label class="radio" for="cheque insert">cheque insert</label>
                 </div>
-                <div class="mb-3 mb-md-0  text-left">
+                <div class="mb-3 text-left">
                 <!-- The "value" is important -->
                 <input type="radio"  value="other" id="findOutOther" name="entry.1243974042">
                 <input type="text" placeholder="other" name="entry.1759722061" class="form-control prln-form-inline" id="findOutOtherText" onClick='gslFOO()'>
@@ -112,46 +115,48 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
 
             </div>
 
+            <div class="col-lg-6 text-center text-lg-left">
 
+              {{- if .Params.asset -}}
+                <div class="content-image">
+                  <img src="{{ partial "helpers/image.html" (dict "root" . "asset" .Params.asset) }}" alt="{{ .Params.subtitle | default .Params.title }}" class="img-fluid mb-4">
+                </div>
+              {{- end -}}
+
+
+            {{- if .self.Content -}}
+            <div class="col-12 pl-0 gsl-form-info">
+            {{- .self.Content -}}
+            </div>
+            {{- end -}}
+
+
+
+
+            <div class="form-group">
+
+            <button
+              class="btn btn-lg submit-btn mt-3
+                {{- if eq $bg "light" "warning" -}}
+                  {{- printf " btn-%s" "primary" -}}
+                {{- else -}}
+                  {{- printf " btn-%s" "primary" -}}
+                {{- end -}}
+              "
+              type="submit">
+              {{- .Params.button_text | default (i18n "contact.defaultButton") }}
+            </button>  
+
+            </div>
+
+            </div>
 
         </div> 
 
 
 
 
-        <div class="row">
-            <div class="col-md-12 text-center">
 
-                {{- if .self.Content -}}
-                <div class="col-12 pl-0 gsl-form-info">
-                {{- .self.Content -}}
-                </div>
-                {{- end -}}
-
-            </div>
-
-
-            <div class="col text-center">
-
-                <div class="form-group">
-
-                <button
-                  class="btn btn-lg submit-btn mt-3
-                    {{- if eq $bg "light" "warning" -}}
-                      {{- printf " btn-%s" "primary" -}}
-                    {{- else -}}
-                      {{- printf " btn-%s" "primary" -}}
-                    {{- end -}}
-                  "
-                  type="submit">
-                  {{- .Params.button_text | default (i18n "contact.defaultButton") }}
-                </button>  
-
-                </div>
-
-            </div>
-
-       </div>
 
     </form>
 
