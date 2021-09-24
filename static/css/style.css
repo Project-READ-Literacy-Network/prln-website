@@ -2594,6 +2594,13 @@ prlnDD.summary-closing[open] ul {
 /******************************************************************************************************************************************************************************/
 
 @media (min-width: 1200px) {
+    .gov-text p {
+    padding-right: 3rem;
+    padding-left: 1rem;
+    }
+    .gov-logo {
+    padding-right: 1rem;
+    }
     header#gsl-cert-hero div#gsl-cert-hero-img{
     background-image:url("../images/gsl-cert-lg.png");
     padding-left: 250px;
