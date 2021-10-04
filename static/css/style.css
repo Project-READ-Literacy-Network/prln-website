@@ -311,6 +311,25 @@ section#staff div.container-fluid.bg-light {
 /********************************   END OF SPECIAL CONTENT DETAILS   *********************************************/
 
 
+.download-link table {
+    overflow-x: visible;
+}
+.download-link th {
+    font-size: 4vw;
+    line-height: 4.25vw;
+    border-top: 5px solid #0E83CD;
+}
+.download-link tr:last-child {
+    border-bottom: 5px solid #0E83CD;
+}
+
+.download-link th:nth-child(even) {
+    color: #0E83CD;
+    font-size: 8vw;
+    padding-top: .25vw;
+}
+
+
 
 
 
@@ -338,7 +357,7 @@ section#staff div.container-fluid.bg-light {
 }
 .special-details details summary:hover h1::after {
     animation: shimmy .5s 2;
-  animation-direction: alternate;
+    animation-direction: alternate;
 }
 
 @keyframes shimmy {
@@ -1965,6 +1984,9 @@ div.container-fluid.bg-light {
        border-bottom: 2px solid whitesmoke !important;
  
 }
+table:last-of-type {
+        margin-bottom: 1.5rem;
+    }
 
 /**********************/
 /*       Footer       */
@@ -2085,6 +2107,7 @@ div.container-fluid.bg-light {
     width: 100%;
     display:table !important;
     }
+    
     .content-body ul li::before, .faq ul li::before {
     top: .75rem;
     border-right: 0.3rem solid #0E83CD;
@@ -2123,7 +2146,7 @@ div.container-fluid.bg-light {
     line-height: 1.75rem;
     }
        
-    .item-custom ul {
+    .item-custom ul, .item-custom ol {
     font-size: 1.4rem;
     line-height: 2.25rem;
     margin-bottom: 1.25rem;
@@ -2181,17 +2204,34 @@ div.container-fluid.bg-light {
     padding-left: 250px;
     padding-right: 250px;
     }
+    .download-link table {
+    overflow-x: auto;
+    }
+    .download-link th {
+    font-size: 2rem;
+    line-height: 2.5rem;
+    padding: 1.5rem;
+    border-top: 5px solid #0E83CD;
+    }
+    .download-link tr:last-child {
+    border-bottom: 5px solid #0E83CD;
+    }
 
-#directory-sbn .content-sidebar-body  {
-        overflow-y: auto;
-}
+    .download-link th:nth-child(even) {
+    color: #0E83CD;
+    font-size: 5rem;
+    padding-top: .75rem;
+    }
+    #directory-sbn .content-sidebar-body  {
+    overflow-y: auto;
+    }
 
-#directory-sbn .content-sidebar-body article::after {
+    #directory-sbn .content-sidebar-body article::after {
     content: none;
     background: none;
     height: 0;
     width: 0;
-}
+    }
     .special-details details summary h3.program-details, .special-details details summary h3.program-details, .special-details details summary h3.program-details {
     text-align: left !important;
     width: 85%;
@@ -2547,7 +2587,10 @@ prlnDD.summary-closing[open] ul {
     }
     
     .prlnDD ul > ul > li a:hover {
-     color: #0E83CD;
+    color: #0E83CD;
+    }
+    .prlnDD ul > ul > li.prlnDD-header a:hover {
+    color: black !important;
     }
     .prlnDD > summary {
     font-size: 1.25rem;

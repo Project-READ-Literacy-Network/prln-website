@@ -3,11 +3,10 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
-  <div class="row align-items-center press-content">
-    
-    <article class="col-md-9">
+  <div class="row align-items-center">
+    <article class="col-12 text-center">
        {{- if or .Params.display_date .Params.categories -}}
-        <div class="content-info col-12 pb-4 mt-2">
+        <div class="content-info col-12 pl-0 pb-4 mt-2">
           {{- if .Params.display_date -}}
             {{- partial "helpers/publish-date.html" (dict "root" $self "background" $bg) -}}
           {{- end -}}
@@ -25,7 +24,7 @@
       {{- end }}          
               
       
-      <div class="content-body col-12 content px-0
+      <div class="col-12 content content-body download-link px-0
         {{- partial "helpers/text-color.html" (dict "self" $self) -}}
       ">
         {{- partial "helpers/slot.html" (dict "root" $ "slot" "before-content" "data" (dict "page" $.page "content_fragment" .self)) -}}
@@ -37,19 +36,37 @@
  
     </article>
           
-    <div class="col-md-3">
-        {{- if .Params.item_url }}
-        <a href="{{ .Params.item_url | relLangURL }}">
-        {{- end }}
-        {{- if .Params.asset -}}
-        <div class="content-image col-12">
-        <img src="{{ partial "helpers/image.html" (dict "root" . "asset" .Params.asset) }}" alt="{{ .Params.subtitle | default .Params.title }}" class="img-fluid mb-4">
-        </div>
-        {{- end -}}
-        {{- if .Params.item_url }}
-        </a>
-        {{- end }}  
+  {{- if .Params.downloads }}
+    <div class="col-12">
+        <div class=" row justify-content-space-around text-center download-link px-2 py-3">
+                    
+            {{- range .Params.downloads }}
+            <h4 class="col-12 pb-2">{{ .dl_title }}</h4>
+                <div class="col-12"><a href="{{ .url | relLangURL }}" download="{{ .pdf }}"><h4><i class = "fas fa-download pr-1 pl-lg-1"></i>{{- .text | markdownify -}}</h4></a></div>
+            {{- end }}
+        </div>  
     </div>
-        
+  {{- end }}
+          
+     
   </div>
 {{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}
+        
+         {{- if .Params.buttons }}
+        <div class="container-fluid" id="press-header-nav">
+            <div class="container">
+            <div class="row">
+                <div class="col-12">
+          {{- range .Params.buttons }}
+            <a class="m-2 py-3 mr-3 mr-sm-5 ml-lg-0
+              {{ .state }}
+              {{ if hasPrefix .url "#" }} anchor{{ end }}
+            " href="{{ .url | relLangURL }}">
+              <h4>{{- .text -}}</h4>
+            </a>
+          {{- end }}
+        </div>
+                </div>
+                </div>
+            </div>
+      {{- end -}} 

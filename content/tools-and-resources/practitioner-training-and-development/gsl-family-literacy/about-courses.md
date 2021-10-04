@@ -21,4 +21,6 @@ Individuals must complete the course materials within 4 months. Registration is 
    
    
 | \* Timing is approximate.  Estimates are based on actual user experiences.
-|---
+|---  
+
+Scroll down and click "Get Started" to register!

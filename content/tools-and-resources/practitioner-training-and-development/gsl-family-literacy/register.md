@@ -23,7 +23,12 @@ title = "Register Today"
 
 These programs are offered through our online learning platform. You will need access to a computer and internet to complete the courses. Registration is ongoing. 
 
-You will be prompted to create a personal user account and enter your payment information. Login and learn at your own pace.
+1. Click “Get Started” then select the course you are interested in.  
+2. Create a personal user account and password.  
+3. Enter your payment information and pay the course fee.  
+4. Login and learn at your own pace!  
+
+
   
 
 
