@@ -22,8 +22,11 @@ subtitle = "Please contact us by phone or email to sign up or learn more about o
 
 info@projectread.ca  
 
-### Address
+### Office Address
 
-124 Sydney Street South, 3rd Floor  
-Kitchener, ON, N2G 3V2  
-*Appointment Only*
+<ins>Mailing Address</ins>  
+Project READ Literacy Network   
+c/o UPS Store  
+50 Ottawa Street South, Suite 189  
+Kitchener, ON  
+N2G 3S7
