@@ -17,7 +17,7 @@ weight = 20
     text = "The ability of firms to compete will increasingly depend on the basic skills of the average worker; workers with high literacy skills are better able to apply the most efficient production technologies"
     icon = "fas fa-chart-line"
   [[rows.values]]
-    text = "Statistics Canada showed that a 1% increase in adult literacy levels would generate a 1.5% permanent increase in the GDP per capita; In Canada, this would amount to about **$54 billion** a year that could be re-invested"
+    text = "Statistics Canada showed that a 1% increase in adult literacy levels would generate a 3% permanent increase in the GDP per capita; In Canada, this would amount to about **$54 billion** a year that could be re-invested"
     
 [[rows]]
   [[rows.values]]
