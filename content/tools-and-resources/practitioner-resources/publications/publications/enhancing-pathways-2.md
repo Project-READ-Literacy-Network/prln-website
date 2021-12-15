@@ -2,6 +2,7 @@
 weight = 100
 title = "Enhancing Pathways Phase 2"
 subtitle ="The Literacy and Language Continuum, 2012"
+free_download = "/pdf/EP2_report.pdf"
 
 [asset]
   image = "/publications/enhancingPathways2.jpg"
