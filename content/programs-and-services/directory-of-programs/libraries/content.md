@@ -31,7 +31,7 @@ www.guelphpl.ca
 - Book Clubs for all ages on a variety  
 of themes  
 - WiFi Hotspots  
-- TechBar and Makerspace: 3D printers, virtual reality, various tech gadgets  
+- Makerspace: 3D printers, virtual reality, various tech gadgets  
   
 #### Who:  
 Everyone is welcome.  
@@ -44,7 +44,8 @@ Friday ‒ Saturday at 9:00am‒5:00pm
   
 Sundays at 1:00pm‒5:00pm  
 (September‒May)  
-\* Summer hours are in effect from June to early September. Please check website for details.  
+  
+\* Summer hours are in effect from June to early September. Please check the website for details.  
 #### Where:  
 Main Library—100 Norfolk Street  
 #### Ask For:  
@@ -70,21 +71,36 @@ www.ideaexchange.org
 - Free early literacy programming including Baby, Toddler, and School Readiness online and in person  
 - Literacy collection ‒ for adults learning the basics of letters and numbers  
 - Audio kits ‒ Books and CDs. Also available online through Tumblebooks  
-- Language learning ‒ for English and many other languages ‒ in audio, print, electronic or some  combination (or learn online using the Mango Languages learning programs)  
-- Books with high interest and  
-low vocabulary  
+- Language learning ‒ for English and many other languages ‒ in audio, print, electronic or some combination (or learn online using the Mango Languages learning programs)  
+- Books with high interest and low vocabulary  
 - Movies and music in other languages  
 - Conversation Circles ‒ meet virtually multiple times per week  
 - Settlement Worker on site at the Queen’s Square location 2 days per week  
 - Courses on teaching English and ESL through an online product called Gale Courses and Lynda. com  
 - Free access to the Internet ‒ use our computers or bring your own device  
+- Borrow an iPad to use for home, school, or work  
 - Never used a computer or need help with other devices? Book a 1 to 1 training session with our  staff  
-- Old Post Office location – digital library with free access to laser cutter, sewing machines, 3D  printer and more. Borrow laptops and iPads to use at location  
+- Old Post Office location ‒ digital library with free access to laser cutter, sewing machines, 3D  printer and more. Borrow laptops and iPads to use at location  
 #### Who:  
 Everyone, all ages and skill levels  
 #### When:  
-All Locations  
-Monday ‒ Saturday at 10:00am‒6:00pm  
+**Queen’s Square**   
+Monday ‒ Thursday at 9:30am‒8:30pm  
+Friday and Saturday at 9:30am‒5:30pm  
+Sunday at 1:00pm‒5:00pm  
+  
+**Hespeler, Preston and Clemens Mill**  
+Monday ‒ Thursday at 10:00am‒8:30pm  
+Friday at 10:00am‒5:30pm  
+Saturday at 9:30am‒5:30pm  
+Sunday at 1:00pm‒5:00pm  
+  
+**Old Post Office**  
+Monday at 10:00am‒5:30pm  
+Tuesday ‒ Thursday at 10:00am‒8:30pm  
+Friday at 10:00am‒5:30pm  
+Saturday at 9:30am‒5:30pm  
+Sunday at 1:00pm‒5:00pm    
 #### Where:  
 ##### Queen’s Square  
 1 North Square  
@@ -128,20 +144,22 @@ www.kpl.org
 - All programs free of charge  
 - Adult Literacy Collection for Teachers, Tutors, and Students  
 - Family Literacy programs for parents, caregivers, and children  
-- Beginner and Intermediate Computer Training  
+- Computer and Technology Programs  
 - Access to Internet, printers, photocopiers, scanning and fax  
 - Volunteer Opportunities  
 - Career & Resume help  
 - ESL conversation circles  
 - Study Rooms  
 - WiFi Hotspots  
-- Heffner Studio: 3D printers, virtual reality, Music Editing, Digital Conversion  
+- Accessibility Centre (JAWS, Dragon Dictate, ZoomText, C-Pen readers etc)  
+- Heffner Studio: 3D printers, Music Editing, Digital Conversion, Audio Production  
 #### Who:  
 Programs for all ages  
 All are welcome  
 #### When:  
-Monday ‒ Thursday at 9:00am‒7:00pm  
+Monday ‒ Thursday at 9:00am‒9:00pm  
 Friday and Saturday at 9:00am‒5:30pm  
+Sunday at 1:00pm‒5:00pm (Central Library only, Fall‒Spring)  
 #### Where:  
   
 ##### Central Library  
@@ -159,7 +177,8 @@ Friday and Saturday at 9:00am‒5:30pm
 ##### Pioneer Park Community Library  
 150 Pioneer Park Drive  
 #### Ask For:  
-Aimee Jeffrey—Lifelong Learning and Literacy Librarian (519) 743-0271 ext. 218  
+Aimee Jeffrey—Lifelong Learning and Literacy Librarian  
+(519) 743-0271 ext. 218  
   
 </details>  
   
@@ -177,14 +196,17 @@ www.rwlibrary.ca
 </summary>  
   
 #### What:  
-- Access to library services and resources, including: computers, the Internet, and WIFI  
-- Access to printing, copying, and scanning  
-- Mobile hotspot lending program  
-- Satellite library sites  
+- All programs free of charge  
+- Family Literacy programs for parents, caregivers, and children  
+- Access to Internet, printers, and photocopiers  
+- Mobile Hotspot lending program  
+- A variety of lending collection items including: Hobby Kits, Book Clubs in a Bag/Book Club Packs 4 Kids, Games Collection, Museum Family Passes, Recreation Passes, and Public Health Kits  
+- Online resources for families such as Hoopla, Mango Languages and Tumblebook Library  
+  
 #### Who:  
-Open to all  
+Open to all ages and skill levels  
 #### When:  
-Monday ‒ Saturday, hours and days vary by branch  
+Monday ‒ Saturday, hours and days vary by branch. Refer to our website for the current branch schedule.  
 #### Where:  
 ##### Ayr Branch  
 137 Stanley Street  
@@ -217,8 +239,8 @@ Monday ‒ Saturday, hours and days vary by branch
 1137 Henry Street  
   
 #### Ask For:  
-Librarian  
-(226) 748-8030  
+Allie Fallis—Supervisor of Programs and Outreach  
+(519) 575-4590 ext. 3953  
   
 </details>  
   

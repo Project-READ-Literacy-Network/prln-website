@@ -43,10 +43,9 @@ Wednesday and Thursday evenings at 6:00pm‒9:00pm
 Guelph—8 Cork Street East, N1H 2W8  
 #### Ask For:  
 Adult program information  
-Joanne Morant  
-(519) 836-2759  
-artutor@on.aibn.com or  
-actionread@gmail.com  
+Joanne Morant—(519) 836-2759 (office) or (519) 731-7829 (work cell)  
+artutor@on.aibn.com  
+or actionread@gmail.com   
   
   
 `Information During COVID-19 Pandemic: We have made changes to our programs in response to the COVID-19 pandemic. We now offer a range of remote learning options. Office hours and in-person meetings may be limited, and will be scheduled by appointment only. For details, please call our office at (519) 836-2759, or email us at actionread@gmail.com. We will respond to messages within one business day.`
@@ -68,11 +67,11 @@ www.conestogac.on.ca/caa/upgrading
   
   
 #### What:  
-- Tuition free courses in Math, English, Biology, Chemistry, Physics  
+- Tuition free courses in Math, English, Biology, Chemistry, Computers  
 - Targeted academic preparation up to grade 12 equivalency for admission into college post secondary programs including apprenticeship training  
 - Developing Essential Skills for the workplace  
 - GED pre-test and preparation  
-- Childcare and transportation subsidy for eligible learners  
+- Childcare, transportation, & internet subsidy for eligible learners  
 - Continuous intake, self-paced learning, self-directed with teacher support  
 #### Who:  
 Adults (19+ years) with or without a grade 12 diploma (age exceptions may apply)  
@@ -89,17 +88,16 @@ Guelph—460 Speedvale Avenue West
   
 Waterloo—108 University Avenue East  
 #### When:  
-  
-`All classes are currently delivered online`  
+All classes are being delivered online with in person support for select courses. Please connect with a campus for more details by emailing upgrading@conestogac.on.ca  
   
 | | **Math** | **Communications** | **Biology** | **Chemistry**
 | --- | --- | --- | --- | ---
-| **Cambridge** | **Self-Directed** <br> Day Classes | **Self-Directed** <br> Day Classes | **Self-Directed** <br> Day Classes | **Self-Directed** <br> Day Classes
-| **Doon** | **Self-Directed** <br> Evening Classes | **Self-Directed** <br> Evening Classes | N/A | N/A
-| **Guelph** | **Self-Directed** <br> Day Classes <br> Evening Classes | **Self-Directed** <br> Day Classes <br> Evening Classes | **Teacher Led** <br> Day Classes | **Teacher Led** <br> Day Classes
-| **Waterloo** | **Self-Directed** <br> Day Classes <br> Evening Classes | **Self-Directed** <br> Day Classes <br> Evening Classes | **Teacher Led** <br> Day Classes <br> Evening Classes | **Teacher Led** <br> Day Classes <br> Evening Classes  
+| **Cambridge** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed/Teacher Led** <br> Day & Evening Classes | N/A | N/A
+| **Doon** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed** <br> Day & Evening Classes | N/A | N/A
+| **Guelph** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed** <br> Day & Evening Classes | N/A | **Teacher Led** <br> Day Classes
+| **Waterloo** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed** <br> Day & Evening Classes | **Self-Directed/Teacher Led** <br> Day Classes | **Self-Directed/Teacher Led** <br> Evening Classes  
 
-| ***Physics is available online only <br><br> **Self-directed** study: Work at your own pace through the materials with an Instructor available in class to  support you. Students can start anytime as part of our continuous intake. <br><br> **Teacher-led** options: An Instructor teaches the class with all students starting and ending at the same time.  Teacher-led classes are 15 weeks in length and students must attend all classes.
+| **Self-directed** study: Work at your own pace through the materials with an Instructor available in class to  support you. Students can start anytime as part of our continuous intake. <br><br> **Teacher-led** options: An Instructor teaches the class with all students starting and ending at the same time.  Teacher-led classes are 15 weeks in length and students must attend all classes.
 | ---
   
 #### Ask For:  
@@ -160,13 +158,13 @@ flexible hours
 #### Who:  
 Adults (19+ years)  
 #### When:  
-Monday ‒ Thursday, day and evening classes available  
+Monday ‒ Friday, day and evening classes available  
   
 Remote learning is also possible  
 #### Where:  
 Guelph—1428 Gordon Street  
 Wellington Centre for Continuing Education  
-Classes available in several locations throughout Guelph  
+Classes available in the south end, downtown and remotely throughout Guelph  
 #### Ask For:  
 Skills Upgrading Program  
 (519) 836-7280 ext. 624  
@@ -241,13 +239,13 @@ Waterloo—151 Weber Street South
 (South of Union Street)  
   
 ##### Evening Sessions:  
-Please contact ESU at (519) 885-4356 ext. 223 for more information
+Please contact ESU at (519) 885-4356 ext. 5223 for more information
   
 \* Transportation subsidy is possible  
 #### Ask For:  
 Cambridge—(519) 740-3800  
   
-Kitchener and Waterloo—(519) 885-4356 ext. 223  
+Kitchener and Waterloo—(519) 885-4356 ext. 5223  
   
 Contact ESU using the online Contact Form (https://schools.wrdsb.ca/esu/)  
 </details>  
@@ -278,7 +276,8 @@ Monday and Wednesday evenings from 4:00pm‒5:30pm, Friday mornings from 9:00am�
 #### Where:  
 Waterloo—151 Weber Street South (South of Union)  
 #### Ask For:  
-Barb Williacy—(519) 885-4356 ext. 224  
+Barb Williacy—(519) 885-4356 ext. 5224  
+ESU  Assessor—(519) 885-4356 ext. 5223  
   
 Contact ESU using the online Contact Form (https://schools.wrdsb.ca/esu/)  
 </details>  
@@ -334,7 +333,7 @@ Modular programs – short term programming to support learners either working, 
   
 All programs are also now available online. Contact us for more information.  
 #### Who:  
-Adults (19+ years)  
+Adults (18+ years)  
 #### When:  
 ##### Cambridge  
 Monday and Wednesday at 9:00am‒9:00pm  
@@ -354,12 +353,8 @@ Kitchener—300 Victoria Street North, Unit 8
   
 Phone for full site information  
 #### Ask For:  
-Cambridge  
-Marilena Benak—(519) 621-7993 ext. 322  
-  
-Kitchener and Rural  
-Joyce Baker—(519) 743-6090 ext. 223  
-  
+Any staff member will be able to assist.  
+Upgrading programs—(519) 743-6090  
 Email: info@tlgwr.ca  
 </details>  
   
@@ -381,15 +376,15 @@ The Literacy Group provides customized modular based training for clients lookin
   
 All programs are also now offered online. Contact us for more information.  
 #### Who:  
-Adults (19+ years)  
+Adults (18+ years)  
 #### When:  
 Continual intake  
 #### Where:  
 Kitchener and Cambridge offices. Programs can run in a satellite location and are flexible to meet the needs of the learner.  
 #### Ask For:  
-Lisa McArthur—Program Manager  
-lisa@theliteracygroup.com  
-(519) 743-6090  
+Laurie Mazur—Modular Program Coordinator  
+laurie@theliteracygroup.com  
+(519) 743-6090 ext. 325  
 </details>  
   
 * * * * *  
@@ -424,6 +419,7 @@ Adults (18+ years)
 Assessments by appointment, please call or email  
 #### Where:  
 ##### Cambridge, Kitchener and Waterloo  
+Online Assessments  
 Employment Resource Centres  
 #### Ask For:  
 Assessment information  
@@ -448,13 +444,13 @@ https://stlouis.wcdsb.ca
 #### What:  
 - Guidance Services is the first step to registering for ANY secondary school credit course for upgrading, post-secondary pre-requisites or completing high school diploma (OSSD)  
 - Up to 60 Secondary school credit courses available for various grade levels  
-- Day class instruction for Grades 10‒12 (part-time or full-time) offered through at-home learning during dedicated class times  
+- Day class instruction for Grades 10‒12 (part-time or full-time) offered through in-person OR at-home learning during dedicated class times  
 - Correspondence, online, earn credits on your own schedule (20 lessons total at 2 lessons per week)  
-- Prior Learning Assessment & Recognition (PLAR) for mature students to earn secondary school credits based on previous work and life experience. Earn up to 26 credits through meetings with Guidance  
-- Credits@Work—earn co-op credits while working (+20 hour online or handout component). Every hour worked counts toward each hour needed to complete a credit. Each credit is 90-110 hours  
-- No Student Services Fee is charged, Correspondence requires a $60 fee per course  
+- Prior Learning Assessment & Recognition (PLAR) for mature students to earn secondary school credits based on previous work and life experience. Earn up to 26 credits through meetings and short tests with Guidance  
+- Credits@Work—earn co-op credits while working (+20 hour online or handout component). Every hour worked counts toward each hour needed to complete a credit. First credit is 90 hours + 20 hours to complete Student Co-op Learning Plan. Each credit afterward is 110 hours.  
+- No Student Services Fee is charged, Correspondence requires a $60 fee per course.  
   
-`If schools must close due to public health orders, Secondary School Credit options and Guidance Services will continue to be offered remotely through at-home learning with instructor support. Access to a personal computer is required and will not be provided.`
+`If schools must close due to public health orders, Secondary School Credit options and Guidance Services will be offered remotely through at-home learning with instructor support.  Access to a personal computer is required and will not be provided.`
 
 #### Who:  
 - Adults (18+ years)  
@@ -462,22 +458,24 @@ https://stlouis.wcdsb.ca
 
 #### When:  
   
-##### Guidance Services
-`Remote contact only during COVID-19 closures. No in-person visits`  
+##### Guidance Services:
+- Complete online Guidance Intake Form to arrange Guidance Services  
 - September ‒ June  
-- Monday ‒ Thursday, 8:00am‒3:30pm, closed Friday for PLAR assessments  
+- Monday ‒ Thursday 8:30am‒12:30pm and 12:30pm‒4:00pm  
+- Tuesday and Wednesday 5:30pm‒7:30pm  
+- Closed Friday for PLAR assessments  
   
-##### Day class instruction  
+##### Day class instruction:  
 - Kitchener Main Campus only  
 - September ‒ June  
-- 5 terms a year (7 week terms), plus Summer School class in July  
-- Monday ‒ Friday, 8:45am‒11:45am, 12:30pm‒3:30pm  
+- 5 terms a year (7-week terms), plus Summer School class in July  
+- Monday ‒ Friday, 8:45am‒11:45am and/or 12:30pm‒3:30pm  
   
 ##### Correspondence / Self-Directed Study:  
 - Kitchener Main  
 - Monday ‒ Thursday (no Fridays)  
   
-Registration and remote 1 to 1 tutor information may be found on https://stlouis.wcdsb.ca  
+Registration and remote 1 to 1 tutor booking information may be found on https://stlouis.wcdsb.ca  
   
 ##### Prior Learning and Recognition (PLAR):  
 Continuous registration and ongoing programming. PLAR testing on Fridays.  
@@ -485,25 +483,23 @@ Continuous registration and ongoing programming. PLAR testing on Fridays.
 ##### Credits@Work:  
 - Continuous registration and ongoing programming  
 - Program runs 20 hours online and remainder of time at place of employment  
+
+##### Summer School:
+- July 4 ‒ 29, 2022
+- Monday ‒  Friday at 8:30am‒3:00pm (online or remote)
   
 ##### Registration:  
-- Must complete online Guidance Intake Form (Monday ‒ Thursday) to enroll. Transcript or credit counselling summary from last high school required. 
-- Day classes have designated public registration days (see website for details).  
+- Must complete online Guidance Intake Form (Monday ‒ Thursday) to enroll. Transcript or credit counselling summary from last high school required.  
+- Day classes have designated public registration days (see website for details).   
 - Secondary School Credit Day Class registration is generally 3 weeks before the start of each term. New term every 2 months.  
+- Summer School registration begins in March  
 #### Where:  
 ##### St. Louis—Kitchener Main Campus  
 80 Young Street (behind Kitchener City Hall)  
   
-##### St. Louis—Cambridge satellite location  
-On hold during COVID-19 restrictions  
 #### Ask For:  
-Email: stlouis@wcdsb.ca or  
-  
-Guidance Department  
-(519) 745-1201 ext. 237  
-  
-Correspondence Department  
-(519) 745-1201 ext. 217  
+Email: stlouis@wcdsb.ca  
+or Complete Guidance Intake Form  
 </details>  
   
 * * * * *  
@@ -521,20 +517,27 @@ https://stlouis.wcdsb.ca
 </summary>  
   
 #### What:  
-- Core Essentials is a free, *in-person program that offers a comfortable classroom environment, flexible daytime hours for study, instruction tailored to your goals  
-- Prepare for Secondary School Credit courses including English and Math  
-- Prepare for Maturity Credits and School-to-Work Training  
+- Core Essentials is a free program that offers a comfortable classroom environment (in-person or at-home), flexible daytime hours for study, instruction tailored to your goals  
+- Prepare for Secondary School Credit courses including English and Math, employment or volunteer work  
+- Math Essentials offered 2 days per week
+- Prepare for Prior Learning Assessment and Recognition (PLAR) and School-to-Work Training  
 - Learn how to learn again ‒ as an adult; Build confidence in reading, writing and math skills  
 - *E-learning options and other technology as an educational tool (if you choose)  
-- Free bus tickets and assistance for child care costs for eligible students  
+- Free bus tickets and limited assistance for child care costs for eligible students  
 `If schools must close due to public health orders, Core Essentials will continue to be offered through at-home learning with instructor support. Access to a personal computer is an asset.`  
 #### Who:  
 Adults (19+ years)  
 #### When:  
-##### September ‒ June:  
+##### Core Essentials:
+- September ‒ June  
 - Monday ‒ Thursday, plus Fridays in Kitchener  
 - Full-time and part-time  
 - 8:45am‒11:45am, 12:30pm‒3:00pm  
+  
+##### Math Essentials:
+- Tuesday and Friday  
+- 8:45am‒11:45am, 12:30pm‒3:00pm  
+
 #### Where:  
 ##### St. Louis—Kitchener Main Campus  
 80 Young Street (behind Kitchener City Hall)  
@@ -562,11 +565,11 @@ https://stlouis.wcdsb.ca
 </summary>  
   
 #### What:  
-- Personal Support Worker Certificate Program (PSW) full-time and part-time programs (Kitchener & Cambridge)  
-- Culinary Arts Training Program (Kitchener only)  
-- Hairstyling & Barber Training Program (Kitchener only)  
-- All programs offer in-class instruction, experiential hands-on learning, secondary school elective credits and have minimum 220-hour work placements (315 hours for PSW) 
-- Tuition is paid by Ministry of Education funding, additional materials fees apply ($1,300/yr) \*Fees subject to change\*  
+- Personal Support Worker Certificate Program (PSW) full-time and part-time programs (Kitchener & Cambridge)
+- Culinary Arts Training Program (Kitchener only)
+- Hairstyling & Barber Training Program (Kitchener only)
+- All programs offer in-class instruction, experiential hands-on learning, secondary school elective credits and have minimum 220-hour work placements
+- Tuition is paid by Ministry of Education funding, additional materials fees may apply ($1,300/yr) \*Fees subject to change\* Materials fee waived for PSW until at least March 2022  
   
 `If schools must close due to public health orders, Core Essentials will continue to be offered through at-home learning with instructor support. Access to a personal computer is an asset.`  
   
@@ -588,18 +591,15 @@ St. Louis—Fairview Seniors Community
 ###### Culinary Arts (Level I & II Cook Certificate)  
 **Full-time**, Monday ‒ Thursday, 8:30am‒3:00pm  
 Placement times vary  
-- ***February 1, 2021*** ‒ May 20, 2021 (Level I in-class, no classes March Break or June to August 2021) / September 2021 – December 2021 (Level II class begins / Co-op placements in January – March 2022)  
-- ***September 2021*** ‒ May 2022 (Level I & II in-class / no classes Holiday or March Break Co-op placements in June & July 2022)  
+- ***January 17, 2022*** ‒ March 2023 (Level I in-class, no classes March Break or June to August 2022) / September 2022 – December 2022 (Level II class begins / Co-op placements in January – March 2022)  
+- ***September 2022*** ‒ July 2023 (Level I & II in-class / no classes Holiday or March Break Co-op placements in June & July 2023)  
   
 ###### Hairstyling & Barbering  
 **Full-time**, Monday ‒ Friday, 8:45am-3:30pm  
 Placement times vary  
-- ***January 4, 2021*** ‒ June 25, 2021 (Level I  
-& II in-class / no classes March Break / Co-op placements July & August 2021)  
-- ***April 6, 2021*** ‒ November 2021 (Level I  
-& II in-class / no classes July & August 2021 / Co-op placements in December 2021 & January 2022)  
-- ***December 2021*** ‒ May 2022 (Level I & II  
-in-class / no classes Holiday or March Break / Co-op placement June & July 2022)  
+- ***January 6, 2022*** ‒ August 16, 2022 (Level I & II in-class / no classes March Break / Co-op placements July & August 2022)  
+- ***April 4, 2022*** ‒ February 2023 (Level I & II in-class / no classes July & August 2022 / Co-op placements in December 2022 & February 2023)  
+- ***September 2022*** ‒ July 2023 (Level I & II in-class / no classes Holiday or March Break 2023 / Co-op placement June & July 2023)  
   
 ###### PSW  
 **Full-time Day**, Monday ‒ Friday, 8:45am‒3:30pm  
@@ -609,8 +609,8 @@ in-class / no classes Holiday or March Break / Co-op placement June & July 2022)
 **Part-time Evening**, Tuesday ‒ Thursday & one Monday per month, 4:30pm‒10:00pm  
   
 Placement times vary  
-- ***February 24, 2021*** ‒ November 2021 in class (no class July ‒ August 2021)  
-- ***September 2020*** ‒ April 2021 in class (no classes Holiday or March Break)  
+- ***February 22, 2022*** ‒ November 2022 in-class (no class July ‒ August 2022)  
+- ***September 2022*** ‒ April 2023 in-class (no classes Holiday or March Break)  
 - PSW offers part-time day and evening program options at satellite locations  
 - No classes or placements in July & August, work placement days and times may vary
   
@@ -708,7 +708,7 @@ Monday ‒ Thursday at 9:00am‒4:30pm Friday at 9:00am‒12:00pm
 Elizabeth Debergh—Executive Director  
 Pat Belding—Adult Co-ordinator  
 Laurie Few—Youth Co-ordinator  
-Gillian Keays—Circles Coach / Adult Literacy Instructor  
+Jessica McClennan—Circles Coach / Adult Literacy Instructor  
   
 (519) 848-3462 or literacy@thewclc.ca  
 </details>

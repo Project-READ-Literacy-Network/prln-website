@@ -36,11 +36,11 @@ Monday ‒ Friday at 9:00am‒4:30pm
   
 ##### Guelph  
 Norfolk Location  
-Monday ‒ Friday at 8:30am‒4:30pm  
+Monday ‒ Friday at 8:30am‒4:00pm  
   
 ##### Youth Resource Centre, Stone Road Mall  
 Monday ‒ Closed  
-Tuesday, Thursday & Friday at 9:00am‒4:30pm  
+Tuesday, Thursday & Friday at 9:00am‒4:00pm  
 Wednesday at 12:00pm‒7:00pm  
 #### Where:  
 ##### Fergus  
@@ -70,13 +70,13 @@ www.2ndchance.ca
 </summary>  
   
 #### What:  
-Group-based employability skills program  
+Group-based employability skills and work placement program  
 #### Who:  
 Youth up to the age of 30  
 #### When:  
 Monday ‒ Friday at 8:30am‒4:30pm  
 #### Where:  
-**Guelph**—177 Norfolk Street  
+**Guelph and Wellington County**  
 #### Ask For:  
 (519) 823-2440  
 </details>  
@@ -117,14 +117,9 @@ Agilec can successfully address your recruitment and staff training needs. Here 
 #### Who:  
 All are welcome  
 #### When:  
-##### Fergus and Mount Forest  
+##### All Locations:  
 Monday ‒ Friday at 8:30am‒4:30pm  
-Wednesday at 8:30am‒7:00pm  
   
-##### Kitchener  
-Monday ‒ Friday at 8:30am‒4:30pm  
-Wednesday at 8:30am‒7:00pm  
-Saturday at 9:00am‒12:00pm  
 #### Where:  
 ##### Fergus  
 370 Andrew Street West, Unit 2  
@@ -156,59 +151,6 @@ mtforest@agilec.ca
 <details>  
 <summary>  
   
-## Cambridge Career Connections  
-## A division of John Howard Society of Waterloo–Wellington  
-## *Employment Ontario* service provider  
-→CAMBRIDGE, NORTH DUMFRIES  
-  
-www.cambridgecareerconnections.com  
-  
-</summary>  
-  
-#### What:  
-A variety of employment services at no cost to the job seeker or to employers.  
-  
-##### For Job Seekers:  
-- Employment Services: Employment counselling and connections to employers  
-- Second Career funding information and application assistance  
-- Access by appointment to fully equipped accessible resource room  
-- 1 to 1 employment assistance with resumes and job search  
-- Access to on-line job postings and job fairs  
-- Youth Job Connection Program for youth 15–29 requiring additional assistance  
-- Youth Job Connection Summer Program for students 15–18 who are returning to school  
-- Variety of employment readiness workshops  
-  
-##### For Employers:  
-- Job matching and job retention supports  
-- On-line job postings and job fairs  
-- Employment incentives and supports for employment placements  
-- Canada Ontario Job Grant for employee training and other training supports Please call for more details on any of our programs or services  
-#### Who:  
-All ages are welcome  
-#### When:  
-Please call first to book an appointment Monday ‒ Friday at 8:30am‒4:30pm, Wednesday at 8:30am‒6:00pm  
-#### Where:  
-Virtual and prescheduled in-person services provided according to public health guidelines.  
-  
-##### Cambridge  
-40 Ainslie Street South  
-(across the street from the bus terminal)  
-  
-Lang’s Youth Wellness Hub  
-1145 Concession Road  
-  
-##### Ayr  
-Variety of community settings  
-#### Ask For:  
-(519) 622-0815 ext. 223  
-cambridgecareerconnections@gmail.com  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
 ## Canadian Council on Rehabilitation and Work (CCRW)  
 ## Partners Program  
 →KITCHENER  
@@ -233,14 +175,12 @@ Monday ‒ Friday at 8:30am‒4:30pm
 #### Where:  
 **Kitchener**—127 Victoria Street South, Suite 201  
 #### Ask For:  
+Jennie Di Girolamo—Employment Facilitator  
+(519) 571-6788 ext. 7661  
+  
 Melissa Silva—Job Developer  
 (519) 571-6788 ext. 7481  
-  
-Danielle Shantz—Job Developer  
-(519) 571-6788 ext. 7475  
-  
-Kathleen MacLeod—Employment Facilitator  
-(519) 571-6788 ext. 7661  
+
 </details>  
   
 * * * * *  
@@ -288,7 +228,7 @@ TTY—1 (866) 387-6661
 <details>  
 <summary>  
   
-## Conestoga College  
+## Conestoga College with Career Centre 
 ## *Employment Ontario* funded programs including: Employment Services, Youth Job Connection, Youth Job Connection Summer & Canada Ontario Job Grant  
 →ELMIRA, KITCHENER, NEW HAMBURG, WATERLOO, WELLESLEY  
 
@@ -297,14 +237,15 @@ www.conestogac.on.ca/career-centre
 </summary>  
   
 #### What:  
-Services are available to anyone seeking employment, career planning support, and training opportunities. Experienced staff are able to open doors to help find the right fit for employment and training. Let’s get to work!  
+Services are available to anyone seeking employment, career planning support, and training opportunities. Experienced staff are able to open doors to help find the right fit for employment and training. Let’s get to work! Appointments are available virtually and in person at the Centres.  Please inquire about the availability of in-person appointments.  
 > The staff are very supportive of your goals and help you find the best possible way to achieve those goals, short-term and long-term. I would highly recommend the Conestoga Career Centre to anyone who is in need of Career help.  
 >  
 > – A successful job seeker, Jess  
   
 *Employment Ontario* funded programs including: Employment Services, Youth Job Connection, Youth Job Connection Summer & Canada Ontario Job Grant  
-- Connections to Employers with employer showcases  
+- Connections to Employers with monthly employer showcases  
 - Individualized Job Search and Resume Assistance  
+- Resource Centre and Virtual Job Board (MyCareer)  
 - Workplace Certifications relevant to today’s labour market  
 - Second Career Funding Information & Application Support  
 - Financial Incentives may be available for eligible employers and Job Seekers  
@@ -328,15 +269,15 @@ Thursday at 8:30am‒6:00pm
 ##### Waterloo  
 Monday ‒ Friday at 8:30am‒4:30pm  
 #### Where:  
-Note: all services are available virtually, connect with us at waterloocareercentre@conestogac.on.ca or to get more information complete an inquiry form at www.conestogac.on.ca/career-centre  
-  
 ##### Kitchener/Doon Campus  
 Conestoga Career Centre, Welcome Centre  
 299 Doon Valley Drive – FREE Parking  
 \* Services in New Hamburg, Elmira and Wellesley, call for details  
   
-##### Waterloo Campus  
-108 University Avenue East – FREE Parking available  
+##### Waterloo  
+332 Marsland Drive, 2nd floor  
+Free Parking available on site  
+  
 #### Ask For:  
 ##### Kitchener/Doon Career Centre  
 (519) 748-3535 or 1 (877) 748-3535  
@@ -345,9 +286,9 @@ Conestoga Career Centre, Welcome Centre
 (519) 885-0300 ext. 5226  
 waterloocareercentre@conestogac.on.ca  
   
-Contact Person:  
-Bailey Binns—Career Centre Staff  
-(519) 885-0300 ext. 5226  
+Contact Career Centre Staff  
+(519) 885-0300 ext. 5226
+Or to receive more information complete an online inquiry form at www.conestogac.on.ca/career-centre
 </details>  
   
 * * * * *  
@@ -381,8 +322,7 @@ Jenn Delhorbe—Supervisor
 Community and Employment Supports  
 (519) 744-6307 ext. 1214  
   
-Stacey Mitchell—Supervisor  
-KW Career Compass  
+Stacey Mitchell—Manager, Community and Employment Supports  
 (519) 744-6307 ext. 1252  
 </details>  
   
@@ -466,6 +406,40 @@ Speak to our resource centre staff to determine the employment services program 
 **Guelph**—(519) 822-4141  
   
 **Kitchener**—(519) 743-2460  
+</details>
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## Lutherwood  
+## Getting Ahead in the Workplace  
+→CAMBRIDGE, GUELPH, KITCHENER, RURAL WATERLOO, RURAL WELLINGTON, WATERLOO  
+  
+www.lutherwood.ca/employment  
+  
+</summary>  
+  
+#### What:
+- 1 to 1 and group-based learning for youth who want to work but don’t know where to start  
+- Ideal for those who need to stabilize housing situation, want to build successful mental wellness strategies and/or need to overcome barriers to employment  
+- Identify your strengths, resources and develop and follow a new future story plan  
+- Learn about the “hidden rules” and communication skills needed to get ahead in the workplace  
+- Placements and interviews with local youth friendly organizations  
+#### Who:	
+15-30 years of age (inclusive)  
+#### When:	
+Monday ‒ Friday at 8:30am‒4:30pm  
+Tuesday at 8:30am‒7:00pm  
+#### Where:  
+**Kitchener**—165 King Street East  
+#### Ask For:  
+Speak to our resource centre staff to determine the employment services program that would best meet your needs.
+  
+**Cambridge**—(519) 623-9380  
+**Guelph**—(519) 822-4141  
+**Kitchener**—(519) 743-2460  
 </details>  
   
 * * * * *  
@@ -474,7 +448,7 @@ Speak to our resource centre staff to determine the employment services program 
 <summary>  
   
 ## Lutherwood  
-## Job Search Workshop (JSW)  
+## Newcomer Career Support  
 →GUELPH  
   
 www.lutherwood.ca/employment  
@@ -482,6 +456,7 @@ www.lutherwood.ca/employment
 </summary>  
   
 #### What:  
+- Job Search Workshops for Newcomers and Mentorship  
 - Information for immigrants about their occupational field in Canada  
 - Targeted resumes and cover letters, self-marketing and other job search tips  
 - Learn the benefits of networking  
@@ -492,43 +467,13 @@ www.lutherwood.ca/employment
 Newcomers (Permanent Residents, Convection Refugees, Protected Persons, Live In Caregivers) and live in Guelph Wellington County  
 #### When:  
 Monday ‒ Friday at 8:30am‒4:30pm  
+Tuesday at 8:30am‒7:00pm  
 #### Where:  
-**Guelph**—89 Wyndham Street North  
+**Guelph**—89 Wyndham Street North, 3rd Floor  
 #### Ask For:  
 Speak to our resource centre staff to determine the employment services program that would best meet your needs.  
   
 **Guelph**—(519) 822-4141  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## March of Dimes  
-## Employment Services  
-→CAMBRIDGE, GUELPH, KITCHENER, RURAL WATERLOO, WELLINGTON REGION, WATERLOO  
-  
-https://www.marchofdimes.ca  
-  
-</summary>  
-  
-#### What:  
-- Job placement and employer incentives  
-- Job exploration, skills assessments, interview preparation  
-- Resume building, job search assistance, workshops and 1 to 1 career counselling  
-- Individualized employment action plans  
-- On the job support  
-#### Who:  
-Adults and Youth (16+ years) with any disability  
-#### When:  
-Monday ‒ Friday at 8:30am‒4:30pm  
-#### Where:  
-**Kitchener**—236 Victoria Street North,  
-Unit 1B  
-#### Ask For:  
-Erin Rigelhof—Office Admin  
-(519) 579-5530 ext. 221  
 </details>  
   
 * * * * *  
@@ -605,20 +550,22 @@ crystal@npaamb.com
 ## *Employment Ontario* (EO) Programs  
 →CAMBRIDGE, KITCHENER, WATERLOO  
   
-www.regionofwaterloo.ca/en/living-here/employment-support.aspx  
+www.regionofwaterloo.ca  
   
 </summary>  
   
 #### What:  
 - *Employment Ontario* Service Provider  
-- Help with resumes, interviews, job searching, accessing training and completing Second Career applications  
+- Help with resumes, interviews, job searching and accessing training  
 - 1 to 1 support from an Employment Facilitator  
 - Access to Job Development Services  
 #### Who:  
-All services are open to adults looking for help finding a job, exploring careers and applying for Second Career funding  
+All services are open to adults  
 #### When:  
 Employment Services  
 Monday ‒ Friday at 8:30am‒4:30pm  
+  
+Available in office, over the phone and using ZOOM  
   
 Resources are also available on our website at https://www.regionofwaterloo.ca/en/living-here/employment-support.aspx  
 #### Where:  
@@ -628,7 +575,6 @@ Resources are also available on our website at https://www.regionofwaterloo.ca/e
   
 **Waterloo**—99 Regina Street South  
   
-Services are available in office, over the phone and using ZOOM  
 #### Ask For:  
 Employment Services  
 (519) 575-4400 ext. 5656  
@@ -685,7 +631,7 @@ Anyone at the front desk
 <summary>  
   
 ## YMCA of Three Rivers  
-## YMCA Employment Services  
+## Employment Services  
 →CAMBRIDGE, KITCHENER  
   
 www.ymcaemploymentservices.ca  
@@ -693,6 +639,7 @@ www.ymcaemploymentservices.ca
 </summary>  
   
 #### What:  
+##### Employment Services (ES), Youth Job Connection (YJC), Youth Job Connection Summer (YJCS), Canada Ontario Job Grant (COJG)  
 - Career exploration, 1 to 1 support  
 - Job search assistance, workshops  
 - Second Career information  
@@ -708,17 +655,21 @@ www.ymcaemploymentservices.ca
 - Recruiting, hiring and retention resources  
 - Canada Ontario Job Grant ‒ funding for on the job training  
 #### Who:  
-All are welcome  
+All are welcome. (15+ years)  
 \*** Cambridge office provides services in French  
 #### When:  
 Monday ‒ Thursday at 8:30am‒4:30pm Friday at 8:30am‒12:00pm  
 #### Where:  
 **Cambridge**—250 Hespeler Road, 2nd Floor  
   
-**Kitchener**—800 King Street West, 3rd Floor  
+**Kitchener**—800 King Street West  
 #### Ask For:  
 **Cambridge**—(519) 621-1621 ext. 6203  
   
-**Kitchener**—(519) 579-9622 ext. 244 or 241  
+**Kitchener**—(519) 579-9622 ext. 6147  
+  
+Lil-Marie Myers—ES General Manager  
+(519) 579-9622 ext. 6144  
+or Cell: (519) 570-6714  
 </details>  
 

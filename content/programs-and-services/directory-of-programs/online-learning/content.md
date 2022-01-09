@@ -107,8 +107,8 @@ www.learninghub.ca
   
 #### What:  
 Online upgrading and preparation for:  
-- Employment/Promotions  
-- Entry into Postsecondary Education, ACE  
+- Employment and soft skills  
+- Entry into Postsecondary Education, ACE or apprenticeship  
 - Secondary School credit courses or  
 - Grade 12 Equivalency test (GED)  
 - Apprenticeships  

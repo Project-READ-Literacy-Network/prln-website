@@ -24,6 +24,8 @@ www.actionread.com
 - Free, high quality, welcoming early literacy and numeracy skills-building program  
 - Themed early learning games, songs, story-time, rhymes, word play, puzzles and crafts  
 - Early literacy activities, strategies and resources for adult participants to try with kids at home  
+- ‘Rainbow Connections’ early learning kits to borrow bi-weekly  
+- YouTube Family Literacy Circle Videos at https://www.youtube.com/channel/UCOUKGp4IuST0cgwhmmE6FMg/videos  
 - Great place to make friends and meet neighbours  
 - Helps young children make successful transitions to school and to lifelong learning  
 #### Who:  
@@ -50,17 +52,17 @@ www.getsetlearn.ca
 </summary>  
   
 #### What:  
-Fun, free program for parents and children (0‒6 years) at home or in school  
+Fun, free program for parents and children (0‒4 years) at home or in school  
 - Free snacks, bus tickets and books  
 - Parent learning time included  
 - Have fun with books and songs  
 - Learn activities to help your child in school  
 #### Who:  
-Parents with or without their children (0‒6 years)  
+Parents with or without their children (0‒4 years)  
 #### When:  
-##### Fall and Spring  
-8 weeks (2 hours, twice a week)  
-Days vary depending on site  
+- Spring, Winter, Summer, Fall - call for start dates    
+- 8 weeks (2 hours, twice a week)  
+- Days vary depending on site  
 #### Where:  
 Locations in Waterloo Region / online  
 (call or email for details)  
