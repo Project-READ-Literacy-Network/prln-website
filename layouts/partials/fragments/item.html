@@ -84,10 +84,14 @@
                 <a class="btn btn-lg m-2 d-none d-lg-inline
                   {{ if hasPrefix .url "#" }} anchor{{ end }}
                   {{- $color := .color | default "primary" -}}
-                  {{- printf " btn-%s" $color -}}
-                " href="{{ .url | relLangURL }}">
-                  {{- .text -}}
-                </a>
+                    {{- printf " btn-%s " $color -}}
+                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
+                    download="{{ .download_file }}"{{- end -}}>
+                    {{- if .icon -}}
+                    <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
+                    {{- end -}}
+                    {{ .text }}
+                  </a>
               {{- end -}}
             {{- end -}}
             {{- if .Params.post }}
@@ -129,10 +133,14 @@
             <a class="btn btn-lg m-2 ml-lg-0 
               {{ if hasPrefix .url "#" }} anchor{{ end }}
               {{- $color := .color | default "primary" -}}
-              {{- printf " btn-%s" $color -}}
-            " href="{{ .url | relLangURL }}">
-              {{- .text -}}
-            </a>
+                    {{- printf " btn-%s " $color -}}
+                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
+                    download="{{ .download_file }}"{{- end -}}>
+                    {{- if .icon -}}
+                    <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
+                    {{- end -}}
+                    {{ .text }}
+                  </a>
           {{- end }}
         </div>
       {{- end -}}
@@ -198,10 +206,14 @@
                 <a class="btn btn-lg m-2
                   {{ if hasPrefix .url "#" }} anchor{{ end }}
                   {{- $color := .color | default "primary" -}}
-                  {{- printf " btn-%s" $color -}}
-                " href="{{ .url | relLangURL }}">
-                  {{- .text -}}
-                </a>
+                    {{- printf " btn-%s " $color -}}
+                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
+                    download="{{ .download_file }}"{{- end -}}>
+                    {{- if .icon -}}
+                    <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
+                    {{- end -}}
+                    {{ .text }}
+                  </a>
                 {{- end }}
             </div>
           {{- end -}}

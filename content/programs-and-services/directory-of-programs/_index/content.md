@@ -7,6 +7,13 @@ title_align = "left"
 [sidebar]
   sticky = true
   
+[[buttons]]
+  text = "Download"
+  url = "/pdf/directory-2022.pdf"
+  icon = "far fa-file-pdf"
+  color= "light"
+  download_file = "directory-2022.pdf"
+  
 [[logos]]
   url = "http://www.actionread.com/"
   src = "/images/logos/ar-logo.png"

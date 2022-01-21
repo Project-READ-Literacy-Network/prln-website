@@ -192,7 +192,7 @@ Melissa Silva—Job Developer
 ## Bridging Employment Supports and Links to Work  
 →CAMBRIDGE, GUELPH, KITCHENER, RURAL WATERLOO, RURAL WELLINGTON, WATERLOO  
   
-www.cmhaww.ca  
+[www.cmhaww.ca](https://cmhaww.ca/programs-services/employment-services/)  
   
 </summary>  
   

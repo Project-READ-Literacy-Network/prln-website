@@ -5,7 +5,8 @@
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
   <div class="row">
       
-      <div class="col-12 px-md-0 pb-5">
+      <div class="col-7 col-md-9 px-md-0 pb-5">
+
           <a href="{{ "/programs-and-services/directory-of-programs" | relLangURL }}">
       {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
       {{- if or .Params.categories -}}
@@ -17,6 +18,26 @@
       {{- end }}
           </a>
       </div>
+          <div class="col-5 col-md-3 px-4 px-sm-0 text-right">
+        
+            
+            {{- range .Params.buttons }}
+                <a class="btn btn-lg m-2 
+                  {{ if hasPrefix .url "#" }} anchor{{ end }}
+                  {{- $color := .color | default "primary" -}}
+                    {{- printf " btn-%s " $color -}}
+                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
+                    download="{{ .download_file }}"{{- end -}}>
+                    {{- if .icon -}}
+                    <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
+                    {{- end -}}
+                    {{ .text }}
+                  </a>
+              {{- end -}}  
+                
+            
+          
+    </div>
           
     {{- with .Params.sidebar -}}
       <div class="content-sidebar col-md-4 col-lg-3 mb-4 pr-md-3 px-md-0 scroll-spy {{- if (eq .align "right") }} order-1 {{- else }} order-0 {{- end -}}" id="directory-sbn">

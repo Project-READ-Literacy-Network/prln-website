@@ -20,7 +20,15 @@ title = "The Directory of Programs"
 [[buttons]]
   text = "Browse Directory"
   url = "/programs-and-services/directory-of-programs/"
-  color = "secondary"
+  color = "light"
+
+[[buttons]]
+  text = "Download"
+  url = "/pdf/directory-2022.pdf"
+  icon = "far fa-file-pdf"
+  color= "light"
+  download_file = "directory-2022.pdf"
+
 +++
 
 ##### [Literacy & Upgrading](/programs-and-services/directory-of-programs/literacy-and-upgrading/)
