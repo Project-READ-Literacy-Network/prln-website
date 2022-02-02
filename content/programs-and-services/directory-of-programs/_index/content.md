@@ -40,11 +40,6 @@ title_align = "left"
   text = "KW Habilitation"
   
 [[logos]]
-  url = "http://www.cambridgecareerconnections.com/"
-  src = "/images/logos/ccc-logo.png"
-  text = "logo"
-  
-[[logos]]
   url = "http://www.npaamb.com/"
   src = "/images/logos/npaamb-logo.png"
   text = "npaamb"
@@ -97,12 +92,7 @@ title_align = "left"
 [[logos]]
   url = "http://www.rwlibrary.ca/"
   src = "/images/logos/rowl-logo.png"
-  text = "logo"   
-  
-[[logos]]
-  url = "https://www.marchofdimes.ca/"
-  src = "/images/logos/modc_logo.svg"
-  text = "marchofdimes"   
+  text = "rowl"   
 
 [[logos]]
   url = "http://www.sefad.ca/"
