@@ -6,6 +6,11 @@ background = "light"
 title = "News and Events"
 title_align = "left" 
 
+[[buttons]]
+  text = "All Events"
+  url = "about/events-and-awards/"
+  color = "primary"
+
 [sidebar]
   align = "right"
   content = """

@@ -537,9 +537,15 @@ section#publications .portfolio-item {
 .modal-content {
     max-height: 100vh;
 }
+div.modal-content {
+    box-shadow: 2px 2px 6px rgba(170,26,39, 0.4);
+}
 .modal-dialog.md {
     min-height: 80vh !important;
     width: 80vw;
+}
+.modal-dialog {
+    box-shadow: none !important;
 }
 
 .modal .modal-background img {
@@ -1087,10 +1093,10 @@ section#contact .py-5 {
     background-color: rgba(0,0,0,0.7);
 }
 .portfolio-item .badge-container .badge {
-    background-color:rgba(0,0,0,0.5)
+    background-color:rgba(0,0,0,0.7)
 }
 .portfolio-item .description {
-    background-color:rgba(0,0,0,0.6);
+    background-color:rgba(0,0,0,0.7);
     transition:all 0.2s ease-in-out
 }
 .portfolio-image {
@@ -1125,7 +1131,7 @@ div.modal-background {
 }
 .portfolio-item:hover .hover-overlay {
 
-    background-color:rgba(0,0,0,0.6)
+    background-color:rgba(0,0,0,0.8)
 }
 /*****************************/
 /*                           */

@@ -41,6 +41,7 @@
         {{- end -}}
       </div>
       <article class="col-md-8 pt-3 pl-md-0 {{- with .Params.sidebar -}}{{- if (eq .align "left") }} pl-md-5  {{- else }} pl-md-0 pr-md-5 {{- end -}} {{- end -}}" id="content-has-sidebar">
+
     {{- else }}
       <article class="col-md-12 pl-0">
     {{- end }}
@@ -55,6 +56,21 @@
       ">
         {{- partial "helpers/slot.html" (dict "root" $ "slot" "before-content" "data" (dict "page" $.page "content_fragment" .self)) -}}
         {{- $content := $self.Content -}}
+                    {{- if .Params.buttons }}
+              {{- range .Params.buttons }}
+                <a class="btn btn-lg mb-4 
+                  {{ if hasPrefix .url "#" }} anchor{{ end }}
+                  {{- $color := .color | default "primary" -}}
+                    {{- printf " btn-%s " $color -}}
+                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
+                    download="{{ .download_file }}"{{- end -}}>
+                    {{- if .icon -}}
+                    <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
+                    {{- end -}}
+                    {{ .text }}
+                  </a>
+            {{- end }}
+              {{- end }}
         {{- $content := replace $content "<blockquote>" "<blockquote class=\"blockquote\">" -}}
         {{- $content | safeHTML -}}
         {{- partial "helpers/slot.html" (dict "root" $ "slot" "after-content" "data" (dict "page" $.page "content_fragment" .self)) -}}
