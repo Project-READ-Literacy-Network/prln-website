@@ -18,6 +18,11 @@ title = "Register Today"
   text = "Get Started"
   url = "https://training.projectread.ca"
   color = "outline-dark"
+  
+[[buttons]]
+  text = "Already Registered? Login Here"
+  url = "https://training.projectread.ca"
+  color = "outline-dark"
 
 +++
 
