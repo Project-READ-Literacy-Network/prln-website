@@ -3,7 +3,7 @@ fragment = "items-md"
 #disabled = false
 
 weight = 230
-background = "secondary"
+background = "light"
 
 title = "Our Supporters"
 #subtitle = ""
