@@ -117,11 +117,16 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
 
             <div class="col-lg-6 text-center text-lg-left">
 
-              {{- if .Params.asset -}}
-                <div class="content-image">
-                  <img src="{{ partial "helpers/image.html" (dict "root" . "asset" .Params.asset) }}" alt="{{ .Params.subtitle | default .Params.title }}" class="img-fluid mb-4">
-                </div>
-              {{- end -}}
+              
+                <div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE89PCT7GQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+              
 
 
             {{- if .self.Content -}}
