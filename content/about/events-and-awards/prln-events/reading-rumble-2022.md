@@ -1,7 +1,7 @@
 +++
 weight = 80
 title = "Reading Rumble 2022"
-subtitle = "Registration now open!"
+subtitle = "With your help we raised $9,990.00!"
 
 [asset]
   image = "reading-rumble-2022.png"
@@ -16,4 +16,4 @@ subtitle = "Registration now open!"
   
 +++
 
-Reading Rumble is a book trivia fundraising event for teams to have fun & compete for prizes - all while supporting literacy in Waterloo-Wellington! It is a fun and energizing social event for everyone!  Our 2022 book selections are Canadian Award winners "Fight Night" by Miriam Toews & "Dirty Birds" by Murray Morgan.  Register your team today (2 - 4 people) http://bit.ly/Rumble2022
+Reading Rumble is a book trivia fundraising event for teams to have fun & compete for prizes - all while supporting literacy in Waterloo-Wellington! It was a fun and energizing social event for everyone!  Our 2022 book selections were Canadian Award winners "Fight Night" by Miriam Toews & "Dirty Birds" by Murray Morgan. Thank You to all of our participants and donors for making this year's Reading Rumble a successful and exciting event for everyone!

@@ -1,6 +1,6 @@
 +++
 weight = 70
-title = "Reading Rumble"
+title = "Reading Rumble 2021"
 subtitle = "With your help we raised $7,205.00!"
 
 [asset]
