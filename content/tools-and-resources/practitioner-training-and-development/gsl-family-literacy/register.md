@@ -17,12 +17,12 @@ title = "Register Today"
 [[buttons]]
   text = "Get Started"
   url = "https://training.projectread.ca"
-  color = "outline-dark"
+  color = "info"
   
 [[buttons]]
   text = "Already Registered? Log in Here"
   url = "https://training.projectread.ca"
-  color = "outline-dark"
+  color = "secondary"
 
 +++
 
