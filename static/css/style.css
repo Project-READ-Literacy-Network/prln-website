@@ -1223,6 +1223,10 @@ section#funders a h4 {
     display: none;
 }
 
+section#publications a h6.publication-subtitle {
+    color: #212529;
+}
+
 
 section#content .content-body .toc {
     display: none;
