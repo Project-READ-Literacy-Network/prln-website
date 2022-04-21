@@ -5,7 +5,7 @@ title = "Get Set Learn: Everything You Need to Run a Family Literacy Program"
 
 [asset]
   image = "/publications/gsl-everything.png"
-  text = "Cover Art"
+  text = "Get Set Learn: Everything You Need to Run a Family Literacy Program"
 
 
 +++

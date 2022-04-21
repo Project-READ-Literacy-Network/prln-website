@@ -1,12 +1,11 @@
 +++
-weight = 90
 title = "Enhancing Pathways: The Literacy and Language Continuum"
 subtitle ="Phase 1 Report, 2010"
 free_download = "/pdf/EnhancingPathwaysReport.pdf"
 
 [asset]
   image = "/publications/enhancingPathways.png"
-  text = "Cover Art"
+  text = "Enhancing Pathways: The Literacy and Language Continuum Phase 1 Report, 2010"
 
 
 +++

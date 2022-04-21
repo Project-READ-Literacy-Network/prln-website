@@ -1,11 +1,10 @@
 +++
-weight = 120
 title = "Get Set Learn"
 subtitle ="A Case Study of a Family Literacy Program in Waterloo Region, 2006"
 
 [asset]
   image = "/publications/gslCaseStudy.png"
-  text = "Cover Art"
+  text = "Get Set Learn - A Case Study of a Family Literacy Program in Waterloo Region, 2006"
 
 
 +++

@@ -1,12 +1,11 @@
 +++
-weight = 20
 title = "A3 and The Employment Path"
 subtitle = "Learner’s Workbook"
 free_download = "/pdf/A3EmploymentPathLearnerWorkbook.pdf"
 
 [asset]
   image = "/publications/a3learner.jpg"
-  text = ""
+  text = "A3 and The Employment Path Learner’s Workbook"
 
 
 +++

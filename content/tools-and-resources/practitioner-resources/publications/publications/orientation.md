@@ -1,12 +1,11 @@
 +++
-weight = 190
 title = "Orientation to LBS"
 subtitle ="Almost Everything You Need to Know as a Practitioner Working in Literacy & Basic Skills (LBS) in Waterloo-Wellington (January 2014 Version)"
 #free_download = "/pdf/LBSOrientation.pdf"
 
 [asset]
   image = "/publications/lbsOrientation.png"
-  text = "Cover Art"
+  text = "Orientation to LBS Almost Everything You Need to Know as a Practitioner Working in Literacy & Basic Skills (LBS) in Waterloo-Wellington (January 2014 Version)"
 
 
 +++

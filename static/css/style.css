@@ -1064,6 +1064,11 @@ h4#talk-to-your-child-about-sex  {
     min-width:100%;
     min-height:100%
 }
+.fill-item img.portfolio-image.pub {
+    min-width:100%;
+    min-height: inherit;
+    object-fit: contain;
+}
 section#contact .py-5 {
     padding-bottom: 2rem !important;
 }

@@ -1,12 +1,11 @@
 +++
-weight = 250
 title = "Working Together, Working Well"
 subtitle ="2005"
 free_download = "/pdf/WorkingTogetherWorkingWell.pdf"
 
 [asset]
   image = "/publications/workingTogether.jpg"
-  text = "Cover Art"
+  text = "Working Together, Working Well 2005"
 
 
 +++

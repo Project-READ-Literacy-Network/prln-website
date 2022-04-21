@@ -1,12 +1,11 @@
 +++
-weight = 50
 title = "Adult Education Credentials"
 subtitle = "Comparison Brochure"
 free_download = "/pdf/AdultCredentialsBrochure2009.pdf"
 
 [asset]
   image = "/publications/adultCredentials.jpg"
-  text = ""
+  text = "Adult Education Credentials Comparison Brochure"
   
 
 +++

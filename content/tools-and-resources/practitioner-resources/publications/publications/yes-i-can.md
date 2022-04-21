@@ -1,12 +1,11 @@
 +++
-weight = 260
 title = "Yes I Can"
 subtitle ="A Mental Health Guide for Adult Literacy Facilitators"
 free_download = "/pdf/MentalHealthGuide2017.pdf"
 
 [asset]
   image = "/publications/mentalhealthguide.jpg"
-  text = "Cover Art"
+  text = "Yes I Can - A Mental Health Guide for Adult Literacy Facilitators"
 
 
 +++

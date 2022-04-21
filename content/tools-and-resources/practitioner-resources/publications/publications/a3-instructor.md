@@ -1,5 +1,4 @@
 +++
-weight = 10
 title = "A3 and The Employment Path"
 subtitle = "Instructor Manual"
 free_download = "/pdf/A3EmploymentPathInstructorWorkbook.pdf"

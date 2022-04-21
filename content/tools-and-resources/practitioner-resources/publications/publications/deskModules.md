@@ -1,12 +1,11 @@
 +++
-weight = 80
-title = "The Diabetes Essential Skills Kit D.E.S.K."
+title = "Diabetes Essential Skills Kit D.E.S.K."
 subtitle = "Learning Modules"
 free_download = "/pdf/DESK_modules.pdf"
 
 [asset]
   image = "/publications/deskModules.jpg"
-  text = ""
+  text = "Diabetes Essential Skills Kit D.E.S.K. Learning Modules"
 
 
 +++

@@ -5,7 +5,7 @@ title = "Get Set Learn After School Guide"
 
 [asset]
   image = "/publications/gsla.png"
-  text = "Cover Art"
+  text = "Get Set Learn After School Guide"
 
 
 +++

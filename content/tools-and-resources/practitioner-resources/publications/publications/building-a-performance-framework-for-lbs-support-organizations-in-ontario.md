@@ -1,12 +1,11 @@
 +++
-weight = 60
 title = "Building a Performance Framework for LBS Support Organizations"
 subtitle = "Ontario 2009 Edition"
 free_download = "/pdf/LBSPerformanceFramework.pdf"
 
 [asset]
   image = "/publications/performanceframework.png"
-  text = ""
+  text = "Building a Performance Framework for LBS Support Organizations Ontario 2009 Edition"
 
 
 +++

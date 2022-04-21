@@ -1,12 +1,11 @@
 +++
-weight = 230
 title = "Trading Up"
 subtitle ="Getting Ready for a Hairstyling or Electrical Apprenticeship Program,  2002"
 free_download = "/pdf/TradingUp.pdf"
 
 [asset]
   image = "/publications/tradingUp.jpg"
-  text = "Cover Art"
+  text = "Trading Up - Getting Ready for a Hairstyling or Electrical Apprenticeship Program, 2002"
 
 
 +++

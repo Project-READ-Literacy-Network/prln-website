@@ -1,12 +1,11 @@
 +++
-weight = 200
 title = "Planning Together"
 subtitle ="Literacy Service Planning Guide"
 free_download = "/pdf/PlanningTogether.pdf"
 
 [asset]
   image = "/publications/planningTogether.png"
-  text = "Cover Art"
+  text = "Planning Together Literacy Service Planning Guide"
 
 
 +++

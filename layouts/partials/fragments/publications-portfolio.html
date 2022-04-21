@@ -10,7 +10,7 @@
     {{- if eq (len $items) 0 }}
       {{- partial "helpers/empty-subpath.html" (dict "context" "portfolio" "root" $) -}}
     {{- else -}}
-      {{- range (sort $items ".Params.weight") }}
+      {{- range (sort $items ".Params.title") }}
         <div class="col-sm-6 col-md-4 col-lg-3 pt-3 pb-2 col-xl-2 px-5 px-sm-2">
           <div
             class="portfolio-item overflow-hidden 
@@ -29,7 +29,7 @@
              {{- with .Params.asset -}}
           {{- if .image -}}
                   <div class="rounded publication-image fill-item mx-auto">
-            <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image" alt="{{ .text }}">  
+            <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image pub" alt="{{ .text }}">  
           </div>
              {{- end }}   
                {{- end }}                      

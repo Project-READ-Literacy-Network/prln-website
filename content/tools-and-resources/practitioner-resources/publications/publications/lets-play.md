@@ -1,11 +1,10 @@
 +++
-weight = 180
 title = "Let’s Play Literacy!"
 subtitle ="1997"
 
 [asset]
   image = "/publications/letsPlay.png"
-  text = "Cover Art"
+  text = "Let’s Play Literacy! 1997"
 
 
 +++

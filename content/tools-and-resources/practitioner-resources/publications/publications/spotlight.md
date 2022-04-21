@@ -1,11 +1,10 @@
 +++
-weight = 220
 title = "Spotlight On Change"
 subtitle ="An Essential Skills Upgrading Program for Women Over 40 (English and French Versions, 2010)"
 
 [asset]
   image = "/publications/spotlight.jpg"
-  text = "Cover Art"
+  text = "Spotlight On Change - An Essential Skills Upgrading Program for Women Over 40 (English and French Versions, 2010)"
 
 
 +++

@@ -1,12 +1,12 @@
 +++
 weight = 70
-title = "The Diabetes Essential Skills Kit D.E.S.K."
+title = "Diabetes Essential Skills Kit D.E.S.K."
 subtitle = "Essential Skills Profiles"
 free_download = "/pdf/DESK_Profiles.pdf"
 
 [asset]
   image = "/publications/deskProfiles.jpg"
-  text = ""
+  text = "Diabetes Essential Skills Kit D.E.S.K. Essential Skills Profiles"
 
 
 +++

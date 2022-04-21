@@ -1,12 +1,11 @@
 +++
-weight = 150
 title = "I Just Need a Job Workshop"
 subtitle ="2014"
 free_download = "/pdf/I_Just_Need_a_Job.pptx"
 
 [asset]
   image = "/publications/iJustNeedAJob.jpg"
-  text = "Cover Art"
+  text = "I Just Need a Job Workshop"
 
 
 +++

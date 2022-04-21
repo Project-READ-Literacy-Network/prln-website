@@ -1,12 +1,11 @@
 +++
-weight = 40
 title = "Adding Value"
 subtitle = "Building a Performance Framework for LBS Support Organizations Phase 2"
 free_download = "/pdf/LBSPerformanceFramework-phase2.pdf"
 
 [asset]
   image = "/publications/performanceframeworkphase2.png"
-  text = ""
+  text = "Adding Value - Building a Performance Framework for LBS Support Organizations Phase 2"
 
 
 +++

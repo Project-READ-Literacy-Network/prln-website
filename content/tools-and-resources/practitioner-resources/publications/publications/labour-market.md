@@ -1,12 +1,11 @@
 +++
-weight = 160
 title = "Labour Market Partnership (LMP) Report"
 subtitle ="With Screening Tool, 2015"
 free_download = "/pdf/LMP_Report_with_screening_tool.pdf"
 
 [asset]
   image = "/publications/lmp.jpg"
-  text = "Cover Art"
+  text = "Labour Market Partnership (LMP) Report with Screening Tool, 2015"
 
 
 +++

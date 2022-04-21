@@ -1,12 +1,11 @@
 +++
-weight = 30
 title = "Adding to My Skills"
 subtitle = "2011"
 free_download = "/pdf/AddingToMySkills.pdf"
 
 [asset]
   image = "/publications/addingToMySkills.jpg"
-  text = ""
+  text = "Adding to My Skills 2011"
  
 
 +++

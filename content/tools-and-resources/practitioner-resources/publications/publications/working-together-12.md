@@ -1,12 +1,11 @@
 +++
-weight = 240
 title = "Working Together"
 subtitle ="12 Agreements for Referral & Assessment"
 free_download = "/pdf/12AssessAgreements.pdf"
 
 [asset]
   image = "/publications/12agreements.png"
-  text = "Cover Art"
+  text = "Working Together - 12 Agreements for Referral & Assessment"
 
 
 +++

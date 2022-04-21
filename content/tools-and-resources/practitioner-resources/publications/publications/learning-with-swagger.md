@@ -1,12 +1,11 @@
 +++
-weight = 170
 title = "Learning with Swagger (LWS)"
 subtitle ="Soft Skills Resources"
 free_download = "/pdf/LWSpkg.rar"
 
 [asset]
   image = "/publications/swagger.png"
-  text = "Cover Art"
+  text = "Learning with Swagger (LWS) Soft Skills Resources"
 
 
 +++
