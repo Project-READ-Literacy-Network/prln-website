@@ -34,9 +34,13 @@
              {{- end }}   
                {{- end }}                      
                 
-                {{- if or .Params.title .Params.subtitle }}
-                      {{ if .Params.title }}<h6 class="title publication-title w-100 pt-2 px-4 px-xl-2">{{ .Params.title }}</h6>{{ end }}
-                      {{ if .Params.subtitle }}<h6 class="subtitle publication-subtitle w-100 px-4 px-xl-2">{{ .Params.subtitle }}</h6>{{ end }}
+                {{- if .Params.alt_sort_title }}<h6 class="title publication-title w-100 pt-2 px-4 px-xl-2">{{ .Params.alt_sort_title  }}</h6>
+                  {{ if .Params.subtitle }}<h6 class="subtitle publication-subtitle w-100 px-4 px-xl-2">{{ .Params.subtitle }}</h6>{{ end }}
+                {{- else }}
+                {{- if .Params.title }}<h6 class="title publication-title w-100 pt-2 px-4 px-xl-2">{{ .Params.title }}</h6>  
+                {{ end }}
+                  
+                {{ if .Params.subtitle }}<h6 class="subtitle publication-subtitle w-100 px-4 px-xl-2">{{ .Params.subtitle }}</h6>{{ end }}
                   
                 {{- end }}
                 <div class="content hidden">{{ .Content }}
