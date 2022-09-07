@@ -16,7 +16,7 @@ Individuals must complete the course materials within 4 months. Registration is 
 | --- | --- | ---
 | **Course time** | 18 hours*                              | 24 hours* 
 | **Includes**    | independent study and a group session  | independent study, group session and practicum   
-| **Cost**        | $275.00 per person                     | $475.00 per person  
+| **Cost**        | $375.00 per person                     | $575.00 per person  
    
    
    
