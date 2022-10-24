@@ -145,7 +145,7 @@ h1.hero-title {
     font-size: 3rem;
 }
 .gov-container {
-   border-bottom: 2px solid whitesmoke;
+   border-bottom: 2px solid #ececec;
 }
 .gov-container-inner {
     min-height: 20vh;
@@ -162,11 +162,11 @@ h1.hero-title {
 
 
 section#board-of-directors div.container-fluid.bg-light {
-   border-top: 2px solid whitesmoke;
-    border-bottom: 2px solid whitesmoke;
+   border-top: 2px solid #ececec;
+    border-bottom: 2px solid #ececec;
 }
 section#staff div.container-fluid.bg-light {
-    border-bottom: 2px solid whitesmoke;
+    border-bottom: 2px solid #ececec;
 }
 
 
@@ -1305,7 +1305,7 @@ h2 a:hover {
     position: absolute;
     top: -50px;
     height: 2px;
-    background: whitesmoke; 
+    background: #ececec; 
     width: 100%
 }
 .news-content-image {
@@ -1313,8 +1313,8 @@ h2 a:hover {
     height: auto;
 }
 #press-header-nav {
-   border-top: 2px solid whitesmoke;
-   border-bottom: 2px solid whitesmoke;
+   border-top: 2px solid #ececec;
+   border-bottom: 2px solid #ececec;
 }
 #press-header-nav a {
     position: relative;  /* Added */
@@ -1333,7 +1333,7 @@ h2 a:hover {
 }
 .press-materials {
     background: #FDFCF9;
-    border: 5px solid whitesmoke;
+    border: 5px solid #ececec;
 }
 
 .content-fragment .text-left h2 {
@@ -1370,7 +1370,7 @@ h2 a:hover {
     box-shadow: 0 0 0 3px rgba(0,0,0,0.5) !important;
 }
 .hero .jumbotron   {
-    border-bottom: 2px solid whitesmoke !important;
+    border-bottom: 2px solid #ececec !important;
 }
 
 .btn-light {
@@ -1379,7 +1379,7 @@ h2 a:hover {
     transition : all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .btn-light:hover, .btn-light:focus, .btn-light:active {
-    border-color: whitesmoke !important;
+    border-color: #ececec !important;
     background-color: #FDFCF9 !important;
     box-shadow: 0 2px 5px rgba(0,0,0,0.25), 0 2px 4px rgba(0,0,0,0.22);
 }
@@ -1615,7 +1615,7 @@ th:only-of-type {
 /*   The Directory   */
 /*********************/
 #directory-sbn .content-sidebar-body {
-    border: 5px solid whitesmoke;
+    border: 5px solid #ececec;
 }
 .prln-directory h2 {
     margin-bottom: 4rem;
@@ -1965,7 +1965,7 @@ section#calendar h2 {
 }
 
 #project-read-publications div.container-fluid.bg-light, #assessments-and-referrals-educational-assessments div.container-fluid.bg-light {
-    border-bottom: 2px solid whitesmoke !important;
+    border-bottom: 2px solid #ececec !important;
 }
 .special-details p:last-child {
     margin-bottom: 0;
@@ -1979,13 +1979,13 @@ section#award .row {
     margin-left: 5px;
 }
 section#prln-newsletters.fragment div.container-fluid.bg-light, section#youtube.fragment.content-fragment div.container-fluid.bg-light, section#gsl-summary-reports.fragment div.container-fluid.bg-light, section#literacy-service-plan-reports.fragment div.container-fluid.bg-light {
-    border-bottom: 2px solid whitesmoke !important;    
+    border-bottom: 2px solid #ececec !important;    
 }
 section#parents.fragment.content-fragment div.container-fluid.bg-light {
-    border-bottom: 2px solid whitesmoke !important;    
+    border-bottom: 2px solid #ececec !important;    
 }
 section#grandparents.fragment.content-fragment div.container-fluid.bg-light {
-    border-bottom: 2px solid whitesmoke !important;    
+    border-bottom: 2px solid #ececec !important;    
 }
 header#gsl-cert-hero div#gsl-cert-hero-img{
     background-image: none;
@@ -1996,7 +1996,7 @@ header#gsl-cert-hero div#gsl-cert-hero-img{
 }
 
 div.container-fluid.bg-light {
-       border-bottom: 2px solid whitesmoke !important;
+       border-bottom: 2px solid #ececec !important;
  
 }
 table:last-of-type {
