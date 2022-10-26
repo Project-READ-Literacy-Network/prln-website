@@ -5,10 +5,15 @@ date = "2017-09-10"
 weight = 1100
 background = "light"
 title_align = "center"
-button_text = "Sign up"
+
 
 title = "Register for Get Set Learn"
 #subtitle  = ""
+
+[[buttons]]
+  text = "Sign Up"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSddrLqTuOxn74zjPe5CSB70egtR9wd4C3Ijrzk3PkThKKdUxw/viewform"
+  color = "secondary"
 
 
 
@@ -16,4 +21,4 @@ title = "Register for Get Set Learn"
 
 ***
 
-The information you put on this form will be sent to our sign-up desk. Someone will call you to confirm your sign-up.
+Click the button above to fill out our Google Form for the Get Set Learn Program.

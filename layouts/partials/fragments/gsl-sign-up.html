@@ -7,21 +7,12 @@
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
     {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
 
-<script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
-onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
+
 
 <div class="row">
 
-<div class="col-12" id="gform">
+<div class="col-12">
 
-    <form
-          action="https://docs.google.com/forms/d/e/1FAIpQLSddrLqTuOxn74zjPe5CSB70egtR9wd4C3Ijrzk3PkThKKdUxw/formResponse"
-          method="post"
-          target="hidden_iframe"
-          onsubmit="submitted=true"
-          class="contact position-relative"
-          name="gsl-sign-up">
 
 <div class="row pt-5">
 
@@ -31,89 +22,21 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
     
     <div class="col-lg-6 ">
         
-            <div class="form-group">
-                <p class="label pl-0 mb-0">Your Name</p>
-                <input type="text" name="entry.1166360450" required class="form-control">
-            </div>
-
-            <div class="form-group">
-                <p class="label pl-0 mb-0">Your Phone Number</p>
-                <input type="text" name="entry.2116428376" class="form-control">
-            </div>
-
-            <div class="form-group">
-                <p class="label pl-0 mb-0">Your Email Address</p>
-                <input type="email" name="entry.1230585530" required class="form-control">
-            </div>
-
-            <div class="form-group">
-                <p class="label pl-0 mb-0">Your Children - Names and Ages</p>
-                <input type="text" name="entry.2105716078" class="form-control">
-            </div>
-
-
-            <p class="label pt-3 col-10 pl-0">Which class of our Get Set Learn program works for you?</p>
-
-            <div class="checkbox checkbox-circle mb-3 text-left">
-            <!-- The "value" is important -->
-            <input type="checkbox" class="form-check-input" value="Class 1 - Tuesday and Thursday" id="Class 1 - Tuesday and Thursday" name="entry.529051757">
-            <label class="form-check-label" for="Class 1 - Tuesday and Thursday">Class 1 - Tuesday and Thursday (mornings, online)</label>
-            </div>
-
-            <div class="checkbox checkbox-circle mb-3 text-left">
-            <!-- The "value" is important -->
-            <input type="checkbox" class="form-check-input" value="Class 2 - Wednesday and Friday" id="Class 2 - Wednesday and Friday" name="entry.529051757">
-            <label class="form-check-label" for="Class 2 - Wednesday and Friday">Class 2 - Wednesday and Friday (mornings, outdoors)</label>
-            </div>
-   
-
-
-                <p class="label pt-3 pt-md-0 mb-3 ">How did you find out about Get Set Learn?</p>
-
-
-
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="doctor" id="doctor" name="entry.1243974042">
-                <label class="radio" for="doctor">doctor</label>
-                </div>
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="nurse" id="nurse" name="entry.1243974042">
-                <label class="radio" for="nurse">nurse</label>
-                </div>
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="community worker" id="community worker" name="entry.1243974042">
-                <label class="radio" for="community worker">community worker</label>
-                </div>
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="caseworker" id="caseworker" name="entry.1243974042">
-                <label class="radio" for="caseworker">caseworker</label>
-                </div>
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="friend" id="friend" name="entry.1243974042">
-                <label class="radio" for="friend">friend</label>
-                </div>
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="Peers" id="Peers" name="entry.1243974042">
-                <label class="radio" for="Peers">peer</label>
-                </div>
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="cheque insert" id="cheque insert" name="entry.1243974042">
-                <label class="radio" for="cheque insert">cheque insert</label>
-                </div>
-                <div class="mb-3 text-left">
-                <!-- The "value" is important -->
-                <input type="radio"  value="other" id="findOutOther" name="entry.1243974042">
-                <input type="text" placeholder="other" name="entry.1759722061" class="form-control prln-form-inline" id="findOutOtherText" onClick='gslFOO()'>
-                </div>
+            {{- range .Params.buttons }}
+                <a class="btn btn-lg m-0 col-12
+                  {{ if hasPrefix .url "#" }} anchor{{ end }}
+                  {{- $color := .color | default "primary" -}}
+                    {{- printf " btn-%s " $color -}}
+                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
+                    download="{{ .download_file }}"{{- end -}}>
+                    {{- if .icon -}}
+                    <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
+                    {{- end -}}
+                    {{ .text }}
+                  </a>
+              {{- end -}}
         
-                    {{- if .self.Content -}}
+            {{- if .self.Content -}}
             <div class="col-12 pl-0 gsl-form-info">
             {{- .self.Content -}}
             </div>
@@ -122,30 +45,15 @@ onload="if(submitted) {window.location='/thank-you/gsl-sign-up-msg';}"></iframe>
 
 
 
-            <div class="form-group">
 
-            <button
-              class="btn btn-lg submit-btn mt-3
-                {{- if eq $bg "light" "warning" -}}
-                  {{- printf " btn-%s" "primary" -}}
-                {{- else -}}
-                  {{- printf " btn-%s" "primary" -}}
-                {{- end -}}
-              "
-              type="submit">
-              {{- .Params.button_text | default (i18n "contact.defaultButton") }}
-            </button>  
 
-            </div>
-           </form>
+    </div>
 
-            </div>
-
-            <div class="col-lg-6 text-center text-lg-left">
+            <div class="col-lg-6 text-lg-left">
 
               
                 <div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE89PCT7GQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
