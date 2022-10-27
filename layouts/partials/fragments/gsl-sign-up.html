@@ -21,26 +21,11 @@
         
     
     <div class="col-lg-6 ">
+        <div id="gsl-form-iframe">
         
-            {{- range .Params.buttons }}
-                <a class="btn btn-lg m-0 col-12
-                  {{ if hasPrefix .url "#" }} anchor{{ end }}
-                  {{- $color := .color | default "primary" -}}
-                    {{- printf " btn-%s " $color -}}
-                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
-                    download="{{ .download_file }}"{{- end -}}>
-                    {{- if .icon -}}
-                    <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
-                    {{- end -}}
-                    {{ .text }}
-                  </a>
-              {{- end -}}
         
-            {{- if .self.Content -}}
-            <div class="col-12 pl-0 gsl-form-info">
-            {{- .self.Content -}}
-            </div>
-            {{- end -}}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddrLqTuOxn74zjPe5CSB70egtR9wd4C3Ijrzk3PkThKKdUxw/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </div>
 
 
 
@@ -49,11 +34,11 @@
 
     </div>
 
-            <div class="col-lg-6 text-lg-left">
+            <div class="col-lg-6">
 
               
                 <div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-bottom: 0.9em; overflow: hidden;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 12px; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE89PCT7GQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
