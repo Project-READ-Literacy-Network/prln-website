@@ -5,7 +5,7 @@ subtitle = "Online Book Trivia Fundraiser"
 align = "center"
 weight = 60
 background = "primary"
-disabled = false
+disabled = true
 
 [asset]
 image = "2023-Reading-Rumble-Launch.jpg"

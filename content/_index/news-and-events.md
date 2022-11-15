@@ -7,6 +7,11 @@ title = "News and Events"
 title_align = "left" 
 
 [[buttons]]
+  text = "Register for Reading Rumble 2023"
+  url = "https://www.canadahelps.org/en/charities/project-read-literacy-network-waterloo-wellington/p2p/Reading-Rumble-2023/"
+  color = "primary"
+  
+  [[buttons]]
   text = "All Events"
   url = "about/events-and-awards/"
   color = "primary"
@@ -24,6 +29,5 @@ Latest Tweet by ProjectREADWW
 """
 +++
 
-[Visit our YouTube Channel to learn more about FREE adult upgrading programs in Waterloo Region and Wellington County to help you reach your goals!](https://t.co/vfDON0HIBj)
-{{< youtube id="9GQ43sGpGEk" autoplay="true" >}}
 
+![Reading Rumble 2023 Graphic](/images/2023-Reading-Rumble-Launch.jpg)
