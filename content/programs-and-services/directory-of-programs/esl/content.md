@@ -12,78 +12,11 @@ title = "The Directory of Programs"
 
 +++
 
-  
-<details>  
-<summary>  
-  
-## St. George’s Centre for ESL  
-## Upper Grand District School Board (UGDSB)  
-→GUELPH, RURAL WELLINGTON  
-  
-www.ugdsb.on.ca/continuing_education/  
-  
-</summary>  
-  
-#### What:  
-MCI funded—English as a Second Language program, ESL Literacy, Conversation and Pronunciation, Writing, Workplace Communication, Canadian Idioms and Expressions, Listening Comprehension, Citizenship test preparation, and ESL Tutoring Programs offered  
-#### Who:  
-To attend MCI funded classes, learner must be 18+ years, or a graduate of secondary school; must have a first language that is other than English; must be residing in Canada as a naturalized Canadian citizen, Permanent Resident, Convention Refugee or Refugee Claimant, or have arrived through the Live-in Caregiver program. Must first have a language assessment at Immigrant Services Guelph–Wellington.  
-  
-A tuition fee must be paid by those residing in Ontario as a temporary resident, as a visitor, on a study permit or work permit. Not all programs are open to temporary residents. Some exceptions for work permits may apply.  
-  
-#### When in Guelph:  
-##### September ‒ June  
-- Monday ‒ Friday at 9:00am‒11:30am and 12:30pm‒3:00pm  
-- Monday ‒ Thursday at 4:00pm‒6:00pm  
-- Monday and Wednesday at 6:45pm‒9:15pm  
-- Thursday at 6:45pm‒9:15pm  
-- Saturday at 9:00am‒12:00pm  
-  
-##### July and August  
-- Monday ‒ Friday at 8:00am‒10:30am and 11:00am‒1:30pm  
-- Monday and Wednesday at 6:45pm‒9:15pm  
-- Thursday at 6:45pm‒9:15pm  
-\* Tutoring times vary  
-#### Where:  
-**Guelph**—St. George’s Centre  
-21 King Street  
-#### Ask For:  
-(519) 766-9551 </details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## St. George’s Centre for ESL  
-## Upper Grand District School Board (UGDSB)  
-→GUELPH  
-  
-www.ugdsb.on.ca/continuing_education/  
-  
-</summary>  
-  
-#### What:  
-Immigration, Refugees and Citizenship Canada (IRCC) funded—Language Instruction for Newcomers to Canada (LINC)  
-#### Who:  
-To attend IRCC funded classes, learner must be 18+ years, must have a first language that is other than English; must be residing in Canada as a Permanent Resident or Convention Refugee. Must first have a language assessment at Immigrant Services Guelph–Wellington.  
-#### When:  
-##### September ‒ June  
-- Monday ‒ Friday at 9:00am‒11:30am, 12:30pm‒3:00pm  
-- Monday ‒ Thursday at 4:00pm‒6:00pm  
-- Monday and Wednesday at 6:45pm‒9:15pm  
-  
-##### July and August  
-- Monday ‒ Friday at 8:00am‒10:30am, 11:00am‒1:30pm  
-- Monday and Wednesday at 6:45pm‒9:15pm  
-* Tutoring times vary  
-#### Where:  
-**Guelph**—St. George’s Centre  
-21 King Street  
-#### Ask For:  
-(519) 766-9551 </details>  
-  
-* * * * *  
+## Language Assessment and Referrals  
+## Contact YMCA of Three Rivers to book a language skills assessment:  
+(519) 579-9622 or intake@ytr.ymca.ca  
+
+* * * * *   
   
 <details>  
 <summary>  
@@ -93,66 +26,137 @@ To attend IRCC funded classes, learner must be 18+ years, must have a first lang
 ## English as a Second Language (ESL)  
 ## Language Instruction for Newcomers to Canada (LINC)  
 →CAMBRIDGE, KITCHENER, WATERLOO  
-https://stlouis.wcdsb.ca  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
 </summary>  
   
 #### What:  
 - Improved English will strengthen COMMUNITY connections, open more and better WORK opportunities and broaden EDUCATION choices  
-- English Language Classes for Literacy and Canadian Language Benchmark 1-8  
-- Reading, Writing, Speaking, Listening & Pronunciation for English Language Learners at all levels  
+- English Language Classes for Literacy and Canadian Language Benchmark (CLB) 1-8  
+- Reading, Writing, Listening & Speaking for English Language Learners at all CLB levels  
 - Portfolio-based language assessment (PBLA) where task-based learning determines CLB level progress  
-- IELTS & Citizenship Preparation  
 - FREE LINC / ESL classes for eligible students  
-- Open to IELTS & Citizenship students   
-- Visitors to Canada pay extra fees  
-- Licensed Child Care and/or Care for Newcomer Children available   
-- In-person classes and limited online classes are offered at the locations stated for students CLB literacy to Level 1, except Saturdays, which are remote learning from home    
+- Licensed Child Care and Care for Newcomer Children available   
+- In-person classes and limited online classes are offered at the locations stated for students CLB literacy to Level 8      
 #### Who:  
-All ESL/LINC Programs: Adults (18+ years)  
+Adults (18+ years) who’s English has been assessed at any Canadian Language Benchmark (CLB) level, and is a Convention Refugee, Refugee Claimant or Permanent Resident, or Landed Immigrant or Canadian Citizen not born in Canada and English is not your first language.  
 #### When:  
-September to June (school year)  
-
-Summer school for ESL July 2022 only (dates, locations and format to be determined)   
-
-Visit https://stlouis.wcdsb.ca for updates  
-- Monday ‒ Friday, class times vary, morning and/or afternoon class instruction (in-person 5 locations )  
-- Monday ‒ Friday at 8:45am‒11:45am, morning class instruction (online)  
-- Monday & Wednesday at 6:30pm‒9:15pm, evening class instruction (in-person at St. Mary’s Campus only)  
-- Tuesday & Thursday at 6:30pm‒9:15pm, evening class instruction (in-person at St. Mary’s Campus OR online)   
-- Monday & Wednesday evening class (St. Benedict location only)  
-- Saturday at 9:00am‒11:45am, morning class instruction (St. Mary’s Campus only OR online)  
+##### September to June (school year)
+- Monday ‒ Thursday at 8:45am‒11:45am/ Friday at 10:00am‒11:45am (mornings)  
+- Monday ‒ Thursday at 12:30pm‒3:00pm/ Friday at 12:30pm‒2:00pm (afternoons)   
+- Monday ‒ Friday, mornings and afternoons ONLINE ESL classes only   
+- Evening and Saturday classes are paused until further notice. Visit website for updates.  
   
-##### Registration:   
-- Language Assessment at YMCA required. Call (519) 579-9622 or (519) 621-1621 to book a language skills assessment.  
-- Once assessment is completed, register online, submit assessment papers and register for English language classes Monday ‒ Friday (8:30am‒12:30pm) and wait for a call from the school  
+Summer school for ESL July 2023 (to be determined). Visit website for updates.  
+##### Registration:
+Contact the YMCA Language Assessment Centre for a FREE language assessment. They will tell you your CLB benchmark numbers.  
+- Kitchener—(519) 579-9622  
+- Cambridge—(519) 621-1621  
+- intake@ytr.ymca.ca  
+Once assessment is completed, register online at the location that the YMCA directs you to register with. St. Louis will contact students as soon as possible when the online registration form is completed.    
 #### Where:  
-##### St. Louis—Cambridge St. Benedict Campus (until June 2022)  
-- (ESL - Days)   
-- 50 Saginaw Parkway (off Green Vista Drive, behind St. Benedict Catholic Secondary School)  
-  
 ##### St. Louis—Kitchener Main Campus  
-- (LINC ‒ Day only)  
+- (LINC – ALL CLB levels - Day only)  
 - 80 Young Street (behind Kitchener City Hall)  
-  
 ##### St. Louis—Kitchener St. Mary’s Campus  
-- (ESL ‒ Day, Evening and Saturday)   
+- (ESL – Day only)   
 - 77 Young Street (across the street from 80 Young Street)  
-  
 ##### St. Louis—Kitchener St. Francis Campus  
-- (LINC & ESL ‒ Day only)  
+- (LINC & ESL – Literacy to CLB 7 - Day only)  
 - 154 Gatewood Road (corner of Blueridge Road West & Queen’s Boulevard)  
-- Emmanuel United Church—Waterloo  
-- (ESL ‒ Day only) remote learning only   
-- 22 Bridgeport Road West (Uptown Waterloo)  
-- Highland Baptist Church—Kitchener  
-- (LINC ‒ Day only)   
-- 135 Highland Road W. (near St. Mary’s Hospital)  
-  
-##### PLUS St. Louis ONLINE ESL classes    
+##### Highland Baptist Church—Kitchener  
+- (LINC - Literacy to CLB 4 ‒ mornings only)   
+- 135 Highland Road West (near St. Mary’s Hospital)      
 #### Ask For:  
 esl.stlouis@wcdsb.ca  
 (519) 745-1201  
-ESL—ext. 245 or ext. 540  
-LINC—ext. 538 or ext. 224 </details>  
+ESL—ext. 229  
+LINC—ext. 538 or ext. 224 </details>
+
+* * * * *
+
+<details>  
+<summary>  
+  
+## Upper Grand District School Board (UGDSB)  
+## Adult English as a Second Language  
+→GUELPH, RURAL WELLINGTON  
+  
+www.ugdsb.on.ca/continuing_education/esl  
+  
+</summary>  
+  
+#### What:  
+- Provincially-funded English as a Second Language program   
+- Offer Classes from Foundational (ESL) Literacy to Canadian Language Benchmark 8   
+- Classes are offered in-person and online    
+#### Who:  
+Learner must be 18+ years, or a graduate of secondary school; must have a first language that is other than English; must be residing in Canada as a naturalized Canadian citizen, Permanent Resident, Convention Refugee or Refugee Claimant, or have arrived through the Live-in Caregiver program or Canada-Ukraine Authorization For Emergency Travel. Must first have a language assessment at Immigrant Services Guelph-Wellington.  
+  
+A tuition fee must be paid by those residing in Ontario as a temporary resident, as a visitor, on a study permit or work permit. Not all programs are open to temporary residents. Some exceptions for work permits may apply.  
+  
+#### When:  
+##### September ‒ June  
+- Monday ‒ Friday at 9:25am‒11:40am   
+- Monday ‒ Friday at 12:30pm‒2:45pm  
+- Monday ‒ Thursday at 4:00pm‒5:45pm  
+- Mondays and Wednesdays at 6:45pm‒9:00pm  
+  
+Classes are offered in July and August. Please contact us for days and times.  
+#### Where:  
+##### St. George's Centre for ESL  
+21 King Street (all times)   
+##### Tytler Centre  
+131 Ontario Street (mornings)  
+##### Wellington Centre for Continuing Education  
+1428 Gordon Street (mornings)    
+#### Ask For:  
+Sheila Nicholas—Program Administrator, ESL and LINC Programs   
+sheila.nicholas@ugdsb.on.ca  
+(519) 766-9551  
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## Upper Grand District School Board (UGDSB)  
+## Language Instruction for Newcomers to Canada (LINC)  
+→GUELPH, RURAL WELLINGTON  
+  
+www.ugdsb.on.ca/continuing_education/esl  
+  
+</summary>  
+  
+#### What:  
+- Offer Classes from Foundational (ESL) Literacy to Canadian Language Benchmark 8  
+- Classes are offered in-person and online   
+- Childminding available for eligible clients enrolled in in-person classes in the morning and afternoon  
+- Federally funded by Immigration, Refugees and Citizenship Canada    
+#### Who:  
+Learner must be 18+ years, or a graduate of secondary school; must have a first language that is other than English; must be residing in Canada as a Permanent Resident or Convention Refugee.  
+  
+Must first have a language assessment at Immigrant Services Guelph–Wellington.  
+#### When:  
+##### September ‒ June  
+- Monday ‒ Friday at 9:25am‒11:40am  
+- Monday ‒ Friday at 12:30pm‒2:45pm   
+- Monday ‒ Thursday at 4:00pm‒5:45pm  
+- Mondays and Wednesdays at 6:45pm‒9:00pm  
+  
+Classes are offered in July and August. Please contact us for days and times.  
+#### Where:  
+##### St. George's Centre for ESL  
+21 King Street (all times)   
+##### Tytler Centre  
+131 Ontario Street (mornings)    
+#### Ask For:  
+Sheila Nicholas—Program Administrator, ESL and LINC Programs   
+sheila.nicholas@ugdsb.on.ca  
+(519) 766-9551  
+</details>  
+  
+
+
   

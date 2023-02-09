@@ -21,7 +21,7 @@ www.acedistancedelivery.ca
 </summary>  
   
 #### What:  
-Academic upgrading (grade 12 equivalent) courses are offered via e-learning (online) through Ontario’s public colleges.  
+Academic upgrading (grade 12 equivalent) courses are offered online through Ontario’s public colleges.  
   
 ##### Courses include:  
 - Communications (English)  
@@ -40,12 +40,13 @@ Academic upgrading (grade 12 equivalent) courses are offered via e-learning (onl
 - Writing Support  
 - Reading Support  
 - Communications Support (read/write)  
-- ***Learn to Learn*** Orientation course  
+- Learn to Learn Orientation course  
 (required for all incoming learners)  
 #### Who:  
 Ontario residents, 19+ years  
   
-Proficient in the English language, based on skills assessments at entry  
+Proficient in the English language – based on skills assessments at entry  
+  
 Not on an International Study Visa  
 #### When:  
 Free intakes are offered in January, March, April, June, September and November for those who have completed Learn to Learn and met the entry standard required for ACE courses.  
@@ -55,9 +56,45 @@ Assessments and Learn to Learn are available weekly throughout most of the year.
 All courses are offered online  
 #### Ask For:  
 General Inquiries  
-ACE Distance Program  
 info@cscau.com  
   
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## The LearningHUB  
+## Avon Maitland District School Board  
+→ALL OF ONTARIO  
+  
+www.learninghub.ca  
+  
+  
+</summary>  
+  
+#### What:  
+Online upgrading and preparation for:  
+- Employment and soft skills  
+- Entry into Postsecondary Education, ACE or apprenticeship  
+- Secondary School credit courses or GED (grade 12 equivalency test)   
+- Digital Technology skills  
+- Personal management skills    
+#### Who:  
+Adults in Ontario (19+ years)  
+#### When:  
+Anytime Learning – 24 hours/day, 7 days/week year round  
+  
+Live Classes – on a scheduled basis October – May  
+#### Where:  
+Online upgrading can be accessed any time of the day with a computer and Internet access  
+  
+To register, visit www.learninghub.ca  
+#### Ask For:  
+LearningHUB General Inquiries  
+info.learninghub@ed.amdsb.ca  
+or 1 (844) 470-7877  
 </details>  
   
 * * * * *  
@@ -89,44 +126,7 @@ All courses are offered online
 Register online or contact us  
 for more information  
 info@siouxhudsonliteracy.com  
-1 (866) 550-0697 ext. 1 </details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## The LearningHUB  
-## Avon Maitland District School Board  
-→ALL OF ONTARIO  
-  
-www.learninghub.ca  
-  
-  
-</summary>  
-  
-#### What:  
-Online upgrading and preparation for:  
-- Employment and soft skills  
-- Entry into Postsecondary Education, ACE or apprenticeship  
-- Secondary School credit courses or  
-- Grade 12 Equivalency test (GED)  
-- Apprenticeships  
-- Personal Independence  
-#### Who:  
-Adults in Ontario (19+ years)  
-#### When:  
-Anytime Learning – 24 hours/day, 7 days/week year round  
-  
-Live Classes – on a scheduled basis October – May  
-#### Where:  
-Online upgrading can be accessed any time of the day with a computer and Internet access  
-  
-To register, visit www.learninghub.ca  
-#### Ask For:  
-LearningHUB General Inquiries  
-info.learninghub@ed.amdsb.ca  
-or 1 (844) 470-7877 ext. 1  
+1 (866) 550-0697
 </details>  
   
 * * * * *  

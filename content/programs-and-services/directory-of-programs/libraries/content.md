@@ -12,55 +12,8 @@ title = "The Directory of Programs"
 <details>  
 <summary>  
   
-## Guelph Public Library  
-## Adult & Family Library programs  
-→GUELPH   
-  
-www.guelphpl.ca  
-  
-</summary>  
-  
-#### What:  
-- Family Literacy programs for parents, caregivers, and children (free weekly storytimes)  
-- Early Literacy Computers for children at all locations  
-- STEAM (Science, Technology, Engineering, Arts, Mathematics) initiatives and tools for children  
-- Access to Internet, printers, photocopiers, and scanning  
-- Adult Literacy Collections for Teachers, Tutors, and Students  
-- Volunteer Opportunities  
-- English as a Second Language ‒ ESL conversation circles and Book Clubs  
-- Book Clubs for all ages on a variety  
-of themes  
-- WiFi Hotspots  
-- Makerspace: 3D printers, virtual reality, various tech gadgets  
-  
-#### Who:  
-Everyone is welcome.  
-There are programs, collections,  
-and services available for all ages.  
-#### When:  
-Monday ‒ Thursday at 9:00am‒9:00pm  
-  
-Friday ‒ Saturday at 9:00am‒5:00pm  
-  
-Sundays at 1:00pm‒5:00pm  
-(September‒May)  
-  
-\* Summer hours are in effect from June to early September. Please check the website for details.  
-#### Where:  
-Main Library—100 Norfolk Street  
-#### Ask For:  
-Steven Kraft—Guelph Public Library CEO  
-(519) 824-6220 ext. 224  
-skraft@guelphpl.ca  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
 ## Idea Exchange  
-## Adult & Family Library programs  
+## Adult & Family Library Programs  
 →CAMBRIDGE   
   
 www.ideaexchange.org  
@@ -69,6 +22,7 @@ www.ideaexchange.org
   
 #### What:  
 - Free early literacy programming including Baby, Toddler, and School Readiness online and in person  
+- Immersive Learning Children’s collections including Read the Rainbow Kits, levelled book kits for each stage of reading, and PlaySmarts Toy and Game collection which is built around ten activities such as counting, feeling, moving, sensing and more with suggested age ranges for each item.  
 - Literacy collection ‒ for adults learning the basics of letters and numbers  
 - Audio kits ‒ Books and CDs. Also available online through Tumblebooks  
 - Language learning ‒ for English and many other languages ‒ in audio, print, electronic or some combination (or learn online using the Mango Languages learning programs)  
@@ -76,11 +30,11 @@ www.ideaexchange.org
 - Movies and music in other languages  
 - Conversation Circles ‒ meet virtually multiple times per week  
 - Settlement Worker on site at the Queen’s Square location 2 days per week  
-- Courses on teaching English and ESL through an online product called Gale Courses and Lynda. com  
+- Courses on teaching English and ESL through an online product called Lynda. com  
 - Free access to the Internet ‒ use our computers or bring your own device  
 - Borrow an iPad to use for home, school, or work  
 - Never used a computer or need help with other devices? Book a 1 to 1 training session with our  staff  
-- Old Post Office location ‒ digital library with free access to laser cutter, sewing machines, 3D  printer and more. Borrow laptops and iPads to use at location  
+- Old Post Office location ‒ digital library with free access to laser cutter, sewing machines, 3D  printer and more. Borrow laptops and iPads to use at location.  
 #### Who:  
 Everyone, all ages and skill levels  
 #### When:  
@@ -141,21 +95,20 @@ www.kpl.org
 </summary>  
   
 #### What:  
-- All programs free of charge  
+- All programs are free  
 - Adult Literacy Collection for Teachers, Tutors, and Students  
 - Family Literacy programs for parents, caregivers, and children  
 - Computer and Technology Programs  
 - Access to Internet, printers, photocopiers, scanning and fax  
 - Volunteer Opportunities  
-- Career & Resume help  
+- Career and resume help  
 - ESL conversation circles  
 - Study Rooms  
 - WiFi Hotspots  
 - Accessibility Centre (JAWS, Dragon Dictate, ZoomText, C-Pen readers etc)  
 - Heffner Studio: 3D printers, Music Editing, Digital Conversion, Audio Production  
 #### Who:  
-Programs for all ages  
-All are welcome  
+Programs for all ages. All are welcome.  
 #### When:  
 Monday ‒ Thursday at 9:00am‒9:00pm  
 Friday and Saturday at 9:00am‒5:30pm  
@@ -177,8 +130,10 @@ Sunday at 1:00pm‒5:00pm (Central Library only, Fall‒Spring)
 ##### Pioneer Park Community Library  
 150 Pioneer Park Drive  
 #### Ask For:  
-Aimee Jeffrey—Lifelong Learning and Literacy Librarian  
-(519) 743-0271 ext. 218  
+Madeleine Kong—Librarian, Literacy and Lifelong Learning  
+(519) 743-0271 ext. 230  
+Madeleine.Kong@kpl.org
+  
   
 </details>  
   
@@ -189,24 +144,23 @@ Aimee Jeffrey—Lifelong Learning and Literacy Librarian
   
 ## Region of Waterloo Library (RWL)  
 ## Adult Library Programs, Services, and Resources  
-→4 TOWNSHIPS IN WATERLOO REGION (NORTH DUMFRIES, WELLESLEY, WILMOT, AND WOOLWICH TOWNSHIPS)  
+→NORTH DUMFRIES, WELLESLEY, WILMOT, WOOLWICH  
   
 www.rwlibrary.ca  
   
 </summary>  
   
 #### What:  
-- All programs free of charge  
-- Family Literacy programs for parents, caregivers, and children  
-- Access to Internet, printers, and photocopiers  
+- Programs for all ages and skill levels.  [Browse and register for programs.](https://rwlibrary.libnet.info/events?r=thisweek)  
+- Access to Internet, printers and photocopiers  
 - Mobile Hotspot lending program  
 - A variety of lending collection items including: Hobby Kits, Book Clubs in a Bag/Book Club Packs 4 Kids, Games Collection, Museum Family Passes, Recreation Passes, and Public Health Kits  
-- Online resources for families such as Hoopla, Mango Languages and Tumblebook Library  
+- Online resources for families such as Hoopla, Mango Languages, Fiero Code and Niche Academy    
   
 #### Who:  
 Open to all ages and skill levels  
 #### When:  
-Monday ‒ Saturday, hours and days vary by branch. Refer to our website for the current branch schedule.  
+Monday ‒ Saturday, hours and days vary by branch. Refer to the [Locations and Hours](https://www.rwlibrary.ca/en/your-library/browse-borrow-and-go-locations-and-hours.aspx) page on our website.  
 #### Where:  
 ##### Ayr Branch  
 137 Stanley Street  
@@ -258,17 +212,23 @@ www.wpl.ca
 </summary>  
   
 #### What:  
-- Job search information  
-- Resume support  
-- Employment research  
+- Career, job search and  
+- resume information  
 - Library Settlement Program workers for specific newcomer and employment support  
+- Tech Connect Service  
+- Access to computers, printers, photocopiers and scanners  
+- Free WiFi Internet access and loanable WiFi Hotspots (with WPL card)  
+- Gale and LinkedIn Learning online courses (with WPL card)    
 #### Who:  
-Open to all  
-#### When:  
+Open to everyone. Programs, collections, and services for all ages.  
+#### When:
+##### Main Library
 - Monday ‒ Thursday at 9:30am‒9:00pm  
 - Friday and Saturday at 9:30am‒5:30pm  
-- Sundays at 1:00pm‒4:00pm  
-- Main Library (October to May)  
+- Sundays at 1:00pm‒4:00pm (October to May)  
+##### Branches
+- Monday ‒ Thursday at 9:30am‒9:00pm  
+- Friday and Saturday at 9:30am‒5:30pm  
 #### Where:  
   
 ##### Main Library  
@@ -280,7 +240,7 @@ Open to all
 ##### McCormick Branch  
 500 Parkside Drive  
 #### Ask For:  
-Laura Dick—Manager, Branches  
-(519) 886-1310 ext. 313  
+(519) 886-1310 ext. 124  
+askus@wpl.ca
   
 </details>

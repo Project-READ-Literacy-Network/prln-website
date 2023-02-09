@@ -1801,11 +1801,6 @@ th:only-of-type {
     font-weight: 600;
     font-size: 1.5rem;
     margin-bottom: 1rem;
-}.prln-directory #deaf-learn-now{
-    display: block;
-    font-weight: 600;
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
 }
 .prln-directory h2#la-fd{
     display: block;
@@ -1841,6 +1836,40 @@ th:only-of-type {
     width: 0;
 }
 .prln-directory h2#la-fd::after{
+    position: absolute;
+    content: none;
+    margin-top: 0;
+    background: none;
+    height: 0;
+    display: none;
+    width: 0;
+}
+.prln-directory h2#language-assessment-and-referrals{
+    font-weight: 600;
+    display: block;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #AA1A27;
+}
+.prln-directory h2#contact-ymca-of-three-rivers-to-book-a-language-skills-assessment{
+    display: block;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+
+.prln-directory h2#language-assessment-and-referrals::after{
+    position: absolute;
+    content: none;
+    margin-top: 0;
+    background: none;
+    height: 0;
+    display: none;
+    width: 0;
+}
+
+.prln-directory h2#contact-ymca-of-three-rivers-to-book-a-language-skills-assessment::after{
     position: absolute;
     content: none;
     margin-top: 0;

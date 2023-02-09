@@ -40,9 +40,9 @@ title_align = "left"
   text = "KW Habilitation"
   
 [[logos]]
-  url = "http://www.npaamb.com/"
-  src = "/images/logos/npaamb-logo.png"
-  text = "npaamb"
+  url = "https://cambridgecareerconnections.com/"
+  src = "/images/logos/ccc-logo.png"
+  text = "cambridge career connections"
   
 [[logos]]
   url = "https://stlouis.wcdsb.ca/"
@@ -113,11 +113,6 @@ title_align = "left"
   url = "http://www.deaflearnnow.ca/"
   src = "/images/logos/dln-logo.png"
   text = "deaflearnnow"  
-
-[[logos]]
-  url = "http://www.guelphpl.ca/"
-  src = "/images/logos/gpl-logo.svg"
-  text = "guelphpl"  
 
 [[logos]]
   url = "http://www.ideaexchange.org/"

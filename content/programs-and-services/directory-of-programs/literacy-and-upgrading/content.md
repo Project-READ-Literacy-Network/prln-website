@@ -26,30 +26,30 @@ A wide range of free adult learning programs for employment, independence, and e
 - 1 to 1 tutoring and/or small group learning (5-8 people) to improve reading, writing, spelling, and basic math  
 - GED classes and support  
 - Pre-employment skills preparation to help get and keep jobs. Programs include cash register training, receptionist training, janitorial training, RentSmart, Working in Retail, communications training & others  
-- Computer based learning, with assistive technologies. NorthStar computer certification  
+- Computer based learning. Northstar Digital Literacy certification.  
 - Learning assessment, training plan development, short term groups and workshops  
 - Mobile computer lab to provide computer training offsite  
-- Information and referrals to other programs and services  
+- Information and referral to other programs and services  
 - Assist adults with learning disabilities  
 - Wheelchair accessible  
 - Childcare and transportation subsidy available  
 #### Who:  
 Adults (19+ years)  
 #### When:  
-Mondays at 9:30am‒9:00pm  
-Tuesday ‒ Friday at 9:30am‒4:30pm  
-Wednesday and Thursday evenings at 6:00pm‒9:00pm  
+Mondays at 9:30am‒8:30pm  
+Tuesdays at 9:30am‒4:30pm  
+Wednesdays at 9:30am‒4:30pm, 6:00pm‒8:30pm  
+Thursdays at 9:30am‒4:30pm  
+Fridays at 9:30am‒1:30pm  
 #### Where:  
-Guelph—8 Cork Street East, N1H 2W8  
+**Guelph**—8 Cork Street East, N1H 2W8  
+  
+We also offer remote 1 to 1 tutoring via Zoom
 #### Ask For:  
-Adult program information  
-Joanne Morant—(519) 836-2759 (office) or (519) 731-7829 (work cell)  
+Joanne Morant, Adult Program—(519) 836-2759 (office) or (519) 731-7829 (work cell)  
 artutor@on.aibn.com  
 or actionread@gmail.com   
   
-  
-`Information During COVID-19 Pandemic: We have made changes to our programs in response to the COVID-19 pandemic. We now offer a range of remote learning options. Office hours and in-person meetings may be limited, and will be scheduled by appointment only. For details, please call our office at (519) 836-2759, or email us at actionread@gmail.com. We will respond to messages within one business day.`
-
 </details>  
   
 * * * * *  
@@ -71,143 +71,30 @@ www.conestogac.on.ca/caa/upgrading
 - Targeted academic preparation up to grade 12 equivalency for admission into college post secondary programs including apprenticeship training  
 - Developing Essential Skills for the workplace  
 - GED pre-test and preparation  
-- Childcare, transportation, & internet subsidy for eligible learners  
+- Childcare, transportation, and internet subsidy for eligible learners  
 - Continuous intake, self-paced learning, self-directed with teacher support  
 #### Who:  
 Adults (19+ years) with or without a grade 12 diploma (age exceptions may apply)  
   
-\* Students must have a Canadian Language Benchmark level 6 on all areas (documentation required)  
+Students must have a Canadian Language Benchmark level 6 on all areas (documentation required)  
 #### Where:  
-Cambridge—150 Main Street, Suite 402  
+**Cambridge**—150 Main Street, Suite 402  
   
-Kitchener—49 Frederick Street  
+**Kitchener Downtown**—49 Frederick Street  
   
-Kitchener/Doon—299 Doon Valley Drive  
+**Guelph**—460 Speedvale Avenue West  
   
-Guelph—460 Speedvale Avenue West  
-  
-Waterloo—108 University Avenue East  
+**Waterloo**—108 University Avenue East  
 #### When:  
-All classes are being delivered online with in person support for select courses. Please connect with a campus for more details by emailing upgrading@conestogac.on.ca  
+Please connect with our intake team for more details at upgrading@conestogac.on.ca  
   
-| | **Math** | **Communications** | **Biology** | **Chemistry**
-| --- | --- | --- | --- | ---
-| **Cambridge** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed/Teacher Led** <br> Day & Evening Classes | N/A | N/A
-| **Doon** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed** <br> Day & Evening Classes | N/A | N/A
-| **Guelph** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed** <br> Day & Evening Classes | N/A | **Teacher Led** <br> Day Classes
-| **Waterloo** | **Self-Directed** <br> Day & Evening Classes | **Self-Directed** <br> Day & Evening Classes | **Self-Directed/Teacher Led** <br> Day Classes | **Self-Directed/Teacher Led** <br> Evening Classes  
-
-| **Self-directed** study: Work at your own pace through the materials with an Instructor available in class to  support you. Students can start anytime as part of our continuous intake. <br><br> **Teacher-led** options: An Instructor teaches the class with all students starting and ending at the same time.  Teacher-led classes are 15 weeks in length and students must attend all classes.
-| ---
+**Self-directed study:** Work at your own pace through the materials with an Instructor available in class to support you. Students can start anytime as part of our continuous intake.  
+  
+**Teacher-led options:** An Instructor teaches the class with all students starting and ending at the same time. Teacher-led classes are 15 weeks in length and students must attend all classes
   
 #### Ask For:  
-Information on Academic Upgrading ACE or Preparatory Programs—(519) 748-5220 ext. 3681 upgrading@conestogac.on.ca or http://www.conestogac.on.ca/caa/upgrading/  
+Information on Academic Upgrading ACE or Preparatory Programs—(519) 748-5220 ext. 3681 upgrading@conestogac.on.ca or www.conestogac.on.ca/caa/upgrading/  
   
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## Continuing Education  
-## Upper Grand District School Board (UGDSB)  
-## Day School Credit Courses  
-→GUELPH  
-  
-www.GetCredits.ca  
-  
-</summary>  
-  
-#### What:  
-- Senior Credit Courses (Grade 11 and 12) in English, Mathematics, Computers, Chemistry and Biology  
-- Courses offered on a rotational basis (every 6 weeks September to June)  
-#### Who:  
-Adults (18+ years)  
-#### When:  
-Monday ‒ Friday at 9:00am to 12:00pm  
-#### Where:  
-Guelph—1428 Gordon Street  
-Wellington Centre for Continuing Education  
-#### Ask For:  
-Student Services—(519) 836-7280 ext. 627  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## Continuing Education  
-## Upper Grand District School Board (UGDSB)  
-## Skills Upgrading Program  
-→GUELPH  
-  
-www.GetCredits.ca  
-  
-</summary>  
-  
-#### What:  
-- Skills upgrading in reading, writing, mathematics and computers  
-- Preparing for high school diploma, college or GED  
-- Improving Essential Skills for employment  
-- Continuous Intake  
-- Individualized learning plans and  
-flexible hours  
-#### Who:  
-Adults (19+ years)  
-#### When:  
-Monday ‒ Friday, day and evening classes available  
-  
-Remote learning is also possible  
-#### Where:  
-Guelph—1428 Gordon Street  
-Wellington Centre for Continuing Education  
-Classes available in the south end, downtown and remotely throughout Guelph  
-#### Ask For:  
-Skills Upgrading Program  
-(519) 836-7280 ext. 624  
-Call or Text: (226) 821-2694  
-skillsupgradingprogram@ugconed.ca  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## Continuing Education  
-## Upper Grand District School Board (UGDSB)  
-## Skills Upgrading Program  
-→DRAYTON, FERGUS, MOUNT FOREST  
-  
-www.GetCredits.ca  
-  
-</summary>  
-  
-#### What:  
-- Skills upgrading in reading, writing, mathematics and computers  
-- Preparing for high school diploma, college or GED  
-- Improving Essential Skills for employment  
-- Continuous Intake  
-- Individualized learning plans and flexible hours  
-#### Who:  
-Adults (19+ years)  
-#### When:  
-Monday ‒ Thursday, day and evening classes available in most locations Remote learning is also possible  
-#### Where:  
-Drayton—Mennonite Fellowship Church  
-109 Wellington Street South  
-  
-Fergus—Bethel Baptist Church  
-675 Victoria Terrace  
-  
-Mount Forest—Portable at North Wellington Centre for Continuing Education 405B Sligo Road East  
-#### Ask For:  
-Call or Text: (226) 821-2694  
-skillsupgradingprogram@ugconed.ca  
 </details>  
   
 * * * * *  
@@ -224,30 +111,24 @@ www.wrdsb.ca/esu
 </summary>  
   
 #### What:  
-- We will help you upgrade your reading, writing, math and computer skills needed for work, home, retraining or further education  
-- Employment-focused learning  
-- Pre-GED upgrading  
+We offer offer a free upgrading program for adults living in the Region of Waterloo. The program is in a small group or class setting, by distance learning, or in a combination of both to suit your timetable. The learning plan is customized for your learning goals. Upgrading is provided in reading, writing, math or computer skills to prepare for GED, work, or college.  
 #### Who:  
-We offer a free learning program for adults living in the Region of Waterloo. The program is in a small group or class setting, by distance learning, or in a combination of both to suit your timetable. The learning plan is customized for your individual needs.  
+Adults  
 #### When:  
-Monday ‒ Thursday: morning, afternoon or evening sessions available  
+Monday ‒ Thursday in the morning or afternoon. Call to inquire about evening classes.  
 #### Where:  
-##### Day Sessions:  
-Cambridge—60 McDonald Avenue  
+**Cambridge**—60 McDonald Avenue  
   
-Waterloo—151 Weber Street South  
+**Waterloo**—151 Weber Street South  
 (South of Union Street)  
   
-##### Evening Sessions:  
-Please contact ESU at (519) 885-4356 ext. 5223 for more information
-  
-\* Transportation subsidy is possible  
+Transportation subsidy is possible  
 #### Ask For:  
 Cambridge—(519) 740-3800  
   
 Kitchener and Waterloo—(519) 885-4356 ext. 5223  
   
-Contact ESU using the online Contact Form (https://schools.wrdsb.ca/esu/)  
+Contact ESU using the online [Contact Form](https://schools.wrdsb.ca/esu/)  
 </details>  
   
 * * * * *  
@@ -255,7 +136,7 @@ Contact ESU using the online Contact Form (https://schools.wrdsb.ca/esu/)
 <details>  
 <summary>  
   
-## ESU: Essential Skills Upgrading for Independence  
+## ESU4I: Essential Skills Upgrading for Independence  
 ## Waterloo Region District School Board (WRDSB)  
 →WATERLOO  
   
@@ -264,53 +145,17 @@ www.wrdsb.ca/esu
 </summary>  
   
 #### What:  
-- Introduction to computers, communications (including creativity) and math  
-- Essential Skills of reading, writing, math, oral communication, digital technology, working with others  
-- Volunteering/employment or independence pathways  
+We offer a free learning program for adults with developmental disabilities. The program is in a small group or class setting and can be customized for individual needs. ESU4I focuses on development in reading, writing, math, or computer skills to prepare for further training, employment or independence.  
 #### Who:  
-We offer a free learning program for adults with developmental disabilities. The program is in a small group or class setting and can be customized for individual needs.  
+Adults  
 #### When:  
-Monday and Wednesday evenings from 4:00pm‒5:30pm, Friday mornings from 9:00am‒11:00am
-  
-\* Transportation subsidy is possible  
+Friday mornings from 9:00am‒11:00am
 #### Where:  
-Waterloo—151 Weber Street South (South of Union)  
+**Waterloo**—151 Weber Street South (South of Union)  
 #### Ask For:  
 Barb Williacy—(519) 885-4356 ext. 5224  
-ESU  Assessor—(519) 885-4356 ext. 5223  
   
-Contact ESU using the online Contact Form (https://schools.wrdsb.ca/esu/)  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## KW Habilitation  
-## LEG UP!  
-→KITCHENER  
-  
-www.kwhab.ca  
-  
-</summary>  
-  
-#### What:  
-Learning, Experience, Goals  
-  
-A learning and skill building program that provides small group learning and training geared towards adults seeking to enhance their skills for employment, volunteerism and independent living.  
-#### Who:  
-Adults (18+ years) who have a developmental disability  
-#### When:  
-Sessions are offered throughout the year  
-  
-Visit www.kwhab.ca for registration information  
-#### Where:  
-Kitchener—109 Ottawa Street South, Unit D  
-#### Ask For:  
-Annita Boer or Lana Higgison  
-LEG Up! Instructors  
-(519) 208-2225  
+Contact ESU using the online [Contact Form](https://schools.wrdsb.ca/esu/)  
 </details>  
   
 * * * * *  
@@ -319,7 +164,7 @@ LEG Up! Instructors
 <summary>  
   
 ## The Literacy Group of Waterloo Region  
-## Adult Literacy Skills Upgrading  
+## Adult Literacy  
 →CAMBRIDGE, KITCHENER, RURAL WATERLOO REGION, WATERLOO  
   
 www.theliteracygroup.com  
@@ -327,18 +172,15 @@ www.theliteracygroup.com
 </summary>  
   
 #### What:  
-Learner centered 1 to 1 tutoring & small group instruction in reading, writing, math, computers & workplace essential skills.  
-  
-Modular programs – short term programming to support learners either working, looking for work or wanting to upgrade their skills through programs running 6 to 8 weeks in length.  
+Learner centred 1 to 1 tutoring & small group instruction in reading, writing, math, computers & workplace essential skills.  
   
 All programs are also now available online. Contact us for more information.  
 #### Who:  
 Adults (18+ years)  
 #### When:  
 ##### Cambridge  
-Monday and Wednesday at 9:00am‒9:00pm  
-Tuesday and Thursday at 9:00am‒5:00pm  
-Friday at 8:30am‒4:00pm  
+Monday ‒ Thursday at 9:00am‒9:00pm  
+Friday at 9:00am‒4:00pm  
   
 ##### Kitchener  
 Monday ‒ Thursday at 9:00am‒9:00pm  
@@ -347,15 +189,15 @@ Friday at 9:00am‒4:00pm
 ##### Rural Sites  
 Phone for times  
 #### Where:  
-Cambridge—40 Ainslie Street South  
+**Cambridge**—40 Ainslie Street South  
   
-Kitchener—300 Victoria Street North, Unit 8  
+**Kitchener**—300 Victoria Street North, Unit 8  
   
 Phone for full site information  
 #### Ask For:  
 Any staff member will be able to assist.  
-Upgrading programs—(519) 743-6090  
-Email: info@tlgwr.ca  
+(519) 743-6090  
+info@tlgwr.ca  
 </details>  
   
 * * * * *  
@@ -372,15 +214,29 @@ www.theliteracygroup.com
 </summary>  
   
 #### What:  
-The Literacy Group provides customized modular based training for clients looking for short-term skills and literacy upgrading. Training topics range from Workplace Soft Skills, Customer Service and POS Cashier Training, Computer Upgrading and NOC related Literacy and Numeracy skills. Contact us for more details or visit our website to find out about our current programs and training opportunities.  
+The Literacy Group provides small group, customized modular-based training for clients looking for short-term skills and literacy upgrading. Training topics range from Workplace Soft Skills, Customer Service and POS Cashier Training, Basic Computer Training, Grammar, Writing and more. Contact us for more details or visit our website to find out about our current programs and training opportunities.  
   
 All programs are also now offered online. Contact us for more information.  
 #### Who:  
 Adults (18+ years)  
 #### When:  
-Continual intake  
+##### Cambridge  
+Monday ‒ Thursday at 9:00am‒9:00pm  
+Friday at 9:00am‒4:00pm  
+  
+##### Kitchener  
+Monday ‒ Thursday at 9:00am‒9:00pm  
+Friday at 9:00am‒4:00pm  
+  
+##### Rural Sites  
+Phone for times 
+  
 #### Where:  
-Kitchener and Cambridge offices. Programs can run in a satellite location and are flexible to meet the needs of the learner.  
+**Cambridge**—40 Ainslie Street South  
+  
+**Kitchener**—300 Victoria Street North, Unit 8  
+  
+Phone for full site information  
 #### Ask For:  
 Laurie Mazur—Modular Program Coordinator  
 laurie@theliteracygroup.com  
@@ -393,7 +249,7 @@ laurie@theliteracygroup.com
 <summary>  
   
 ## Project READ Literacy Network  
-## Educational Essential Skills Assessments  
+## Educational Assessments  
 →CAMBRIDGE, KITCHENER, WATERLOO  
   
 www.projectread.ca  
@@ -401,28 +257,29 @@ www.projectread.ca
 </summary>  
   
 #### What:  
-- Assessment of literacy and Essential Skills  
+- Assessment of literacy and Skills for Success for access to Better Jobs Ontario  
 - Referral into upgrading programs based on personal needs and goals  
 - Free for adults on Ontario Works in Waterloo Region  
-- Sliding scale of fees for other individuals  
+- Sliding scale of fees for other individuals    
   
 ##### Help for Businesses & Non-Profits  
 - Clear Writing services  
 - Bridges out of Poverty training  
 - Soft Skills Solutions certification training  
-- Mental Health Practitioner Guide workshops  
+- Mental Health Practitioner Guide workshops   
   
-\* All businesses & non-profit services are available for a fee. Contact us for an estimate.  
+All business & non-profit services are available for a fee. Contact us for an estimate.  
 #### Who:  
 Adults (18+ years)  
 #### When:  
 Assessments by appointment, please call or email  
 #### Where:  
-##### Cambridge, Kitchener and Waterloo  
-Online Assessments  
-Employment Resource Centres  
+- **Cambridge**, **Kitchener** and **Waterloo**  
+- Assessments available online or in-person  
+- Employment Resource Centres  
 #### Ask For:  
-Assessment information  
+Assessment information, Business or
+Non-Profit services  
 (519) 570-3054 or info@projectread.ca  
 </details>  
   
@@ -434,10 +291,9 @@ Assessment information
 ## St Louis Adult Learning & Continuing Education Centre  
 ## Waterloo Catholic District School Board (WCDSB)  
 ## Adult Secondary School Credit  
-## Ontario Secondary School Diploma (OSSD)  
 → KITCHENER, WATERLOO REGION  
   
-https://stlouis.wcdsb.ca  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
 </summary>  
   
@@ -450,32 +306,30 @@ https://stlouis.wcdsb.ca
 - Credits@Work—earn co-op credits while working (+20 hour online or handout component). Every hour worked counts toward each hour needed to complete a credit. First credit is 90 hours + 20 hours to complete Student Co-op Learning Plan. Each credit afterward is 110 hours.  
 - No Student Services Fee is charged, Correspondence requires a $60 fee per course.  
   
-`If schools must close due to public health orders, Secondary School Credit options and Guidance Services will be offered remotely through at-home learning with instructor support.  Access to a personal computer is required and will not be provided.`
 
 #### Who:  
 - Adults (18+ years)  
-- Students (16+ years) not attending school full time‒for correspondence and Credit@Work options only, additional fees apply  
+- Students (16+ years) not attending school full time. For correspondence and Credit@Work options only, additional fees apply.  
 
 #### When:  
   
 ##### Guidance Services:
-- Complete online Guidance Intake Form to arrange Guidance Services  
+- Complete online Guidance Intake Form to arrange Guidance Services (available online or in-person)  
 - September ‒ June  
 - Monday ‒ Thursday 8:30am‒12:30pm and 12:30pm‒4:00pm  
-- Tuesday and Wednesday 5:30pm‒7:30pm  
 - Closed Friday for PLAR assessments  
   
 ##### Day class instruction:  
 - Kitchener Main Campus only  
 - September ‒ June  
 - 5 terms a year (7-week terms), plus Summer School class in July  
-- Monday ‒ Friday, 8:45am‒11:45am and/or 12:30pm‒3:30pm  
+- Monday ‒ Friday at 8:45am‒11:45am and/or 12:30pm‒3:30pm  
   
 ##### Correspondence / Self-Directed Study:  
 - Kitchener Main  
 - Monday ‒ Thursday (no Fridays)  
   
-Registration and remote 1 to 1 tutor booking information may be found on https://stlouis.wcdsb.ca  
+Registration and remote 1 to 1 tutor booking information may be found on [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
 ##### Prior Learning and Recognition (PLAR):  
 Continuous registration and ongoing programming. PLAR testing on Fridays.  
@@ -485,21 +339,22 @@ Continuous registration and ongoing programming. PLAR testing on Fridays.
 - Program runs 20 hours online and remainder of time at place of employment  
 
 ##### Summer School:
-- July 4 ‒ 29, 2022
-- Monday ‒  Friday at 8:30am‒3:00pm (online or remote)
+- July 4 ‒ 28, 2023
+- Monday ‒  Friday at 8:30am‒3:00pm (online or remote, in-person to be determined)
   
 ##### Registration:  
 - Must complete online Guidance Intake Form (Monday ‒ Thursday) to enroll. Transcript or credit counselling summary from last high school required.  
 - Day classes have designated public registration days (see website for details).   
-- Secondary School Credit Day Class registration is generally 3 weeks before the start of each term. New term every 2 months.  
+- Secondary School Credit Day Class registration generally starts 3 weeks before the start of each term. New term every 2 months.  
 - Summer School registration begins in March  
 #### Where:  
 ##### St. Louis—Kitchener Main Campus  
 80 Young Street (behind Kitchener City Hall)  
   
 #### Ask For:  
-Email: stlouis@wcdsb.ca  
-or Complete Guidance Intake Form  
+Email—stlouis@wcdsb.ca  
+or Complete Guidance Intake Form
+found on website  
 </details>  
   
 * * * * *  
@@ -512,38 +367,42 @@ or Complete Guidance Intake Form
 ## Core Essentials Upgrading  
 →CAMBRIDGE, KITCHENER  
   
-https://stlouis.wcdsb.ca  
-  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
 </summary>  
   
 #### What:  
-- Core Essentials is a free program that offers a comfortable classroom environment (in-person or at-home), flexible daytime hours for study, instruction tailored to your goals  
-- Prepare for Secondary School Credit courses including English and Math, employment or volunteer work  
-- Math Essentials offered 2 days per week
-- Prepare for Prior Learning Assessment and Recognition (PLAR) and School-to-Work Training  
-- Learn how to learn again ‒ as an adult; Build confidence in reading, writing and math skills  
-- *E-learning options and other technology as an educational tool (if you choose)  
-- Free bus tickets and limited assistance for child care costs for eligible students  
-`If schools must close due to public health orders, Core Essentials will continue to be offered through at-home learning with instructor support. Access to a personal computer is an asset.`  
+Core Essentials is a FREE literacy and basic skills program, offered in-person or online and tailored to your learning goals.
+##### Students who take Core Essentials:
+- Prepare for next steps such as: Secondary School Credit courses, employment, or volunteer work
+- Prepare for PLAR (Prior Learning Assessment & Recognition) and School-to-Work Skills Training
+- Learn how to learn again – as an adult
+- Build confidence in reading, writing, computer, and math skills
+- Focus on long-term goals and know what needs to get done to get there
+##### Core Essentials offers:
+- Comfortable in-person and online classroom environments
+- Flexible daytime hours of study
+- Instruction tailored to your goals
+- Certified adult instructors who will guide and prepare you, respect your needs and eagerly help you learn
+- Support through Independent Remote Learning
+- Upgrading to prepare for many credit classes, including English and Math
+- Specific Math Essentials classes are offered 2 days per week  
 #### Who:  
 Adults (19+ years)  
 #### When:  
 ##### Core Essentials:
 - September ‒ June  
-- Monday ‒ Thursday, plus Fridays in Kitchener  
-- Full-time and part-time  
-- 8:45am‒11:45am, 12:30pm‒3:00pm  
+- In-person classes: Monday – Thursday at 8:45am‒11:45am and/or 12:30pm‒3:00pm  
+- Online classes: Monday – Thursday at 9:15am‒11:45am and/or 12:45pm‒3:15pm    
   
 ##### Math Essentials:
-- Tuesday and Friday  
-- 8:45am‒11:45am, 12:30pm‒3:00pm  
+- September ‒ June  
+- Tuesday and Friday at 8:45am‒11:45am, 12:30pm‒3:00pm  
 
 #### Where:  
 ##### St. Louis—Kitchener Main Campus  
 80 Young Street (behind Kitchener City Hall)  
   
-##### St. Louis—Cambridge St. Benedict Campus  
-50 Saginaw Parkway (off Green Vista Drive, behind St. Benedict Catholic Secondary School)  
+  
 #### Ask For:  
 Core Essentials Program to book an interview with an intake coordinator  
 (519) 745-1201 ext. 238  
@@ -560,62 +419,44 @@ or email stlouis@wcdsb.ca
 ## School-to-Work Skills Training Programs  
 →CAMBRIDGE, KITCHENER  
   
-https://stlouis.wcdsb.ca  
-  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
 </summary>  
   
 #### What:  
 - Personal Support Worker Certificate Program (PSW) full-time and part-time programs (Kitchener & Cambridge)
-- Culinary Arts Training Program (Kitchener only)
+- Culinary Arts & Hospitality courses or Training Program (Kitchener only)
 - Hairstyling & Barber Training Program (Kitchener only)
-- All programs offer in-class instruction, experiential hands-on learning, secondary school elective credits and have minimum 220-hour work placements
-- Tuition is paid by Ministry of Education funding, additional materials fees may apply ($1,300/yr) \*Fees subject to change\* Materials fee waived for PSW until at least March 2022  
-  
-`If schools must close due to public health orders, Core Essentials will continue to be offered through at-home learning with instructor support. Access to a personal computer is an asset.`  
-  
+- All programs offer in-class instruction, experiential hands-on learning, secondary school elective credits and have minimum 220-hour co-op / work placements
+- Tuition is paid by Ministry of Education funding, additional materials fees may apply ($75 per Culinary course and $1,600 per year for Hairstyling / Barber Training). Fees subject to change. Materials fee waived for PSW until at least March 2023. PSW students receive a paid stipend, while government funding is available    
 #### Who:  
-All school to work programs Adults (18+ years)  
+All School-to-Work programs Adults (18+ years)  
   
 Instructors are Certified Teachers or Registered Nurses (PSW). ALL have minimum of 5 years industry experience.  
 #### Where:  
 ##### Culinary, Hair, PSW  
-St. Louis—**Kitchener** Main Campus  
+**St. Louis—Kitchener Main Campus**  
 80 Young Street (behind Kitchener City Hall)  
   
-##### PSW Part-Time Day Program ONLY  
-St. Louis—Fairview Seniors Community  
+**PSW Part-Time Day Program ONLY** (follows a “Living Classroom” learning model)  
+**St. Louis—Cambridge Fairview Seniors Community**  
 515 Langs Drive, **Cambridge**  
 #### When:  
-**Full-time day**, in-class instruction for all programs, class times vary, plus two-month work placement
-  
-###### Culinary Arts (Level I & II Cook Certificate)  
-**Full-time**, Monday ‒ Thursday, 8:30am‒3:00pm  
-Placement times vary  
-- ***January 17, 2022*** ‒ March 2023 (Level I in-class, no classes March Break or June to August 2022) / September 2022 – December 2022 (Level II class begins / Co-op placements in January – March 2022)  
-- ***September 2022*** ‒ July 2023 (Level I & II in-class / no classes Holiday or March Break Co-op placements in June & July 2023)  
-  
-###### Hairstyling & Barbering  
-**Full-time**, Monday ‒ Friday, 8:45am-3:30pm  
-Placement times vary  
-- ***January 6, 2022*** ‒ August 16, 2022 (Level I & II in-class / no classes March Break / Co-op placements July & August 2022)  
-- ***April 4, 2022*** ‒ February 2023 (Level I & II in-class / no classes July & August 2022 / Co-op placements in December 2022 & February 2023)  
-- ***September 2022*** ‒ July 2023 (Level I & II in-class / no classes Holiday or March Break 2023 / Co-op placement June & July 2023)  
-  
-###### PSW  
-**Full-time Day**, Monday ‒ Friday, 8:45am‒3:30pm  
-  
-**Part-time Day**, Tuesday ‒ Thursday & one Monday per month, 8:45am‒3:30pm  
-  
-**Part-time Evening**, Tuesday ‒ Thursday & one Monday per month, 4:30pm‒10:00pm  
-  
-Placement times vary  
-- ***February 22, 2022*** ‒ November 2022 in-class (no class July ‒ August 2022)  
-- ***September 2022*** ‒ April 2023 in-class (no classes Holiday or March Break)  
-- PSW offers part-time day and evening program options at satellite locations  
-- No classes or placements in July & August, work placement days and times may vary
-  
+Full-time day, in-class instruction for all programs, class times vary, plus two-month work placement
+##### Culinary Arts   
+- New courses offered every 2 months Monday ‒ Friday at 8:45am‒11:45am and / or 12:30pm‒3:30pm  
+- September ‒ June. No classes in summer. Co-op available  
+##### Hairstyling & Barbering  
+- Full-time, Monday ‒ Friday at 8:45am‒3:30pm  
+- Co-op placement times vary  
+##### PSW  
+- Full-time Day: Monday ‒ Friday at 8:45am‒3:30pm   
+- Part-time Day: Tuesday ‒ Thursday at 8:45am‒3:30pm   
+- Part-time Evening: Tuesday ‒ Thursday and one Monday per month, at 4:30pm‒9:30pm  
+- Work placement times vary  
 ##### Registration  
-Intake / Registration sessions for Culinary, Hair & PSW offered throughout the year. Visit website for upcoming dates and processes for virtual or in-person registration.  
+Intake / Registration sessions for Hair & PSW offered throughout the year. See website for details.  
+  
+Registration for Culinary & Hospitality courses is offered at the same times as Secondary School Credit registration – 5 terms per year. Visit website for upcoming dates and processes for virtual or in-person registration.    
 #### Ask For:  
 Information about the specific program  
 email: stlouis@wcdsb.ca or  
@@ -630,27 +471,113 @@ PSW—(519) 745-1201 ext. 288
 <details>  
 <summary>  
   
-## Waterloo Region District School Board (WRDSB)  
-## Secondary School Credit, Night School, Continuing Education  
-→CAMBRIDGE, KITCHENER, RURAL WATERLOO REGION, WATERLOO  
+## Skills Upgrading Program  
+## Upper Grand District School Board (UGDSB)  
+## Adult Day Credit Program  
+→GUELPH  
   
-https://schools.wrdsb.ca/continuing-education/  
+[www.get-credits.ca](https://www.ugdsb.ca/continuing-education/)  
   
 </summary>  
   
 #### What:  
-- Grade 11 and Grade 12 credit courses in English, science, math and social science  
-- Teacher directed, in class courses  
+- Grade 11 and 12, Senior Credit Courses in English, Mathematics, Chemistry and Biology at the workplace, college and university levels  
+- Courses are offered on a rotational basis following a 6 week schedule  
 #### Who:  
-Adults and secondary school students  
+Adults (18+ years). English as a Second Language Learners with speaking and listening skills at a CLB 7.  
 #### When:  
-Please check our website or contact our office for current offerings  
+Monday ‒ Friday at 9:00am to 12:00pm (September ‒ June)  
+  
+6 week sessions with mandatory attendance
 #### Where:  
-Please check our website or contact our office for current locations  
+**Guelph—Wellington Centre for Continuing Education**  
+1428 Gordon Street
 #### Ask For:  
-Staff—(519) 885-0800  
+Student Services—(519) 836-7280 ext. 627  
+  
 </details>  
   
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## Skills Upgrading Program  
+## Upper Grand District School Board (UGDSB)  
+→GUELPH  
+  
+[www.get-credits.ca](https://www.ugdsb.ca/continuing-education/)  
+  
+</summary>  
+  
+#### What:  
+- Skills upgrading in reading, writing, mathematics and computers
+- Preparing for high school diploma, college or GED
+- Improving Essential Skills for employment
+- Continuous intake from September ‒ June
+- Individualized learning plans and flexible hours
+#### Who:  
+Adults 18+ who are not currently registered in a high school.  
+  
+English as a Second Language Learners with speaking and listening skills at a CLB 6.  
+#### When:  
+Monday ‒ Friday programming with day and evening times available from September ‒ June. Hybrid programming available with in person and remote support.  
+#### Where:  
+**Guelph—Wellington Centre for 
+Continuing Education**  
+1428 Gordon Street  
+  
+**Guelph—Tytler Centre for
+Continuing Education**  
+131 Ontario Street, 3rd Floor  
+#### Ask For:  
+Skills Upgrading Program Manager  
+Call or Text—(226) 821-2694  
+skillsupgradingprogram@ugconed.ca  
+(519) 836-7280 ext. 624
+  
+  
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## Skills Upgrading Program  
+## Upper Grand District School Board (UGDSB)  
+→DRAYTON, FERGUS, MOUNT FOREST  
+  
+[www.get-credits.ca](https://www.ugdsb.ca/continuing-education/)  
+  
+</summary>  
+  
+#### What:  
+- Skills upgrading in reading, writing, mathematics and computers
+- Preparing for high school diploma, college or GED
+- Improving Essential Skills for employment
+- Continuous intake from September ‒ June
+- Individualized learning plans and flexible hours  
+#### Who:  
+Adults 18+ who are not currently registered in a high school.  
+  
+English as a Second Language Learners with speaking and listening skills at a CLB 6.  
+#### When:  
+Monday ‒ Thursday programming with day and evening times available from September ‒ June. Hybrid programming available with in person and remote support.  
+#### Where:  
+**Drayton—Mennonite Fellowship Church**  
+109 Wellington Street South  
+  
+**Fergus—Bethel Baptist Church**  
+675 Victoria Terrace  
+  
+**Mount Forest—Portable at North Wellington Centre for Continuing Education**  
+405B Sligo Road East  
+#### Ask For:  
+Call or Text—(226) 821-2694  
+skillsupgradingprogram@ugconed.ca  
+</details>  
+    
 * * * * *  
   
 <details>  
@@ -665,50 +592,26 @@ www.thewclc.ca
 </summary>  
   
 #### What:  
-- Trades Helper program (NEW)  
-- 1 to 1 tutoring in rural Dufferin County  
-- Digital Literacy (Tuesdays and Wednesdays)  
-- GED Prep  
-- Just for YOUth after school 1 to 1 tutoring program  
-- Math and Reading groups for age 6‒12 years  
-- Essential skills program for young adults 16‒22 years, not in school (February ‒ March only)  
-- Financial Literacy (Spring and Fall 2020)  
-- Safe Food Handling training with certificate (Winter and Summer 2020)  
-- Circles Wellington County  
-- Cashier Training  
+- Trades Helper Program  
+- Digital Literacy  
+- GED preparation – call for interview and assessment  
+- Just For Youth after school 1 to 1 tutoring program  
+- Literacy and numeracy assessments  
+- Math or reading groups for children 6–12 years  
+- Let’s Get Real – research and development on education/career options for young adults not in school  
+- Safe Food Handling  
+- Financial Literacy  
+- Stronger Together    
 #### Who:  
 Adults (19+ years), Youth (16‒22 years), Children (6‒12 years)  
 #### When:  
-##### GED Prep  
-Monday ‒ Thursday at 9:00am‒4:30pm (please call if you require a meeting outside of these hours)  
+Call the Learning Centre for dates and times of programs.  
   
-\* GED Prep assessments on Saturdays by appointment only  
-  
-##### Essential Skills for Employment and 1 to 1 Tutoring  
-Monday ‒ Thursday at 9:00am‒4:30pm  
-Programs designed to fit your specific needs  
-  
-##### Just For YOUth program  
-Various evening times. Homework help;  
-Literacy and Numeracy assessments; Career/education searching and development for young adults with little to no direction.  
-  
-##### Short Term Programs  
-Safe food handling and Financial Literacy are available when there is a group of 4 or more adults. Call the Learning Centre to register or create your own group and we will run the program just for your group!  
-  
-##### Circles Program  
-Wednesday evenings 5:00pm‒7:30pm  
-\* please phone to learn more about this program and the application process  
-  
-##### Learning Centre Hours  
-Monday ‒ Thursday at 9:00am‒4:30pm Friday at 9:00am‒12:00pm  
+Office Hours: Monday ‒ Thursday at 9:00am‒4:30pm, Friday at 9:00am‒12:00pm  
 #### Where:  
 **Arthur**—207A George Street (P.O. Box 256)  
-(transportation available for adults to and from office)  
-#### Ask For:  
-Elizabeth Debergh—Executive Director  
-Pat Belding—Adult Co-ordinator  
-Laurie Few—Youth Co-ordinator  
-Jessica McClennan—Circles Coach / Adult Literacy Instructor  
   
+Transportation can be arranged for those who require to and from the office in Arthur.
+#### Ask For:  
 (519) 848-3462 or literacy@thewclc.ca  
 </details>
