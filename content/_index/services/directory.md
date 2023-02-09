@@ -24,10 +24,10 @@ title = "The Directory of Programs"
 
 [[buttons]]
   text = "Download"
-  url = "/pdf/directory-2022.pdf"
+  url = "/pdf/directory-2023.pdf"
   icon = "far fa-file-pdf"
   color= "light"
-  download_file = "directory-2022.pdf"
+  download_file = "directory-2023.pdf"
 
 +++
 
