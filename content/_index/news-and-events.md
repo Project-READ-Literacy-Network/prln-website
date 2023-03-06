@@ -7,7 +7,7 @@ title = "News and Events"
 title_align = "left" 
 
 [[buttons]]
-  text = "Register for Reading Rumble 2023"
+  text = "Register for or Donate to Reading Rumble 2023"
   url = "https://www.canadahelps.org/en/charities/project-read-literacy-network-waterloo-wellington/p2p/Reading-Rumble-2023/"
   color = "primary"
   
