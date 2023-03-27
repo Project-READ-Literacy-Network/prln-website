@@ -20,7 +20,7 @@ minHeight = "45vh"
 
 ***
 
-Through [dedication, collaboration, innovation and integrity](/about/about-us/our-values/), we are helping to build healthy and engaged communities through literacy and essential skills training.
+Through [dedication, collaboration, innovation and integrity](/about/about-us/our-values/), we are helping to build healthy and engaged communities through literacy and Skills for Success training.
 
 </details>
   

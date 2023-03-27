@@ -28,7 +28,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [params]
   name = "Project READ Literacy Network"
-  description = "A Doorway to Literacy and Essential Skills Services in Waterloo-Wellington"
+  description = "A Doorway to Literacy and Skills for Success Services in Waterloo-Wellington"
   
 
   [params.style]
