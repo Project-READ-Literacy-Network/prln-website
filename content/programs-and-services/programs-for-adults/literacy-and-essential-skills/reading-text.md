@@ -1,5 +1,5 @@
 +++
-title = "Reading Text"
+title = "Reading"
 weight = 10
 
 [asset]

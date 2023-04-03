@@ -1,5 +1,5 @@
 +++
-title = "Oral Communications"
+title = "Communication"
 weight = 60
 
 [asset]

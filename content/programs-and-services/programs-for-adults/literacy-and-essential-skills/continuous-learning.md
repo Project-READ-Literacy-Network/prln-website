@@ -1,5 +1,5 @@
 +++
-title = "Continuous Learning"
+title = "Adaptability"
 weight = 90
 
 [asset]
