@@ -24,7 +24,7 @@ minHeight = "45vh"
 
 ***
 
-With our expertise, broad community network, resources, and years of experience serving diverse literacy needs, Project READ is a key resource for adult and family literacy services and education in Waterloo-Wellington. We are committed to ensuring that every individual has access to literacy and Essential Skills training needed to learn, grow, and flourish.
+With our expertise, broad community network, resources, and years of experience serving diverse literacy needs, Project READ is a key resource for adult and family literacy services and education in Waterloo-Wellington. We are committed to ensuring that every individual has access to literacy and Skills for Success training needed to learn, grow, and flourish.
 
 </details>
   

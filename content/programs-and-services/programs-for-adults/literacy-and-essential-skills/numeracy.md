@@ -1,5 +1,5 @@
 +++
-title = "Numeracy or Math"
+title = "Numeracy"
 weight = 40
 
 [asset]

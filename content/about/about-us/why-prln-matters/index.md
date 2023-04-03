@@ -13,6 +13,6 @@ minHeight = "60vh"
 
 +++
 
-Founded in 1988, Project READ Literacy Network is a doorway to literacy and Essential Skills services offered in Waterloo-Wellington. Project READ believes that literacy and Essential Skills are necessary for an individual to reach their full potential and to function independently.
+Founded in 1988, Project READ Literacy Network is a doorway to literacy and Skills for Success services offered in Waterloo-Wellington. Project READ believes that literacy and Skills for Success are necessary for an individual to reach their full potential and to function independently.
 
 

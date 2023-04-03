@@ -7,7 +7,7 @@ weight = 300
 background = "light" # can influence the text color
 particles = false
 
-#title = "A Doorway to Literacy & Essential Skills Services"
+#title = "A Doorway to Literacy & Skills for Success Services"
 
 
   

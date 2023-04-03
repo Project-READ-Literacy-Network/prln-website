@@ -1,5 +1,5 @@
 +++
-title = "Computer Use"
+title = "Digital"
 weight = 80
 
 [asset]

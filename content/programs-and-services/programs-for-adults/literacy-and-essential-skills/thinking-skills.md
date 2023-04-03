@@ -1,5 +1,5 @@
 +++
-title = "Thinking Skills"
+title = "Problem Solving"
 weight = 50
 
 [asset]

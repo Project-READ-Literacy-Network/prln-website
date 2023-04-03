@@ -1,5 +1,5 @@
 +++
-title = "Working With Others"
+title = "Collaboration"
 weight = 70
 
 [asset]

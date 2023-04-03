@@ -7,7 +7,7 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "A Doorway to Literacy & Essential Skills Services"
+title = "A Doorway to Literacy & Skills for Success Services"
 
 [header]
   image = "class-group.jpg"
