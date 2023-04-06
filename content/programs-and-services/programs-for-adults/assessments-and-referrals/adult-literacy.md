@@ -6,7 +6,7 @@ weight = 120
 background = "light"
 align = "right"
 
-title = "Adult Literacy and Essential Skills"
+title = "Adult Literacy and Skills for Success"
 
 [asset]
   image = "adult-referral.png"
@@ -18,4 +18,4 @@ title = "Adult Literacy and Essential Skills"
   
 +++
 
-We provide free referrals to adult literacy and Essential Skills programs and agencies in Waterloo Region and Guelph-Wellington.  These programs are free to citizens in Ontario.
+We provide free referrals to adult literacy and Skills for Success programs and agencies in Waterloo Region and Guelph-Wellington.  These programs are free to citizens in Ontario.
