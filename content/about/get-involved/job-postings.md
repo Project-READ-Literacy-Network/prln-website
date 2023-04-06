@@ -1,16 +1,14 @@
 +++
-fragment = "item"
+fragment = "job-postings"
 weight = 130
-background = "light"
+background = "warning"
 align = "center"
+title = "Current Job Opportunities"
+subtitle = "Please click the image below to scroll through the pages and see more job postings when we have them."
 
-#subtitle = ""
-padding = "pt-4 pb-2"
 
 
 +++
 
-### Current job postings
 
-There are currently no available opportunities.
 
