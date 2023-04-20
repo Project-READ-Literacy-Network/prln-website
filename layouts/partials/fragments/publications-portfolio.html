@@ -31,6 +31,11 @@
                   <div class="rounded publication-image fill-item mx-auto">
             <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image pub" alt="{{ .text }}">  
           </div>
+                  {{- end }}
+        {{- if .g_drive_url_id -}}
+                  <div class="rounded publication-image fill-item mx-auto">
+            <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="portfolio-image pub" alt="{{ .text }}">  
+          </div>
              {{- end }}   
                {{- end }}                      
                 
@@ -46,6 +51,9 @@
                 <div class="content hidden">{{ .Content }}
                     {{- if .Params.free_download }}
                     <a href="{{ .Params.free_download | relLangURL }}"> Free Download </a> 
+                    {{ end }}
+                    {{- if .Params.g_drive_free_download }}
+                    <a href="https://drive.google.com/uc?export=download&id={{ .Params.g_drive_free_download }}"> Free Download </a> 
                     {{ end }}
                 </div>
             {{- if .Params.item_url }}
