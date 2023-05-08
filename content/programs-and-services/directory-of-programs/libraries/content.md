@@ -212,8 +212,7 @@ www.wpl.ca
 </summary>  
   
 #### What:  
-- Career, job search and  
-- resume information  
+- Career, job search and resume information  
 - Library Settlement Program workers for specific newcomer and employment support  
 - Tech Connect Service  
 - Access to computers, printers, photocopiers and scanners  
@@ -239,6 +238,10 @@ Open to everyone. Programs, collections, and services for all ages.
   
 ##### McCormick Branch  
 500 Parkside Drive  
+
+##### Eastside Branch
+2001 University Avenue East
+
 #### Ask For:  
 (519) 886-1310 ext. 124  
 askus@wpl.ca
