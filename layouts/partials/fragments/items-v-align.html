@@ -25,17 +25,15 @@
                     {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
                   ">
                 {{- end }}
+                      
                 {{- if .image }}
                   <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">
-                
+                {{- end }}
                       
-                                        {{- end }}
-        {{- if .g_drive_url_id -}}
-            <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">  
-             {{- end }} 
-                      
-                      
-                      
+                {{- if .g_drive_url_id -}}
+                  <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">  
+                {{- end }} 
+      
                 {{- if .icon }}
                   <span class="fa-stack fa-4x m-2" title="{{ .text | default $item.title }}">
                     <i class="fas fa-circle fa-stack-2x

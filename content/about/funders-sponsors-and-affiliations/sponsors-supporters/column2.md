@@ -2,6 +2,7 @@
 weight = 20
 
 [asset]
-  image = "kwcf-logo.svg"
-  url = "https://www.kwcf.ca/"
+  g_drive_url_id = "1W-EJZBlb3tMnNnMZrsfntNSsRAmDBWX3"
+  url = "https://www.wrcf.ca/"
+  name = "Waterloo Region Community Foundation (WRCF)"
 +++
