@@ -31,14 +31,13 @@
                   <div class="rounded publication-image fill-item mx-auto">
             <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image pub" alt="{{ .text }}">  
           </div>
-                  {{- end }}
-        {{- if .g_drive_url_id -}}
+              {{- end }}
+                  {{- if .g_drive_url_id -}}
                   <div class="rounded publication-image fill-item mx-auto">
             <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="portfolio-image pub" alt="{{ .text }}">  
           </div>
              {{- end }}   
                {{- end }}                      
-                
                 {{- if .Params.alt_sort_title }}<h6 class="title publication-title w-100 pt-2 px-4 px-xl-2">{{ .Params.alt_sort_title  }}</h6>
                   {{ if .Params.subtitle }}<h6 class="subtitle publication-subtitle w-100 px-4 px-xl-2">{{ .Params.subtitle }}</h6>{{ end }}
                 {{- else }}

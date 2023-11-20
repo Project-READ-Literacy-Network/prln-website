@@ -24,16 +24,25 @@
                >
             {{- if .Params.item_url }}
               <a href="{{ .Params.item_url | relLangURL }}">
+                  {{- else -}}  
+            
+            {{- if .Params.g_drive_free_download }}
+              <a href="https://drive.google.com/uc?export=download&id={{ .Params.g_drive_free_download }}">
+            {{- end }}
             {{- end }}
                   {{- $this := . -}}
              {{- with .Params.asset -}}
           {{- if .image -}}
                   <div class="rounded publication-image fill-item mx-auto">
-            <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image" alt="{{ .text }}">  
+            <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image pub" alt="{{ .text }}">  
+          </div>
+              {{- end }}
+                  {{- if .g_drive_url_id -}}
+                  <div class="rounded publication-image fill-item mx-auto">
+            <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="portfolio-image pub" alt="{{ .text }}">  
           </div>
              {{- end }}   
-               {{- end }}                      
-                
+               {{- end }}  
                 {{- if or .Params.title .Params.subtitle }}
                       {{ if .Params.title }}<h6 class="title publication-title w-100 pt-2 px-4 px-xl-2">{{ .Params.title }}</h6>{{ end }}
                       {{ if .Params.subtitle }}<h6 class="subtitle publication-subtitle w-100 px-4 px-xl-2">{{ .Params.subtitle }}</h6>{{ end }}
