@@ -37,12 +37,10 @@
                 {{- with .Params.asset -}}
                   {{- if .image -}}
                     <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image img-fluid" alt="{{ .text }}">
-                  {{- else if .icon }}
-                    <span class="portfolio-icon fa-stack fa-3x m-2" title="{{ .text }}">
-                      <i class="{{ .icon }} fa-stack-2x fa-inverse"></i>
-                      <span class="sr-only">{{ .text }}</span>
-                    </span>
-                  {{- end -}}
+                  {{- else if .g_drive_url_id -}}
+                    <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="portfolio-image img-fluid" alt="{{ .text }}">  
+
+                {{- end }}
                 {{- end -}}
                 <div class="position-absolute hover-overlay"></div>
                 {{- if .Params.labels -}}
