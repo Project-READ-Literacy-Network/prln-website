@@ -1615,6 +1615,24 @@ th:only-of-type {
   margin-bottom: 1rem !important;
 }
 
+
+/*********************/
+/*   Custom H1 links */
+/*********************/
+
+section#skills-for-success a:hover h1   {
+    border-top: none;
+    color: black;
+    padding: 1rem;
+    margin: -1rem;
+    background-color: #FDFCF9;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
+
+
+
 /*********************/
 /*   The Directory   */
 /*********************/
