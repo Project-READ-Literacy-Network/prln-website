@@ -4,7 +4,7 @@ subtitle = "Research Report - 2023"
 g_drive_free_download = "1JnteXf0mcUrrCzNG8NrGtbKSzHR37jmU"
 
 [asset]
-  g_drive_url_id = "14R20wy3xc5aqOpQe5NAvQUjq-4KnJ0yI"
+  g_drive_img = "14R20wy3xc5aqOpQe5NAvQUjq-4KnJ0yI"
   text = "Research Report - 2023"
   
 

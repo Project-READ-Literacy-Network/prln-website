@@ -12,16 +12,7 @@
     {{- else -}}
       {{- range (sort $items ".Params.weight" "desc") }}
         <div class="col-sm-6 col-md-4 col-lg-3 pt-3 pb-2 col-xl-2 px-5 px-sm-2">
-          <div
-            class="portfolio-item overflow-hidden 
-              {{- if not .Params.item_url }} has-modal {{- end -}}
-              {{- with .Params.background -}}
-                {{- if .image -}}
-                  {{- print " has-background" -}}
-                {{- end -}}
-              {{- end -}}
-            " 
-               >
+ 
             {{- if .Params.item_url }}
               <a href="{{ .Params.item_url | relLangURL }}">
                   {{- else -}}  
@@ -37,9 +28,9 @@
             <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image pub" alt="{{ .text }}">  
           </div>
               {{- end }}
-                  {{- if .g_drive_url_id -}}
+                  {{- if .g_drive_img -}}
                   <div class="rounded publication-image fill-item mx-auto">
-            <iframe src="https://drive.google.com/file/d/{{ .g_drive_url_id }}/preview" frameborder="0" width="100%" height="500" alt="{{ .text }}"></iframe>
+            <iframe src="https://drive.google.com/file/d/{{ .g_drive_img }}/preview" frameborder="0" width="100%" height="500" alt="{{ .text }}"></iframe>
           </div>
              {{- end }}   
                {{- end }}  
@@ -56,7 +47,7 @@
               </a>
                   {{- end }}
             {{- end }}
-          </div>
+          
         </div>
       {{- end -}}
     {{- end }}

@@ -4,7 +4,7 @@ title = "Reading Rumble 2024"
 subtitle = "Registration now open!"
 
 [asset]
-  g_drive_url_id = "1GTpwNEbrsUUoFdtLUlJZj-e0zxQ7Vfey"
+  g_drive_img = "1GTpwNEbrsUUoFdtLUlJZj-e0zxQ7Vfey"
   
 [[labels]]
   title = "Reading"

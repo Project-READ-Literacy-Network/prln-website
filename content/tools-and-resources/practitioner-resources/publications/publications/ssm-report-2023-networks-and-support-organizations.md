@@ -4,7 +4,7 @@ subtitle = "Best practices & lessons learned (2023)"
 g_drive_free_download = "1x9tfCYDcjEYdHgKUroFwgAiptubMSYgF"
 
 [asset]
-  g_drive_url_id = "16PALtO1T_rawXa9q30hckcT5ZGIH_hzN"
+  g_drive_img = "16PALtO1T_rawXa9q30hckcT5ZGIH_hzN"
   text = "SSM Report - 2023"
   
 

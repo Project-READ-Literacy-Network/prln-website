@@ -37,8 +37,8 @@
                 {{- with .Params.asset -}}
                   {{- if .image -}}
                     <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "500x380") }}" class="portfolio-image img-fluid" alt="{{ .text }}">
-                  {{- else if .g_drive_url_id -}}
-                    <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="portfolio-image img-fluid" alt="{{ .text }}">  
+                  {{- else if .g_drive_img -}}
+                    <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_img }}" class="portfolio-image img-fluid" alt="{{ .text }}">  
 
                 {{- end }}
                 {{- end -}}

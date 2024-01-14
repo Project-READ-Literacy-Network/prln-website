@@ -25,8 +25,8 @@
                 {{- if .image }}
                   <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="p-2 w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">
                 {{- end }}      
-                {{- if .g_drive_url_id -}}
-                  <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_url_id }}" class="w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">  
+                {{- if .g_drive_img -}}
+                  <img src="https://drive.google.com/uc?export=view&id={{ .g_drive_img }}" class="w-75" title="{{ .Name }}" alt="{{ .text | default $item.title }}">  
                 {{- end }} 
                       
                 {{- if .icon }}
