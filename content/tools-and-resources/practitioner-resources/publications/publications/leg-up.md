@@ -4,7 +4,7 @@ subtitle = "A program to build capacity in job seekers with disabilities for LBS
 #g_drive_free_download = "1JnteXf0mcUrrCzNG8NrGtbKSzHR37jmU"
 
 [asset]
-  g_drive_img = "1fnG7DSP2OV6gUiCoBNiWIKDaBAk9znc_"
+  image = "/publications/leg-up.png"
   text = "A program to build capacity in job seekers with disabilities for LBS and DS (2023)"
   
 

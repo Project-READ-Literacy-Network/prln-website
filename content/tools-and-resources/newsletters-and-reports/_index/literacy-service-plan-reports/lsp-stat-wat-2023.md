@@ -6,7 +6,7 @@ g_drive_pdf = "1nblmftPYRuFsdylu2v3nsE-qDQHPYzWO"
 
 
 [asset]
-  g_drive_img = "1SYZuCaooD9x5kq0aMQl9GGyGZIc9L-N8"
+  image = "lsp/wat-stat-2022-23.png"
   text = "Waterloo LSP Stats Report - 2023"
 
 

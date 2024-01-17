@@ -4,7 +4,7 @@ subtitle = "Research Report - 2023"
 g_drive_free_download = "1JnteXf0mcUrrCzNG8NrGtbKSzHR37jmU"
 
 [asset]
-  g_drive_img = "14R20wy3xc5aqOpQe5NAvQUjq-4KnJ0yI"
+  image = "/publications/lbs-pathway.jpg"
   text = "Research Report - 2023"
   
 

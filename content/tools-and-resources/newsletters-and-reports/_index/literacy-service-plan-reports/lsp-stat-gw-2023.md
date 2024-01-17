@@ -6,7 +6,7 @@ g_drive_pdf = "1GGoDAXUOYsB2jCLylBEaJA_WwlkmRmHI"
 
 
 [asset]
-  g_drive_img = "1xedrpeeHJTDafb9zv3TUMbG7XY5RJ68L"
+  image = "lsp/gw-stat-2022-23.png"
   text = "Guelph-Wellington LSP 2024-2025"
 
 

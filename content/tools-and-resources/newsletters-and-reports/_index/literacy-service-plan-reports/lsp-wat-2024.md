@@ -6,7 +6,7 @@ g_drive_pdf = "1naVySN8Ouen3h6pwInceW5eeq_vTjSE1"
 
 
 [asset]
-  g_drive_img = "1m_Tm431EETqSrGk7deMPByzqmzeSUyso"
+  image = "lsp/wat-lsp-2024-25.png"
   text = "Waterloo LSP 2024-2025"
 
 
