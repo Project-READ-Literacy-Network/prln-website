@@ -13,7 +13,7 @@ title = "The Directory of Programs"
 <summary>  
   
 ## 2nd Chance Employment Counselling  
-## Employment Ontario  
+## *Employment Ontario*  
 →GUELPH, FERGUS, RURAL WELLINGTON  
   
 www.2ndchance.ca  
@@ -175,7 +175,7 @@ www.cambridgecareerconnections.com
 </summary>  
   
 #### What:  
-As an Employment Ontario service provider, we have free employment-related programs for job seekers, employers and educators.  
+As an *Employment Ontario* service provider, we have free employment-related programs for job seekers, employers and educators.  
 **For Job Seekers**  
 Assists job seekers to find and keep successful employment, training and apprenticeships  
 - Connects job seekers to other community services and opportunities for overcoming barriers and life stabilization  
@@ -212,7 +212,7 @@ ccc@jhsww.ca
 <summary>  
   
 ## Conestoga Community Career Centre  
-## Employment Ontario (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG)  
+## *Employment Ontario* (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG)  
 →ELMIRA, KITCHENER, NEW HAMBURG, RURAL WELLINGTON, WATERLOO, WELLESLEY, WILMOT  
   
 www.conestogac.on.ca/career-centre  
@@ -221,9 +221,12 @@ www.conestogac.on.ca/career-centre
   
 #### What:  
 Employment services are available to anyone seeking employment, career planning support, and training opportunities. Our experienced staff can open doors to help find the right fit for employment and training. Appointments are available virtually and in person at the Centers. Please inquire about the availability of in-person appointments.  
-“The staff are very supportive of your goals and help you find the best possible way to achieve those goals,  short-term and long-term. I would highly recommend the Conestoga Career Centre to anyone who is in need of Career help.”  
-‒ A successful job seeker, Jess  
-Employment Ontario (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG).   
+  
+> The staff are very supportive of your goals and help you find the best possible way to achieve those goals, short-term and long-term. I would highly recommend the Conestoga Career Centre to anyone who is in need of Career help.  
+>  
+> – A successful job seeker, Jess  
+  
+*Employment Ontario* (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG).   
 - Connections to employers with monthly employer showcases  
 - Individualized Job Search and Resume Assistance  
 - Resource Centre and Virtual Job Board (MyCareer)  
@@ -237,24 +240,29 @@ Employment Ontario (Secro) funded programs including: Employment Services and th
 - Apprenticeship financial incentives  
 #### Who:  
 For ages 15+ years  
+  
 Services are available to everyone including individual job seekers and employers – at no cost. Canada Ontario Job Grant is an employer driven training program for employers seeking financial support for training new hires or existing employees.  
+  
 Employer Services please contact employerscareercentre@conestogac.on.ca  
 #### When:  
 **Doon**  
 - Monday ‒ Friday at 8:30am‒4:30pm  
 - Evening appointments until 6:00pm available upon request  
 - Virtual and in-person appointments available  
+  
 **Waterloo**  
-Monday ‒ Friday at 8:30am‒4:30pm (in-person)  
+- Monday ‒ Friday at 8:30am‒4:30pm (in-person)  
 - Virtual and in-person appointments available (Monday ‒ Friday)  
 #### Where:  
 **Kitchener/Doon Campus**  
 Conestoga Career Centre, Welcome Centre  
 299 Doon Valley Drive  
 Free parking  
+  
 **Waterloo**  
 332 Marsland Drive, 2nd Floor
 Free parking available on site  
+  
 Services in New Hamburg, Elmira, Wilmot and Wellesley: call for details  
 #### Ask For:  
 Contact Career Centre Staff  
@@ -470,7 +478,7 @@ Speak to our Resource Centre staff to determine the employment services program 
 <summary>  
   
 ## Region of Waterloo  
-## Employment Ontario (EO) Programs  
+## *Employment Ontario* (EO) Programs  
 →CAMBRIDGE, KITCHENER, WATERLOO  
   
 www.regionofwaterloo.ca  
@@ -478,7 +486,7 @@ www.regionofwaterloo.ca
 </summary>  
   
 #### What:  
-- Employment Ontario Service Provider   
+- *Employment Ontario* Service Provider   
 - Help with resumes, interviews, job searching and accessing training   
 - 1 to 1 support from an Employment Facilitator   
 - Access to Job Development Services  

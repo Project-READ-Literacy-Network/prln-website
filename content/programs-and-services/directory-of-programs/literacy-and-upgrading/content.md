@@ -42,6 +42,7 @@ Adults (19+ years)
 - Fridays at 9:30am‒1:30pm  
 #### Where:  
 **Guelph**—8 Cork Street East, N1H 2W8  
+  
 We also offer remote 1 to 1 tutoring via Zoom  
 #### Ask For:  
 Joanne Morant, Adult Program  
@@ -109,7 +110,9 @@ Adults (19+ years) with or without a grade 12 diploma (age exceptions may apply)
 Students must have a Canadian Language Benchmark level 6 on all areas (documentation required)  
 #### When:  
 All classes are being delivered online with in person support for select courses. Please connect with our intake team for more details at upgrading@conestogac.on.ca  
+  
 **Self-directed study:** Work at your own pace through the materials with an Instructor available in class to support you. Students can start anytime as part of our continuous intake.  
+  
 **Teacher-led options:** An Instructor teaches the class with all students starting and ending at the same time. Teacher-led classes are 15 weeks in length and students must attend all classes.  
 #### Where:  
 **Cambridge**—150 Main Street, Suite 402  
@@ -299,6 +302,7 @@ Instagram—@tlgwr
 - Referral into upgrading programs based on personal needs and goals  
 - Free for adults on Ontario Works in Waterloo Region  
 - Sliding scale of fees for other individuals  
+  
 **Help for Businesses & Non-Profits**  
 - Clear Writing services  
 - Bridges out of Poverty training  
