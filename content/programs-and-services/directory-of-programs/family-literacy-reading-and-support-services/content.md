@@ -14,7 +14,7 @@ title = "The Directory of Programs"
   
 ## Action Read Community Literacy Centre  
 ## Early Start Family Literacy Program  
- →GUELPH  
+→GUELPH  
   
 www.actionread.com  
   
@@ -26,20 +26,20 @@ www.actionread.com
 - Great place to make friends and meet neighbours  
 - Helps young children make successful transitions to school and to lifelong learning  
 - Early literacy activities, strategies and resources to try at home  
-- ‘Rainbow Connections’ early learning kits to borrow bi-weekly  
-- [YouTube Family Literacy Circle Videos](https://www.youtube.com/channel/UCOUKGp4IuST0cgwhmmE6FMg/videos)  
+- Resources for families to borrow (e.g. ‘Rainbow Connections’ early learning kits)  
 #### Who:  
-Parents and caregivers with children (0–6 years)  
-  
-#### When:
-Monday to Friday mornings,
-September ‒ June.
-#### Where:
-Please visit [our website](https://www.actionread.com/get-involved/learn/family-literacy-program/) for locations.
+Parents and caregivers with
+children (0–6 years)  
+#### When:  
+Monday to Friday mornings
+September ‒ June  
+#### Where:  
+Please visit our website for locations.  
 #### Ask For:  
 Register for program with  
 Brenda MacDonald—Coordinator-Facilitator  
-(519) 836-2759, arearlystart@on.aibn.com
+(519) 836-2759, arearlystart@on.aibn.com  
+  
 </details>  
   
 * * * * *  
@@ -49,30 +49,34 @@ Brenda MacDonald—Coordinator-Facilitator
   
 ## Project READ Literacy Network  
 ## Get Set Learn  
- →WATERLOO REGION  
+→WATERLOO REGION  
   
 [projectread.ca](https://projectread.ca/)  
   
 </summary>  
   
 #### What:  
-Fun, free program for parents and children (0‒4 years) at home or in school  
-- Free snacks and books  
-- Parent learning time included  
-- Have fun with books and songs  
+Fun, free programs for parents and children (0‒6 years) at home or in school  
 - Learn activities to help your child in school  
+- Introduction to unplugged coding activities  
+- Storytime and songs  
+- Hands-on learning  
+- Parent time  
+- Free children books  
 #### Who:  
-Parents with or without their children (0‒4 years)  
+Parents with or without their children
+(0‒6 years)  
 #### When:  
-- Spring, Summer, Fall, Winter - call for start dates    
-- 8 weeks (2 hours, twice a week)  
+- Spring, Fall, Winter ‒ call for start dates  
+- 8 weeks (2 hours, twice a week)   
 - Days vary depending on site  
 #### Where:  
-Locations in **Waterloo Region**    
-  
-Literacy and Upgrading: (call or email
-for details)  
+Locations in **Waterloo Region / Virtual**  
+(call or email for details)  
 #### Ask For:  
 Get Set Learn program information  
 (519) 570-3054 or info@projectread.ca  
-</details>
+  
+  
+  
+</details>  
