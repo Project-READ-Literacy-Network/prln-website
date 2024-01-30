@@ -16,6 +16,11 @@ minHeight = "50vh"
   color = "light" 
   
 [[buttons]]
+  text = "Reading Rumble Events"
+  url = "about/events-and-awards/#reading-rumble-events"
+  color = "light" 
+  
+[[buttons]]
   text = "Community Partnership Events"
   url = "about/events-and-awards/#community-partnership-events"
   color = "light"
