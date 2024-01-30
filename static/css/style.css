@@ -1394,6 +1394,20 @@ h2 a:hover {
     text-shadow: 2px 2px 4px black;
 }
 
+.bg-dark .text-white p a {
+    color: white !important;
+}
+
+.bg-dark .text-white p a:hover {
+    color: white !important;
+    filter: brightness(1);
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
 .text-dark {
     color: black !important;
 }
