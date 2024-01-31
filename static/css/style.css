@@ -463,7 +463,9 @@ tr.facts td {
     color: #0E83CD;
 }
 
-
+.bg-rumble {
+    background-color: #4458BE !important;
+}
 
 .bg-warning a.white-bg-hover:hover, .bg-info a.white-bg-hover:hover, .bg-secondary a.white-bg-hover:hover, .bg-danger a.white-bg-hover:hover {
     display: block;
@@ -1394,11 +1396,11 @@ h2 a:hover {
     text-shadow: 2px 2px 4px black;
 }
 
-.bg-dark .text-white p a {
+.bg-rumble .text-white p a {
     color: white !important;
 }
 
-.bg-dark .text-white p a:hover {
+.bg-rumble .text-white p a:hover {
     color: white !important;
     filter: brightness(1);
     text-shadow: 2px 2px 4px black;

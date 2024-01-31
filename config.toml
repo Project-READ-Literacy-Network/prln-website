@@ -67,6 +67,7 @@ lastmod = ["lastmod", ":git", "date"]
     danger = "#FFA326"
     light = "#FDFCF9"
     dark = "#B12629"
+    rumble = "#4458BE"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
