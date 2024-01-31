@@ -259,7 +259,7 @@ Programs provided online and in person. Contact us for more information.
 #### Who:  
 Adults (17+ years)  
 #### When:  
-Cambridge**  
+**Cambridge**  
 Monday ‒ Thursday at 9:00am‒9:00pm  
 Friday at 9:00am‒4:00pm  
   
@@ -351,7 +351,7 @@ or info@projectread.ca
 #### Who:  
 - Adults (18+ years)  
 - Students (16+ years) not attending school full time. For correspondence and Credit@Work options only, additional fees apply  
-####When:  
+#### When:  
 **Guidance Services**  
 - Complete online Guidance Intake Form to arrange Guidance Services (available online or in-person)  
 - September ‒ June  

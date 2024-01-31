@@ -32,8 +32,10 @@ Job Seekers
 #### When:  
 **Fergus**  
 Monday ‒ Friday at 8:30am‒4:00pm  
+  
 **Guelph—Norfolk Location**  
-Monday ‒ Friday at 8:30am‒4:00pm**  
+Monday ‒ Friday at 8:30am‒4:00pm  
+  
 **Guelph—Youth Resource Centre, Stone Road Mall**  
 Monday ‒ Closed  
 Tuesday & Thursday at 9:00am‒4:00pm  
@@ -41,8 +43,10 @@ Wednesday at 12:00pm–6:00pm
 #### Where:  
 **Fergus**  
 160 St. David Street South, Unit 104  
+  
 **Guelph—Norfolk Location**  
 177 Norfolk Street  
+  
 **Guelph—Youth Resource Centre**  
 Stone Road Mall  
 435 Stone Road West, 2nd Floor  
@@ -123,9 +127,10 @@ www.agilec.ca
 - When working one-on-one with you, our coaches will help identify your skills and experience to build your confidence to achieve new goals  
 - Engaging workshops to develop job searching skills such as resume writing, interview preparation, networking and social media tools  
 - Our supportive Job Development team offers a tailored approach to finding a job that is the right fit for you. This may include access to training, apprenticeships and assistance for on the job experience  
+  
 **Need help hiring?**  
 Agilec can successfully address your recruitment and staff training needs. Here are just some of the ways:  
-Support in identifying human resource needs and filling vacancies  
+- Support in identifying human resource needs and filling vacancies  
 - Information and resources about hiring a new employee  
 - Access to job posting services  
 - No Cost Advertising/Marketing for Job Postings  
@@ -144,17 +149,21 @@ Monday ‒ Friday at 8:30am‒4:30pm
 #### Where:  
 **Fergus**  
 370 Andrew Street West, Unit 2  
+  
 **Kitchener**  
 385 Fairway Road South, Unit 205  
+  
 **Mount Forest**  
 392 Main Street North, Unit 7  
 #### Ask For:  
 **Fergus**  
 (519) 787-9333  
 fergus@agilec.ca  
+  
 **Kitchener**  
 (519) 576-2681  
 kitchener@agilec.ca  
+  
 **Mount Forest**  
 (519) 323-4540  
 mtforest@agilec.ca  
@@ -176,20 +185,23 @@ www.cambridgecareerconnections.com
   
 #### What:  
 As an *Employment Ontario* service provider, we have free employment-related programs for job seekers, employers and educators.  
+  
 **For Job Seekers**  
-Assists job seekers to find and keep successful employment, training and apprenticeships  
+- Assists job seekers to find and keep successful employment, training and apprenticeships  
 - Connects job seekers to other community services and opportunities for overcoming barriers and life stabilization  
 - Fully equipped and accessible resource room  
 - Provides information and application assistance for Better Jobs Ontario funding for eligible participants  
+  
 **For Employers**  
-Job matching and placement services  
+- Job matching and placement services  
 - Job boards, job fairs, and job marketing support  
 - Incentives and supports for employment placements  
 - Canada Ontario Job Grant for employee training and other training supports  
 - Please call for more details on any of our programs or services  
 #### Who:  
 All ages are welcome  
-When:	Office hours:  
+#### When:  
+Office hours:  
 Monday ‒ Friday at 8:30am‒4:30pm  
 #### Where:  
 **Cambridge**  
@@ -317,12 +329,13 @@ www.kwhab.ca/kw-career-compass
   
 #### What:  
 Job readiness education and training for adults who are interested in working toward competitive employment (minimum wage or better).  
-Workplace literacy  
+- Workplace literacy  
 - Workplace numeracy  
 - Soft skills development (social and interpersonal)  
 - Experiential learning opportunities in authentic work and community settings  
 - Education may include bus training and on-site job coaching  
-**Out and About Waterloo Region**  
+  
+[Out and About Waterloo Region](https://www.kwhab.ca/services/community-supports/out-and-about-waterloo-region/)  
 The aim of Out and About WR is to connect you to your neighbourhood, to the things that are important to you in your local community.  This includes recreation and leisure activities, learning opportunities, and volunteerism.  
 #### Who:  
 Adults (18+ years)  
@@ -396,12 +409,17 @@ Services are available to anyone of legal working age, living in Ontario and eli
 Monday ‒ Friday at 8:30am‒4:30pm  
 #### Where:  
 **Cambridge**—35 Dickson Street  
+  
 **Guelph**—89 Wyndham Street North  
+  
 **Kitchener**—165 King Street East  
 #### Ask For:  
 Speak to our resource centre staff to determine the employment services program that would best meet your needs.  
+  
 **Cambridge**—(519) 623-9380  
+  
 **Guelph**—(519) 822-4141  
+  
 **Kitchener**—(519) 743-2460  
   
 </details>  
@@ -433,7 +451,9 @@ Monday ‒ Friday at 8:30am‒4:30pm
 **Kitchener**—165 King Street East  
 #### Ask For:  
 Speak to our resource centre staff to determine the employment services program that would best meet your needs.  
+  
 **Cambridge**—(519) 623-9380  
+  
 **Kitchener**—(519) 743-2460  
   
 </details>  
@@ -468,6 +488,7 @@ Monday ‒ Friday at 8:30am‒4:30pm
 **Guelph**—89 Wyndham Street North, 3rd Floor  
 #### Ask For:  
 Speak to our Resource Centre staff to determine the employment services program that would best meet your needs.  
+  
 **Guelph**—(519) 822-4141  
   
 </details>  
@@ -499,7 +520,9 @@ Available in person, in the community, online, and by phone.
 Resources are also available on our website at https://www.regionofwaterloo.ca/en/living-here/employment-support.aspx  
 #### Where:  
 **Cambridge**—150 Main Street  
+  
 **Kitchener**—20 Weber Street  
+  
 **Waterloo**—99 Regina Street South  
 #### Ask For:  
 Employment Services  
@@ -531,12 +554,15 @@ www.ymcaemploymentservices.ca
 #### Who:  
 All are welcome  
 Cambridge office provides services in French  
-When:	Monday ‒ Friday at 8:30am‒4:30pm  
+#### When:  
+Monday ‒ Friday at 8:30am‒4:30pm  
 #### Where:  
 **Cambridge**—250 Hespeler Road, 2nd Floor  
+  
 **Kitchener**—800 King Street West, 3rd Floor  
 #### Ask For:  
 **Cambridge**—(226) 989-3381  
+  
 **Kitchener**—(519) 500-9637  
   
   
