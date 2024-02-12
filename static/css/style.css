@@ -538,7 +538,7 @@ section#publications .portfolio-item {
 }
 
 .modal-content {
-    max-height: 100vh;
+    max-height: 80vh;
 }
 div.modal-content {
     box-shadow: 2px 2px 6px rgba(170,26,39, 0.4);
