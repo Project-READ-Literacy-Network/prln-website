@@ -71,13 +71,14 @@ www.get-credits.ca
 - Courses are offered on a rotational basis following a 6 week schedule  
 #### Who:  
 Adults (18+ years) who are not currently registered in a high school  
+  
 English as a Second Language Learners with speaking, listening, reading and writing skills at a CLB 7  
 #### When:  
 Monday ‒ Friday at 9:00am‒12:00pm (September ‒ June)  
+  
 6 week sessions with mandatory attendance  
 #### Where:  
-**Guelph— Wellington Centre for
-Continuing Education**
+**Guelph—Wellington Centre for Continuing Education**  
 1428 Gordon Street  
 #### Ask For:  
 Student Services  
@@ -107,6 +108,7 @@ www.conestogac.on.ca/caa/upgrading
 - Continuous intake, self-paced learning, self-directed with teacher support  
 #### Who:  
 Adults (19+ years) with or without a grade 12 diploma (age exceptions may apply)  
+  
 Students must have a Canadian Language Benchmark level 6 on all areas (documentation required)  
 #### When:  
 All classes are being delivered online with in person support for select courses. Please connect with our intake team for more details at upgrading@conestogac.on.ca  
@@ -136,7 +138,7 @@ or www.conestogac.on.ca/caa/upgrading/
 ## Waterloo Region District School Board (WRDSB)  
 →CAMBRIDGE, KITCHENER, WATERLOO  
   
-www.wrdsb.ca/esu  
+[schools.wrdsb.ca/esu](https://schools.wrdsb.ca/esu/)  
   
 </summary>  
   
@@ -148,6 +150,7 @@ www.wrdsb.ca/esu
 - Learn at your own speed in a respectful adult environment  
 #### Who:  
 Adults (19+ years)  
+  
 If English is not your first language, you must have a CLB Level 6 for Speaking and Listening and CLB Level 5 for Reading and Writing  
 #### When:  
 Continuous intake from September to June  
@@ -155,12 +158,12 @@ Monday ‒ Thursday at 9:00am‒12:00pm
 Monday ‒ Thursday at 12:30pm‒3:30pm  
 Tuesday and Thursday at 6:00pm‒8:30pm  
 #### Where:  
-**Morning and Afternoon Classes:**  
+##### Morning and Afternoon Classes:  
 **Cambridge**—60 McDonald Avenue  
 **Waterloo**—151 Weber Street South
 (South of Union Street)  
   
-**Evening Classes:**  
+##### Evening Classes:  
 **Kitchener** —72 Wilson Avenue
 Kingsdale Community Centre  
 #### Ask For:  
@@ -178,7 +181,7 @@ Barb Williacy—Coordinator
 ## Waterloo Region District School Board (WRDSB)  
 →WATERLOO  
   
-www.wrdsb.ca/esu  
+[schools.wrdsb.ca/esu/esu4i](https://schools.wrdsb.ca/esu/esu4i)  
   
 </summary>  
   
@@ -203,7 +206,7 @@ Contact ESU using the online Contact Form
 <summary>  
   
 ## The Literacy Group of Waterloo Region  
-## Adult Literacy  
+## The Literacy Group  
 →CAMBRIDGE, KITCHENER, RURAL WATERLOO REGION, WATERLOO  
   
 www.theliteracygroup.com  
@@ -212,6 +215,7 @@ www.theliteracygroup.com
   
 #### What:  
 Learner centred 1 to 1 tutoring & small group instruction in reading, writing, math, computers & workplace essential skills.  
+  
 Programs provided online and in person. Contact us for more information.  
 #### Who:  
 Adults (17+ years)  
@@ -233,7 +237,8 @@ Friday at 9:00am‒4:00pm
 Contact us for full site information  
 #### Ask For:  
 Any staff member will be able to assist.  
-(519) 743-6090 or info@tlgwr.ca  
+(519) 743-6090  
+or info@tlgwr.ca  
 Twitter—@TLGwr  
 Facebook—@theliteracygroup1  
 Instagram—@tlgwr  
@@ -298,12 +303,13 @@ Instagram—@tlgwr
 </summary>  
   
 #### What:  
-- Assessment of Skills for Success including literacy skills for access to Better Jobs Ontario or other goals such as employment, apprenticeship or college  
+##### Educational Assessments
+- Assessments of Literacy and Skills for Success for employment, apprenticeship or college  
 - Referral into upgrading programs based on personal needs and goals  
 - Free for adults on Ontario Works in Waterloo Region  
 - Sliding scale of fees for other individuals  
   
-**Help for Businesses & Non-Profits**  
+##### Help for Businesses & Non-Profits  
 - Clear Writing services  
 - Bridges out of Poverty training  
 - Soft Skills Solutions certification training  
@@ -313,6 +319,7 @@ are available for a fee. Contact us for an estimate.
 Adults (18+ years)  
 #### When:  
 Assessments by appointment  
+  
 Business or Non-Profit services upon request  
 #### Where:
 - **Cambridge**, **Kitchener** and **Waterloo**  
@@ -322,206 +329,6 @@ Business or Non-Profit services upon request
 Assessment information, Business or Non-Profit services  
 (519) 570-3054  
 or info@projectread.ca  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## St Louis Adult Learning & Continuing Education Centre  
-## Waterloo Catholic District School Board (WCDSB)  
-## Adult Secondary School Credit  
-→ KITCHENER, WATERLOO REGION  
-  
-[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
-  
-</summary>  
-  
-#### What:  
-- There are 9 ways to earn Secondary School Credits at St. Louis. Up to 60 Secondary school credit courses available for various grade levels  
-- Guidance Services is the first step to registering for ANY secondary school credit course for upgrading, post-secondary pre-requisites or completing high school diploma (OSSD)  
-- Day class instruction for Grades 10‒12 (Part-time or full-time) offered through in-person, dedicated class times  
-- Language Credit classes (Gr. 9-12) offered once per week from Sept to June. Six languages to choose from  
-- Prior Learning Assessment & Recognition (PLAR) for mature students to earn secondary school credits based on previous work and life experience. Earn up to 26 credits through meetings and short tests with Guidance  
-- Credits@Work—earn co-op credits while working (+20 hour Online or handout component). Every hour worked counts toward each hour needed to complete a secondary school credit. First credit is 90 hours + 20 hours to complete Student Co-op Learning Plan. Each credit afterward is 110 hours  
-- Correspondence, online, earn credits on your own schedule (20 lessons total at 2 lessons per week). Free Tutoring available for Correspondence students  
-- No fees for Day Classes, Language Credit classes, PLAR, Summer or Credits@Work. Correspondence requires a $60 fee per course. School-to-Work courses and programs have materials fees.  
-#### Who:  
-- Adults (18+ years)  
-- Students (16+ years) not attending school full time. For correspondence and Credit@Work options only, additional fees apply  
-#### When:  
-**Guidance Services**  
-- Complete online Guidance Intake Form to arrange Guidance Services (available online or in-person)  
-- September ‒ June  
-- Monday ‒ Thursday at 8:30am‒12:30pm and 1:30pm‒4:00pm  
-- Closed Friday (by appointment only)  
-  
-**Day Class Instruction**  
-- Kitchener Main Campus only  
-- September ‒ June  
-- 5 terms a year (7-week terms) starting Sept, Nov, Jan, March and May, plus Summer School class in July only  
-- Monday ‒ Friday at 8:45am‒11:45am and/or 12:30pm‒3:30pm  
-  
-**Language Credit Class Instruction**  
-- Kitchener Main Campus & Resurrection Catholic Secondary School  
-- September ‒ June  
-- Wednesday at 5:30pm‒9:00pm or Saturday at 9:30am‒1:00pm  
-  
-**Correspondence / Self-Directed Study**  
-- Kitchener Main   
-- Monday ‒ Thursday (no Fridays)  
-- Registration and 1 to 1 tutor booking information may be found on stlouis.wcdsb.ca   
-  
-**Prior Learning and Recognition (PLAR)**  
-- Continuous registration and ongoing programming (see guidance)  
-  
-**Credits@Work**  
-- Continuous registration and ongoing programming (see guidance)  
-- Program runs 20 hours online and remainder of time at place of employment  
-  
-**Summer School**  
-- July 2 ‒ 26, 2024  
-- Monday ‒ Friday at 8:30am‒3:00pm (online or in-person to be determined)  
-  
-**Registration**  
-- Must complete online Guidance Intake Form (Monday to Thursday) to enroll.  Transcript or credit counselling summary from last high school required.  
-- Secondary School Credit Day Class registration generally starts 3 weeks before the start of each term. New term every 2 months.  
-- Correspondence, Credits@Work and PLAR registration ongoing during Guidance hours of operation  
-- Summer School and Language Credit registration begins in March  
-#### Where:  
-St. Louis—Kitchener Main Campus**  
-80 Young Street (behind Kitchener City Hall)  
-#### Ask For:  
-Email—stlouis@wcdsb.ca  
-or complete Guidance Intake Form  
-found on website  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## St Louis Adult Learning & Continuing Education Centre  
-## Waterloo Catholic District School Board (WCDSB)  
-## Core Essentials Upgrading  
-→KITCHENER  
-  
-[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
-  
-</summary>  
-  
-#### What:  
-Core Essentials is a FREE literacy and basic skills program, offered in-person, online, or through a supported remote format. CorE provides extra support while pursuing academic goals or Digital literacy skills.   
-**Students who take Core Essentials**  
-- Prepare for next steps such as: Secondary School Credit courses, employment, or volunteer work  
-- Prepare for PLAR (Prior Learning Assessment & Recognition) and School-to-Work Skills Training  
-- Discover academic strengths and any potential areas of growth  
-- Build confidence in reading, writing, numeracy, digital skills, problem solving, communication, creativity and innovation, collaboration, and study skills   
-- Focus on long-term goals and short-term academic goals  
-  
-**Core Essentials offers**  
-- Comfortable in-person and online classroom environments  
-- Flexible daytime hours of study  
-- Instruction tailored to your goals  
-- Certified adult instructors who will guide and prepare you, respect your needs and eagerly help you learn  
-- Support through Independent Remote Learning   
-- Upgrading to prepare for many credit classes, including English and Math  
-#### Who:  
-Adults (19+ years)  
-#### When:  
-**Core Essentials**  
-- September ‒ June  
-- In-person classes: Monday – Thursday at 8:45am‒11:45am and/or 12:30pm‒3:00pm  
-- Online classes: Monday – Thursday at 9:15am‒11:45am and/or 12:45pm‒3:15pm  
-- Remote Support available: Tuesday – Friday at 8:45am‒11:45am or 1:00pm‒3:30pm  
-  
-**Digital Essentials**  
-- October ‒ March  
-- Program Format – Flexible options – up to 15 hours  
-- Support available:  
-Remote—Tuesdays and Wednesdays at 4:30pm‒7:30pm  
-In Person—Fridays at 8:45am‒11:45am or 1:00pm‒3:30pm  
-  
-**PSW Essentials (for students wishing to enrol in St. Louis PSW Program)**  
-- September ‒ June  
-- Supported Remote: Tuesday – Friday at 8:45am‒11:45am or 1:00pm‒3:30pm – up to 2‒3 weeks with dedicated daily learning  
-#### Where:  
-**St. Louis—Kitchener Main Campus**  
-80 Young Street
-(behind Kitchener City Hall)  
-#### Ask For:  
-Core Essentials Program to book an interview with an intake coordinator  
-(519) 745-1201 ext. 238  
-or email stlouis@wcdsb.ca  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## St Louis Adult Learning & Continuing Education Centre  
-## Waterloo Catholic District School Board (WCDSB)  
-## School-to-Work Skills Training Programs  
-→CAMBRIDGE, KITCHENER  
-  
-[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
-  
-</summary>  
-  
-#### What:  
-- Personal Support Worker Certificate Program (PSW) full-time and part-time programs (Kitchener & Cambridge)  
-- Culinary Arts & Hospitality courses or Training Program (Kitchener only)  
-- Hairstyling & Barber Training Program (Kitchener only)  
-- All programs offer in-class instruction, experiential hands-on learning, secondary school elective credits and have minimum 220-hour co-op / work placements  
-- Tuition is paid by Ministry of Education funding, additional materials fees may apply ($75 per Culinary course,  and $1,600/yr for Hairstyling/ Barber Training. Contact PSW office for updates on fees, if applicable).  
-- Fees subject to change.  
-#### Who:  
-All School-to-Work programs
-Adults (18+ years)  
-Instructors are Certified Teachers or Registered Nurses (PSW). ALL have a minimum of 5 years industry experience.  
-#### Where:  
-**Culinary, Hair, PSW**  
-**St. Louis—Kitchener** Main Campus  
-80 Young Street (behind Kitchener City Hall)  
-  
-**PSW Part-Time Day Program ONLY**  
-(follows a “Living Classroom” 
-learning model)  
-**St. Louis—Cambridge** Fairview Seniors Community  
-**Cambridge**—515 Langs Drive  
-#### When:  
-Full-time day, in-class instruction for all programs, class times vary, plus two-month work placement.  
-  
-**Culinary Arts**  
-- New courses offered every 2 months Monday ‒ Friday at 8:45am‒11:45am and / or 12:30pm‒3:30pm  
-- September ‒ June  
-- No classes in summer  
-- Co-op available  
-  
-**Hairstyling & Barbering**  
-- Full-time, Monday ‒ Friday at 8:45am‒3:30pm  
-- Co-op placement times vary  
-  
-**PSW**  
-- Full-time Day: Monday ‒ Friday at 8:45am‒3:30pm   
-- Part-time Day: Tuesday ‒ Thursday at 8:45am‒3:30pm   
-- Part-time Evening: Tuesday ‒ Thursday and one Monday per month, at 4:30pm‒9:30pm  
-- Work placement times vary  
-  
-**Registration**  
-Intake / Registration sessions for Hair & PSW offered throughout the year. See website for details.  
-Registration for Culinary & Hospitality courses is offered at the same times as Secondary School Credit registration – 5 terms per year. Visit website for upcoming dates and registration processes.  
-#### Ask For:  
-Information about the specific program  
-email stlouis@wcdsb.ca or   
-Hair/Culinary—(519) 745-1201 ext. 201  
-PSW—(519) 745-1201 ext. 288  
   
 </details>  
   
@@ -545,6 +352,7 @@ www.get-credits.ca
 - Individualized learning plans and flexible hours  
 #### Who:  
 Adults (18+ years) who are not currently registered in a high school.  
+  
 English as a Second Language Learners with speaking and listening skills at a CLB 6.  
 #### When:  
 Continuous intake from September ‒ June. Monday ‒ Thursday programming with day and evening times. Call to confirm times.  
@@ -584,6 +392,7 @@ www.get-credits.ca
 - Individualized learning plans and flexible hours  
 #### Who:  
 Adults (18+ years) who are not currently registered in a high school.  
+  
 English as a Second Language Learners with speaking and listening skills at a CLB 6  
 #### When:  
 Continuous intake from September ‒ June. Monday ‒ Friday programming with day and evening times available.   
@@ -599,7 +408,212 @@ skillsupgradingprogram@ugconed.ca
 (519) 836-7280 ext. 624  
   
 </details>  
+ 
+ * * * * *  
   
+<details>  
+<summary>  
+  
+## St Louis Adult Learning & Continuing Education Centre  
+## Waterloo Catholic District School Board (WCDSB)  
+## Adult Secondary School Credit  
+→ KITCHENER, WATERLOO REGION  
+  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
+  
+</summary>  
+  
+#### What:  
+- There are 9 ways to earn Secondary School Credits at St. Louis. Up to 60 Secondary school credit courses available for various grade levels  
+- Guidance Services is the first step to registering for ANY secondary school credit course for upgrading, post-secondary pre-requisites or completing high school diploma (OSSD)  
+- Day class instruction for Grades 10‒12 (Part-time or full-time) offered through in-person, dedicated class times  
+- Language Credit classes (Gr. 9-12) offered once per week from Sept to June. Six languages to choose from  
+- Prior Learning Assessment & Recognition (PLAR) for mature students to earn secondary school credits based on previous work and life experience. Earn up to 26 credits through meetings and short tests with Guidance  
+- Credits@Work—earn co-op credits while working (+20 hour Online or handout component). Every hour worked counts toward each hour needed to complete a secondary school credit. First credit is 90 hours + 20 hours to complete Student Co-op Learning Plan. Each credit afterward is 110 hours  
+- Correspondence, online, earn credits on your own schedule (20 lessons total at 2 lessons per week). Free Tutoring available for Correspondence students  
+- No fees for Day Classes, Language Credit classes, PLAR, Summer or Credits@Work. Correspondence requires a $60 fee per course. School-to-Work courses and programs have materials fees.  
+#### Who:  
+- Adults (18+ years)  
+- Students (16+ years) not attending school full time. For correspondence and Credit@Work options only, additional fees apply  
+#### When:  
+##### Guidance Services  
+- Complete online Guidance Intake Form to arrange Guidance Services (available online or in-person)  
+- September ‒ June  
+- Monday ‒ Thursday at 8:30am‒12:30pm and 1:30pm‒4:00pm  
+- Closed Friday (by appointment only)  
+  
+##### Day Class Instruction  
+- Kitchener Main Campus only  
+- September ‒ June  
+- 5 terms a year (7-week terms) starting Sept, Nov, Jan, March and May, plus Summer School class in July only  
+- Monday ‒ Friday at 8:45am‒11:45am and/or 12:30pm‒3:30pm  
+  
+##### Language Credit Class Instruction  
+- Kitchener Main Campus & Resurrection Catholic Secondary School  
+- September ‒ June  
+- Wednesday at 5:30pm‒9:00pm or Saturday at 9:30am‒1:00pm  
+  
+##### Correspondence / Self-Directed Study  
+- Kitchener Main   
+- Monday ‒ Thursday (no Fridays)  
+- Registration and 1 to 1 tutor booking information may be found on stlouis.wcdsb.ca   
+  
+##### Prior Learning and Recognition (PLAR)  
+- Continuous registration and ongoing programming (see guidance)  
+  
+##### Credits@Work  
+- Continuous registration and ongoing programming (see guidance)  
+- Program runs 20 hours online and remainder of time at place of employment  
+  
+##### Summer School  
+- July 2 ‒ 26, 2024  
+- Monday ‒ Friday at 8:30am‒3:00pm (online or in-person to be determined)  
+  
+##### Registration  
+- Must complete online Guidance Intake Form (Monday to Thursday) to enroll.  Transcript or credit counselling summary from last high school required.  
+- Secondary School Credit Day Class registration generally starts 3 weeks before the start of each term. New term every 2 months.  
+- Correspondence, Credits@Work and PLAR registration ongoing during Guidance hours of operation  
+- Summer School and Language Credit registration begins in March  
+#### Where:  
+**St. Louis—Kitchener Main Campus**  
+80 Young Street (behind Kitchener City Hall)  
+#### Ask For:  
+Email—stlouis@wcdsb.ca  
+or complete Guidance Intake Form  
+found on website  
+  
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## St Louis Adult Learning & Continuing Education Centre  
+## Waterloo Catholic District School Board (WCDSB)  
+## Core Essentials Upgrading  
+→KITCHENER  
+  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
+  
+</summary>  
+  
+#### What:  
+Core Essentials is a FREE literacy and basic skills program, offered in-person, online, or through a supported remote format. CorE provides extra support while pursuing academic goals or Digital literacy skills.   
+##### Students who take Core Essentials  
+- Prepare for next steps such as: Secondary School Credit courses, employment, or volunteer work  
+- Prepare for PLAR (Prior Learning Assessment & Recognition) and School-to-Work Skills Training  
+- Discover academic strengths and any potential areas of growth  
+- Build confidence in reading, writing, numeracy, digital skills, problem solving, communication, creativity and innovation, collaboration, and study skills   
+- Focus on long-term goals and short-term academic goals  
+  
+##### Core Essentials offers  
+- Comfortable in-person and online classroom environments  
+- Flexible daytime hours of study  
+- Instruction tailored to your goals  
+- Certified adult instructors who will guide and prepare you, respect your needs and eagerly help you learn  
+- Support through Independent Remote Learning   
+- Upgrading to prepare for many credit classes, including English and Math  
+#### Who:  
+Adults (19+ years)  
+#### When:  
+##### Core Essentials  
+- September ‒ June  
+- In-person classes: Monday – Thursday at 8:45am‒11:45am and/or 12:30pm‒3:00pm  
+- Online classes: Monday – Thursday at 9:15am‒11:45am and/or 12:45pm‒3:15pm  
+- Remote Support available: Tuesday – Friday at 8:45am‒11:45am or 1:00pm‒3:30pm  
+  
+##### Digital Essentials  
+- October ‒ March  
+- Program Format – Flexible options – up to 15 hours  
+- Support available:  
+Remote—Tuesdays and Wednesdays at 4:30pm‒7:30pm  
+In Person—Fridays at 8:45am‒11:45am or 1:00pm‒3:30pm  
+  
+##### PSW Essentials (for students wishing to enrol in St. Louis PSW Program)  
+- September ‒ June  
+- Supported Remote: Tuesday – Friday at 8:45am‒11:45am or 1:00pm‒3:30pm – up to 2‒3 weeks with dedicated daily learning  
+#### Where:  
+**St. Louis—Kitchener Main Campus**  
+80 Young Street
+(behind Kitchener City Hall)  
+#### Ask For:  
+Core Essentials Program to book an interview with an intake coordinator  
+(519) 745-1201 ext. 238  
+or email stlouis@wcdsb.ca  
+  
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## St Louis Adult Learning & Continuing Education Centre  
+## Waterloo Catholic District School Board (WCDSB)  
+## School-to-Work Skills Training Programs  
+→CAMBRIDGE, KITCHENER  
+  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
+  
+</summary>  
+  
+#### What:  
+- Personal Support Worker Certificate Program (PSW) full-time and part-time programs (Kitchener & Cambridge)  
+- Culinary Arts & Hospitality courses or Training Program (Kitchener only)  
+- Hairstyling & Barber Training Program (Kitchener only)  
+- All programs offer in-class instruction, experiential hands-on learning, secondary school elective credits and have minimum 220-hour co-op / work placements  
+- Tuition is paid by Ministry of Education funding, additional materials fees may apply ($75 per Culinary course,  and $1,600/yr for Hairstyling/ Barber Training. Contact PSW office for updates on fees, if applicable).  
+- Fees subject to change.  
+#### Who:  
+All School-to-Work programs
+  
+Adults (18+ years)  
+  
+Instructors are Certified Teachers or Registered Nurses (PSW). ALL have a minimum of 5 years industry experience.  
+#### When:  
+Full-time day, in-class instruction for all programs, class times vary, plus two-month work placement.  
+  
+##### Culinary Arts  
+- New courses offered every 2 months Monday ‒ Friday at 8:45am‒11:45am and / or 12:30pm‒3:30pm  
+- September ‒ June  
+- No classes in summer  
+- Co-op available  
+  
+##### Hairstyling & Barbering  
+- Full-time, Monday ‒ Friday at 8:45am‒3:30pm  
+- Start dates in September, November & March
+- Co-op placement times vary  
+  
+##### PSW  
+- Full-time Day: Monday ‒ Friday at 8:45am‒3:30pm   
+- Part-time Day: Tuesday ‒ Thursday at 8:45am‒3:30pm   
+- Part-time Evening: Tuesday ‒ Thursday and one Monday per month, at 4:30pm‒9:30pm  
+- Start dates in September, November & March  
+- Work placement times vary  
+  
+##### Registration  
+Intake / Registration sessions for Hair & PSW offered throughout the year. See website for details.  
+  
+Registration for Culinary & Hospitality courses is offered at the same times as Secondary School Credit registration – 5 terms per year. Visit website for upcoming dates and registration processes.  
+#### Where:  
+##### Culinary, Hair, PSW  
+**St. Louis—Kitchener** Main Campus  
+80 Young Street (behind Kitchener City Hall)  
+  
+##### PSW Part-Time Day Program ONLY  
+(follows a “Living Classroom” 
+learning model)  
+**St. Louis—Cambridge Fairview Seniors Community**  
+**Cambridge**—515 Langs Drive  
+#### Ask For:  
+Information about the specific program  
+email stlouis@wcdsb.ca or   
+Hair/Culinary—(519) 745-1201 ext. 201  
+PSW—(519) 745-1201 ext. 288  
+  
+</details>  
+   
 * * * * *  
   
 <details>  
@@ -628,6 +642,7 @@ www.thewclc.ca
 Adults (19+ years), Youth (16‒22 years), Children (6‒12 years)  
 #### When:  
 Call the Learning Centre for dates and times of programs  
+  
 Office Hours:  
 Monday ‒ Thursday at 9:00am‒4:30pm Friday at 9:00am‒12:00pm  
 #### Where:  

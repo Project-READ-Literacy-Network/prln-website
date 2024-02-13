@@ -13,7 +13,7 @@ title = "The Directory of Programs"
 <summary>  
   
 ## 2nd Chance Employment Counselling  
-## *Employment Ontario*  
+## Employment Ontario  
 →GUELPH, FERGUS, RURAL WELLINGTON  
   
 www.2ndchance.ca  
@@ -140,7 +140,7 @@ Agilec can successfully address your recruitment and staff training needs. Here 
 - Creation of Customized Training Plans  
 - On the Job Coaching  
 - Work Trials  
-- Apprenticeships and funding opportunities available.  
+- Apprenticeships and funding opportunities available  
 #### Who:  
 All are welcome  
 #### When:  
@@ -184,15 +184,15 @@ www.cambridgecareerconnections.com
 </summary>  
   
 #### What:  
-As an *Employment Ontario* service provider, we have free employment-related programs for job seekers, employers and educators.  
+As an Employment Ontario service provider, we have free employment-related programs for job seekers, employers and educators.  
   
-**For Job Seekers**  
+##### For Job Seekers  
 - Assists job seekers to find and keep successful employment, training and apprenticeships  
 - Connects job seekers to other community services and opportunities for overcoming barriers and life stabilization  
 - Fully equipped and accessible resource room  
 - Provides information and application assistance for Better Jobs Ontario funding for eligible participants  
   
-**For Employers**  
+##### For Employers  
 - Job matching and placement services  
 - Job boards, job fairs, and job marketing support  
 - Incentives and supports for employment placements  
@@ -204,12 +204,12 @@ All ages are welcome
 Office hours:  
 Monday ‒ Friday at 8:30am‒4:30pm  
 #### Where:  
-**Cambridge**  
+##### Cambridge  
 40 Ainslie Street South  
 (across the street from the bus terminal)  
-**Langs**  
+##### Langs  
 1145 Concession Road  
-**Ayr**  
+##### Ayr  
 Variety of community settings  
 #### Ask For:  
 Employment Coordinator  
@@ -224,7 +224,7 @@ ccc@jhsww.ca
 <summary>  
   
 ## Conestoga Community Career Centre  
-## *Employment Ontario* (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG)  
+## Employment Ontario (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG)  
 →ELMIRA, KITCHENER, NEW HAMBURG, RURAL WELLINGTON, WATERLOO, WELLESLEY, WILMOT  
   
 www.conestogac.on.ca/career-centre  
@@ -232,13 +232,13 @@ www.conestogac.on.ca/career-centre
 </summary>  
   
 #### What:  
-Employment services are available to anyone seeking employment, career planning support, and training opportunities. Our experienced staff can open doors to help find the right fit for employment and training. Appointments are available virtually and in person at the Centers. Please inquire about the availability of in-person appointments.  
+Employment services are available to anyone seeking employment, career planning support, and training opportunities. Our experienced staff can open doors to help find the right fit for employment and training. Appointments are available virtually and in person at the Centres. Please inquire about the availability of in-person appointments.  
   
 > The staff are very supportive of your goals and help you find the best possible way to achieve those goals, short-term and long-term. I would highly recommend the Conestoga Career Centre to anyone who is in need of Career help.  
 >  
 > – A successful job seeker, Jess  
   
-*Employment Ontario* (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG).   
+Employment Ontario (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG).   
 - Connections to employers with monthly employer showcases  
 - Individualized Job Search and Resume Assistance  
 - Resource Centre and Virtual Job Board (MyCareer)  
@@ -257,12 +257,12 @@ Services are available to everyone including individual job seekers and employer
   
 Employer Services please contact employerscareercentre@conestogac.on.ca  
 #### When:  
-**Doon**  
+##### Doon  
 - Monday ‒ Friday at 8:30am‒4:30pm  
 - Evening appointments until 6:00pm available upon request  
 - Virtual and in-person appointments available  
   
-**Waterloo**  
+##### Waterloo  
 - Monday ‒ Friday at 8:30am‒4:30pm (in-person)  
 - Virtual and in-person appointments available (Monday ‒ Friday)  
 #### Where:  
@@ -310,7 +310,8 @@ Online and in-person
 **Cambridge**—200 Christopher Drive  
 #### Ask For:  
 Lily Magnus—Program Coordinator  
-(519) 496 5886 or LilyM@kinbridge.ca  
+(519) 496 5886  
+or LilyM@kinbridge.ca  
   
 </details>  
   
@@ -370,6 +371,7 @@ A learning and skill building program that provides small group learning and tra
 Youth (13–17 years) and adults with developmental disabilities.  
 #### When:  
 Sessions are offered throughout the year  
+  
 Visit www.leg-up.ca for registration information  
 #### Where:  
 **Kitchener**—109 Ottawa Street South, Unit D  
@@ -499,7 +501,7 @@ Speak to our Resource Centre staff to determine the employment services program 
 <summary>  
   
 ## Region of Waterloo  
-## *Employment Ontario* (EO) Programs  
+## Employment Ontario (EO) Programs  
 →CAMBRIDGE, KITCHENER, WATERLOO  
   
 www.regionofwaterloo.ca  
@@ -507,7 +509,7 @@ www.regionofwaterloo.ca
 </summary>  
   
 #### What:  
-- *Employment Ontario* Service Provider   
+- Employment Ontario Service Provider   
 - Help with resumes, interviews, job searching and accessing training   
 - 1 to 1 support from an Employment Facilitator   
 - Access to Job Development Services  
@@ -517,6 +519,7 @@ All services are open to adults
 Employment Services  
 Monday ‒ Friday at 8:30am‒4:30pm  
 Available in person, in the community, online, and by phone.  
+  
 Resources are also available on our website at https://www.regionofwaterloo.ca/en/living-here/employment-support.aspx  
 #### Where:  
 **Cambridge**—150 Main Street  
@@ -553,6 +556,7 @@ www.ymcaemploymentservices.ca
 - Services for employers  
 #### Who:  
 All are welcome  
+  
 Cambridge office provides services in French  
 #### When:  
 Monday ‒ Friday at 8:30am‒4:30pm  

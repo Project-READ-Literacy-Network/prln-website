@@ -9,10 +9,10 @@ title_align = "left"
   
 [[buttons]]
   text = "Download"
-  url = "/pdf/directory-2023.pdf"
+  url = "/pdf/directory-2024.pdf"
   icon = "far fa-file-pdf"
   color= "light"
-  download_file = "directory-2023.pdf"
+  download_file = "directory-2024.pdf"
   
 [[logos]]
   url = "http://www.actionread.com/"
@@ -69,11 +69,6 @@ title_align = "left"
   src = "/images/logos/sc-logo.png"
   text = "2ndchance"  
   
-[[logos]]
-  url = "http://www.cmhaww.ca/"
-  src = "/images/logos/cmha-logo.png"
-  text = "cmhaww" 
-
 [[logos]]
   url = "http://www.ymcaemploymentservices.ca/"
   src = "/images/logos/ymca-tr-logo.png"
@@ -141,8 +136,18 @@ title_align = "left"
 
 [[logos]]
   url = "http://www.thewclc.ca/"
-  src = "/images/logos/wclc-logo.jpg"
+  src = "/images/logos/wclc-logo.png"
   text = "thewclc"  
+
+[[logos]]
+  url = "https://www.kinbridge.ca/"
+  src = "/images/logos/kinbridge-logo.jpg"
+  text = "kinbridge"  
+  
+[[logos]]
+  url = "https://www.regionofwaterloo.ca/"
+  src = "/images/row-logo.svg"
+  text = "Region of Waterloo"  
 
 
 +++

@@ -14,6 +14,6 @@ title = "A Doorway to Literacy & Skills for Success Services"
   
 [gov]
   image = "gov-logo.svg"
-  text = "This *Employment Ontario* service is funded in part by the Government of Canada and the Government of Ontario "
+  text = "This Employment Ontario service is funded in part by the Government of Canada and the Government of Ontario "
   
 +++

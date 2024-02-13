@@ -1,5 +1,5 @@
 +++
-title = "Can a learner be enrolled in more than one *Employment Ontario* program at a time?"
+title = "Can a learner be enrolled in more than one Employment Ontario program at a time?"
 weight = 30
 +++
 

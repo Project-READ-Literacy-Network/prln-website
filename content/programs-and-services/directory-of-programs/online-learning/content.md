@@ -22,7 +22,7 @@ www.acedistancedelivery.ca
   
 #### What:  
 Academic upgrading (grade 12 equivalent) courses are offered online through Ontario’s public colleges  
-**Courses include**  
+##### Courses include  
 - Communications (English)  
 - Apprenticeship math   
 - Business math   
