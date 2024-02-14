@@ -4,6 +4,7 @@ date = "2018-05-17"
 weight = 0
 sticky = true
 search = false
+disableRootBreadcrumb = true
 
 [donate_button]
   url = "https://www.canadahelps.org/en/dn/11623"
