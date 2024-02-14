@@ -4,7 +4,6 @@ date = "2018-05-17"
 weight = 0
 sticky = true
 search = false
-disableRootBreadcrumb = true
 
 [donate_button]
   url = "https://www.canadahelps.org/en/dn/11623"
@@ -17,6 +16,6 @@ disableRootBreadcrumb = true
   text = "Project READ"
 [breadcrumb]
   display = true # Default value is false
-  level = 3 # Default is 1
+  level = 2 # Default is 1
   background = "light"  
 +++
