@@ -16,6 +16,6 @@ search = false
   text = "Project READ"
 [breadcrumb]
   display = true # Default value is false
-  level = 1 # Default is 1
+  level = 2 # Default is 1
   background = "light"  
 +++

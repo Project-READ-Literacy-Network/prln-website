@@ -1,6 +1,6 @@
 +++
-title = "I can read, why do I need these programs?"
+title = "What is the difference between Essential Skills and Skills for Success?"
 weight = 90
 +++
 
-Most people can read and write at least a small amount.  Literacy programs provide support for adults learning how to read, write, communicate, use math, digital literacy skills and more to reach their goals.  All training is based on individual needs.
+The Skills for Success model replaces the former Essential Skills framework. They respond to the needs of today's and tomorrow's workplace. For more information go to https://www.canada.ca/en/services/jobs/training/initiatives/skills-success.html

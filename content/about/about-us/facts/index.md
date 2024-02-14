@@ -11,10 +11,10 @@ particles = "true"
   
 [download_button]
   text = "Download"
-  url = "/pdf/literacy-facts-and-statistics-2023.pdf"
+  url = "/pdf/literacy-facts-and-statistics-2024.pdf"
   icon = "far fa-file-pdf"
   color= "light"
-  download_file = "literacy-facts-and-statistics-2023.pdf"
+  download_file = "literacy-facts-and-statistics-2024.pdf"
 
 +++
 
