@@ -1,5 +1,5 @@
 +++
-title = "Kennedy Bourke"
+title = "Kennedy Bourque"
 weight = 90
 date = "2021-09-01"
 

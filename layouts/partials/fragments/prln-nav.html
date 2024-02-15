@@ -170,12 +170,7 @@
             
             
             
-                   <li>
-			<details class="prlnDD" id="tRDetails">
-				<summary><a href="{{ "about/events-and-awards/#reading-rumble-events" | relLangURL }}">Reading Rumble</a></summary>
-				
-			</details>
-		</li>
+                   <li><a class="no-dd" href="{{ "about/events-and-awards/#reading-rumble-events" | relLangURL }}">Reading Rumble</a></li>
             
             
             
@@ -183,11 +178,11 @@
             
 	</ul>
     
-   <div class="d-none d-xl-block">
+   <div class="d-none d-xl-block mr-3">
           {{- range sort .Site.Menus.social }}
             <span title="{{ .Name }}">
               <a href="{{ .URL | relLangURL }}"> 
-                  <i class="{{ .Pre }} fa-fw fa-lg nav-social mr-2"></i>
+                  <i class="{{ .Pre }} fa-fw fa-lg nav-social mx-auto"></i>
                 <span class="sr-only">{{ .Name }}</span>
               </a>
             </span>
@@ -215,9 +210,9 @@
     </div>
   
   {{- with .Params.donate_button }}
-    <div class="d-none d-lg-block pl-auto mx-3 mx-xl-5">
+    <div class="d-none donate-btn d-lg-block pl-auto mx-auto mx-xl-5">
       <a class="btn btn-light ignore-color-change" href="{{ .url }}" role="button">
-        <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-2 text-dark"display: inline-flex; align-items: center;></i>
+        <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-1 mr-xl-2 text-dark"display: inline-flex; align-items: center;></i>
         {{ .text }}
       </a>
     </div>

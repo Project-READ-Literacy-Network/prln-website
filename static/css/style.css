@@ -20,6 +20,14 @@ summary {
     border-top: 3px solid #5BCBF5;
  }
 
+.prln-nav > li > a {
+    display: block;
+    padding: .75rem;
+    border-top: 3px solid #5BCBF5;
+    font-size: 1.25rem;
+    font-weight: 700;
+ }
+
 
 #navbarCollapse .navbar-toggler {
     padding: 0;
@@ -131,6 +139,7 @@ details.prlnDD  summary::after {
 details.prlnDD[open] summary::after {
         content: "\f106";
 }
+
 .divider {
     height: 1px;
     margin: 9px 0;
@@ -155,6 +164,14 @@ h1.hero-title {
 }
 .gov-text p{
     font-size: 1rem;
+    line-height: 1.5rem;
+}
+.donate-btn a{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.donate-btn {
     line-height: 1.5rem;
 }
 
@@ -1191,6 +1208,10 @@ div.modal-background {
     filter: brightness(0.6);
 }
 
+
+#faq-literacy div.faq {
+    width: 100%;
+    }
 
 /*****************************/
 /*****************************/
@@ -2562,6 +2583,44 @@ table:last-of-type {
     opacity: 1;
     width: 100%;
     }
+    
+    .prlnDD > summary {
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    }    
+    ul.prln-nav > li > a.no-dd {
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    } 
+    
+    
+    ul.prln-nav > li > a.no-dd {
+    position: relative;
+    display: block;
+    border-top: none;
+    }
+    ul.prln-nav > li > a.no-dd::after {
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: #0E83CD;
+    color: transparent;
+    width: 0%;
+    content: '';
+    height: 3px;
+    transition: all 0.5s;
+    }
+    ul.prln-nav > li > a.no-dd:hover::after {
+    opacity: 1;
+    width: 100%;
+    }
+
+    
+    
+    
+    
     .prlnDD ul > ul > li a:hover{
     color: #0E83CD !important;    
     }
@@ -2659,8 +2718,8 @@ prlnDD.summary-closing[open] ul {
     }
     .prln-nav > li {
     display: inline-block;
-    margin-left: .5rem;
-    margin-right: .5rem;
+    margin-left: .25rem;
+    margin-right: .25rem;
     }
     #nav.navbar{
     height: 130px;
@@ -2677,9 +2736,7 @@ prlnDD.summary-closing[open] ul {
     .prlnDD ul > ul > li.prlnDD-header a:hover {
     color: black !important;
     }
-    .prlnDD > summary {
-    font-size: 1.25rem;
-    }
+
     .prlnDD > ul > li {
     font-size: 1.25rem;
     line-height: 1.6rem;
@@ -2725,6 +2782,12 @@ prlnDD.summary-closing[open] ul {
 /******************************************************************************************************************************************************************************/
 
 @media (min-width: 1200px) {
+    .prlnDD > summary {
+    padding: 0.75rem;
+    }    
+    ul.prln-nav > li > a.no-dd {
+    padding: 0.75rem;
+    } 
     .gov-text p {
     padding-right: 3rem;
     padding-left: 1rem;

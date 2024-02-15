@@ -55,11 +55,6 @@ title_align = "left"
   text = "theliteracygroup"
   
 [[logos]]
-  url = "http://www.ccrw.org/"
-  src = "/images/logos/ccrw-Logo.png"
-  text = "ccrw"
-  
-[[logos]]
   url = "http://www.lutherwood.ca/employment"
   src = "/images/logos/lutherwood-logo.png"
   text = "lutherwood"
@@ -78,11 +73,6 @@ title_align = "left"
   url = "http://www.wpl.ca/"
   src = "/images/logos/wpl-logo.png"
   text = "wpl" 
-  
-[[logos]]
-  url = "http://www.theworkingcentre.org/"
-  src = "/images/logos/wc-loco.png"
-  text = "theworkingcentre"   
   
 [[logos]]
   url = "http://www.rwlibrary.ca/"
