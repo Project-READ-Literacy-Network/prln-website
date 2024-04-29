@@ -1,6 +1,6 @@
 +++
 fragment = "item"
-#disabled = false
+disabled = true
 
 weight = 114
 background = "rumble"
