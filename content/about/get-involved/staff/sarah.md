@@ -1,9 +1,9 @@
 +++
-title = "Camila Muñoz García"
+title = "Sarah Abisoye"
 weight = 80
 date = "2021-09-01"
 
-position = "Program Assistant"
+position = "Program Administrative Assistant"
 
 [asset]
   image = "shapes-04.svg"
