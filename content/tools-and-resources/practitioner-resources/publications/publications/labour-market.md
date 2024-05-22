@@ -1,10 +1,10 @@
 +++
-title = "Labour Market Partnership (LMP) Report"
-subtitle ="With Screening Tool, Rev. 2021"
+title = "Literacy Screening Tool & Labour Market Partnership (LMP) Report"
+subtitle ="Rev. 2021"
 
 [asset]
   image = "/publications/lmp.jpg"
-  text = "Labour Market Partnership (LMP) Report with Screening Tool, 2015"
+  text = "Literacy Screening Tool & Labour Market Partnership (LMP) Report, 2021"
 
 
 +++
