@@ -339,7 +339,7 @@ or info@projectread.ca
   
 ## Skills Upgrading Program  
 ## Upper Grand District School Board (UGDSB)  
-→DRAYTON, FERGUS, MOUNT FOREST, RURAL WELLINGTON  
+→FERGUS, MOUNT FOREST, RURAL WELLINGTON  
   
 www.get-credits.ca  
   
@@ -357,11 +357,8 @@ English as a Second Language Learners with speaking and listening skills at a CL
 #### When:  
 Continuous intake from September ‒ June. Monday ‒ Thursday programming with day and evening times. Call to confirm times.  
 #### Where:  
-**Drayton—Mennonite Fellowship Church**  
-109 Wellington Street South  
-  
-**Fergus—Bethel Baptist Church**  
-675 Victoria Terrace  
+**Fergus—Skyline Community Hub (Centre Wellington Big Brothers and Big Sisters)**  
+900 Tower Street South  
   
 **Mount Forest—Portable at North Wellington Centre for Continuing Education**  
 405B Sligo Road East  

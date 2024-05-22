@@ -17,7 +17,7 @@ title = "Educational Assessments for Adults"
   color = "warning"
   
 [[buttons]]
-  text = "$125 for an Assessment"
+  text = "$130 for an Assessment"
   url = "about/contact/"
   color = "secondary"
 
