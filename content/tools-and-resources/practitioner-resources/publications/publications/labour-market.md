@@ -13,8 +13,8 @@ This is our project report for our portion of the LMP – Phase 2 project manage
   
 [Labour Market Partnership Project Report - 2014](../../../pdf/labour-market-partnership-project-report-2014.pdf)  
   
-[Network Adaptation Guide - Screening Tool](../../../pdf/screening-tool-guide.pdf)  
+[Network Adaptation Guide - Screening Tool](../../../pdf/network-adaptation-guide-screening-tool.pdf)  
   
-[Screening Tool - Guide](../../../pdf/network-adaptation-guide-screening-tool.pdf)  
+[Screening Tool - Guide](../../../pdf/screening-tool-guide.pdf)  
   
 [Screening Tool - Observation, Essential Skills level 3, and Educational checklist](../../../pdf/screening-tool-observation-essential-skills-level-3-and-educational-checklist.pdf)
