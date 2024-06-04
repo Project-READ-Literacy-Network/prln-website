@@ -3,7 +3,7 @@ title = "Are Soft Skills the New Hard Skills"
 subtitle ="Developed in 2023"
 
 [asset]
-  image = "/publications/are-soft-skills-new-hard-skills.png"
+  image = "/publications/are_soft_skills_the_new_hard_skills_2023.png"
   text = "Are Soft Skills the New Hard Skills, Developed in 2023"
 
 
@@ -16,4 +16,4 @@ The Workforce Planning Board of Waterloo Wellington Dufferin partnered with Proj
   
 [Free Download - Are Soft Skills the New Hard Skills - 2023](../../../pdf/are_soft_skills_the_new_hard_skills_2023.pdf)  
   
-[Free Download - Employer Feedback on defining Soft Skills - Are Soft Skills the New Hard Skills - 2023](employer_feedback_on_defining_soft_skills_are_soft_skills_the_new_hard_skills_2023.pdf)  
+[Free Download - Employer Feedback on defining Soft Skills - Are Soft Skills the New Hard Skills - 2023](../../../pdf/employer_feedback_on_defining_soft_skills_are_soft_skills_the_new_hard_skills_2023.pdf)  
