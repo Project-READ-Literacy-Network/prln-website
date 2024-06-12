@@ -5,7 +5,7 @@ title = "Donation Programs"
 
 [asset]
   image = "/logos/benevity.png"
-  text = "Donation Program"
+  text = "Donation Programs"
   
 
 +++

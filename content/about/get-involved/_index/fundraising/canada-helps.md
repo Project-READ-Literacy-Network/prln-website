@@ -6,7 +6,7 @@ title = "Canada Helps"
 
 [asset]
   image = "/logos/canada-helps.png"
-  text = "A3 and The Employment Path Learner’s Workbook"
+  text = "Canada Helps"
 
 
 +++
