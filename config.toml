@@ -141,8 +141,8 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.footer]]
-  url = "https://www.canadahelps.org/en/dn/11623"
-  name = "Donate"
+  url = "/about/get-involved/#fundraising"
+  name = "Fundraising"
   weight = 30
 
 [[menu.copyright_footer]]
