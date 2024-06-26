@@ -68,12 +68,13 @@
                 {{- if .Params.buttons }}
                 <div class="col text-center">
                   {{- range .Params.buttons }}
-                    <a class="btn btn-lg col-12 col-md-3 my-0
+                    <a class="btn btn-lg btn-rumble col-12 col-md-4 my-0
                       {{ if hasPrefix .url "#" }} anchor{{ end }}
-                      {{- $color := .color | default "primary" -}}
-                      {{- printf " btn-%s" $color -}}
-                    " href="{{ .url | relLangURL }}">
+                      " href="{{ .url | relLangURL }}">
                       {{- .text -}}
+                        {{- if .logo -}}
+                        <img src="{{ .logo }}" class="img-fluid pl-2">
+                        {{- end }}
                     </a>
                     {{- end }}
                 </div>
@@ -91,7 +92,7 @@
                 {{- if .Params.rumble_email }}
                 <div class="col text-center">
                   {{- range .Params.rumble_email }}
-                    <a class="btn btn-lg col-12 col-md-3 my-0
+                    <a class="btn btn-lg col-12 col-md-4 my-0
                       {{ if hasPrefix .url "#" }} anchor{{ end }}
                       {{- $color := .color | default "primary" -}}
                       {{- printf " btn-%s" $color -}}
