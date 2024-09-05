@@ -24,4 +24,6 @@ minHeight = "45vh"
 
 [Click here](/about/about-us/why-prln-matters) to find out more about why Project READ Literacy Network matters and why literacy matters.
 
+[Click here](https://www.google.com/maps/d/u/0/viewer?mid=1AUOXLyqBA2A587TkO9QIGOhYOKeMFms&ll=43.64823995573855%2C-80.47184250000001&z=9) to view a map of our network area.
+
 </details>
