@@ -1,11 +1,11 @@
 +++
 title = "Robin Crank"
-weight = 20
+weight = 10
 date = "2021-09-01"
 
-position = "Project Manager – Families First Waterloo Region"
+position = "Executive Director"
 
 [asset]
-  image = "shapes-02.svg"
+  image = "shapes-03.svg"
 +++
 

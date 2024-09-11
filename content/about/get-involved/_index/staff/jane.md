@@ -1,9 +1,9 @@
 +++
 title = "Jane Tuer"
-weight = 10
+weight = 30
 date = "2021-09-01"
 
-position = "Executive Director"
+position = "Program Consultant"
 
 [asset]
   image = "shapes-01.svg"
