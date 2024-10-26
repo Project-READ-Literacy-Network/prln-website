@@ -1,10 +1,10 @@
 +++
 weight = 110
 title = "Reading Rumble 2025"
-subtitle = "Check back soon for more details!"
+subtitle = "Registration now open!"
 
 [asset]
-  image = "reading-rumble-logo.png"
+  image = "/events/reading-rumble-2025.jpg"
   
 [[labels]]
   title = "Reading"
@@ -16,4 +16,4 @@ subtitle = "Check back soon for more details!"
   
 +++
 
-Our 2025 Reading Rumble Book Trivia Fundraiser will be announced soon!
+Reading Rumble is a book trivia fundraising event for teams to have fun & compete for prizes - all while supporting literacy in Waterloo-Wellington! It is a fun and energizing social event for everyone!  The acclaimed Canadian books selected for Reading Rumble 2025 are "Never Shoot a Stampede Queen" by Mark Leiren-Young & "A Town called Solace" by Mary Lawson.  [Register your team today (2 - 5 people)]( https://bit.ly/Rumble2025)
