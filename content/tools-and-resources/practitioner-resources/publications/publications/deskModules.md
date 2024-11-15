@@ -1,7 +1,7 @@
 +++
 title = "Diabetes Essential Skills Kit D.E.S.K."
 subtitle = "Learning Modules"
-free_download = "/pdf/DESK_modules.pdf"
+g_drive_free_download = "1Ry6NTy__nWojEJu3wWC6VqPkD_oM_gZS"
 
 [asset]
   image = "/publications/deskModules.jpg"
