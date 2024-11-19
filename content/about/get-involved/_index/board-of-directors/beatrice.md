@@ -1,11 +1,11 @@
 +++
 title = "Beatrice Henry"
-weight = 50
+weight = 10
 date = "2021-09-01"
 
-position = "Director at Large"
+position = "President"
 
 [asset]
-  image = "shapes-05.svg"
+  image = "shapes-01.svg"
 +++
 
