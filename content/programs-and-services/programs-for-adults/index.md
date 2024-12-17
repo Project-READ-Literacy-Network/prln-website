@@ -12,7 +12,12 @@ minHeight = "50vh"
 
 [[buttons]]
   text = "Educational Assessments by PRLN"
-  url = "programs-and-services/programs-for-adults/#assessments-and-referrals-educational-assessments"
+  url = "programs-and-services/programs-for-adults/#educational-assessments-for-adults"
+  color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+[[buttons]]
+  text = "Better Jobs Ontario (BJO) Assessments for Adults"
+  url = "programs-and-services/programs-for-adults/#better-jobs-ontario-bjo-assessments-for-adults"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]

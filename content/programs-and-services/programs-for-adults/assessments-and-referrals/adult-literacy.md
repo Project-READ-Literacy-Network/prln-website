@@ -2,9 +2,9 @@
 fragment = "item"
 #disabled = false
 
-weight = 120
+weight = 122
 background = "light"
-align = "right"
+align = "left"
 
 title = "Adult Literacy and Skills for Success"
 
