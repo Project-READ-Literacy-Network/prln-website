@@ -1,5 +1,5 @@
 +++
-fragment = "item-special-details"
+fragment = "content-special-details"
 #disabled = false
 
 weight = 119
@@ -10,8 +10,6 @@ title = "Adult Skills Assessments by PRLN"
 #subtitle = ""
 
 +++
-  
-  
 <details>
     
 <summary>
@@ -38,10 +36,7 @@ Educational Assessments for adults (18+) are often the first step on the path to
 
 </details>
   
-  
-  
 ***
-  
   
 <details>
     
