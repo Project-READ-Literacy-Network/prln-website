@@ -12,69 +12,76 @@ title = "The Directory of Programs"
 <details>  
 <summary>  
   
-## Idea Exchange  
-## Adult & Family Library Programs   
+## Cambridge Public Library  
+## Adult & Family Library Programs  
 →CAMBRIDGE  
-  
 www.ideaexchange.org  
   
 </summary>  
   
 #### What:  
-- Free early literacy programming including Baby, Toddler, and School Readiness online and in-person  
-- Immersive Learning Children’s collections including Read the Rainbow Kits, levelled book kits for each stage of reading, and PlaySmarts Toy and Game collection which is built around ten activities such as counting, feeling, moving, sensing and more with suggested age ranges for each item.  
-- Literacy collection ‒ for adults learning the basics of letters and numbers  
-- Audio kits ‒ Books and CDs. Also available online through Tumblebooks  
-- Language learning ‒ for English and many other languages ‒ in audio, print, electronic or some combination (or learn online using the Mango Languages learning programs)  
-- Books with high interest and low vocabulary  
-- Movies and music in other languages  
-- Conversation Circles ‒ meet virtually multiple times per week  
-- Settlement Worker on site at the Queen’s Square location 2 days per week  
-- Courses on teaching English and ESL through an online product called Lynda.com  
-- Free access to the Internet ‒ use our computers or bring your own device  
-- Borrow an ipad to use for home, school, or work  
-- Never used a computer or need help with other devices? Book a 1 to 1 training session with our staff  
-- Old Post Office location – digital library with free access to laser cutter, sewing machines, 3D printer and more. Borrow laptops and ipads to use at location.  
+- Free Early Literacy Programming  
+- Includes Baby, Toddler, and School Readiness programs offered online and in-person  
+- Immersive Learning Children’s Collections include, but are not limited to, the Rainbow Kits, Levelled book kits for each reading stage, and the playSmarts Toy and Game Collection, which is Built around ten activities such as counting, feeling, moving, sensing, and more, with suggested age ranges for each item.  
+- Literacy Collection for adults learning the basics of letters and numbers.  
+- Audio Kits, Books and CDs. Also available online through TumbleBooks.  
+- Language Learning Resources  
+- High-interest, Low-Vocabulary Books designed for readers who prefer simpler text with engaging content.  
+- Movies and Music in Other Languages  
+- Conversation Circles  
+- Settlement Worker  
+- Available onsite at the Queen’s Square location two days per week.  
+- Courses on Teaching English and ESL  
+- Access through the online platform [Lynda.com](www.lynda.com).  
+- Free Internet Access  
+- Use library computers or bring your own device or iPad Loans  
+- Book a session with staff for help using computers or other devices to guide with Digital Library  
+- Free access to equipment such as a laser cutter, sewing machines, and 3D printers  
 #### Who:  
 Everyone, all ages and skill levels  
 #### When:  
 **Queen’s Square**  
-Monday ‒ Thursday at 9:30am‒8:30pm  
-Friday and Saturday at 9:30am‒5:30pm  
-Sunday at 1:00pm‒5:00pm  
+Monday – Thursday at 9:30am–8:30pm  
+Friday and Saturday at 9:30am–5:30pm  
+Sunday at 1:00pm–5:00pm  
   
 **Hespeler, Preston and Clemens Mill**  
-Monday ‒ Thursday at 10:00am‒8:30pm  
-Friday at 10:00am‒5:30pm  
-Saturday at 9:30am‒5:30pm  
-Sunday at 1:00pm‒5:00pm  
+Monday – Thursday at 10:00am–8:30pm  
+Friday at 10:00am–5:30pm  
+Saturday at 9:30am–5:30pm  
+Sunday at 1:00pm–5:00pm  
   
 **Old Post Office**  
-Monday at 10:00am‒5:30pm  
-Tuesday ‒ Thursday at 10:00am‒8:30pm  
-Friday at 10:00am‒5:30pm  
-Saturday at 9:30am‒5:30pm  
-Sunday at 1:00pm‒5:00pm  
+Monday at 10:00am–5:30pm  
+Tuesday – Thursday at 10:00am–8:30pm  
+Friday at 10:00am–5:30pm  
+Saturday at 9:30am–5:30pm  
+Sunday at 1:00pm–5:00pm  
 #### Where:  
-**Queen’s Square**—1 North Square  
+**Queen’s Square**  
+1 North Square  
   
-**Clemens Mill**—50 Saginaw Parkway  
+**Clemens Mill**  
+50 Saginaw Parkway  
   
-**Hespeler**—5 Tannery Street East  
+**Hespeler**  
+5 Tannery Street East  
   
-**Preston**—435 King Street East  
+**Preston**  
+435 King Street East  
   
-**Old Post Office**—12 Water Street South  
+**Old Post Office**  
+12 Water Street South  
 #### Ask For:  
-**Queen’s Square**—(519) 621-0460  
+Queen’s Square—(519) 621-0460  
   
-**Clemens Mill**—(519) 740-6294  
-  
-**Hespeler**—(519) 658-4412  
-  
-**Preston**—(519) 653-3632  
-  
-**Old Post Office**—(226) 533-2767  
+Clemens Mill—(519) 740-6294    
+
+Hespeler—(519) 658-4412    
+
+Preston—(519) 653-3632    
+
+Old Post Office—(226) 533-2767  
   
 </details>  
   
@@ -86,35 +93,31 @@ Sunday at 1:00pm‒5:00pm
 ## Kitchener Public Library  
 ## Programs for Adults, Children and Families  
 →KITCHENER  
-  
 www.kpl.org  
   
 </summary>  
   
 #### What:  
-**All programs are free**  
+- All programs are free  
 - Adult Literacy Collection for Teachers, Tutors, and Students  
 - Family Literacy programs for parents, caregivers, and children  
 - Computer and Technology Programs  
+- Access to Internet, printers, photocopiers, scanning and fax  
 - Volunteer Opportunities  
 - Career and resume help  
 - ESL conversation circles  
-  
-**Additional free services and supports**  
-- Access to Internet, printers, photocopiers, scanning and fax  
 - Study Rooms  
 - WiFi Hotspots  
-- Accessibility Centre (JAWS, Dragon Dictate, ZoomText, C-Pen readers etc)  
+- Accessibility Centre (JAWS, Dragon Dictate, ZoomText, C-Pen readers etc.)  
 - Heffner Studio: 3D printers, Music Editing, Digital Conversion, Audio Production  
-- Chromebooks for in-library and out-of-library use (https://www.kpl.org/technology/computers-and-devices)  
-- Instruments, sports equipment, museum and park passes, toys, and games (https://www.kpl.org/things-to-check-out/cool-things)  
 #### Who:  
 Programs for all ages. All are welcome.  
-Chromebook services: Adults 18 years and older must show ID with their library card to use a Chromebook.  
 #### When:  
-- Monday ‒ Thursday at 9:00am‒9:00pm  
-- Friday and Saturday at 9:00am‒5:30pm  
-- Sunday at 1:00pm‒5:00pm (Central Library only, Fall‒Spring)  
+Monday – Thursday at 9:00am–9:00pm  
+  
+Friday – Saturday at 9:00am–5:30pm  
+  
+Sunday at 1:00pm–5:00pm (Central Library only, Fall – Spring)  
 #### Where:  
 **Central Library**  
 85 Queen Street North  
@@ -132,8 +135,8 @@ Chromebook services: Adults 18 years and older must show ID with their library c
 150 Pioneer Park Drive  
 #### Ask For:  
 Madeleine Kong  
-Librarian, Literacy and Lifelong Learning  
-(519) 743-0271 ext. 230  
+Literacy and Lifelong Learning Librarian  
+(519) 743-0271 ext. 296  
 Madeleine.Kong@kpl.org  
   
 </details>  
@@ -143,60 +146,51 @@ Madeleine.Kong@kpl.org
 <details>  
 <summary>  
   
-## Region of Waterloo Library (RWL)  
-## Adult Library Programs, Services, and Resources  
-→NORTH DUMFRIES, WELLESLEY, WILMOT, WOOLWICH
-  
-www.rwlibrary.ca   
-  
-  
+## Kitchener Public Library  
+## Cool Things  
+→KITCHENER  
+[kpl.org/things-to-check-out/cool-things](https://www.kpl.org/things-to-check-out/cool-things)  
+[Headphones – In-Library Use – iiivega.com](https://kpl-kitch.ca.iiivega.com/search/card?recordId=2666285)  
   
 </summary>  
   
 #### What:  
-- Programs for all ages and skill levels.  Browse and register for programs.  
-- Access to Internet, printers and photocopiers  
-- Mobile Hotspot lending program  
-- A variety of lending collection items including: Hobby Kits, Book Clubs in a Bag/Book Club Packs 4 Kids, Games Collection, Museum Family Passes, Recreation Passes, and Public Health Kits  
-- Online resources for families such as Hoopla, Mango Languages, Fiero Code and Niche Academy.  
+- Device charging kits for 4-hour in-library use  
+- Nintendo Switch Lite in-library use – no holds  
+- Headphones – in-library use  
 #### Who:  
-Open to all ages and skill levels  
+##### In-Library Use Headphones  
+- Available to customers of all age groups.  
+- Can be borrowed by most library membership types, including Unconfirmed and Computer Use Only customers.  
+  
+##### Device Charging Kits and Switch Lite Consoles  
+- Adults (18 years and older) must present ID along with their library card to borrow these  
 #### When:  
-Monday ‒ Saturday, hours and days vary by branch. Refer to the Locations and Hours page on our website.   
+Monday – Thursday at 9:00am–9:00pm  
+  
+Friday – Saturday at 9:00am–5:30pm  
+  
+Sunday at 1:00pm–5:00pm (Central Library only, Fall – Spring)  
 #### Where:  
-**Ayr Branch**  
-137 Stanley Street  
+**Central Library**  
+85 Queen Street North  
   
-**Baden Branch**  
-115 Snyder’s Road East  
+**Country Hills Library**  
+1500 Block Line Road  
   
-**Bloomingdale Branch**  
-860A Sawmill Road  
+**Forest Heights Library**  
+251 Fischer-Hallman Road  
   
-**Elmira Branch**  
-65 Arthur Street South  
+**Grand River Stanley Park Library**  
+175 Indian Road  
   
-**Linwood Branch**  
-5279 Ament Line  
-  
-**New Hamburg Branch**  
-145 Huron Street  
-  
-**New Dundee Branch**  
-1176 Queen Street  
-  
-**St. Clements Branch**  
-3605 Lobsinger Line  
-  
-**St. Jacobs Branch**  
-29 Queensway Drive  
-  
-**Wellesley Branch**  
-1137 Henry Street  
+**Pioneer Park Community Library**  
+150 Pioneer Park Drive  
 #### Ask For:  
-Allie Fallis  
-Supervisor of Programs and Outreach  
-(519) 575-4590 ext. 3953  
+Madeleine Kong  
+Literacy and Lifelong Learning Librarian  
+(519) 743-0271 ext. 296  
+Madeleine.Kong@kpl.org  
   
 </details>  
   
@@ -208,7 +202,6 @@ Supervisor of Programs and Outreach
 ## Waterloo Public Library  
 ## Adult & Family Library Programs  
 →WATERLOO  
-  
 www.wpl.ca  
   
 </summary>  
@@ -216,13 +209,15 @@ www.wpl.ca
 #### What:  
 - Career, job search and resume information  
 - Library Settlement Program workers for specific newcomer and employment support  
-- Tech Connect one-on-one technology help  
+- Tech Connect 1 to 1 technology help  
 - Access to computers, printers, photocopiers and scanners  
-- Free WiFi Internet access and loanable mobile WiFi Hotspots (with WPL card)  
+- WiFi Internet access and loanable mobile WiFi Hotspots (with WPL card)  
 - Gale and LinkedIn Learning online courses (with WPL card)  
 - Language learning resources and English conversation circle  
 - Adult literacy collections  
 - Early literacy programming and collections for children  
+- Local History resources  
+- Online resources  
 - Explore our programs and events  
 - Explore our services  
 - Cool Things to Borrow  
@@ -230,19 +225,19 @@ www.wpl.ca
 Open to everyone. Programs, collections and services for all ages and skill levels.  
 #### When:  
 **Main Library**  
-- Monday ‒ Thursday at 9:30am‒9:00pm   
-- Friday and Saturday at 9:30am‒5:30pm   
-- Sundays at 1:00pm‒4:00pm (October ‒ May)  
+Monday – Thursday at 9:30am–9:00pm  
+Friday – Saturday at 9:30am–5:30pm  
+Sundays at 1:00pm–4:00pm (October – May)  
   
 **Branches**  
-- Monday ‒ Thursday at 9:30am‒9:00pm   
-- Friday and Saturday at 9:30am‒5:30pm  
+Monday – Thursday at 9:30am–9:00pm  
+Friday – Saturday at 9:30am–5:30pm  
 #### Where:  
 **Main Library**  
 35 Albert Street  
   
 **John M. Harper Branch**  
-500 Fischer-Hallman Road North  
+500 Fischer Hallman Road North  
   
 **McCormick Branch**  
 500 Parkside Drive  
@@ -250,9 +245,8 @@ Open to everyone. Programs, collections and services for all ages and skill leve
 **Eastside Branch**  
 2001 University Avenue East  
 #### Ask For:  
-(519) 886-1310 ext. 124  
+(519) 886-1310  
 askus@wpl.ca  
   
   
 </details>  
-

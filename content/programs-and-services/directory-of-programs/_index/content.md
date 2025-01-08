@@ -9,10 +9,10 @@ title_align = "left"
   
 [[buttons]]
   text = "Download"
-  url = "/pdf/directory-2024.pdf"
+  url = "/pdf/directory-2025.pdf"
   icon = "far fa-file-pdf"
   color= "light"
-  download_file = "directory-2024.pdf"
+  download_file = "directory-2025.pdf"
   
 [[logos]]
   url = "http://www.actionread.com/"
@@ -27,6 +27,11 @@ title_align = "left"
 [[logos]]
   url = "https://www.ugdsb.ca/continuing-education/"
   src = "/images/logos/ugdsb-logo.png"
+  text = "Upper Grand District School Board (UGDSB)"
+  
+[[logos]]
+  url = "https://www.ugdsb.ca/continuing-education/"
+  src = "/images/logos/continuing_education_logo_ss.png"
   text = "Upper Grand District School Board (UGDSB)"
   
 [[logos]]
@@ -52,12 +57,17 @@ title_align = "left"
 [[logos]]
   url = "http://www.theliteracygroup.com/"
   src = "/images/logos/tlg_logo.png"
-  text = "theliteracygroup"
+  text = "The Literacy Group of Waterloo Region"
   
 [[logos]]
   url = "http://www.lutherwood.ca/employment"
   src = "/images/logos/lutherwood-logo.png"
-  text = "lutherwood"
+  text = "Starling Community Services (Lutherwood)"
+  
+[[logos]]
+  url = "http://www.lutherwood.ca/employment"
+  src = "/images/logos/starling_full-colour.svg"
+  text = "Starling Community Services (Lutherwood)"
   
 [[logos]]
   url = "http://www.2ndchance.ca/"
@@ -67,18 +77,13 @@ title_align = "left"
 [[logos]]
   url = "http://www.ymcaemploymentservices.ca/"
   src = "/images/logos/ymca-tr-logo.png"
-  text = "ymcaemploymentservices" 
+  text = "YMCA of Three Rivers" 
 
 [[logos]]
   url = "http://www.wpl.ca/"
   src = "/images/logos/wpl-logo.png"
-  text = "wpl" 
+  text = "Waterloo Public Library" 
   
-[[logos]]
-  url = "http://www.rwlibrary.ca/"
-  src = "/images/logos/rowl-logo.png"
-  text = "rowl"   
-
 [[logos]]
   url = "http://www.sefad.ca/"
   src = "/images/logos/sefad-logo.png"
@@ -102,12 +107,7 @@ title_align = "left"
 [[logos]]
   url = "http://www.ideaexchange.org/"
   src = "/images/logos/ie-logo.png"
-  text = "ideaexchange" 
-
-[[logos]]
-  url = "http://www.agilec.ca/"
-  src = "/images/logos/agilec-logo.png"
-  text = "agilec"  
+  text = "Cambridge Public Library" 
 
 [[logos]]
   url = "http://www.goodlearninganywhere.com/"
@@ -138,6 +138,11 @@ title_align = "left"
   url = "https://www.regionofwaterloo.ca/"
   src = "/images/row-logo.svg"
   text = "Region of Waterloo"  
+
+[[logos]]
+  url = "https://www.skillingup.ca/"
+  src = "/images/logos/modc_logo.svg"
+  text = "March of Dimes Canada – SkillingUp Program"  
 
 
 +++

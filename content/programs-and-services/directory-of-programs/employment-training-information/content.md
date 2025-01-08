@@ -15,7 +15,6 @@ title = "The Directory of Programs"
 ## 2nd Chance Employment Counselling  
 ## Employment Ontario  
 →GUELPH, FERGUS, RURAL WELLINGTON  
-  
 www.2ndchance.ca  
   
 </summary>  
@@ -31,24 +30,23 @@ www.2ndchance.ca
 Job Seekers  
 #### When:  
 **Fergus**  
-Monday ‒ Friday at 8:30am‒4:00pm  
+Monday – Friday at 8:30am–4:00pm  
   
 **Guelph—Norfolk Location**  
-Monday ‒ Friday at 8:30am‒4:00pm  
+Monday – Friday at 8:30am–4:00pm  
   
-**Guelph—Youth Resource Centre, Stone Road Mall**  
-Monday ‒ Closed  
-Tuesday & Thursday at 9:00am‒4:00pm  
+**Guelph—Youth Resource Centre,  Stone Road Mall**  
+Monday – Closed  
+Tuesday and Thursday at 9:00am–4:00pm  
 Wednesday at 12:00pm–6:00pm  
 #### Where:  
 **Fergus**  
 160 St. David Street South, Unit 104  
   
-**Guelph—Norfolk Location**  
+**Guelph—Norfolk location**  
 177 Norfolk Street  
   
-**Guelph—Youth Resource Centre**  
-Stone Road Mall  
+**Guelph—Youth Resource Centre, Stone Road Mall**  
 435 Stone Road West, 2nd Floor  
 #### Ask For:  
 Guelph and Fergus locations  
@@ -64,7 +62,6 @@ Guelph and Fergus locations
 ## 2nd Chance Employment Counselling  
 ## ways2work  
 →GUELPH  
-  
 www.2ndchance.ca  
   
 </summary>  
@@ -74,7 +71,7 @@ Group-based employability skills and work placement program
 #### Who:  
 Youth up to the age of 30  
 #### When:  
-Monday ‒ Friday at 8:30am‒4:00pm  
+Monday – Friday at 8:30am–4:00pm  
 #### Where:  
 **Guelph** and **Wellington County**  
 #### Ask For:  
@@ -90,7 +87,6 @@ Monday ‒ Friday at 8:30am‒4:00pm
 ## 2nd Chance Employment Counselling  
 ## Women2Work  
 →GUELPH, RURAL WELLINGTON  
-  
 www.2ndchance.ca  
   
 </summary>  
@@ -100,7 +96,7 @@ Group-based employability skills and work placement program
 #### Who:  
 Women of all ages with a disability  
 #### When:  
-Monday ‒ Friday at 8:30am‒4:00pm  
+Monday – Friday at 8:30am–4:00pm  
 #### Where:  
 **Guelph** and **Wellington County**  
 #### Ask For:  
@@ -113,72 +109,9 @@ Monday ‒ Friday at 8:30am‒4:00pm
 <details>  
 <summary>  
   
-## Agilec  
-## Employment Services  
-→KITCHENER, RURAL WELLINGTON, FERGUS, MOUNT FOREST  
-  
-www.agilec.ca  
-  
-</summary>  
-  
-#### What:  
-- Our welcoming Resource and Information Centre offers friendly helpful staff support along with access to computers, fax, photocopier as well as resources and information about community and government programs  
-- Employment Coaches will guide you through your job search journey by helping you decide what you want to do and how to go about doing it. For example: on the job training, Better Jobs Ontario (formerly Second Career), connecting with employers, interview skills and more!  
-- When working one-on-one with you, our coaches will help identify your skills and experience to build your confidence to achieve new goals  
-- Engaging workshops to develop job searching skills such as resume writing, interview preparation, networking and social media tools  
-- Our supportive Job Development team offers a tailored approach to finding a job that is the right fit for you. This may include access to training, apprenticeships and assistance for on the job experience  
-  
-**Need help hiring?**  
-Agilec can successfully address your recruitment and staff training needs. Here are just some of the ways:  
-- Support in identifying human resource needs and filling vacancies  
-- Information and resources about hiring a new employee  
-- Access to job posting services  
-- No Cost Advertising/Marketing for Job Postings  
-- Office space and coordination of job fairs and interviewing  
-- No Cost Pre-screening of Candidates  
-- Funding for On the Job Training  
-- Creation of Customized Training Plans  
-- On the Job Coaching  
-- Work Trials  
-- Apprenticeships and funding opportunities available  
-#### Who:  
-All are welcome  
-#### When:  
-**All Locations**  
-Monday ‒ Friday at 8:30am‒4:30pm   
-#### Where:  
-**Fergus**  
-370 Andrew Street West, Unit 2  
-  
-**Kitchener**  
-385 Fairway Road South, Unit 205  
-  
-**Mount Forest**  
-392 Main Street North, Unit 7  
-#### Ask For:  
-**Fergus**  
-(519) 787-9333  
-fergus@agilec.ca  
-  
-**Kitchener**  
-(519) 576-2681  
-kitchener@agilec.ca  
-  
-**Mount Forest**  
-(519) 323-4540  
-mtforest@agilec.ca  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
 ## Cambridge Career Connections EmployNext Services  
 ## John Howard Society of Waterloo–Wellington  
 →CAMBRIDGE, NORTH DUMFRIES  
-  
 www.cambridgecareerconnections.com  
   
 </summary>  
@@ -186,30 +119,31 @@ www.cambridgecareerconnections.com
 #### What:  
 As an Employment Ontario service provider, we have free employment-related programs for job seekers, employers and educators.  
   
-##### For Job Seekers  
+##### For Job Seekers:  
 - Assists job seekers to find and keep successful employment, training and apprenticeships  
 - Connects job seekers to other community services and opportunities for overcoming barriers and life stabilization  
 - Fully equipped and accessible resource room  
 - Provides information and application assistance for Better Jobs Ontario funding for eligible participants  
   
-##### For Employers  
+##### For Employers:  
 - Job matching and placement services  
 - Job boards, job fairs, and job marketing support  
 - Incentives and supports for employment placements  
 - Canada Ontario Job Grant for employee training and other training supports  
-- Please call for more details on any of our programs or services  
+- Please call for more details on any of our programs or services.  
 #### Who:  
 All ages are welcome  
 #### When:  
-Office hours:  
-Monday ‒ Friday at 8:30am‒4:30pm  
+Office hours: Monday – Friday at 8:30am–4:30pm  
 #### Where:  
-##### Cambridge  
+**Cambridge**  
 40 Ainslie Street South  
 (across the street from the bus terminal)  
-##### Langs  
+  
+**Langs**  
 1145 Concession Road  
-##### Ayr  
+  
+**Ayr**  
 Variety of community settings  
 #### Ask For:  
 Employment Coordinator  
@@ -224,61 +158,52 @@ ccc@jhsww.ca
 <summary>  
   
 ## Conestoga Community Career Centre  
-## Employment Ontario (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG)  
-→ELMIRA, KITCHENER, NEW HAMBURG, RURAL WELLINGTON, WATERLOO, WELLESLEY, WILMOT  
-  
+## Integrated Employment Services, Employment Ontario, EmployNext  
+→ WATERLOO, KITCHENER, NEW HAMBURG, ELMIRA, RURAL WELLINGTON, WELLESLEY, WILMOT  
 www.conestogac.on.ca/career-centre  
   
 </summary>  
   
 #### What:  
-Employment services are available to anyone seeking employment, career planning support, and training opportunities. Our experienced staff can open doors to help find the right fit for employment and training. Appointments are available virtually and in person at the Centres. Please inquire about the availability of in-person appointments.  
+As part of Conestoga’s Talent Hub, the Community Career Centre provides employment services to community members for job search, career planning support, and training opportunities. Our experienced staff can open doors to help find the right fit for employment and training in line with the current labour market’s demands.  
   
-> The staff are very supportive of your goals and help you find the best possible way to achieve those goals, short-term and long-term. I would highly recommend the Conestoga Career Centre to anyone who is in need of Career help.  
->  
-> – A successful job seeker, Jess  
-  
-Employment Ontario (Secro) funded programs including: Employment Services and the Canada Ontario Job Grant (COJG).   
-- Connections to employers with monthly employer showcases  
+##### Services Include:  
 - Individualized Job Search and Resume Assistance  
-- Resource Centre and Virtual Job Board (MyCareer)  
-- Workplace Certifications relevant to today’s labour market  
+- Career Planning and Advisement  
+- Connections to employers  
+- Access to our Resource Centre and Virtual Job Board (MyCareer)  
+- Referrals for Workplace Certifications relevant to today’s labour market  
 - Better Jobs Ontario Funding Information and Application Support  
 - Financial Incentives may be available for eligible employers and Job Seekers  
-- Career Planning and Advisement  
-- Access Conestoga’s exclusive online job posting service  
-- Internationally Trained Immigrant Advisement  
+- Internationally Trained Immigrant Advisement & Credential Assessment  
 - Post-Secondary Education Program Information/Registration  
-- Apprenticeship financial incentives  
+- Trade/Apprenticeship financial incentives Information  
+- Canada Ontario Job Grant for Employers  
 #### Who:  
-For ages 15+ years  
-  
-Services are available to everyone including individual job seekers and employers – at no cost. Canada Ontario Job Grant is an employer driven training program for employers seeking financial support for training new hires or existing employees.  
-  
-Employer Services please contact employerscareercentre@conestogac.on.ca  
+Job seekers and Employers looking to hire or access the Canada Ontario Job Grant  
 #### When:  
-##### Doon  
-- Monday ‒ Friday at 8:30am‒4:30pm  
-- Evening appointments until 6:00pm available upon request  
-- Virtual and in-person appointments available  
+Monday – Friday at 8:30am–4:30pm*  
   
-##### Waterloo  
-- Monday ‒ Friday at 8:30am‒4:30pm (in-person)  
-- Virtual and in-person appointments available (Monday ‒ Friday)  
+ \* Please contact us in advance to schedule an appointment.  
 #### Where:  
-**Kitchener/Doon Campus**  
-Conestoga Career Centre, Welcome Centre  
+**Kitchener**  
+Doon Campus Welcome Centre  
 299 Doon Valley Drive  
-Free parking  
+  
+**Downtown Kitchener**  
+Downtown Kitchener Campus Talent Hub  
+49 Frederick Street  
   
 **Waterloo**  
-332 Marsland Drive, 2nd Floor
-Free parking available on site  
+332 Marsland Drive, 2nd floor  
   
-Services in New Hamburg, Elmira, Wilmot and Wellesley: call for details  
+**New Hamburg**, **Elmira**, **Wilmot** and **Wellesley** contact us for details and to schedule an appointment  
 #### Ask For:  
-Contact Career Centre Staff  
-(519) 885-0300 ext. 5226  
+For information or to access the Community Career Centre, contact staff at (519) 885-0300 ext. 5226 or waterloocareercentre@conestogac.on.ca  
+  
+For information other Talent Hub Employer or Student employment services at Conestoga, contact Talenthub@conestogac.on.ca  
+  
+Appointments are available virtually and in person. Please inquire about appointment availability  
   
 </details>  
   
@@ -290,7 +215,6 @@ Contact Career Centre Staff
 ## Kinbridge Community Association  
 ## Newcomer Employment Outreach  
 →CAMBRIDGE  
-  
 www.kinbridge.ca  
   
 </summary>  
@@ -302,16 +226,16 @@ www.kinbridge.ca
 - Referrals to other services  
 - Referrals to employers (not guaranteed)  
 #### Who:  
-Adults (18+ years) eligible to work in Canada, Cambridge residents only  
+Adults 18+, eligible to work in Canada, Cambridge residents only  
 #### When:  
-Monday ‒ Friday at 9:00am‒4:00pm  
-Online and in-person  
+Monday – Friday at 9:00am–4:00pm  
 #### Where:  
-**Cambridge**—200 Christopher Drive  
+**Cambridge**—200 Christopher Drive (and online)  
 #### Ask For:  
 Lily Magnus—Program Coordinator  
-(519) 496 5886  
-or LilyM@kinbridge.ca  
+(519) 496-5886, LilyM@kinbridge.ca  
+  
+Intake/referral form: https://forms.office.com/r/fv1mzkRadF  
   
 </details>  
   
@@ -323,7 +247,6 @@ or LilyM@kinbridge.ca
 ## KW Habilitation  
 ## Community and Employment Supports  
 →KITCHENER  
-  
 www.kwhab.ca/kw-career-compass  
   
 </summary>  
@@ -336,18 +259,58 @@ Job readiness education and training for adults who are interested in working to
 - Experiential learning opportunities in authentic work and community settings  
 - Education may include bus training and on-site job coaching  
   
-[Out and About Waterloo Region](https://www.kwhab.ca/services/community-supports/out-and-about-waterloo-region/)  
-The aim of Out and About WR is to connect you to your neighbourhood, to the things that are important to you in your local community.  This includes recreation and leisure activities, learning opportunities, and volunteerism.  
+[**Out and About Waterloo Region**](https://www.kwhab.ca/out-and-about-waterloo-region/)  
+The aim of Out and About WR is to connect you to your neighbourhood, to the things that are important to you in your local community. This includes recreation and leisure activities, learning opportunities, and volunteerism  
 #### Who:  
 Adults (18+ years)  
+#### When:  
+Contact us for more information  
+#### Where:  
+**Kitchener**—99 Ottawa Street South  
+#### Ask For:  
+Amy Haynes—Supervisor, Community and Employment Supports  
+(519) 744-6307 ext. 1213  
+  
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## KW Habilitation  
+## KW Career Compass  
+→KITCHENER  
+www.kwhab.ca/kw-career-compass  
+  
+</summary>  
+  
+#### What:  
+We assist Job Seekers to find meaningful work by matching interests, skills, and career goals. This individual approach helps job seekers find the perfect employment fit!  
+  
+**Create an Employment Plan:**  
+Individualized supports to plan for all the steps in reaching employment goals  
+  
+**Job Readiness Coaching and Courses:**  
+Career exploration, workshops, resume building, bus training and interview preparation  
+  
+**Experiential Learning Opportunities:**  
+Authentic work and community settings to help identify individual interests and skill levels  
+  
+**Job Development:**  
+Personalized plans to help match individuals with jobs that align with their skills and goals  
+  
+**Job Coaches:**  
+On the job training and ongoing job retention and maintenance supports  
+#### Who:  
+Adults (18+ years) with barriers to employment  
 #### When:  
 Contact us for more information.  
 #### Where:  
 **Kitchener**—99 Ottawa Street South  
 #### Ask For:  
-Amy Haynes—Supervisor  
-Community and Employment Supports  
-(519) 744-6307 ext. 1213  
+Stacey Mitchel—Manager, Community and Employment Supports  
+(519) 744-6307 ext. 1252  
   
 </details>  
   
@@ -359,25 +322,24 @@ Community and Employment Supports
 ## KW Habilitation  
 ## LEG Up!  
 →KITCHENER  
-  
 www.leg-up.ca  
   
 </summary>  
   
 #### What:  
-Learning, Experience, Goals  
+Learning, Experience, Goals!  
+  
 A learning and skill building program that provides small group learning and training geared towards adults seeking to enhance their skills for employment, volunteerism and independent living.  
 #### Who:  
-Youth (13–17 years) and adults with developmental disabilities.  
+Adults 18+ with developmental disabilities.  
 #### When:  
 Sessions are offered throughout the year  
   
-Visit www.leg-up.ca for registration information  
+Visit www.leg-up.ca for registration information.  
 #### Where:  
 **Kitchener**—109 Ottawa Street South, Unit D  
 #### Ask For:  
-Annita Boer, Marc Seymour or Michelle Ennis  
-LEG Up! Instructors  
+Annita Boer, Marc Seymour or Michelle Ennis—LEG Up! Instructors  
 (519) 208-2225  
 legup@kwhab.ca  
   
@@ -388,10 +350,51 @@ legup@kwhab.ca
 <details>  
 <summary>  
   
-## Lutherwood  
+## KW Habilitation  
+## YEP (Youth Exploring Possibilities)  
+→KITCHENER  
+www.kwhab.ca/services/youth-exploring-possibilities-yep/  
+  
+</summary>  
+  
+#### What:  
+**Programs offered:**  
+YEP (Youth Exploring Possibilities) is open to youth with developmental disabilities between the ages of 13 and 25. This is an opportunity for youth to stay connected with their peers – year-round!  
+  
+Activities are planned with all ages in mind, and when required, smaller groups are created to consider bringing youth who are closer in age together.  
+  
+**YEP Social:**  
+focused on social activities like baking, exploring the community on the GRT, and other things based on suggestions from past participants. Offered throughout the year on evenings, weekends, PD Days and March Break.  
+  
+**YEP Skills:**  
+6-week-long courses where learning focuses on skill building in a variety of areas, based on feedback from youth. Offered throughout the year.  
+  
+**YEP Summer:**  
+for 9 weeks in July and August. Activities are held on weekdays and include community recreational activities, work readiness skills, fitness, and much more.  
+#### Who:  
+YEP Skills and YEP Social are open to youth (13–25 years) with developmental disabilities.  
+  
+YEP Summer is open to youth (13–25 years)  with developmental disabilities.  
+#### When:  
+Offered throughout the year on evenings, weekends, PD Days, and March Break.  
+  
+See the “what” section above for program schedules.  
+#### Where:  
+**Kitchener**—99 Ottawa Street South  
+#### Ask For:  
+Amy Haynes—Supervisor, Community Supports  
+(519) 744-6307 ext. 1213  
+  
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## Starling Community Services (Lutherwood)  
 ## Employment Services  
 →CAMBRIDGE, GUELPH, KITCHENER  
-  
 www.lutherwood.ca/employment  
   
 </summary>  
@@ -408,7 +411,7 @@ www.lutherwood.ca/employment
 #### Who:  
 Services are available to anyone of legal working age, living in Ontario and eligible to work in Canada seeking support with employment and/or training (Under 18 must be legally excused from attending school)  
 #### When:  
-Monday ‒ Friday at 8:30am‒4:30pm  
+Monday – Friday at 8:30am–4:30pm  
 #### Where:  
 **Cambridge**—35 Dickson Street  
   
@@ -418,11 +421,11 @@ Monday ‒ Friday at 8:30am‒4:30pm
 #### Ask For:  
 Speak to our resource centre staff to determine the employment services program that would best meet your needs.  
   
-**Cambridge**—(519) 623-9380  
+Cambridge—(519) 623-9380  
   
-**Guelph**—(519) 822-4141  
+Guelph—(519) 822-4141  
   
-**Kitchener**—(519) 743-2460  
+Kitchener—(519) 743-2460  
   
 </details>  
   
@@ -431,32 +434,29 @@ Speak to our resource centre staff to determine the employment services program 
 <details>  
 <summary>  
   
-## Lutherwood  
+## Starling Community Services (Lutherwood)  
 ## Getting Ahead in the Workplace  
 →CAMBRIDGE, KITCHENER, WATERLOO  
-  
 www.lutherwood.ca/employment  
   
 </summary>  
   
 #### What:  
-- 1 to 1 and group-based learning for youth who want to work and need help getting started  
-- Ideal for those who want to build successful mental wellness strategies and/or need to overcome barriers to employment  
-- Identify your strengths, resources and develop and follow a new future story plan  
-- Learn about the "hidden rules" and communication skills needed to get ahead in the workplace  
-- Paid placements and interviews with local youth friendly organizations  
+- Youth-specific employment skill building program including 1 to 1 support, group workshops, and paid placement components  
+- Workshops build both employment skills (ex. Resumes, cover letters, interviews, etc.) and personal wellbeing skills (ex. Personal finances, conflict resolution, professionalism, etc.)  
+- Ideal for youth who need some extra time and assistance to break into the workforce  
 #### Who:  
-Youth 15‒30 years (inclusive)  
+15–30 years of age (inclusive)  
 #### When:  
-Monday ‒ Friday at 8:30am‒4:30pm  
+Monday – Friday at 8:30am–4:30pm  
 #### Where:  
 **Kitchener**—165 King Street East  
 #### Ask For:  
 Speak to our resource centre staff to determine the employment services program that would best meet your needs.  
   
-**Cambridge**—(519) 623-9380  
+Cambridge—(519) 623-9380  
   
-**Kitchener**—(519) 743-2460  
+Kitchener—(519) 743-2460  
   
 </details>  
   
@@ -465,33 +465,69 @@ Speak to our resource centre staff to determine the employment services program 
 <details>  
 <summary>  
   
-## Lutherwood  
-## Newcomer Career Support & Navigation  
+## Starling Community Services (Lutherwood)  
+## Newcomer Career Support & Navigation   
 →GUELPH, RURAL WELLINGTON  
-  
 www.lutherwood.ca/employment  
   
 </summary>  
   
 #### What:  
-- Job Search Workshops for Newcomers  
-- Mentorship opportunities for internationally trained professionals with local volunteer mentors in their field  
-- Help navigating the complex systems involved in accessing further education, training, apprenticeship and employment  
-- Information for immigrants about their occupational field in Canada  
-- Targeted resumes and cover letters, self-marketing and other job search tips  
-- Learn the benefits of networking  
+- Job Search Workshops for Newcomers, in person and online  
+- Mentorship for internationally trained professionals to connect with volunteer mentors in their field  
+- Information for immigrants about their occupational field in Canada, targeted resumes and cover letters, self-marketing, benefits of networking and other job search tips  
+- Assistance to navigate the complex systems involved in accessing further education, training, apprenticeship and employment  
 - Help determining eligibility and applying for credential evaluation  
-- In person and online workshops available  
+- Support for Tigrinya and Amharic speakers to access employment services and navigate job search for finding and maintaining employment  
+- Help for newcomer youth (15-30) to find local job opportunities and navigate the job search process through Job Search Workshops, coaching and developing connections with potential employers  
+- Services available in multiple languages: English, French, Spanish, Portuguese, Pashto, Urdu, Tigrinya, Amharic, Tagalog and Ukrainian  
 #### Who:  
-Newcomers (Permanent Residents, Convention Refugees, Protected Persons, Live In Caregivers) living in Guelph and Wellington County  
+Newcomers (Permanent Residents, Convention Refugees, Protected Persons) living in Guelph and Wellington County  
 #### When:  
-Monday ‒ Friday at 8:30am‒4:30pm  
+Monday – Friday at 8:30am–4:30pm  
 #### Where:  
 **Guelph**—89 Wyndham Street North, 3rd Floor  
 #### Ask For:  
 Speak to our Resource Centre staff to determine the employment services program that would best meet your needs.  
   
-**Guelph**—(519) 822-4141  
+Guelph—(519) 822-4141  
+  
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## March of Dimes Canada – SkillingUp Program  
+## Newcomer Employment Outreach  
+→Virtual  
+www.skillingup.ca  
+  
+</summary>  
+  
+#### What:  
+- Free, self-paced digital skills training program  
+- Focus and enhance employability for people with disabilities or employment barriers  
+  
+##### Key Features:  
+- Learn digital skills  
+- Earn Microsoft certifications  
+- Build confidence for tech-enabled workforce participation  
+- Offers learning pathways from beginner to advanced levels  
+- Includes job development support and virtual mentorships  
+- No diagnosis disclosure is required  
+#### Who:  
+16+ years of age  
+#### When:  
+Days of the week and times: Virtual program – everyday  
+  
+Monday – Friday at 9:00am–4:00pm  
+#### Where:  
+Online  
+#### Ask For:  
+Justine Wight—Program Coordinator  
+skillingup@marchofdimes.ca  
   
 </details>  
   
@@ -503,32 +539,32 @@ Speak to our Resource Centre staff to determine the employment services program 
 ## Region of Waterloo  
 ## Employment Ontario (EO) Programs  
 →CAMBRIDGE, KITCHENER, WATERLOO  
-  
 www.regionofwaterloo.ca  
   
 </summary>  
   
 #### What:  
-- Employment Ontario Service Provider   
-- Help with resumes, interviews, job searching and accessing training   
-- 1 to 1 support from an Employment Facilitator   
+- Employment Ontario Service Provider  
+- Help with resumes, interviews, job searching and accessing training  
+- 1 to 1 support from an Employment Facilitator  
 - Access to Job Development Services  
 #### Who:  
 All services are open to adults  
 #### When:  
-Employment Services  
-Monday ‒ Friday at 8:30am‒4:30pm  
-Available in person, in the community, online, and by phone.  
+Employment Services:  
+Monday – Friday at 8:30am to 4:30pm  
+  
+Available in person, in the community, online and by phone.  
   
 Resources are also available on our website at https://www.regionofwaterloo.ca/en/living-here/employment-support.aspx  
 #### Where:  
-**Cambridge**—150 Main Street  
+**Cambridge** —150 Main Street  
   
-**Kitchener**—20 Weber Street  
+**Kitchener** —20 Weber Street  
   
-**Waterloo**—99 Regina Street South  
+**Waterloo** —99 Regina Street South  
 #### Ask For:  
-Employment Services  
+Contact Person—Employment services  
 (519) 883-2101 ext. 5656  
   
 </details>  
@@ -538,36 +574,36 @@ Employment Services
 <details>  
 <summary>  
   
-## YMCA of Three Rivers   
-## Employment Services   
+## YMCA of Three Rivers  
+## Employment Services  
 →CAMBRIDGE, KITCHENER  
-  
 www.ymcaemploymentservices.ca  
   
 </summary>  
   
 #### What:  
-- Career exploration, 1 to 1 support   
+- Career exploration, 1 to 1 support  
 - Job search assistance, workshops  
-- Better Jobs Ontario information  
 - Labour market information  
 - Employment supports  
-- Job Boards, job fairs, employer panels  
+- Resource centre with computers, printers  
 - Services for employers  
+- Better Jobs Ontario  
 #### Who:  
 All are welcome  
   
 Cambridge office provides services in French  
 #### When:  
-Monday ‒ Friday at 8:30am‒4:30pm  
+Monday – Friday at 8:30am–4:30pm  
 #### Where:  
 **Cambridge**—250 Hespeler Road, 2nd Floor  
   
 **Kitchener**—800 King Street West, 3rd Floor  
 #### Ask For:  
-**Cambridge**—(226) 989-3381  
+Cambridge—(226) 989-3381  
   
-**Kitchener**—(519) 500-9637  
+Kitchener—(519) 504-2723  
+  
   
   
 </details>  
