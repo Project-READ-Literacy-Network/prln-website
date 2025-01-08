@@ -15,7 +15,7 @@ title = "The Directory of Programs"
 ## Cambridge Public Library  
 ## Adult & Family Library Programs  
 →CAMBRIDGE  
-www.ideaexchange.org  
+[ideaexchange.org](https://ideaexchange.org/)  
   
 </summary>  
   

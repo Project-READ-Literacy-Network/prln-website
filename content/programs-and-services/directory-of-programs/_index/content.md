@@ -105,17 +105,17 @@ title_align = "left"
   text = "deaflearnnow"  
 
 [[logos]]
-  url = "http://www.ideaexchange.org/"
+  url = "https://ideaexchange.org/"
   src = "/images/logos/ie-logo.png"
   text = "Cambridge Public Library" 
 
 [[logos]]
-  url = "http://www.goodlearninganywhere.com/"
+  url = "https://goodlearninganywhere.com/"
   src = "/images/logos/gla-logo.png"
   text = "goodlearninganywhere"  
 
 [[logos]]
-  url = "http://www.kpl.org/"
+  url = "https://www.kpl.org/"
   src = "/images/logos/kpl-logo.png"
   text = "kpl" 
 
