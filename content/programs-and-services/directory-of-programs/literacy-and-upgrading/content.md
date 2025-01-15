@@ -20,16 +20,16 @@ www.actionread.com
   
 #### What:  
 A wide range of free adult learning programs for employment, independence, and education and training:  
-- 1 to 1 tutoring and small groups to improve reading, writing, spelling, and basic math.  
-- Pre-employment skills preparation to help learners obtain and keep jobs. Programs include cash register training, food handlers certification, receptionist training, light duty cleaner training, working in retail, communications training & others.  
-- Preparation for high school equivalency.  
-- Northstar Digital Literacy certification and advanced Microsoft computer courses.  
-- Learning assessment, training plan development, short term groups and workshops.  
-- Mobile computer lab to provide computer training offsite.  
-- Information and referral to other programs and services.  
-- Assist adults with learning disabilities.  
-- Wheelchair accessible.  
-- Childcare and transportation subsidy available.  
+- 1 to 1 tutoring and small groups to improve reading, writing, spelling, and basic math  
+- Pre-employment skills preparation to help learners obtain and keep jobs. Programs include cash register training, food handlers certification, receptionist training, light duty cleaner training, working in retail, communications training & others  
+- Preparation for high school equivalency  
+- Northstar Digital Literacy certification and advanced Microsoft computer courses  
+- Learning assessment, training plan development, short term groups and workshops  
+- Mobile computer lab to provide computer training offsite  
+- Information and referral to other programs and services  
+- Assist adults with learning disabilities  
+- Wheelchair accessible  
+- Childcare and transportation subsidy available  
 #### Who:  
 Adults (19+ years)  
 #### When:  
@@ -78,9 +78,9 @@ Students must have a Canadian Language Benchmark level 6 on all areas (documenta
 #### When:  
 All classes are being delivered online with in person support for select courses. Please connect with our intake team for more details at upgrading@conestogac.on.ca  
   
-Self-directed study: Work at your own pace through the materials with an Instructor available in class to support you. Students can start anytime as part of our continuous intake  
+Self-directed study: Work at your own pace through the materials with an instructor available in class to support you. Students can start anytime as part of our continuous intake  
   
-Teacher-led options: An Instructor teaches the class with all students starting and ending at the same time. Teacher-led classes are 15 weeks in length and students must attend all classes  
+Teacher-led options: An instructor teaches the class with all students starting and ending at the same time. Teacher-led classes are 15 weeks in length and students must attend all classes  
 #### Where:  
 **Cambridge**—150 Main Street, Suite 402  
   
@@ -120,7 +120,7 @@ or www.conestogac.on.ca/caa/upgrading
 #### Who:  
 Adults (18+ years)  
   
-English Speaking and Listening requirement: ESU is not an ESL or LINC program. The level of speaking and listening skills will be determined at assessment, or may involve a Language Assessment. For reference, Speaking and Listening should be roughly equivalent to CLB6  
+English Speaking and Listening requirement: ESU is not an ESL or LINC program. The level of speaking and listening skills will be determined at assessment, or may involve a Language Assessment. For reference, Speaking and Listening should be roughly equivalent to CLB 6  
   
 Some restrictions for people with 900 series SIN  
 #### When:  
@@ -378,7 +378,7 @@ www.ugdsb.ca/o/cep
   
 #### What:  
 - Grade 11 and 12, Senior Credit Courses in English, Mathematics, Chemistry and Biology at the workplace, college and university levels  
-- Courses are offered on a rotational basis following a 6 week schedule.  
+- Courses are offered on a rotational basis following a 6 week schedule  
 #### Who:  
 Adults (18+ years) who are not currently registered in a high school.  
   
@@ -416,7 +416,7 @@ Student Services—(519) 836-7280 ext. 627
 - Prior Learning Assessment & Recognition (PLAR) for mature students to earn secondary school credits based on previous work and life experience. Earn up to 26 credits through meetings and short tests with Guidance  
 - Credits@Work—earn co-op credits while working (+20 hour Online or handout component). Every hour worked counts toward each hour needed to complete a secondary school credit. First credit is 90 hours + 20 hours to complete Student Co-op Learning Plan. Each credit afterward is 110 hours  
 - Correspondence, online, earn credits on your own schedule (20 lessons total at 2 lessons per week). Free student support available for Correspondence students  
-- No fees for Day Classes, Language Credit classes, PLAR, Summer or Credits@Work. Correspondence requires a $60 fee per course. School-to-Work courses and programs have materials fees.  
+- No fees for Day Classes, Language Credit classes, PLAR, Summer or Credits@Work. Correspondence requires a $60 fee per course. School-to-Work courses and programs have materials fees  
 #### Who:  
 Adults (18+ years)  
   
@@ -453,8 +453,8 @@ Students (16+ years) not attending school full time. For correspondence and Cred
 - July 2–28, 2025, Monday – Friday at 8:30am–3:00pm (online or in-person to be determined)  
   
 ##### Registration:  
-- Must complete online Guidance Intake Form (Monday to Friday) to enroll. Transcript or credit counselling summary from last high school required.  
-- Secondary School Credit Day Class registration generally starts 3 weeks before the start of each term. New term every 2 months.  
+- Must complete online Guidance Intake Form (Monday to Friday) to enroll. Transcript or credit counselling summary from last high school required  
+- Secondary School Credit Day Class registration generally starts 3 weeks before the start of each term. New term every 2 months  
 - Correspondence, Credits@Work and PLAR registration ongoing during Guidance hours of operation  
 - Summer School and Language Credit registration begins in February  
 #### Where:  
@@ -537,7 +537,7 @@ or stlouis@wcdsb.ca
 - Culinary Arts & Hospitality courses or Training Program (Kitchener only)  
 - Hairstyling & Barber Training Program (Kitchener only)  
 - All programs offer in-class instruction, experiential hands-on learning, secondary school elective credits and have minimum 220-hour co-op / work placements  
-- Tuition is paid by Ministry of Education funding, additional non-refundable materials fees may apply ($100 per Culinary course, $2000/yr for Hairstyling/ Barber Training, PSW Certificate training free until March 2026).  
+- Tuition is paid by Ministry of Education funding, additional non-refundable materials fees may apply ($100 per Culinary course, $2000/yr for Hairstyling/ Barber Training, PSW Certificate training free until March 2026)  
 Fees are subject to change  
 #### Who:  
 All School-to-Work programs  
@@ -553,8 +553,8 @@ Full-time day, in-class instruction for all programs, class times vary, plus two
 - September – June. No classes in summer. Co-op available  
   
 ##### Hairstyling & Barbering:  
-- Full-time, Monday – Friday at 8:45am–3:30pm.  
-- Start dates in September, November and March.  
+- Full-time, Monday – Friday at 8:45am–3:30pm  
+- Start dates in September, November and March  
 - Co-op placement times vary  
   
 ##### PSW:  
@@ -620,7 +620,7 @@ Youth (6–24 years)
   
 Adults (18–99 years)  
 #### When:  
-- Call the Learning Centre for dates and times of programs.  
+- Call the Learning Centre for dates and times of programs  
 - Office Hours: Monday – Thursday at 9:00am–4:00pm  
 - Friday at 9:00am–12:00pm via appointment  
 #### Where:  
@@ -631,6 +631,4 @@ Transportation can be arranged for those who require to and from the office in A
 Stephanie Roeder  
 (519) 848-3462 or literacy@thewclc.ca  
   
-  
-  
-</details>  
+</details> 

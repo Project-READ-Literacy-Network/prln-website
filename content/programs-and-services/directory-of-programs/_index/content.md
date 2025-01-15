@@ -9,10 +9,9 @@ title_align = "left"
   
 [[buttons]]
   text = "Download"
-  url = "/pdf/directory-2025.pdf"
   icon = "far fa-file-pdf"
   color= "light"
-  download_file = "directory-2025.pdf"
+  g_drive_free_download = "1_NvtYyJE1i-hz4KlQ_0kBmWS93PbXHjX"
   
 [[logos]]
   url = "http://www.actionread.com/"

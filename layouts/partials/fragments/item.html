@@ -130,12 +130,19 @@
       {{- if and .Params.asset .Params.buttons }}
         <div class="col-12 text-sm-center text-lg-left mb-2 pl-lg-0">
           {{- range .Params.buttons }}
+            {{- if .url}}
             <a class="btn btn-lg m-2 ml-lg-0 
               {{ if hasPrefix .url "#" }} anchor{{ end }}
               {{- $color := .color | default "primary" -}}
                     {{- printf " btn-%s " $color -}}
-                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
-                    download="{{ .download_file }}"{{- end -}}>
+                  " href="{{ .url | relLangURL }}">
+                    {{ end }}
+                    {{- if .g_drive_free_download }}
+                    <a class="btn btn-lg m-2 ml-lg-0 
+                    {{- $color := .color | default "primary" -}}
+                    {{- printf " btn-%s " $color -}}
+                  " href="https://drive.google.com/uc?export=download&id={{ .g_drive_free_download }}"> 
+                    {{ end }}
                     {{- if .icon -}}
                     <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
                     {{- end -}}

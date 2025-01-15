@@ -1,7 +1,7 @@
 +++
 title = "Adding to My Skills"
 subtitle = "2011"
-free_download = "/pdf/AddingToMySkills.pdf"
+g_drive_free_download = "1EffI8SZeQO9kp5ashLB4_x72q2papi1w"
 
 [asset]
   image = "/publications/addingToMySkills.jpg"

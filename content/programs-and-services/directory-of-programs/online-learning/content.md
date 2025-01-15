@@ -73,15 +73,15 @@ www.goodlearninganywhere.com
 </summary>  
   
 #### What:  
-- Good Learning Anywhere is the award winning Aboriginal Lead for the MLITSD funded e-Channel program.  
-- It provides access to online learning at no charge. Content is designed for adults who strive to improve their computer, reading, writing, math, or Essential Skills to improve their quality of life at home, at work and in the community.  
-- Focus on providing a culturally supportive online environment for Aboriginal individuals, communities, and groups.  
+- Good Learning Anywhere is the award winning Aboriginal Lead for the MLITSD funded e-Channel program  
+- It provides access to online learning at no charge. Content is designed for adults who strive to improve their computer, reading, writing, math, or Essential Skills to improve their quality of life at home, at work and in the community  
+- Focus on providing a culturally supportive online environment for Aboriginal individuals, communities, and groups  
 #### Who:  
 Adults (18+ years), residents of Ontario, and must have access to a computer with internet connection.  
 #### When:  
-- Check out our course catalogue available online for course descriptions and dates.  
+- Check out our course catalogue available online for course descriptions and dates  
 - LIVE online instructor-led classes are available Monday – Friday  
-- Independent and short courses are available anytime.  
+- Independent and short courses are available anytime  
 #### Where:  
 All courses are offered online  
 www.goodlearninganywhere.com  

@@ -47,7 +47,7 @@ Adults (18+ years) who’s English has been assessed at any Canadian Language Be
 - Tuesday and Wednesday at 6:30pm–8:30pm (evening)  
   
 ##### Summer school for ESL  
-- To be determined for 2025. Visit [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca) in April for class schedules.  
+- To be determined for 2025. Visit [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca) in April for class schedules  
 #### Where:  
 ##### St. Louis—Kitchener Main Campus  
 - LINC – all CLB levels – day only / ESL evening  

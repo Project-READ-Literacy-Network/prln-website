@@ -130,7 +130,7 @@ As an Employment Ontario service provider, we have free employment-related progr
 - Job boards, job fairs, and job marketing support  
 - Incentives and supports for employment placements  
 - Canada Ontario Job Grant for employee training and other training supports  
-- Please call for more details on any of our programs or services.  
+- Please call for more details on any of our programs or services  
 #### Who:  
 All ages are welcome  
 #### When:  
@@ -160,7 +160,7 @@ ccc@jhsww.ca
 ## Conestoga Community Career Centre  
 ## Integrated Employment Services, Employment Ontario, EmployNext  
 → WATERLOO, KITCHENER, NEW HAMBURG, ELMIRA, RURAL WELLINGTON, WELLESLEY, WILMOT  
-www.conestogac.on.ca/career-centre  
+[www.conestogac.on.ca/career-centre](https://www.conestogac.on.ca/career-centre)  
   
 </summary>  
   
@@ -247,7 +247,7 @@ Intake/referral form: https://forms.office.com/r/fv1mzkRadF
 ## KW Habilitation  
 ## Community and Employment Supports  
 →KITCHENER  
-www.kwhab.ca/kw-career-compass  
+www.kwhab.ca/services/employment/  
   
 </summary>  
   
@@ -322,7 +322,7 @@ Stacey Mitchel—Manager, Community and Employment Supports
 ## KW Habilitation  
 ## LEG Up!  
 →KITCHENER  
-www.leg-up.ca  
+www.kwhab.ca/services/leg-up/  
   
 </summary>  
   
@@ -335,7 +335,7 @@ Adults 18+ with developmental disabilities.
 #### When:  
 Sessions are offered throughout the year  
   
-Visit www.leg-up.ca for registration information.  
+Visit www.kwhab.ca/services/leg-up/ for registration information.  
 #### Where:  
 **Kitchener**—109 Ottawa Street South, Unit D  
 #### Ask For:  
@@ -607,3 +607,4 @@ Kitchener—(519) 504-2723
   
   
 </details>  
+

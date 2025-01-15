@@ -1,0 +1,12 @@
+{{- $self := .self -}}
+{{- .page_scratch.Add "js" (dict "file" "syna-content.js") -}}
+{{- $bg := .self.Scratch.Get "bg" }}
+
+{{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params "section_class" "content-fragment" "container_class" "overlay") -}}
+  <div class="row">
+      
+<script async src="https://cse.google.com/cse.js?cx=43cf64b185fa94eb1">
+</script>
+<div class="gcse-search"></div>
+  </div>
+{{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}

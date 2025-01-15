@@ -1,7 +1,7 @@
 +++
 title = "Trading Up"
 subtitle ="Getting Ready for a Hairstyling or Electrical Apprenticeship Program,  2002"
-free_download = "/pdf/TradingUp.pdf"
+g_drive_free_download = "1Q8jKd6tlCQJiKEMjZyQ873pOa4jRY-ZU"
 
 [asset]
   image = "/publications/tradingUp.jpg"

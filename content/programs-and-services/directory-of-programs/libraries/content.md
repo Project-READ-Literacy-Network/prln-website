@@ -15,24 +15,24 @@ title = "The Directory of Programs"
 ## Cambridge Public Library  
 ## Adult & Family Library Programs  
 →CAMBRIDGE  
-[ideaexchange.org](https://ideaexchange.org/)  
+www.ideaexchange.org  
   
 </summary>  
   
 #### What:  
 - Free Early Literacy Programming  
 - Includes Baby, Toddler, and School Readiness programs offered online and in-person  
-- Immersive Learning Children’s Collections include, but are not limited to, the Rainbow Kits, Levelled book kits for each reading stage, and the playSmarts Toy and Game Collection, which is Built around ten activities such as counting, feeling, moving, sensing, and more, with suggested age ranges for each item.  
-- Literacy Collection for adults learning the basics of letters and numbers.  
-- Audio Kits, Books and CDs. Also available online through TumbleBooks.  
+- Immersive Learning Children’s Collections include, but are not limited to, the Rainbow Kits, Levelled book kits for each reading stage, and the playSmarts Toy and Game Collection, which is Built around ten activities such as counting, feeling, moving, sensing, and more, with suggested age ranges for each item  
+- Literacy Collection for adults learning the basics of letters and numbers  
+- Audio Kits, Books and CDs. Also available online through TumbleBooks  
 - Language Learning Resources  
-- High-interest, Low-Vocabulary Books designed for readers who prefer simpler text with engaging content.  
+- High-interest, Low-Vocabulary Books designed for readers who prefer simpler text with engaging content  
 - Movies and Music in Other Languages  
 - Conversation Circles  
 - Settlement Worker  
-- Available onsite at the Queen’s Square location two days per week.  
+- Available onsite at the Queen’s Square location two days per week  
 - Courses on Teaching English and ESL  
-- Access through the online platform [Lynda.com](www.lynda.com).  
+- Access through the online platform [Lynda.com](www.lynda.com)  
 - Free Internet Access  
 - Use library computers or bring your own device or iPad Loans  
 - Book a session with staff for help using computers or other devices to guide with Digital Library  
@@ -160,8 +160,8 @@ Madeleine.Kong@kpl.org
 - Headphones – in-library use  
 #### Who:  
 ##### In-Library Use Headphones  
-- Available to customers of all age groups.  
-- Can be borrowed by most library membership types, including Unconfirmed and Computer Use Only customers.  
+- Available to customers of all age groups  
+- Can be borrowed by most library membership types, including Unconfirmed and Computer Use Only customers  
   
 ##### Device Charging Kits and Switch Lite Consoles  
 - Adults (18 years and older) must present ID along with their library card to borrow these  

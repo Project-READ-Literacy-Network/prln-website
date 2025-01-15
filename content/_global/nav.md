@@ -6,8 +6,7 @@ sticky = true
 [donate_button]
   url = "https://www.canadahelps.org/en/dn/11623"
   text = "Donate" 
-  icon = "fas fa-heart"
- 
+  icon = "fas fa-heart" 
 
 # Branding options
 [asset]

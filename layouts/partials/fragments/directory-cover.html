@@ -26,11 +26,9 @@
                   {{ if hasPrefix .url "#" }} anchor{{ end }}
                   {{- $color := .color | default "primary" -}}
                     {{- printf " btn-%s " $color -}}
-                  " href="{{ .url | relLangURL }}" {{- if .download_file -}}
-                    download="{{ .download_file }}"{{- end -}}>
-                    {{- if .icon -}}
+                  " 
+                   href="https://drive.google.com/uc?export=download&id={{ .g_drive_free_download }}">
                     <i class="{{ printf "%s" .icon | default (printf "fas fa-download") }} text-primary mr-2"></i>
-                    {{- end -}}
                     {{ .text }}
                   </a>
               {{- end -}}  

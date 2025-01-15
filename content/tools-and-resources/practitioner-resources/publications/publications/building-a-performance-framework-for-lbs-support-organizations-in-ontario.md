@@ -1,7 +1,7 @@
 +++
 title = "Building a Performance Framework for LBS Support Organizations"
 subtitle = "Ontario 2009 Edition"
-free_download = "/pdf/LBSPerformanceFramework.pdf"
+g_drive_free_download = "1d_OlwirdDD4V005nm3xi_OljA3dAA5h5"
 
 [asset]
   image = "/publications/performanceframework.png"

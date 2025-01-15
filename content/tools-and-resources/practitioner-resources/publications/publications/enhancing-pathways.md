@@ -1,7 +1,7 @@
 +++
 title = "Enhancing Pathways: The Literacy and Language Continuum"
 subtitle ="Phase 1 Report, 2010"
-free_download = "/pdf/EnhancingPathwaysReport.pdf"
+g_drive_free_download = "1EPnUWx4eMjcPF8HhBCz-_V8YUMp7IlDI"
 
 [asset]
   image = "/publications/enhancingPathways.png"

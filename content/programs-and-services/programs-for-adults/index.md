@@ -12,17 +12,17 @@ minHeight = "50vh"
 
 [[buttons]]
   text = "Educational Assessments for Adults"
-  url = "programs-and-services/programs-for-adults/#educational-assessments-for-adults"
+  url = "programs-and-services/programs-for-adults/#assessments"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Better Jobs Ontario (BJO) Assessments for Adults"
-  url = "programs-and-services/programs-for-adults/#educational-assessments-for-adults"
+  url = "programs-and-services/programs-for-adults/#assessments"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Adult Literacy Programs"
-  url = "programs-and-services/programs-for-adults/#assessments-and-referrals-adult-literacy"
+  url = "programs-and-services/programs-for-adults/#adult-literacy-referral"
   color = "light"
 +++
 
