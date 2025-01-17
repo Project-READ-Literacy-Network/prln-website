@@ -26,7 +26,7 @@ title = "The Directory of Programs"
 ## English as a Second Language (ESL)  
 ## Language Instruction for Newcomers to Canada (LINC)  
 →KITCHENER  
-[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
+[stlouis.wcdsb.ca/programsandcourses/english-language/](https://stlouis.wcdsb.ca/programsandcourses/english-language/)  
   
 </summary>  
   
@@ -85,7 +85,7 @@ LINC—ext. 400
 ## Upper Grand District School Board (UGDSB)  
 ## Adult English as a Second Language  
 →GUELPH, RURAL WELLINGTON  
-https://www.ugdsb.ca/o/cep/page/adult-esl-and-linc-programs  
+www.ugdsb.ca/o/cep/page/adult-esl-and-linc-programs  
   
 </summary>  
   
@@ -166,3 +166,4 @@ intake@ytr.ymca.ca
   
   
 </details>  
+

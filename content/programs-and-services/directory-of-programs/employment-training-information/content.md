@@ -235,7 +235,7 @@ Monday – Friday at 9:00am–4:00pm
 Lily Magnus—Program Coordinator  
 (519) 496-5886, LilyM@kinbridge.ca  
   
-Intake/referral form: https://forms.office.com/r/fv1mzkRadF  
+Intake/referral form: [forms.office.com/r/fv1mzkRadF](https://forms.office.com/r/fv1mzkRadF)  
   
 </details>  
   
@@ -556,7 +556,7 @@ Monday – Friday at 8:30am to 4:30pm
   
 Available in person, in the community, online and by phone.  
   
-Resources are also available on our website at https://www.regionofwaterloo.ca/en/living-here/employment-support.aspx  
+Resources are also available on our website at www.regionofwaterloo.ca/en/living-here/employment-support.aspx
 #### Where:  
 **Cambridge** —150 Main Street  
   
@@ -607,4 +607,5 @@ Kitchener—(519) 504-2723
   
   
 </details>  
+
 
