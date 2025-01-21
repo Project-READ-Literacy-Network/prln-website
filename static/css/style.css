@@ -825,6 +825,16 @@ input[type='radio']:checked:before {
     text-wrap: balance;
 }
 
+article.prln-directory ol li {
+    list-style-position: outside;
+    font-size: 1.25rem;
+    padding-left: 15px;
+}
+
+article.prln-directory ol {
+    margin-left: 0; 
+    padding-left: 15px;
+}
 
 
 details p a {

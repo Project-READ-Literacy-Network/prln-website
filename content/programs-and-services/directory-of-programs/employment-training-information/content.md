@@ -12,6 +12,9 @@ title = "The Directory of Programs"
 <details>  
 <summary>  
   
+<details>  
+<summary>  
+  
 ## 2nd Chance Employment Counselling  
 ## Employment Ontario  
 →GUELPH, FERGUS, RURAL WELLINGTON  
@@ -150,6 +153,41 @@ Employment Coordinator
 (519) 622-0815 ext. 223  
 ccc@jhsww.ca  
   
+</details>  
+  
+* * * * *  
+  
+<details>  
+<summary>  
+  
+## Canadian Council on Rehabilitation and Work (CCRW)  
+## Employment Services  
+→ KITCHENER  
+www.ccrw.org  
+  
+</summary>  
+  
+#### What:  
+CCRW is here to support you every step of the way with our comprehensive Employment Services. We believe that everyone deserves equal opportunities, and we are dedicated to helping individuals with disabilities thrive in their professional lives.  
+##### Our Employment Services serve 3 main purposes:  
+1.  To support job seekers (across Canada) with all types of disability, who wish to find meaningful employment  
+2.  To support businesses who wish to hire employees who are persons with disabilities  
+3.  To share our resources, experiences, and skills in order to make employment opportunities accessible for every candidate  
+#### Who:
+Persons 18+ with self-disclosed disabilities who are looking for work  
+#### When:
+Monday – Friday at 8:30am–4:30pm  
+#### Where:
+**Kitchener**—127 Victoria Street South  
+#### Ask For:
+Alf Garcia  
+Employment Coach  
+(519) 342-1936  
+Melissa Silva  
+  
+Stakeholder Engagement Coordinator 
+(519) 342-3509  
+    
 </details>  
   
 * * * * *  
@@ -607,5 +645,3 @@ Kitchener—(519) 504-2723
   
   
 </details>  
-
-
