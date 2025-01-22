@@ -12,7 +12,7 @@ title = "The Directory of Programs"
 
 +++
 
-## Language Assessment and Referrals  
+## Language Assessment and Referrals:  
 ## Contact YMCA of Three Rivers to book a language skills assessment:  
 (519) 579-9622 or intake@ytr.ymca.ca  
 

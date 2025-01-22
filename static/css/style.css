@@ -828,12 +828,17 @@ input[type='radio']:checked:before {
 article.prln-directory ol li {
     list-style-position: outside;
     font-size: 1.25rem;
-    padding-left: 15px;
+    padding-left: 0px;
+}
+
+article.prln-directory ol li::marker {
+    color: #0E83CD;
+    font-weight: 700;
 }
 
 article.prln-directory ol {
-    margin-left: 0; 
-    padding-left: 15px;
+    margin-block-start: 0px;
+    padding-inline-start: 25px;
 }
 
 

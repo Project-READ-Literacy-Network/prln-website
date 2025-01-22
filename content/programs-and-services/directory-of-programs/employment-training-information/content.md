@@ -12,12 +12,10 @@ title = "The Directory of Programs"
 <details>  
 <summary>  
   
-<details>  
-<summary>  
-  
 ## 2nd Chance Employment Counselling  
 ## Employment Ontario  
 →GUELPH, FERGUS, RURAL WELLINGTON  
+  
 www.2ndchance.ca  
   
 </summary>  
@@ -65,6 +63,7 @@ Guelph and Fergus locations
 ## 2nd Chance Employment Counselling  
 ## ways2work  
 →GUELPH  
+  
 www.2ndchance.ca  
   
 </summary>  
@@ -90,6 +89,7 @@ Monday – Friday at 8:30am–4:00pm
 ## 2nd Chance Employment Counselling  
 ## Women2Work  
 →GUELPH, RURAL WELLINGTON  
+  
 www.2ndchance.ca  
   
 </summary>  
@@ -115,6 +115,7 @@ Monday – Friday at 8:30am–4:00pm
 ## Cambridge Career Connections EmployNext Services  
 ## John Howard Society of Waterloo–Wellington  
 →CAMBRIDGE, NORTH DUMFRIES  
+  
 www.cambridgecareerconnections.com  
   
 </summary>  
@@ -163,6 +164,7 @@ ccc@jhsww.ca
 ## Canadian Council on Rehabilitation and Work (CCRW)  
 ## Employment Services  
 → KITCHENER  
+  
 www.ccrw.org  
   
 </summary>  
@@ -170,9 +172,9 @@ www.ccrw.org
 #### What:  
 CCRW is here to support you every step of the way with our comprehensive Employment Services. We believe that everyone deserves equal opportunities, and we are dedicated to helping individuals with disabilities thrive in their professional lives.  
 ##### Our Employment Services serve 3 main purposes:  
-1.  To support job seekers (across Canada) with all types of disability, who wish to find meaningful employment  
-2.  To support businesses who wish to hire employees who are persons with disabilities  
-3.  To share our resources, experiences, and skills in order to make employment opportunities accessible for every candidate  
+1. To support job seekers (across Canada) with all types of disability, who wish to find meaningful employment  
+2. To support businesses who wish to hire employees who are persons with disabilities  
+3. To share our resources, experiences, and skills in order to make employment opportunities accessible for every candidate  
 #### Who:
 Persons 18+ with self-disclosed disabilities who are looking for work  
 #### When:
@@ -183,9 +185,9 @@ Monday – Friday at 8:30am–4:30pm
 Alf Garcia  
 Employment Coach  
 (519) 342-1936  
-Melissa Silva  
   
-Stakeholder Engagement Coordinator 
+Melissa Silva  
+Stakeholder Engagement Coordinator  
 (519) 342-3509  
     
 </details>  
@@ -198,6 +200,7 @@ Stakeholder Engagement Coordinator
 ## Conestoga Community Career Centre  
 ## Integrated Employment Services, Employment Ontario, EmployNext  
 → WATERLOO, KITCHENER, NEW HAMBURG, ELMIRA, RURAL WELLINGTON, WELLESLEY, WILMOT  
+  
 [www.conestogac.on.ca/career-centre](https://www.conestogac.on.ca/career-centre)  
   
 </summary>  
@@ -253,6 +256,7 @@ Appointments are available virtually and in person. Please inquire about appoint
 ## Kinbridge Community Association  
 ## Newcomer Employment Outreach  
 →CAMBRIDGE  
+  
 www.kinbridge.ca  
   
 </summary>  
@@ -285,6 +289,7 @@ Intake/referral form: [forms.office.com/r/fv1mzkRadF](https://forms.office.com/r
 ## KW Habilitation  
 ## Community and Employment Supports  
 →KITCHENER  
+  
 www.kwhab.ca/services/employment/  
   
 </summary>  
@@ -319,6 +324,7 @@ Amy Haynes—Supervisor, Community and Employment Supports
 ## KW Habilitation  
 ## KW Career Compass  
 →KITCHENER  
+  
 www.kwhab.ca/kw-career-compass  
   
 </summary>  
@@ -360,6 +366,7 @@ Stacey Mitchel—Manager, Community and Employment Supports
 ## KW Habilitation  
 ## LEG Up!  
 →KITCHENER  
+  
 www.kwhab.ca/services/leg-up/  
   
 </summary>  
@@ -391,6 +398,7 @@ legup@kwhab.ca
 ## KW Habilitation  
 ## YEP (Youth Exploring Possibilities)  
 →KITCHENER  
+  
 www.kwhab.ca/services/youth-exploring-possibilities-yep/  
   
 </summary>  
@@ -433,6 +441,7 @@ Amy Haynes—Supervisor, Community Supports
 ## Starling Community Services (Lutherwood)  
 ## Employment Services  
 →CAMBRIDGE, GUELPH, KITCHENER  
+  
 www.lutherwood.ca/employment  
   
 </summary>  
@@ -475,6 +484,7 @@ Kitchener—(519) 743-2460
 ## Starling Community Services (Lutherwood)  
 ## Getting Ahead in the Workplace  
 →CAMBRIDGE, KITCHENER, WATERLOO  
+  
 www.lutherwood.ca/employment  
   
 </summary>  
@@ -506,6 +516,7 @@ Kitchener—(519) 743-2460
 ## Starling Community Services (Lutherwood)  
 ## Newcomer Career Support & Navigation   
 →GUELPH, RURAL WELLINGTON  
+  
 www.lutherwood.ca/employment  
   
 </summary>  
@@ -540,6 +551,7 @@ Guelph—(519) 822-4141
 ## March of Dimes Canada – SkillingUp Program  
 ## Newcomer Employment Outreach  
 →Virtual  
+  
 www.skillingup.ca  
   
 </summary>  
@@ -577,6 +589,7 @@ skillingup@marchofdimes.ca
 ## Region of Waterloo  
 ## Employment Ontario (EO) Programs  
 →CAMBRIDGE, KITCHENER, WATERLOO  
+  
 www.regionofwaterloo.ca  
   
 </summary>  
@@ -615,6 +628,7 @@ Contact Person—Employment services
 ## YMCA of Three Rivers  
 ## Employment Services  
 →CAMBRIDGE, KITCHENER  
+  
 www.ymcaemploymentservices.ca  
   
 </summary>  
@@ -641,7 +655,6 @@ Monday – Friday at 8:30am–4:30pm
 Cambridge—(226) 989-3381  
   
 Kitchener—(519) 504-2723  
-  
   
   
 </details>  

@@ -16,7 +16,7 @@ title_align = "left"
 [[logos]]
   url = "http://www.2ndchance.ca/"
   src = "/images/logos/sc-logo.png"
-  text = "2nd Chance"
+  text = "2nd Chance Employment Counselling (Wellington) Inc."
   
 [[logos]]
   url = "http://www.acedistancedelivery.ca/"
@@ -39,11 +39,6 @@ title_align = "left"
   text = "Canadian Council on Rehabilitation and Work (CCRW)"
   
 [[logos]]
-  url = "https://ideaexchange.org/"
-  src = "/images/logos/ie-logo.png"
-  text = "Cambridge Public Library" 
-
-[[logos]]
   url = "http://www.conestogac.on.ca/caa/upgrading"
   src = "/images/logos/cc-logo.svg"
   text = "Conestoga College Academic Upgrading"
@@ -51,37 +46,47 @@ title_align = "left"
 [[logos]]
   url = "https://schools.wrdsb.ca/continuing-education/"
   src = "/images/logos/con-ed-wrdsb-logo.png"
-  text = "con-ed-wrdsb"  
+  text = "Continuing Education | WRDSB"  
   
 [[logos]]
   url = "https://www.ugdsb.ca/continuing-education/"
   src = "/images/logos/continuing_education_logo_ss.png"
-  text = "Upper Grand District School Board (UGDSB)"
+  text = "Continuing Education | Upper Grand District School Board (UGDSB)"
   
 [[logos]]
   url = "http://www.deaflearnnow.ca/"
   src = "/images/logos/dln-logo.png"
-  text = "deaflearnnow"  
+  text = "Deaf Learn Now"  
 
 [[logos]]
   url = "http://www.wrdsb.ca/esu"
   src = "/images/logos/esu-wrdsb-logo.png"
-  text = "ESU: Essential Skills Upgrading"
+  text = "ESU: Essential Skills Upgrading | WRDSB"
    
+[[logos]]
+  url = "http://www.sefad.ca/"
+  src = "/images/logos/sefad-logo.png"
+  text = "SEFAD | Formation à Distance"  
+
 [[logos]]
   url = "https://goodlearninganywhere.com/"
   src = "/images/logos/gla-logo.png"
-  text = "goodlearninganywhere"  
+  text = "Good Learning Anywhere"  
+
+[[logos]]
+  url = "https://ideaexchange.org/"
+  src = "/images/logos/ie-logo.png"
+  text = "Cambridge Public Library | Idea Exchange" 
 
 [[logos]]
   url = "https://www.kinbridge.ca/"
   src = "/images/logos/kinbridge-logo.jpg"
-  text = "kinbridge" 
+  text = "Kinbridge Community Association" 
 
 [[logos]]
   url = "https://www.kpl.org/"
   src = "/images/logos/kpl-logo.png"
-  text = "kpl" 
+  text = "Kitchener Public Library | KPL" 
 
 [[logos]]
   url = "http://www.kwhab.ca/"
@@ -91,7 +96,7 @@ title_align = "left"
 [[logos]]
   url = "http://www.learninghub.ca/"
   src = "/images/logos/lh-logo.png"
-  text = "learninghub"  
+  text = "The Learning HUB"  
 
 [[logos]]
   url = "http://www.theliteracygroup.com/"
@@ -109,14 +114,9 @@ title_align = "left"
   text = "March of Dimes Canada – SkillingUp Program"  
   
 [[logos]]
-  url = "https://www.regionofwaterloo.ca/"
+  url = "https://www.regionofwaterloo.ca/en/living-here/employment-support.aspx"
   src = "/images/row-logo.svg"
   text = "Region of Waterloo"  
-
-[[logos]]
-  url = "http://www.sefad.ca/"
-  src = "/images/logos/sefad-logo.png"
-  text = "sefad"  
 
 [[logos]]
   url = "http://www.lutherwood.ca/employment"
@@ -126,7 +126,7 @@ title_align = "left"
 [[logos]]
   url = "https://stlouis.wcdsb.ca/"
   src = "/images/logos/sl-logo.jpg"
-  text = "stlouis"
+  text = "St Louis Adult Learning & Continuing Education Centre"
   
 [[logos]]
   url = "https://www.ugdsb.ca/continuing-education/"
@@ -141,7 +141,7 @@ title_align = "left"
 [[logos]]
   url = "http://www.thewclc.ca/"
   src = "/images/logos/wclc-logo.png"
-  text = "thewclc"  
+  text = "Wellington County Learning Centre"  
 
 [[logos]]
   url = "http://www.ymcaemploymentservices.ca/"

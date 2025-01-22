@@ -14,6 +14,7 @@ title = "The Directory of Programs"
 ## Action Read Community Literacy Centre of Guelph  
 ## Adult Literacy Program  
 →GUELPH  
+  
 www.actionread.com  
   
 </summary>  
@@ -59,6 +60,7 @@ or actionread@gmail.com
 ## Conestoga College  
 ## Academic Upgrading  
 →CAMBRIDGE, GUELPH, WATERLOO  
+  
 www.conestogac.on.ca/caa/upgrading  
   
 </summary>  
@@ -102,6 +104,7 @@ or www.conestogac.on.ca/caa/upgrading
 ## ESU: Essential Skills Upgrading  
 ## Waterloo Region District School Board (WRDSB)  
 →CAMBRIDGE, KITCHENER, WATERLOO  
+  
 [schools.wrdsb.ca/esu](https://schools.wrdsb.ca/esu/)  
   
 </summary>  
@@ -158,6 +161,7 @@ or online contact form: [schools.wrdsb.ca/esu/locations-and-contacts/](https://s
 ## ESU4i: Essential Skills Upgrading for Independence  
 ## Waterloo Region District School Board (WRDSB)  
 →WATERLOO  
+  
 www.wrdsb.ca/esu/esu4i  
   
 </summary>  
@@ -190,6 +194,7 @@ or online contact form: [schools.wrdsb.ca/esu/locations-and-contacts/](https://s
 ## The Literacy Group of Waterloo Region  
 ## The Literacy Group  
 →CAMBRIDGE, KITCHENER, RURAL WATERLOO REGION, WATERLOO  
+  
 www.theliteracygroup.com  
   
 </summary>  
@@ -234,6 +239,7 @@ Instagram—@tlgwr
 ## The Literacy Group of Waterloo Region  
 ## Modular Programs  
 →CAMBRIDGE, KITCHENER, RURAL WATERLOO REGION, WATERLOO  
+  
 www.theliteracygroup.com  
   
 </summary>  
@@ -279,6 +285,7 @@ Instagram—@tlgwr
 ## Project READ Literacy Network  
 ## Assessments & Services  
 →CAMBRIDGE, KITCHENER, WATERLOO  
+  
 www.projectread.ca  
   
 </summary>  
@@ -327,6 +334,7 @@ Assessment information, Business or Non-Profit services
 ## Skills Upgrading Program  
 ## Upper Grand District School Board (UGDSB)  
 → GUELPH, FERGUS, MOUNT FOREST  
+  
 www.ugdsb.ca/o/cep/page/skills-upgrading-program  
   
 </summary>  
@@ -370,8 +378,9 @@ skillsupgradingprogram@ugconed.ca
   
 ## Skills Upgrading Program  
 ## Upper Grand District School Board (UGDSB)  
-Adult Day Credit Program  
+## Adult Day Credit Program  
 →GUELPH  
+  
 www.ugdsb.ca/o/cep  
   
 </summary>  
@@ -404,6 +413,7 @@ Student Services—(519) 836-7280 ext. 627
 ## Waterloo Catholic District School Board (WCDSB)  
 ## Adult Secondary School Credit  
 →KITCHENER, WATERLOO REGION  
+  
 [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
 </summary>  
@@ -473,6 +483,7 @@ stlouis@wcdsb.ca or complete Guidance Intake Form found on website
 ## Waterloo Catholic District School Board (WCDSB)  
 ## Core Essentials Upgrading  
 → KITCHENER  
+  
 [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
 </summary>  
@@ -528,6 +539,7 @@ or stlouis@wcdsb.ca
 ## Waterloo Catholic District School Board (WCDSB)  
 ## School-to-Work Skills Training Programs  
 →CAMBRIDGE, KITCHENER  
+  
 [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
 </summary>  
@@ -600,6 +612,7 @@ stlouis@wcdsb.ca or
 ## Wellington County Learning Centre  
 ## Wellington County Learning Centre  
 →RURAL WELLINGTON  
+  
 www.thewclc.ca  
   
 </summary>  
@@ -631,4 +644,4 @@ Transportation can be arranged for those who require to and from the office in A
 Stephanie Roeder  
 (519) 848-3462 or literacy@thewclc.ca  
   
-</details> 
+</details>  

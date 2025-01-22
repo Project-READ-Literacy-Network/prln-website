@@ -92,7 +92,8 @@
             <img class="px-2 py-2 px-lg-2 py-lg-2 w-75 
             {{- if hasPrefix .url " # " }} anchor{{ end -}}" 
             src="{{ .src }}"
-            alt="{{ .text }}">
+            alt="{{ .text }}"
+            title="{{ .text }}">
           </img>
           </a>
         {{- end }}
