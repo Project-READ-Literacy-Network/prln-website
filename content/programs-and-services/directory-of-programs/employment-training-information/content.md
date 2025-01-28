@@ -163,7 +163,7 @@ ccc@jhsww.ca
   
 ## Canadian Council on Rehabilitation and Work (CCRW)  
 ## Employment Services  
-→ KITCHENER  
+→CAMBRIDGE, GUELPH, KITCHENER  
   
 www.ccrw.org  
   
@@ -181,6 +181,9 @@ Persons 18+ with self-disclosed disabilities who are looking for work
 Monday – Friday at 8:30am–4:30pm  
 #### Where:
 **Kitchener**—127 Victoria Street South  
+  
+**Guelph** and **Cambridge**  
+Contact us for full site information  
 #### Ask For:
 Alf Garcia  
 Employment Coach  
@@ -199,7 +202,7 @@ Stakeholder Engagement Coordinator
   
 ## Conestoga Community Career Centre  
 ## Integrated Employment Services, Employment Ontario, EmployNext  
-→ WATERLOO, KITCHENER, NEW HAMBURG, ELMIRA, RURAL WELLINGTON, WELLESLEY, WILMOT  
+→ELMIRA, KITCHENER, NEW HAMBURG, RURAL WELLINGTON, WATERLOO, WELLESLEY, WILMOT  
   
 [www.conestogac.on.ca/career-centre](https://www.conestogac.on.ca/career-centre)  
   

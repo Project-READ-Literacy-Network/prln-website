@@ -333,7 +333,7 @@ Assessment information, Business or Non-Profit services
   
 ## Skills Upgrading Program  
 ## Upper Grand District School Board (UGDSB)  
-→ GUELPH, FERGUS, MOUNT FOREST  
+→FERGUS, GUELPH, MOUNT FOREST  
   
 www.ugdsb.ca/o/cep/page/skills-upgrading-program  
   
@@ -482,7 +482,7 @@ stlouis@wcdsb.ca or complete Guidance Intake Form found on website
 ## St Louis Adult Learning & Continuing Education Centre  
 ## Waterloo Catholic District School Board (WCDSB)  
 ## Core Essentials Upgrading  
-→ KITCHENER  
+→KITCHENER  
   
 [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
