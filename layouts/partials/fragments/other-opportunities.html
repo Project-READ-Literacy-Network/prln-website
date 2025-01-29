@@ -6,78 +6,16 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) -}}
     {{- partial "helpers/section-header.html" (dict "self" $self "bg" $bg "params" .Params) }}
-<script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
-onload="if(submitted) {window.location='/thank-you/opportunities-msg';}"></iframe>
 
-<div class="row">
+  <div class="row align-items-center text-center">
+      <div class="col-12">
     
-    <div class="col-12" id="gform">
 
-        <form
-              action="https://docs.google.com/forms/d/e/1FAIpQLSdhS8MWfHixaRo5CCPoTW5iwAlGmRvdg2CtjtQkLcxoAKBFrQ/formResponse"
-              method="post"
-              target="hidden_iframe"
-              onsubmit="submitted=true"
-              class="contact position-relative">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhS8MWfHixaRo5CCPoTW5iwAlGmRvdg2CtjtQkLcxoAKBFrQ/viewform?embedded=true" width="100%" id="opportunity-form" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          
+        
 
-            <div class="row py-3 should-fade">
-                
-     <div class="col-md-6 d-flex flex-column justify-content-between pl-0 pb-md-3">  
-         <p class="label pl-3 mb-0">What kind of opportunity are you looking for?</p>
-         
-                <div class="form-check checkbox checkbox-circle pb-2 pb-md-0">
-                <!-- The "value" is important -->
-                <input type="checkbox" class="form-check-input" id="fundraising" value="Fundraising" name="entry.681341351">
-                <label class="form-check-label" for="fundraising">Fundraising</label>
-                </div>
-                <div class="form-check checkbox checkbox-circle pb-2 pb-md-0">
-                <!-- The "value" is important -->
-                <input type="checkbox" class="form-check-input" id="co-op" value="Co-op Placement" name="entry.681341351">
-                <label class="form-check-label" for="co-op">Co-op Placement</label>
-                </div>
-                <div class="form-check checkbox checkbox-circle pb-2 pb-md-0">
-                <!-- The "value" is important -->
-                <input type="checkbox" class="form-check-input" id="volunteering" value="Volunteering" name="entry.681341351">
-                <label class="form-check-label" for="volunteering">Volunteering</label>
-                </div>
-                </div>
-
-            <div class="col-md-6 d-flex pt-4 pt-md-0 flex-column justify-content-between">
-                <div class="form-group">
-                    <p class="label pl-0 mb-0">Name</p>
-                <input type="text" name="entry.701609315" required class="form-control">
-                </div>
-                <div class="form-group">
-                    <p class="label pl-0 mb-0">Email Address</p>
-                <input type="email" name="entry.2146064931" required class="form-control">
-                </div>
-                
-                <div class="form-group mb-0 col-md-6 pl-0">
-
-                  <button
-                  class="btn btn-block btn-lg  submit-btn mt-3
-                    {{- if eq $bg "secondary" -}}
-                      {{- printf " btn-%s" "primary" -}}
-                    {{- else -}}
-                      {{- printf " btn-%s" "dark" -}}
-                    {{- end -}}
-                  "
-                  type="submit">
-                  {{- .Params.button_text | default (i18n "contact.defaultButton") }}
-                </button>
-                </div>
-                
-            
-            </div>
-                
-
-            </div>
-
-        </form>
-
-    </div>
-    
+  </div>  
     
 </div>
 {{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}

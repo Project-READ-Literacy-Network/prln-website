@@ -737,7 +737,10 @@ input[type='radio']:before {
 input[type='radio']:checked:before {
     background:#AA1A27;
 }
-
+#opportunity-form {
+    min-height: 1100px;
+    min-width: 300px;
+    }
 #gform .checkbox * {
     cursor: pointer;
 }

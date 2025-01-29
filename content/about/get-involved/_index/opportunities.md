@@ -4,9 +4,7 @@ fragment = "other-opportunities"
 date = "2017-10-05"
 weight = 150
 background = "light"
-title_align = "left"
-form_name = "Volunteering, co-op and placement opportunities"
-button_text = "Send"
+title_align = "center"
 title = "Opportunities for Volunteering and Co-op Placements"
 subtitle = "Contact us for more info"
 +++
