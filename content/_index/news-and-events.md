@@ -14,13 +14,9 @@ title_align = "left"
 [sidebar]
   align = "right"
   content = """
-<a class="twitter-timeline"
-href="https://twitter.com/ProjectREADWW?ref_src=twsrc%5Etfw"
-data-chrome="nofooter noborders transparent"
-data-tweet-limit="10">
-Latest Tweet by ProjectREADWW
-</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p class="fb-page" data-href="https://www.facebook.com/ProjectREADLitNetwork" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/ProjectREADLitNetwork" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ProjectREADLitNetwork">Project READ Literacy Network Waterloo-Wellington</a></blockquote></p>
+
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v22.0"></script>
 """
 +++
 

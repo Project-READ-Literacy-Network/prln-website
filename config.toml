@@ -157,12 +157,6 @@ lastmod = ["lastmod", ":git", "date"]
   url = "https://www.facebook.com/ProjectREADLitNetwork"
 
 [[menu.social]]
-  weight = 30
-  name = "twitter"
-  pre = "fab fa-twitter"
-  url = "https://twitter.com/ProjectREADWW"
-  
-[[menu.social]]
   weight = 40
   name = "youtube"
   pre = "fab fa-youtube"
