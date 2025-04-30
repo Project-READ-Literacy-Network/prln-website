@@ -26,14 +26,6 @@ Cambridge, ON N1R 3P4
 (519) 740-8353  
 www.cfeyc.ca  
   
-Our Place Family Resource and Early Years Centre  
-St. Francis School  
-154 Gatewood Drive (Driveway is off of Blueridge Avenue)  
-Entrance B  
-Kitchener, ON N2M 4E4  
-(519) 571-1626  
-www.ourplacekw.ca  
-  
 YMCA Early Years Centre Main Site  
 161 Roger Street  
 Waterloo, ON N2J 1B1  
