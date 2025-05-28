@@ -16,7 +16,7 @@ minHeight = "50vh"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Better Jobs Ontario (BJO) Assessments for Adults"
+  text = "Employment Skills Assessments for Adults"
   url = "programs-and-services/programs-for-adults/#assessments"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
