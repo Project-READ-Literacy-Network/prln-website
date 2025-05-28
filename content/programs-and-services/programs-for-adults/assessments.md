@@ -42,13 +42,13 @@ Educational Assessments for adults (18+) are often the first step on the path to
     
 <summary>
     
-### Better Jobs Ontario (BJO) Assessments for Adults
+### Employment Skills Assessments for Adults
 
 </summary>
   
-Better Jobs Ontario (BJO) Assessments for adults (18+) support jobseekers on their path to better employment through skills upgrading, higher level training, post-secondary education and high school diplomas (or equivalencies).
+Employment Skills Assessments for Adults (18+) support jobseekers on their path to better employment through skills upgrading, higher level training, post-secondary education and high school diplomas (or equivalencies).
   
-#### A BJO Assessment:
+#### An Employment Skills Assessment:
 - identifies your skill levels in each of Canada’s [Skills for Success](https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/understanding-individuals.html) areas 
 - compares your skill levels now with the skill levels needed for your employment goal
 - identifies your training needs based on your employment goals
