@@ -1,6 +1,6 @@
 +++
 title = "Women Interested in Trades"
-subtitle ="Level 1"
+subtitle ="Level 1 (2024)"
 
 [asset]
   image = "/publications/wiit-level1-instructor-guide.png"

@@ -1,12 +1,11 @@
 +++
-fragment = "item"
+fragment = "contact"
 weight = 114
 background = "light"
 align = "left"
-subtitle = "Please contact us by phone or email to sign up or learn more about our programs and services."
+subtitle = "Please contact us to learn more about our programs and services."
 
-[asset]
-  image = "prln-logo.svg"
+
 
 +++
 
