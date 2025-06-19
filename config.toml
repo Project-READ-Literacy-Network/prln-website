@@ -104,7 +104,7 @@ lastmod = ["lastmod", ":git", "date"]
   
 [[menu.main]]
   url = "/about/contact"
-  name = "Contact"
+  name = "Contact Us"
   weight = 50
   parent = "about"
   
@@ -127,7 +127,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.footer]]
   url = "/about/contact"
-  name = "Contact"
+  name = "Contact Us"
   weight = 5
 
 [[menu.footer]]

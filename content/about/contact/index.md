@@ -2,7 +2,7 @@
 fragment = "hero"
 weight = 100
 
-title = "Contact"
+title = "Contact Us"
 background = "light"
 particles = true
 minHeight = "50vh"
