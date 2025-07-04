@@ -171,6 +171,7 @@
             
             
                    <li><a class="no-dd" href="{{ "about/get-involved/#fundraising" | relLangURL }}">Fundraising</a></li>
+                <li><a class="no-dd" href="{{ "about/contact" | relLangURL }}">Contact Us</a></li>
             
             
             
@@ -178,7 +179,7 @@
             
 	</ul>
     
-   <div class="d-none d-xl-block mr-xl-2">
+   <div class="d-none d-xl-flex pr-1">
           {{- range sort .Site.Menus.social }}
             <span title="{{ .Name }}">
               <a href="{{ .URL | relLangURL }}"> 
@@ -210,7 +211,7 @@
     </div>
   
   {{- with .Params.donate_button }}
-    <div class="d-none donate-btn d-lg-block pl-auto mx-auto mx-xl-4">
+    <div class="d-none donate-btn d-xl-flex mx-auto pl-2">
       <a class="btn btn-light ignore-color-change" href="{{ .url }}" role="button">
         <i class="{{ printf "%s" .icon | default (printf "fas fa-donate") }} mr-1 mr-xl-2 text-dark"display: inline-flex; align-items: center;></i>
         {{ .text }}

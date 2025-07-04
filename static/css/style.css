@@ -2490,11 +2490,11 @@ table:last-of-type {
 
 @media only screen and (min-width: 992px) {
     .prlnDD > summary {
-    padding: 0.25rem;
+    padding: 0.15rem;
     font-size: 1.25rem;
     }    
     ul.prln-nav > li > a.no-dd {
-    padding: 0.25rem;
+    padding: 0.15rem;
     font-size: 1.25rem;
     } 
     .special-details details summary h3.program-details, .special-details details summary h3.program-details, .special-details details summary h3.program-details {
@@ -2841,7 +2841,7 @@ prlnDD.summary-closing[open] ul {
 
 @media (min-width: 1200px) {
     .prlnDD > summary {
-    padding: 0.5rem;
+    padding: 0;
     }    
     ul.prln-nav > li > a.no-dd {
     padding: 0.5rem;

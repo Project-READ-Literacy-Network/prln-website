@@ -112,13 +112,13 @@ lastmod = ["lastmod", ":git", "date"]
   url = "/programs-and-services"
   name = "Programs and Services"
   weight = 20
-  identifier = "programs-and-serveices"
+  identifier = "programs-and-services"
 
 [[menu.main]]
   url = "/programs-and-services/programs-for-families"
   name = "Programs for Families"
   weight = 20
-  parent = "programs-and-serveices"
+  parent = "programs-and-services"
   
 [[menu.main]]
   url = "/tools"
