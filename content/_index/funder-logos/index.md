@@ -1,5 +1,5 @@
 +++
-fragment = "items-v-align"
+fragment = "funder-logos"
 minHeight = "30vh"
 
 weight = 130

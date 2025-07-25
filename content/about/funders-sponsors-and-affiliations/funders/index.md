@@ -1,5 +1,5 @@
 +++
-fragment = "items-v-align"
+fragment = "funder-logos"
 #disabled = false
 
 weight = 220

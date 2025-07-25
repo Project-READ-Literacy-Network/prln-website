@@ -1,5 +1,5 @@
 +++
-fragment = "items-md"
+fragment = "funder-logos"
 #disabled = false
 
 weight = 230

@@ -1,6 +1,8 @@
 +++
 
 weight = 40
+colDblWidth = true
+
 
 [asset]
   image = "logos/waterloo-region-community-foundation-logo.png"
