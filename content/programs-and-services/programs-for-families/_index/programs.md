@@ -2,8 +2,8 @@
 fragment = "item"
 #disabled = false
 
-weight = 120
-background = "success"
+weight = 110
+background = "light"
 align = "right"
 minHeight = "40vh"
 
