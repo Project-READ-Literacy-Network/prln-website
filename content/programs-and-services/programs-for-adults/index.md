@@ -11,12 +11,12 @@ minHeight = "50vh"
   image = "adult-programs.jpg"
 
 [[buttons]]
-  text = "Educational Assessments for Adults"
+  text = "Educational Skills Reviews for Adults"
   url = "programs-and-services/programs-for-adults/#assessments"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Employment Skills Assessments for Adults"
+  text = "Employment Skills Reviews for Adults"
   url = "programs-and-services/programs-for-adults/#assessments"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
