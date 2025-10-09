@@ -6,7 +6,7 @@ weight = 119
 background = "light"
 align = "left"
 
-title = "Adult Skills Assessments by PRLN"
+title = "Adult Skills Reviews by PRLN"
 #subtitle = ""
 
 +++
@@ -14,13 +14,13 @@ title = "Adult Skills Assessments by PRLN"
     
 <summary>
     
-### Educational Assessments for Adults
+### Educational Skills Reviews for Adults
 
 </summary>
 
-Educational Assessments for adults (18+) are often the first step on the path to employment, higher level training, post-secondary education, high school diplomas (or equivalencies) and independence.
+Educational Skills Assessments for adults (18+) are often the first step on the path to employment, higher level training, post-secondary education, high school diplomas (or equivalencies) and independence.
   
-#### An Educational Assessment:
+#### An Educational Skills Review:
 - identifies your skill levels in reading, writing and math
 - provides a report that includes details about your current skill levels 
 - can be used to support Ontario Disability Support Program (ODSP) applications
@@ -42,7 +42,7 @@ Educational Assessments for adults (18+) are often the first step on the path to
     
 <summary>
     
-### Employment Skills Assessments for Adults
+### Employment Skills Reviews for Adults
 
 </summary>
   
