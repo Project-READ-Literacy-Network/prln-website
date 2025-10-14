@@ -22,7 +22,7 @@ Educational Skills Assessments for adults (18+) are often the first step on the 
   
 #### An Educational Skills Review:
 - identifies your skill levels in reading, writing and math
-- provides a report that includes details about your current skill levels 
+- provides a report that includes details about your current skill levels  
 - can be used to support Ontario Disability Support Program (ODSP) applications
 - provides a referral to the best local program to meet your goals
 #### Cost:
