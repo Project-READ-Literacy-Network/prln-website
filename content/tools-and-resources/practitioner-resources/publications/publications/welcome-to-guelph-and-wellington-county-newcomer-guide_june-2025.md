@@ -16,5 +16,6 @@ Created by Project READ Literacy Network Waterloo-Wellington, this guide: Welcom
 - Job Searching & Career Resources
 - Housing
 - Community Engagement
-- Other Resources
+- Other Resources  
+  
 Learning about and utilizing available resources can be time-consuming and tedious. With personal experience as a newcomer and an understanding of the challenges faced when arriving in the Guelph, Wellington County of Canada, the compiler has gathered key resources in this guide to support both newcomers and those working with them.
