@@ -1,11 +1,11 @@
 +++
 title = "Tony Salmone"
-weight = 80
+weight = 60
 date = "2021-09-01"
 
-position = "Director at Large"
+position = "Secretary Treasurer"
 
 [asset]
-  image = "shapes-08.svg"
+  image = "shapes-03.svg"
 +++
 
