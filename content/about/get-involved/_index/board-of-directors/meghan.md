@@ -1,11 +1,11 @@
 +++
 title = "Meghan Corry"
-weight = 20
+weight = 10
 date = "2021-09-01"
 
-position = "Vice President"
+position = "President"
 
 [asset]
-  image = "shapes-02.svg"
+  image = "shapes-01.svg"
 +++
 

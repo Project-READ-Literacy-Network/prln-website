@@ -1,11 +1,11 @@
 +++
 title = "Beatrice Henry"
-weight = 10
+weight = 20
 date = "2021-09-01"
 
-position = "President"
+position = "Vice-President"
 
 [asset]
-  image = "shapes-01.svg"
+  image = "shapes-03.svg"
 +++
 

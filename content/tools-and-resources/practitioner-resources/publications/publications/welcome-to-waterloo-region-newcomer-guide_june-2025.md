@@ -1,10 +1,10 @@
 +++
 title = "Welcome to Waterloo Region! Newcomer Guide"
-subtitle = "June 2025"
-g_drive_free_download = "1iTl16XLOKrzI_4oV89F_cCv8LnlHKk73"
+subtitle = "November 2025"
+g_drive_free_download = "1fTLw72Pm2XftJeVD61UEq8S1x6V_espt"
 
 [asset]
-  image = "/publications/welcome-to-waterloo-region-newcomer-guide_june-2025.jpg"
+  image = "/publications/welcome-to-waterloo-region-newcomer-guide.jpg"
   text = "Welcome to Waterloo Region! Newcomer Guide"
  
 

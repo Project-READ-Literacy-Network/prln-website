@@ -1,10 +1,10 @@
 +++
 title = "Welcome to Guelph & Wellington County! Newcomer Guide"
-subtitle = "June 2025"
-g_drive_free_download = "1ZuXG6VTQi84tZ5PuXsr_000CmQPpOL8k"
+subtitle = "November 2025"
+g_drive_free_download = "1BbdEW2RqqLZa6nLclTiSpkM0JMDjZvuN"
 
 [asset]
-  image = "/publications/welcome-to-guelph-and-wellington-county-newcomer-guide_june-2025.jpg"
+  image = "/publications/welcome-to-guelph-and-wellington-county-newcomer-guide.jpg"
   text = "Welcome to Guelph & Wellington County! Newcomer Guide"
  
 

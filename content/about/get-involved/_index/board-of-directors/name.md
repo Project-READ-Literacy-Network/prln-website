@@ -1,7 +1,8 @@
 +++
-title = "Trisha Einmann"
+title = "Name"
 weight = 90
 date = "2021-09-01"
+disabled = true
 
 position = "Director at Large"
 
