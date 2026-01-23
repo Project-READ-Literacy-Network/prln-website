@@ -20,7 +20,7 @@ www.acedistancedelivery.ca
 </summary>  
   
 #### What:  
-Academic upgrading (grade 12 equivalent) courses are offered online through Ontario’s public colleges.  
+Academic upgrading (grade 12 equivalent) courses are offered online through Ontario’s public colleges  
   
 ##### Courses include:  
 - Communications (English)  
@@ -49,9 +49,9 @@ Not on an International Study Visa
   
 Have reliable access to a PC or laptop (not just a Smartphone) and internet  
 #### When:  
-Free intakes are offered in January, March, April, June, September and November for those who have completed the Learn to Learn orientation and meet the entry standard required for ACE courses.  
+Free intakes are offered in January, March, April, June, September and November for those who have completed the Learn to Learn orientation and meet the entry standard required for ACE courses  
   
-Assessments and Learn to Learn are available weekly throughout most of the year.  
+Assessments and Learn to Learn are available weekly throughout most of the year  
 #### Where:  
 All courses are offered asynchronously and fully online  
 #### Ask For:  
@@ -77,7 +77,7 @@ www.goodlearninganywhere.com
 - It provides access to online learning at no charge. Content is designed for adults who strive to improve their computer, reading, writing, math, or Essential Skills to improve their quality of life at home, at work and in the community  
 - Focus on providing a culturally supportive online environment for Aboriginal individuals, communities, and groups  
 #### Who:  
-Adults (18+ years), residents of Ontario, and must have access to a computer with internet connection.  
+Adults (18+ years), residents of Ontario, and must have access to a computer with internet connection  
 #### When:  
 - Check out our course catalogue available online for course descriptions and dates  
 - LIVE online instructor-led classes are available Monday – Friday  
@@ -88,7 +88,7 @@ www.goodlearninganywhere.com
 #### Ask For:  
 Register online or contact us for more information.  
 info@siouxhudsonliteracy.com  
-1-866-550-0697, Option 1  
+1 (866) 550-0697, Option 1  
   
 </details>  
   
@@ -119,7 +119,7 @@ Anytime Learning  – 24 hours/day, 7 days/week year round
   
 Live Classes – on a scheduled basis October – May  
 #### Where:  
-Online upgrading can be accessed any time of the day with a computer and Internet access.  
+Online upgrading can be accessed any time of the day with a computer and Internet access  
   
 To register, visit www.learninghub.ca  
 #### Ask For:  

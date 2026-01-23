@@ -11,7 +11,7 @@ title_align = "left"
   text = "Download"
   icon = "far fa-file-pdf"
   color= "light"
-  g_drive_free_download = "1_NvtYyJE1i-hz4KlQ_0kBmWS93PbXHjX"
+  g_drive_free_download = "1pPKJRf3jEKtK32wpnLPWOXpIzw4czY_6"
   
 [[logos]]
   url = "http://www.2ndchance.ca/"

@@ -172,9 +172,9 @@ www.ccrw.org
 #### What:  
 CCRW is here to support you every step of the way with our comprehensive Employment Services. We believe that everyone deserves equal opportunities, and we are dedicated to helping individuals with disabilities thrive in their professional lives.  
 ##### Our Employment Services serve 3 main purposes:  
-1. To support job seekers (across Canada) with all types of disability, who wish to find meaningful employment  
-2. To support businesses who wish to hire employees who are persons with disabilities  
-3. To share our resources, experiences, and skills in order to make employment opportunities accessible for every candidate  
+1. To support job seekers (across Canada) with all types of disability who wish to find meaningful employment  
+2. To support businesses that want to hire employees who are persons with disabilities  
+3. To share our resources, experiences, and skills to make employment opportunities more accessible for every candidate  
 #### Who:
 Persons 18+ with self-disclosed disabilities who are looking for work  
 #### When:
@@ -185,6 +185,8 @@ Monday – Friday at 8:30am–4:30pm
 **Guelph** and **Cambridge**  
 Contact us for full site information  
 #### Ask For:
+kitchener@ccrw.org  
+  
 Alf Garcia  
 Employment Coach  
 (519) 342-1936  
@@ -222,21 +224,18 @@ As part of Conestoga’s Talent Hub, the Community Career Centre provides employ
 - Internationally Trained Immigrant Advisement & Credential Assessment  
 - Post-Secondary Education Program Information/Registration  
 - Trade/Apprenticeship financial incentives Information  
-- Canada Ontario Job Grant for Employers  
 #### Who:  
 Job seekers and Employers looking to hire or access the Canada Ontario Job Grant  
 #### When:  
 Monday – Friday at 8:30am–4:30pm*  
+  
+***The Community Career Centre at Conestoga College is closing permanently effective March 31, 2026***  
   
  \* Please contact us in advance to schedule an appointment.  
 #### Where:  
 **Kitchener**  
 Doon Campus Welcome Centre  
 299 Doon Valley Drive  
-  
-**Downtown Kitchener**  
-Downtown Kitchener Campus Talent Hub  
-49 Frederick Street  
   
 **Waterloo**  
 332 Marsland Drive, 2nd floor  
@@ -271,14 +270,19 @@ www.kinbridge.ca
 - Referrals to other services  
 - Referrals to employers (not guaranteed)  
 #### Who:  
-Adults 18+, eligible to work in Canada, Cambridge residents only  
+Age 15+  
+  
+Primarily residing in Cambridge, but open to participants from Kitchener-Waterloo as well.  
+  
+##### Immigration Status Requirement:  
+Permanent residents, protected persons, government-assisted refugees, refugee, claimants with approval/accepted cases and MOME2023 status holders     
 #### When:  
 Monday – Friday at 9:00am–4:00pm  
 #### Where:  
 **Cambridge**—200 Christopher Drive (and online)  
 #### Ask For:  
-Lily Magnus—Program Coordinator  
-(519) 496-5886, LilyM@kinbridge.ca  
+Abdifatah Musse—Program Manager  
+(519) 496-1423  
   
 Intake/referral form: [forms.office.com/r/fv1mzkRadF](https://forms.office.com/r/fv1mzkRadF)  
   
@@ -293,12 +297,12 @@ Intake/referral form: [forms.office.com/r/fv1mzkRadF](https://forms.office.com/r
 ## Community and Employment Supports  
 →KITCHENER  
   
-www.kwhab.ca/services/employment/  
+www.kwhab.ca/kw-career-compass  
   
 </summary>  
   
 #### What:  
-Job readiness education and training for adults who are interested in working toward competitive employment (minimum wage or better).  
+Job readiness education and training for adults who are interested in working toward competitive employment (minimum wage or better)  
 - Workplace literacy  
 - Workplace numeracy  
 - Soft skills development (social and interpersonal)  
@@ -335,28 +339,19 @@ www.kwhab.ca/kw-career-compass
 #### What:  
 We assist Job Seekers to find meaningful work by matching interests, skills, and career goals. This individual approach helps job seekers find the perfect employment fit!  
   
-**Create an Employment Plan:**  
-Individualized supports to plan for all the steps in reaching employment goals  
-  
-**Job Readiness Coaching and Courses:**  
-Career exploration, workshops, resume building, bus training and interview preparation  
-  
-**Experiential Learning Opportunities:**  
-Authentic work and community settings to help identify individual interests and skill levels  
-  
-**Job Development:**  
-Personalized plans to help match individuals with jobs that align with their skills and goals  
-  
-**Job Coaches:**  
-On the job training and ongoing job retention and maintenance supports  
+- Create an Employment Plan: Individualized supports to plan for all the steps in reaching employment goals  
+- Job Readiness Coaching and Courses: Career exploration, workshops, resume building, bus training and interview preparation  
+- Experiential Learning Opportunities: Authentic work and community settings to help identify individual interests and skill levels  
+- Job Development: Personalized plans to help match individuals with jobs that align with their skills and goals  
+- Job Coaches: On the job training and ongoing job retention and maintenance supports  
 #### Who:  
 Adults (18+ years) with barriers to employment  
 #### When:  
-Contact us for more information.  
+Contact us for more information  
 #### Where:  
 **Kitchener**—99 Ottawa Street South  
 #### Ask For:  
-Stacey Mitchel—Manager, Community and Employment Supports  
+Stacey Mitchell—Manager, Community and Employment Supports  
 (519) 744-6307 ext. 1252  
   
 </details>  
@@ -379,11 +374,11 @@ Learning, Experience, Goals!
   
 A learning and skill building program that provides small group learning and training geared towards adults seeking to enhance their skills for employment, volunteerism and independent living.  
 #### Who:  
-Adults 18+ with developmental disabilities.  
+Adults 18+ with developmental disabilities  
 #### When:  
 Sessions are offered throughout the year  
   
-Visit www.kwhab.ca/services/leg-up/ for registration information.  
+Visit www.kwhab.ca/services/leg-up/ for registration information  
 #### Where:  
 **Kitchener**—109 Ottawa Street South, Unit D  
 #### Ask For:  
@@ -407,27 +402,22 @@ www.kwhab.ca/services/youth-exploring-possibilities-yep/
 </summary>  
   
 #### What:  
-**Programs offered:**  
+##### Programs offered:  
 YEP (Youth Exploring Possibilities) is open to youth with developmental disabilities between the ages of 13 and 25. This is an opportunity for youth to stay connected with their peers – year-round!  
   
 Activities are planned with all ages in mind, and when required, smaller groups are created to consider bringing youth who are closer in age together.  
-  
-**YEP Social:**  
-focused on social activities like baking, exploring the community on the GRT, and other things based on suggestions from past participants. Offered throughout the year on evenings, weekends, PD Days and March Break.  
-  
-**YEP Skills:**  
-6-week-long courses where learning focuses on skill building in a variety of areas, based on feedback from youth. Offered throughout the year.  
-  
-**YEP Summer:**  
-for 9 weeks in July and August. Activities are held on weekdays and include community recreational activities, work readiness skills, fitness, and much more.  
+- YEP Social: focused on social activities like baking, exploring the community on the GRT, and other things based on suggestions from past participants. Offered throughout the year on evenings, weekends, PD Days and March Break.  
+- YEP Skills: 6-week-long courses where learning focuses on skill building in a variety of areas, based on feedback from youth. Offered throughout the year.  
+- YEP Summer: for 9 weeks in July and August. Activities are held on weekdays and include community recreational activities, work readiness skills, fitness, and much more.  
 #### Who:  
-YEP Skills and YEP Social are open to youth (13–25 years) with developmental disabilities.  
+YEP Skills and YEP Social are open to youth with developmental disabilities between the ages of 13 and 25  
   
-YEP Summer is open to youth (13–25 years)  with developmental disabilities.  
+YEP Summer is open to youth with developmental disabilities between the ages of 13 and 21  
 #### When:  
-Offered throughout the year on evenings, weekends, PD Days, and March Break.  
+Offered throughout the year on evenings, weekends, PD Days, and March Break  
   
-See the “what” section above for program schedules.  
+See the “what” section above for program schedules  
+
 #### Where:  
 **Kitchener**—99 Ottawa Street South  
 #### Ask For:  
@@ -469,7 +459,7 @@ Monday – Friday at 8:30am–4:30pm
   
 **Kitchener**—165 King Street East  
 #### Ask For:  
-Speak to our resource centre staff to determine the employment services program that would best meet your needs.  
+Speak to our resource centre staff to determine the employment services program that would best meet your needs  
   
 Cambridge—(519) 623-9380  
   
@@ -503,7 +493,7 @@ Monday – Friday at 8:30am–4:30pm
 #### Where:  
 **Kitchener**—165 King Street East  
 #### Ask For:  
-Speak to our resource centre staff to determine the employment services program that would best meet your needs.  
+Speak to our resource centre staff to determine the employment services program that would best meet your needs  
   
 Cambridge—(519) 623-9380  
   
@@ -561,17 +551,19 @@ www.skillingup.ca
   
 #### What:  
 - Free, self-paced digital skills training program  
-- Focus and enhance employability for people with disabilities or employment barriers  
+- Focus and enhancing digital skills and employability for people with disabilities or employment barriers  
   
 ##### Key Features:  
 - Learn digital skills  
+- Help with assistive technology and accessibility feature  
 - Earn Microsoft certifications  
 - Build confidence for tech-enabled workforce participation  
 - Offers learning pathways from beginner to advanced levels  
 - Includes job development support and virtual mentorships  
 - No diagnosis disclosure is required  
 #### Who:  
-16+ years of age  
+Open to all ages*  
+ \* depending on program offering    
 #### When:  
 Days of the week and times: Virtual program – everyday  
   
@@ -579,7 +571,7 @@ Monday – Friday at 9:00am–4:00pm
 #### Where:  
 Online  
 #### Ask For:  
-Justine Wight—Program Coordinator  
+Jennifer Zabluda—Program Coordinator  
 skillingup@marchofdimes.ca  
   
 </details>  
@@ -605,59 +597,20 @@ www.regionofwaterloo.ca
 #### Who:  
 All services are open to adults  
 #### When:  
-Employment Services:  
+Employment Services  
 Monday – Friday at 8:30am to 4:30pm  
   
-Available in person, in the community, online and by phone.  
+Available in person, in the community, online and by phone  
   
 Resources are also available on our website at www.regionofwaterloo.ca/en/living-here/employment-support.aspx
 #### Where:  
-**Cambridge** —150 Main Street  
+**Cambridge**—150 Main Street  
   
-**Kitchener** —20 Weber Street  
+**Kitchener**—20 Weber Street  
   
-**Waterloo** —99 Regina Street South  
+**Waterloo**—99 Regina Street South  
 #### Ask For:  
-Contact Person—Employment services  
+Contact Person—Robert Milmine  
 (519) 883-2101 ext. 5656  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## YMCA of Three Rivers  
-## Employment Services  
-→CAMBRIDGE, KITCHENER  
-  
-www.ymcaemploymentservices.ca  
-  
-</summary>  
-  
-#### What:  
-- Career exploration, 1 to 1 support  
-- Job search assistance, workshops  
-- Labour market information  
-- Employment supports  
-- Resource centre with computers, printers  
-- Services for employers  
-- Better Jobs Ontario  
-#### Who:  
-All are welcome  
-  
-Cambridge office provides services in French  
-#### When:  
-Monday – Friday at 8:30am–4:30pm  
-#### Where:  
-**Cambridge**—250 Hespeler Road, 2nd Floor  
-  
-**Kitchener**—800 King Street West, 3rd Floor  
-#### Ask For:  
-Cambridge—(226) 989-3381  
-  
-Kitchener—(519) 504-2723  
-  
   
 </details>  

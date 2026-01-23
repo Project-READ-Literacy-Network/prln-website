@@ -21,20 +21,21 @@ www.actionread.com
   
 #### What:  
 - Free, high quality, welcoming early literacy and numeracy skills-building program at locations throughout the city of Guelph  
-- Themed early learning games, songs, story-time, rhymes, wordplay, puzzles and crafts  
+- Themed early learning games, songs, story-time, rhymes, word play, puzzles and crafts  
 - Great place to make friends and meet neighbours  
 - Helps young children make successful transitions to school and to lifelong learning  
-- Early literacy activities, strategies, and resources to try at home  
+- Early literacy activities, strategies and resources to try at home  
 - Resources for families to borrow (e.g. ‘Rainbow Connections’ early learning kits)  
 #### Who:  
 Parents and caregivers with children, newborns to 6 years.  
 #### When:  
-Monday – Friday mornings, September 2024 – June 2025  
+Monday – Friday mornings, January – December 2026. Program closes for the summer months. Check Action Read website for dates.  
 #### Where:  
 Please visit our website for locations.  
 #### Ask For:  
-Register for program with Brenda MacDonald—Coordinator/Facilitator  
-(519) 836-2759, arearlystart@on.aibn.com  
+Register for program with  
+Brenda MacDonald—Coordinator-Facilitator  
+(519) 836-2759, brendacmacd@gmail.com  
   
 </details>  
   

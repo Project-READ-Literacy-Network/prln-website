@@ -26,28 +26,30 @@ title = "The Directory of Programs"
 ## English as a Second Language (ESL)  
 ## Language Instruction for Newcomers to Canada (LINC)  
 →KITCHENER  
-[stlouis.wcdsb.ca/programsandcourses/english-language/](https://stlouis.wcdsb.ca/programsandcourses/english-language/)  
+[stlouis.wcdsb.ca](https://stlouis.wcdsb.ca)  
   
 </summary>  
   
 #### What:  
-- Improved English to open more work and professional opportunities, broaden education choices and strengthen community connections  
+- Improve English to open more work and professional opportunities, broaden education choices and strengthen community connections  
 - FREE LINC / ESL classes for eligible students  
-- English Language Classes for Literacy and Canadian Language Benchmark (CLB) 1-7 taught by TESL certified teachers  
+- English Language Classes include Literacy and Canadian Language Benchmark (CLB) 1-8. (LINC Literacy to CLB 6 only). LINC & ESL taught by TESL certified teachers  
 - Reading, Writing, Listening & Speaking for English Language Learners at all CLB levels  
 - Portfolio-based language assessment (PBLA) where real-world task-based learning determines CLB level progress  
-- Licensed Child Care and Care for Newcomer Children available  
-- In-person classes and limited online classes are offered at the locations stated for students CLB literacy to Level 8  
+- Licensed Child Care for all eligible students and Care for Newcomer Children for LINC students only  
+- In-person classes and limited online classes are offered at the locations stated  
 #### Who:  
-Adults (18+ years) who’s English has been assessed at any Canadian Language Benchmark (CLB) level and is a Convention Refugee, Refugee Claimant or Permanent Resident, or Landed Immigrant or Canadian Citizen not born in Canada and English is not your first language.  
+Adults (18+ years) whose English has been assessed at any Canadian Language Benchmark (CLB) level and any of the following status in Canada:  
+- Convention Refugee  
+- Refugee Claimant   
+- Permanent Resident  
+- Landed Immigrant   
+- Canadian Citizen not born in Canada and English is not your first language  
 #### When:  
 ##### September – June (school year)  
 - Monday – Thursday at 8:45am–11:45am / Friday at 10:00am–11:45am (mornings)  
 - Monday – Thursday at 12:30pm–3:00pm / Friday at 12:30pm–2:00pm (afternoons)  
 - Tuesday and Wednesday at 6:30pm–8:30pm (evening)  
-  
-##### Summer school for ESL  
-- To be determined for 2025. Visit [stlouis.wcdsb.ca](https://stlouis.wcdsb.ca) in April for class schedules  
 #### Where:  
 ##### St. Louis—Kitchener Main Campus  
 - LINC – all CLB levels – day only / ESL evening  
@@ -63,16 +65,17 @@ Adults (18+ years) who’s English has been assessed at any Canadian Language Be
   
 ##### Highland Baptist Church—Kitchener  
 - LINC – literacy to CLB 4 – mornings only  
-- 135 Highland Road West (near St. Mary’s Hospital)  
+- 135 Highland Road West (near Waterloo Region Health Network @ Queen’s Blvd, formerly St. Mary’s Hospital)  
   
 **Online**—contact ESL for details  
 #### Ask For:  
-esl.stlouis@wcdsb.ca  
+esl.stlouis@wcdsb.ca or stlouis@wcdsb.ca  
 (519) 745-1201  
 ESL—ext. 229  
 LINC—ext. 400  
   
-*Funded by Immigration, Refugees and Citizenship Canada and the Province of Ontario.*  
+*LINC funded by Immigration, Refugees and Citizenship Canada   
+ESL funded by the Ontario Ministry of Labour, Immigration, Training and Skills Development*  
   
   
 </details>  
@@ -84,7 +87,7 @@ LINC—ext. 400
   
 ## Upper Grand District School Board (UGDSB)  
 ## Adult English as a Second Language  
-→GUELPH, RURAL WELLINGTON  
+→GUELPH  
 www.ugdsb.ca/o/cep/page/adult-esl-and-linc-programs  
   
 </summary>  
@@ -94,76 +97,36 @@ www.ugdsb.ca/o/cep/page/adult-esl-and-linc-programs
 - Offer Classes from Foundational (ESL) Literacy to Canadian Language Benchmark 6  
 - Classes are offered in-person and online  
 #### Who:  
-Learner must be:  
-- 18+ years or a graduate of secondary school  
-- must have a first language that is other than English  
-- must be residing in Canada as a naturalized Canadian citizen, Permanent Resident, Convention Refugee or Refugee Claimant, or have arrived through the Live-in Caregiver program or Canada-Ukraine Authorization for Emergency Travel  
-- must first have a language assessment at Immigrant Services Guelph-Wellington  
+Learner must be 18+ years or a graduate of secondary school; must have a first language that is other than English; must be residing in Canada as a naturalized Canadian citizen, Permanent Resident, Convention Refugee or Refugee Claimant, or have arrived through the Live-in Caregiver program or Canada-Ukraine Authorization for Emergency Travel. Must first have a language assessment at Immigrant Services Guelph-Wellington.   
 #### When:  
-Days of the week and times:  
-- Mondays at 12:00pm–7:00 pm  
-- Wednesdays 9:00am–3:00pm  
+##### September – June:  
+- Monday – Friday at 9:25am–11:40am  
+(in person and online)  
+- Monday – Friday at 12:30pm–2:45pm  
+(in person and online)  
+- Monday – Thursday at 4:00pm–5:45pm  
+(online only)  
+- Mondays and Wednesdays  
+at 6:45pm–9:00pm (in person and online)  
   
 Classes are offered in July and August. Please contact us for days and times.  
 #### Where:  
-**Fergus—Skyline Community Hub, Centre Wellington Big Brothers**  
-900 Tower Street South   
+**St. George’s Centre for ESL**  
+21 King Street (all times)   
+  
+**Tytler Centre**  
+131 Ontario Street (mornings)  
+  
+**Wellington Centre for Continuing Education**  
+1428 Gordon Street (mornings)     
 #### Ask For:  
-Narjis Ahmed—Program Manager  
+Sheila Nicholas, Program Administrator, ESL and LINC Programs   
+sheila.nicholas@ugdsb.on.ca  
+(519) 766-9551  
+  
+Narjis Ahmed, Assistant Program Supervisor, ESL and LINC Programs  
 narjis.ahmed@ugdsb.on.ca  
-(519) 836-7280 ext. 624  
-  
-</details>  
-  
-* * * * *  
-  
-<details>  
-<summary>  
-  
-## YMCA of Three Rivers  
-## YMCA Immigrant Services – Coordinated Language Assessment and Referral Services  
-→CAMBRIDGE, KITCHENER, STRATFORD-PERTH   
-www.ymcathreerivers.ca   
-  
-</summary>  
-  
-#### What:  
-##### Programs offered:  
-- Language Assessment and Referral Services  
-- Community and School Settlement Services  
-- Community Connections  
-- Employment Related: Mentorship and Power of Trades  
-#### Who:  
-Adult Immigrants to Canada (18+ years)  
-#### When:  
-##### Cambridge  
-- Monday – Thursday at 8:30am–4:30pm (in person and remote services)  
-- Friday at 8:30am–12:00pm (remote only)  
-  
-##### Kitchener  
-- Monday – Thursday at 8:30am–4:30pm (in person and remote services)  
-- Friday at 8:30am–12:00pm (remote only)  
-  
-##### Stratford-Perth  
-- Monday – Thursday at 8:30am–4:30pm (in person and remote services)  
-- Friday at 8:30am–12:00pm (remote only)  
-#### Where:  
-**Cambridge**—250 Hespeler Road  
-  
-**Kitchener**—800 King Street West, 3rd floor  
-  
-**Stratford-Perth**—204 Downie Street   
-#### Ask For:  
-**Cambridge** and **Stratford-Perth**  
-Marian Rozman and/or Lisset Jacinto—Immigrant Services Lead  
-(519) 621-1621  
-newcomers@ytr.ymca.ca  
-  
-**Kitchener** and **Waterloo**  
-Sunanda Sachdev—Immigrant Services Lead  
-intake@ytr.ymca.ca  
-(519) 579-9622 ext. 6125  
-  
-  
-</details>  
+(519) 823-1300  
 
+  
+</details>  

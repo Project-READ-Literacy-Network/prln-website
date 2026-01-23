@@ -15,27 +15,24 @@ title = "The Directory of Programs"
 ## Cambridge Public Library  
 ## Adult & Family Library Programs  
 →CAMBRIDGE  
-www.ideaexchange.org  
+www.cambridgepl.ca  
   
 </summary>  
   
 #### What:  
 - Free Early Literacy Programming  
-- Includes Baby, Toddler, and School Readiness programs offered online and in-person  
-- Immersive Learning Children’s Collections include, but are not limited to, the Rainbow Kits, Levelled book kits for each reading stage, and the playSmarts Toy and Game Collection, which is Built around ten activities such as counting, feeling, moving, sensing, and more, with suggested age ranges for each item  
+- Includes Baby, Toddler, and School Readiness programs offered in-person  
+- Immersive Learning Children’s Collections include but are not limited to, the Rainbow Kits, Levelled book kits for each reading stage, the PlaySmarts Toy and Game Collection, and fun and free play spaces for children and families  
 - Literacy Collection for adults learning the basics of letters and numbers  
 - Audio Kits, Books and CDs. Also available online through TumbleBooks  
 - Language Learning Resources  
-- High-interest, Low-Vocabulary Books designed for readers who prefer simpler text with engaging content  
+- High-interest, Low-Vocabulary Books designed for readers who prefer simpler text with engaging content as well as decodable books  
 - Movies and Music in Other Languages  
 - Conversation Circles  
-- Settlement Worker  
-- Available onsite at the Queen’s Square location two days per week  
-- Courses on Teaching English and ESL  
-- Access through the online platform [Lynda.com](www.lynda.com)  
 - Free Internet Access  
 - Use library computers or bring your own device or iPad Loans  
-- Book a session with staff for help using computers or other devices to guide with Digital Library  
+- Other Unusual Items to Borrow – such as garden equipment, technology devices, musical instruments and more  
+- Tech 1 to 1 sessions – Book a session with staff for help using computers or other devices  
 - Free access to equipment such as a laser cutter, sewing machines, and 3D printers  
 #### Who:  
 Everyone, all ages and skill levels  
@@ -217,10 +214,10 @@ www.wpl.ca
 - Adult literacy collections  
 - Early literacy programming and collections for children  
 - Local History resources  
-- Online resources  
-- Explore our programs and events  
-- Explore our services  
-- Cool Things to Borrow  
+- [Online resources](https://www.wpl.ca/online-resources/)  
+- [Explore our programs and events](https://www.wpl.ca/explore-programs)  
+- [Explore our services](https://www.wpl.ca/whats-happening/)  
+- [Cool Things to Borrow](https://www.wpl.ca/cool-things)  
 #### Who:  
 Open to everyone. Programs, collections and services for all ages and skill levels.  
 #### When:  
