@@ -1,13 +1,13 @@
 +++
 fragment = "item"
-disabled = true
+disabled = false
 
 weight = 114
 background = "rumble"
 align = "right"
 minHeight = "40vh"
 
-title = "Reading Rumble 2025"
+title = "Reading Rumble 2026"
 subtitle= "Online Book Trivia Fundraiser"
 
 # Subtitle pre and post item
@@ -24,7 +24,7 @@ image = "reading-rumble-logo.png"
     
 [[buttons]]
   text = "Register"
-  url = "https://bit.ly/Rumble2025"
+  url = "https://bit.ly/Rumble2026"
   color = "light"
   
 +++
