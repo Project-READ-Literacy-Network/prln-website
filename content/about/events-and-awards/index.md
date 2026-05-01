@@ -9,15 +9,15 @@ minHeight = "50vh"
 
 [header]
   image = "events-and-awards.jpg"
-
-[[buttons]]
-  text = "Project READ Events"
-  url = "about/events-and-awards/#prln-events"
-  color = "light" 
   
 [[buttons]]
   text = "Reading Rumble Events"
   url = "about/events-and-awards/#reading-rumble-events"
+  color = "light" 
+  
+[[buttons]]
+  text = "Project READ Events"
+  url = "about/events-and-awards/#prln-events"
   color = "light" 
   
 [[buttons]]
@@ -30,10 +30,10 @@ minHeight = "50vh"
   url = "about/events-and-awards/#awards"
   color = "light"
   
-[[buttons]]
-  text = "Apply for an Award"
-  url = "about/events-and-awards/#apply-for-an-award"
-  color = "light"
+#[[buttons]]
+  #text = "Apply for an Award"
+  #url = "about/events-and-awards/#apply-for-an-award"
+  #color = "light"
 +++
 
 

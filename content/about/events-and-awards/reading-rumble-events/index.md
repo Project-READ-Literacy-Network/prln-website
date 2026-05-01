@@ -4,7 +4,7 @@ weight = 110
 background = "light"
 
 title = "Reading Rumble Events"
-#subtitle = "Here are some recent events that Project READ has brought to the community"
+subtitle = "Join our Reading Rumble email list to be notified when registration opens:"
 #title_align = "left" # Default is center, can be left, right or center
 
 #height = "110px" # Default is auto
