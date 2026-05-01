@@ -5,6 +5,7 @@ title = "Yvonne Heninger Memorial Award"
 subtitle = "for Literacy Students Overcoming Challenges"
 weight = 128
 align = "right"
+disabled = true
 minHeight = "40vh"
 
 [asset]
