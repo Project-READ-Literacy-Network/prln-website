@@ -12,7 +12,7 @@ minHeight = "50vh"
 
 [[buttons]]
   text = "LSP Reports"
-  url = "tools-and-resources/newsletters-and-reports/#literacy-service-plan-reports"
+  url = "tools-and-resources/reports/#literacy-service-plan-reports"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 +++

@@ -2,6 +2,8 @@
 +++
 fragment = "download-link"
 background = "light"
+disabled = true
+
 #title = "EO Flyer"
 #subtitle = ""
 title_align = "left"

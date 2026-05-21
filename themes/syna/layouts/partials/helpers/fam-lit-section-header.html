@@ -1,0 +1,31 @@
+{{- $self := .self -}}
+{{- $bg := .bg -}}
+{{- $align := .params.title_align | default "center" -}}
+{{- with .params.title }}
+  <div class="title-container row mx-0">
+    <div class="title col px-0
+      {{- printf " text-%s" $align -}}
+      {{- partial "helpers/text-color.html" (dict "self" $self) -}}
+    " style="display: flex; align-items: center; justify-content: center">
+        
+        
+       
+ 
+      <img src="/images/gsl-logo.svg" alt="get-set-learn-logo" style="width: 10vw; margin-right: 10px; margin-top: -2vw;"><h2>
+        {{- . | markdownify -}}
+      </h2>
+    </div>
+  </div>
+{{- end -}}
+{{- with .params.subtitle -}}
+  <div class="subtitle-container row mx-0">
+    <div class="subtitle col pb-4 px-0
+      {{- printf " text-%s" $align -}}
+      {{- partial "helpers/text-color.html" (dict "self" $self) -}}
+    ">
+      <h3>
+        {{- . | markdownify -}}
+      </h3>
+    </div>
+  </div>
+{{- end }}
