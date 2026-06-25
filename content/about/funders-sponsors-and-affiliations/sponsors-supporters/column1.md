@@ -2,7 +2,7 @@
 weight = 10
 
 [asset]
-  image = "mtprinting-logo.svg"
-  url = "https://mtprint.com/"
-  name = "M&T Printing Group"
+  image = "/logos/tmmc-logo.png"
+  url = "https://tmmc.ca/en/"
+  name = "Toyota Manufacturing Canada | TMMC Inc."
 +++

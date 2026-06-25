@@ -15,7 +15,7 @@ We support employers to identify literacy needs in their workforce through organ
   
 We try to demystify literacy issues and how they affect health and safety, productivity, and employer-worker relations.  
   
-Project READ can facilitate the referral of workers to literacy programs in the community or help the employer to choose a trainer to provide a workplace literacy/education  program on-site.
+Project READ can facilitate the referral of workers to Get SET (Skills, Education and Training) programs in the community or help the employer to choose a trainer to provide a workplace literacy/education program on-site.
 
 
 

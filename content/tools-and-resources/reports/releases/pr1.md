@@ -15,7 +15,7 @@ weight = 20 #Leave weight same for all to sort by descending date
 
 16 years and over fall into the lowest level of literacy; they have serious difficulties dealing with printed materials on a daily basis.[^1]  
   
-Contact us to learn more about FREE adult upgrading programs in Waterloo Region and Wellington County.  
+Contact us to learn more about FREE adult Get SET (Skills, Education and Training) programs in Waterloo Region and Wellington County.  
 
 Phone 519-570-3054 or email info@projectread.ca
 

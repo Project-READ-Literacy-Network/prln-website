@@ -6,7 +6,7 @@ weight = 122
 background = "light"
 align = "left"
 
-title = "Adult Literacy and Skills for Success"
+title = "Adult Get SET (Skills, Education and Training) Programs"
 
 [asset]
   image = "adult-referral.png"
@@ -18,4 +18,4 @@ title = "Adult Literacy and Skills for Success"
   
 +++
 
-We provide free referrals to adult literacy and Skills for Success programs and agencies in Waterloo Region and Guelph-Wellington.  These programs are free to citizens in Ontario.
+We provide free referrals to Get SET (Skills, Education and Training) programs for adults in Waterloo Region and Guelph-Wellington. These programs are free to citizens in Ontario.
