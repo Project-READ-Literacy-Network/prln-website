@@ -382,7 +382,7 @@ Visit www.kwhab.ca/services/leg-up/ for registration information
 #### Where:  
 **Kitchener**—109 Ottawa Street South, Unit D  
 #### Ask For:  
-Annita Boer, Marc Seymour or Michelle Ennis—LEG Up! Instructors  
+LEG Up! Instructors  
 (519) 208-2225  
 legup@kwhab.ca  
   
